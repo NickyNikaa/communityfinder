@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://communityfinder.de/sitemap.xml
+Sitemap: https://findedeineleute.de/sitemap.xml

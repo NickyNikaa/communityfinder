@@ -35,7 +35,7 @@ if(cf)cf.addEventListener('submit',function(e){
   if(!MAIL.test(m)){err.textContent='Bitte gib eine gültige E-Mail-Adresse an.';$('#cMail').focus();return}
   if(msg.length<5){err.textContent='Schreib uns bitte kurz, worum es geht.';$('#cMsg').focus();return}
   err.textContent='';
-  deliver('Kontakt CommunityFinder.de: '+$('#cTopic').value,[['Name',n],['E-Mail',m],['Thema',$('#cTopic').value],['Nachricht',msg]],function(s){
+  deliver('Kontakt FindeDeineLeute.de: '+$('#cTopic').value,[['Name',n],['E-Mail',m],['Thema',$('#cTopic').value],['Nachricht',msg]],function(s){
     if(s==='error'){err.textContent='Das Senden hat nicht geklappt. Bitte versuche es erneut oder schreib uns direkt per E-Mail.';return}
     ok($('#contactBox'),'Danke, '+n.split(' ')[0]+'.',s==='sent'?'Deine Nachricht ist angekommen. Wir melden uns bei dir unter '+m+'.':'Dein Mailprogramm öffnet sich mit der vorbereiteten Nachricht. Sende sie ab, dann melden wir uns bei dir.',s==='mailto');
   });
@@ -74,7 +74,7 @@ if(bf){
     err.textContent='';
     var ty=TYPES.filter(function(t){return t.id===B.type})[0],p=B.date.split('-');
     var ds=new Date(p[0],p[1]-1,p[2]).toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-    deliver('Terminwunsch CommunityFinder.de: '+ty.n,[['Name',n],['E-Mail',m],['Anliegen',ty.n],['Wunschtermin',ds+', '+B.time+' Uhr'],['Nachricht',$('#bMsg').value.trim()]],function(s){
+    deliver('Terminwunsch FindeDeineLeute.de: '+ty.n,[['Name',n],['E-Mail',m],['Anliegen',ty.n],['Wunschtermin',ds+', '+B.time+' Uhr'],['Nachricht',$('#bMsg').value.trim()]],function(s){
       if(s==='error'){err.textContent='Das Senden hat nicht geklappt. Bitte versuche es erneut oder schreib uns direkt per E-Mail.';return}
       ok($('#bookBox'),'Dein Terminwunsch ist vorbereitet, '+n.split(' ')[0]+'.',s==='sent'?ty.n+', '+ds+' um '+B.time+' Uhr. Wir bestätigen den Termin per E-Mail an '+m+'.':'Dein Mailprogramm öffnet sich mit dem Terminwunsch ('+ty.n+', '+ds+' um '+B.time+' Uhr). Sende die Nachricht ab, dann bestätigen wir den Termin per E-Mail.',s==='mailto');
     });
