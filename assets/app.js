@@ -91,8 +91,8 @@ if($('#grid')){
   var lastFocus=null;
   var cardHtml=function(c){
     var place=c.t==='Online'?'Online':c.t+(c.a&&c.s!=='criticalmass.de'?' · '+c.a:'');
-    return '<article class="card"><div class="tile" aria-hidden="true"><em>'+(c.f==='online'?'Online':'Vor Ort')+'</em><span>'+esc(c.n.charAt(0))+'</span></div>'+
-     '<div><h3><button type="button" data-open="'+c.i+'">'+esc(c.n)+'</button></h3><div class="sub">'+esc(CAT[c.c]+' · '+place)+'</div></div>'+
+    return '<article class="card"><div class="tag"><span>'+(c.f==='online'?'Online':'Vor Ort')+'</span><span>'+esc(CAT[c.c])+'</span></div>'+
+     '<h3><button type="button" data-open="'+c.i+'">'+esc(c.n)+'</button></h3><div class="sub">'+esc(place)+'</div>'+
      '<p class="d">'+esc(c.x)+'</p><div class="note">'+esc((c.w?c.w+' · ':'')+'Quelle: '+c.s.split(',')[0])+'</div></article>';
   };
   var robin=function(list){

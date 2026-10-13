@@ -83,7 +83,6 @@ main{padding-block:0 24px}
 .stack .mini{display:flex;gap:16px;align-items:center;padding:20px 0;border-bottom:1px solid var(--line)}
 .mini b{display:block;font:500 12px/1.3 var(--f-body);letter-spacing:.14em;text-transform:uppercase}
 .mini span.s{font-size:13.5px;color:var(--muted)}
-.mono{flex:none;width:46px;height:46px;display:grid;place-items:center;font:300 22px var(--f-display);background:var(--surface-2);color:var(--ink)}
 @media (max-width:900px){.hero{grid-template-columns:1fr;gap:48px;padding-block:56px}}
 
 /* sections */
@@ -127,17 +126,15 @@ main{padding-block:0 24px}
 .result-bar b{font:500 11px/1 var(--f-body);letter-spacing:.18em;text-transform:uppercase}
 .note{font-size:12.5px;color:var(--muted)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:48px 24px}
-.card{position:relative;display:flex;flex-direction:column;gap:16px;min-width:0}
-.tile{position:relative;aspect-ratio:4/5;background:var(--surface-2);display:grid;place-items:center;transition:background .25s}
-.tile span{font:200 clamp(80px,9vw,120px)/1 var(--f-display);letter-spacing:-.02em}
-.tile em{position:absolute;left:14px;top:14px;font:500 10px/1 var(--f-body);letter-spacing:.18em;text-transform:uppercase;font-style:normal}
-.card:hover .tile{background:var(--hi)}
-.card h3{font:500 12px/1.4 var(--f-body);letter-spacing:.16em;text-transform:uppercase}
+.card{position:relative;display:flex;flex-direction:column;gap:12px;min-width:0;border-top:1px solid var(--line);padding-top:16px;transition:border-color .25s}
+.card .tag{display:flex;justify-content:space-between;gap:12px;font:500 10px/1.4 var(--f-body);letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+.card:hover{border-top-color:var(--ink)}
+.card h3{font:300 22px/1.2 var(--f-display);letter-spacing:-.005em;margin-top:10px}
 .card h3 button{all:unset;cursor:pointer}
 .card h3 button::after{content:"";position:absolute;inset:0}
 .card h3 button:focus-visible::after{outline:2px solid var(--ink);outline-offset:4px}
 .card .sub{font-size:13.5px;color:var(--muted);margin-top:4px}
-.card p.d{color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card p.d{color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .pill{display:inline-flex;align-items:center;padding:5px 9px;border:1px solid var(--line);font:500 10px/1 var(--f-body);letter-spacing:.14em;text-transform:uppercase}
 .pill.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .pill.off{background:transparent}
@@ -273,3 +270,4 @@ footer .legal{grid-column:1/-1;border-top:1px solid var(--line);padding-top:20px
 .prose-l ul{padding-left:20px}
 .prose-l a{color:var(--ink)}
 .legalwrap{padding-block:64px}
+[hidden]{display:none!important}
