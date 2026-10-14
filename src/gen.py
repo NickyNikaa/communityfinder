@@ -65,7 +65,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <header class="top"><div class="bar">
 <a class="brand" href="/" aria-label="FindeDeineLeute.de, zur Startseite">FindeDeineLeute.de</a>
 <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="mainNav">Menü</button>
-<nav class="main" id="mainNav" aria-label="Hauptnavigation">{nav}<a class="btn primary sm" href="/termin/">Termin buchen</a></nav>
+<nav class="main" id="mainNav" aria-label="Hauptnavigation">{nav}<a class="btn primary sm" href="/kontakt/">Anfrage senden</a></nav>
 </div></header>
 <main id="main">
 {body}
@@ -75,7 +75,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <div class="cols">
 <div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li></ul></div>
 <div><h4>Städte</h4><ul>{topc}</ul></div>
-<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/termin/">Termin buchen</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
+<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
 </div>
 <div class="legal">© {datetime.date.today().year} FindeDeineLeute.de. Die Einträge stammen aus öffentlich zugänglichen Verzeichnissen und verlinken auf die jeweiligen Communities.</div>
 </footer>
@@ -123,7 +123,7 @@ start=f'''<div class="hero">
 <section class="section"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">So funktioniert es</span><h2>In drei Schritten dabei</h2></div></div>
 <div class="steps"><div class="step"><h3>Suchen</h3><p>Wähle deine Stadt, ein Thema oder Online. Die Suche durchsucht Namen, Beschreibungen und Themen.</p></div><div class="step"><h3>Reinschnuppern</h3><p>Jeder Eintrag verlinkt auf die Community selbst und nennt die Quelle. Dort siehst du aktuelle Termine und kannst Kontakt aufnehmen.</p></div><div class="step"><h3>Dabeibleiben</h3><p>Gefällt es dir, wirst du Teil der Gruppe. Passt es nicht, probierst du die nächste aus.</p></div></div></section>
-<section class="section"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Wir besprechen es in einem kurzen Gespräch.</p></div><a class="btn" href="/termin/?anliegen=eintragen">Gespräch vereinbaren</a></div></section>'''
+<section class="section"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Schick uns eine kurze Anfrage, wir melden uns bei dir.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
 org={"@context":"https://schema.org","@type":"Organization","name":"FindeDeineLeute.de","url":DOMAIN+"/","logo":DOMAIN+"/assets/favicon.svg"}
 wsite={"@context":"https://schema.org","@type":"WebSite","name":"FindeDeineLeute.de","url":DOMAIN+"/","inLanguage":"de","potentialAction":{"@type":"SearchAction","target":DOMAIN+"/entdecken/?q={search_term_string}","query-input":"required name=search_term_string"}}
 w('index.html',layout('start','/','FindeDeineLeute.de | Communities in deiner Stadt und online finden',f'Finde Communities in allen {len(cities)} deutschen Großstädten und online: Run Clubs, Hackerspaces, Gartennetzwerke, Zeichengruppen und mehr.',start,jsonld=[wsite,org]))
@@ -185,7 +185,7 @@ for city,slug in cities:
     body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/staedte/">Städte</a><span>/</span><span>{E(city)}</span></nav>
 <div class="pagehead" style="padding-top:24px"><h1 class="page-title" style="margin-top:0">Communities in {E(city)}</h1><p class="lede">{E(intro[0])}</p>{('<p class="lede">%s</p>'%E(intro[1])) if intro[1] else ''}<div class="catnav" aria-label="Kategorien in {E(city)}">{nav}</div></div>
 {secs}
-<section class="section" style="border-bottom:0"><div class="band"><div><h2>Deine Community fehlt in {E(city)}?</h2><p>Trag sie ein, damit andere sie finden.</p></div><a class="btn" href="/termin/?anliegen=eintragen">Gespräch vereinbaren</a></div></section>
+<section class="section" style="border-bottom:0"><div class="band"><div><h2>Deine Community fehlt in {E(city)}?</h2><p>Trag sie ein, damit andere sie finden.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>
 <section class="section" style="border-bottom:0;padding-top:0"><div class="section-head"><div><span class="eyebrow">Weitere Städte</span></div><a class="btn ghost sm" href="/staedte/">Alle Städte</a></div><div class="citygrid">{others}</div></section>'''
     desc=f'{len(items)} Communities in {city}: {", ".join(CAT[c] for c in list(cats)[:3])} und mehr. Finde Gruppen und Gleichgesinnte in deiner Stadt.'
     ld=[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":DOMAIN+"/"},{"@type":"ListItem","position":2,"name":"Städte","item":DOMAIN+"/staedte/"},{"@type":"ListItem","position":3,"name":city,"item":f"{DOMAIN}/{slug}/"}]},
@@ -221,44 +221,33 @@ about='''<div class="split"><div class="prose"><span class="eyebrow">Über uns</
 <div class="value"><h3>Transparente Quellen</h3><p>Die Einträge stammen aus öffentlichen Verzeichnissen und den Seiten der Gruppen selbst, etwa von socialrunclubs.de, ccc.de, criticalmass.de, Meetup, Reddit oder Discord. Jeder Eintrag nennt seine Quelle.</p></div>
 <div class="value"><h3>Alle zwei Wochen geprüft</h3><p>Wir prüfen die Links regelmäßig automatisch und blenden Gruppen aus, die nicht mehr erreichbar sind. Instagram und Facebook rufen wir dabei nicht automatisiert ab.</p></div>
 <div class="value"><h3>Für alle Interessen</h3><p>Sport, Kunst, Technik, Engagement, Wellbeing: Wenn Menschen etwas verbindet, gehört es hierher.</p></div>
-<div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px"><a class="btn primary" href="/entdecken/">Communities entdecken</a><a class="btn ghost" href="/termin/?anliegen=eintragen">Community eintragen</a></div>
+<div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px"><a class="btn primary" href="/entdecken/">Communities entdecken</a><a class="btn ghost" href="/kontakt/?thema=eintragen">Community eintragen</a></div>
 </div></div>'''
 w('ueber-uns/index.html',layout('ueber-uns','/ueber-uns/','Über uns | FindeDeineLeute.de','FindeDeineLeute.de bringt Menschen mit Communities in ihrer Stadt und online zusammen.',about))
 
 # ---------- KONTAKT ----------
-kont='''<div class="contact"><div><span class="eyebrow">Kontakt</span><h1 class="page-title">Schreib uns.</h1>
-<p class="page-sub">Fragen zum Verzeichnis, Feedback oder eine Idee? Nutze das Formular. Für ein persönliches Gespräch kannst du direkt einen Termin buchen.</p>
-<a class="btn ghost" style="margin-top:20px" href="/termin/">Zur Terminbuchung</a>
+kont='''<div class="contact"><div><span class="eyebrow">Anfrage</span><h1 class="page-title">Schreib uns.</h1>
+<p class="page-sub">Fragen zum Verzeichnis, Feedback, eine Community eintragen oder eine Kooperation: Schick uns eine Anfrage. Wir antworten per E-Mail oder rufen dich zurück, ganz wie du möchtest.</p>
 <div class="faq">
 <details><summary>Ist die Nutzung kostenlos?</summary><p>Das Suchen und Finden von Communities ist für dich kostenlos. Einzelne Communities können Beiträge erheben, die du bei ihnen erfährst.</p></details>
-<details><summary>Wie trage ich meine Community ein?</summary><p>Buche ein Gespräch mit dem Anliegen "Community eintragen". Danach legen wir gemeinsam deinen Eintrag an.</p></details>
+<details><summary>Wie trage ich meine Community ein?</summary><p>Wähle im Formular das Thema "Meine Community eintragen" und beschreibe kurz deine Gruppe mit einem Link. Wir legen den Eintrag dann an und melden uns bei dir.</p></details>
 <details><summary>Welche Städte deckt FindeDeineLeute.de ab?</summary><p>Alle 79 deutschen Großstädte mit mehr als 100.000 Einwohnern. Dazu kommen Online-Communities, die allen offen stehen.</p></details>
 <details><summary>Sind die Angaben aktuell?</summary><p>Wir prüfen die Links alle zwei Wochen automatisch. Termine und Angaben können sich trotzdem ändern, bitte prüfe sie auf der verlinkten Seite der Community.</p></details>
 </div></div>
 <div class="formcard" id="contactBox"><form id="contactForm" class="stack-f" novalidate>
 <div class="two"><div class="field"><label for="cName">Name</label><input class="input" id="cName" autocomplete="name"></div><div class="field"><label for="cMail">E-Mail</label><input class="input" id="cMail" type="email" autocomplete="email"></div></div>
-<div class="field"><label for="cTopic">Worum geht es?</label><select class="select" id="cTopic"><option>Frage zum Verzeichnis</option><option>Feedback oder Idee</option><option>Meine Community eintragen</option><option>Presse und Kooperationen</option></select></div>
+<div class="field"><label for="cTopic">Worum geht es?</label><select class="select" id="cTopic"><option value="verzeichnis">Frage zum Verzeichnis</option><option value="feedback">Feedback oder Idee</option><option value="eintragen">Meine Community eintragen</option><option value="kooperation">Presse und Kooperationen</option></select></div>
+<div class="field"><label id="cWayL">Wie sollen wir antworten?</label><div class="seg" role="group" aria-labelledby="cWayL" id="cWay"><button type="button" data-v="mail" aria-pressed="true">Per E-Mail</button><button type="button" data-v="call" aria-pressed="false">Rückruf</button></div></div>
+<div id="callBox" hidden class="stack-f"><div class="two"><div class="field"><label for="cPhone">Telefonnummer</label><input class="input" id="cPhone" type="tel" autocomplete="tel" placeholder="z. B. 0151 12345678"></div><div class="field"><label for="cWhen">Wann erreichen wir dich?</label><select class="select" id="cWhen"><option>Vormittags</option><option>Mittags</option><option>Nachmittags</option><option>Abends</option><option>Egal, ich bin flexibel</option></select></div></div></div>
 <div class="field"><label for="cMsg">Nachricht</label><textarea class="textarea" id="cMsg"></textarea></div>
 <div class="err" id="cErr" role="alert"></div>
-<button class="btn primary" type="submit">Nachricht vorbereiten</button>
-<p class="note">Beim Absenden öffnet sich dein E-Mail-Programm mit der fertigen Nachricht. Mehr dazu in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p>
+<button class="btn primary" type="submit">Anfrage vorbereiten</button>
+<p class="note">Beim Absenden öffnet sich dein E-Mail-Programm mit der fertigen Anfrage. Bei einem Rückruf nutzen wir deine Telefonnummer ausschließlich dafür. Mehr dazu in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p>
 </form></div></div>'''
-w('kontakt/index.html',layout('kontakt','/kontakt/','Kontakt | FindeDeineLeute.de','Schreib uns bei Fragen, Feedback oder wenn du deine Community eintragen möchtest.',kont))
+w('kontakt/index.html',layout('kontakt','/kontakt/','Anfrage und Kontakt | FindeDeineLeute.de','Schick uns eine Anfrage per E-Mail oder Rückruf: Fragen, Feedback, Community eintragen oder Kooperation.',kont))
 
-# ---------- TERMIN ----------
-term='''<div class="pagehead"><span class="eyebrow">Terminbuchung</span><h1 class="page-title">Termin buchen</h1><p class="page-sub">Wähle dein Anliegen und einen Wunschtermin. Wir bestätigen den Termin per E-Mail. Das Gespräch findet per Video-Call statt.</p></div>
-<div class="book"><div class="formcard" id="bookBox"><form id="bookForm" novalidate>
-<div class="bk-sec"><h3>Worum geht es?</h3><div class="types" id="types"></div></div>
-<div class="bk-sec"><h3>Wann passt es dir?</h3><div class="days" id="days" role="group" aria-label="Tag wählen"></div><div class="times" id="times" role="group" aria-label="Uhrzeit wählen"></div><button type="button" class="btn ghost sm" id="moreDays" style="justify-self:start">Weitere Tage zeigen</button></div>
-<div class="bk-sec"><h3>Deine Angaben</h3>
-<div class="two"><div class="field"><label for="bName">Name</label><input class="input" id="bName" autocomplete="name"></div><div class="field"><label for="bMail">E-Mail</label><input class="input" id="bMail" type="email" autocomplete="email"></div></div>
-<div class="field"><label for="bMsg">Nachricht (optional)</label><textarea class="textarea" id="bMsg" style="min-height:90px" placeholder="Erzähl kurz, wofür du dich interessierst."></textarea></div>
-<div class="err" id="bErr" role="alert"></div>
-<button class="btn primary" type="submit" style="justify-self:start">Terminwunsch senden</button>
-<p class="note">Beim Absenden öffnet sich dein E-Mail-Programm mit dem vorbereiteten Terminwunsch. Der Termin ist erst nach unserer Bestätigung per E-Mail gebucht.</p></div>
-</form></div>
-<aside class="sum" aria-label="Deine Auswahl"><h3>Deine Auswahl</h3><dl><div><dt>Anliegen</dt><dd id="sType"></dd></div><div><dt>Datum</dt><dd id="sDate"></dd></div><div><dt>Uhrzeit</dt><dd id="sTime"></dd></div><div><dt>Ort</dt><dd>Video-Call, den Link erhältst du per E-Mail</dd></div></dl></aside></div>'''
-w('termin/index.html',layout('termin','/termin/','Termin buchen | FindeDeineLeute.de','Vereinbare ein Gespräch zu Communities in deiner Stadt oder zum Eintragen deiner eigenen Community.',term))
+# ---------- Weiterleitung alter Terminseite ----------
+w('termin/index.html','<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>Weiterleitung</title><link rel="canonical" href="'+DOMAIN+'/kontakt/"><meta http-equiv="refresh" content="0; url=/kontakt/"></head><body><p><a href="/kontakt/">Weiter zur Anfrage</a></p></body></html>')
 
 # ---------- RECHT ----------
 imp='''<div class="legalwrap prose-l"><h1 class="page-title">Impressum</h1>
@@ -288,8 +277,8 @@ ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärun
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc. (88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). Beim Aufruf der Seite verarbeitet GitHub aus technischen Gründen automatisch Zugriffsdaten, darunter deine IP-Adresse, Datum und Uhrzeit des Zugriffs sowie die angeforderte Datei. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer sicheren und funktionsfähigen Bereitstellung der Website).</p>
 <h2>4. Schriften</h2>
 <p>Die verwendete Schrift Archivo wird von diesem Server selbst ausgeliefert. Beim Aufruf der Seite wird dafür keine Verbindung zu Google oder anderen Schriftdiensten aufgebaut.</p>
-<h2>5. Kontaktaufnahme und Terminwunsch</h2>
-<p>Wenn du das Kontaktformular oder die Terminbuchung nutzt, werden deine Eingaben nicht an einen Server von FindeDeineLeute.de gesendet. Stattdessen öffnet sich dein E-Mail-Programm mit einer vorbereiteten Nachricht, die du selbst absendest. Die Nachricht und die darin enthaltenen Angaben (Name, E-Mail-Adresse, Anliegen, Wunschtermin, Nachricht) verarbeite ich ausschließlich, um deine Anfrage zu beantworten oder den Termin zu vereinbaren. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO bzw. lit. f DSGVO. Die Daten werden gelöscht, sobald die Anfrage erledigt ist und keine gesetzlichen Aufbewahrungspflichten bestehen. Für den Versand gelten die Datenschutzbestimmungen deines E-Mail-Anbieters.</p>
+<h2>5. Kontaktaufnahme und Rückrufwunsch</h2>
+<p>Wenn du das Anfrageformular nutzt, werden deine Eingaben nicht an einen Server von FindeDeineLeute.de gesendet. Stattdessen öffnet sich dein E-Mail-Programm mit einer vorbereiteten Nachricht, die du selbst absendest. Die Nachricht und die darin enthaltenen Angaben (Name, E-Mail-Adresse, Thema, Nachricht und, falls du einen Rückruf wünschst, Telefonnummer und gewünschte Erreichbarkeit) verarbeite ich ausschließlich, um deine Anfrage zu beantworten oder dich zurückzurufen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO bzw. lit. f DSGVO. Die Daten werden gelöscht, sobald die Anfrage erledigt ist und keine gesetzlichen Aufbewahrungspflichten bestehen. Für den Versand gelten die Datenschutzbestimmungen deines E-Mail-Anbieters.</p>
 <h2>6. Externe Links</h2>
 <p>FindeDeineLeute.de verlinkt auf externe Seiten der aufgeführten Communities und Quellen. Sobald du einen solchen Link anklickst, verlässt du diese Website. Für die Datenverarbeitung auf den Zielseiten gelten deren eigene Datenschutzbestimmungen.</p>
 <h2>7. Cookies, Tracking, Analyse</h2>
@@ -307,7 +296,7 @@ w('404.html',layout('','/404.html','Seite nicht gefunden | FindeDeineLeute.de','
 
 # ---------- Daten, Sitemap, robots, CNAME ----------
 w('communities.json',json.dumps({"updated":LASTRUN or TODAY,"cities":cities,"items":data},ensure_ascii=False,separators=(',',':')))
-urls=['/','/entdecken/','/staedte/','/online/']+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/','/termin/']
+urls=['/','/entdecken/','/staedte/','/online/']+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
 sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n'%(DOMAIN,u,TODAY) for u in urls)+'</urlset>\n'
 w('sitemap.xml',sm)
 w('robots.txt','User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n'%DOMAIN)

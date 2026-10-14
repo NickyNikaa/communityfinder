@@ -29,57 +29,33 @@ function ok(box,title,text,mailto){
 var MAIL=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 var cf=$('#contactForm');
-if(cf)cf.addEventListener('submit',function(e){
-  e.preventDefault();var n=$('#cName').value.trim(),m=$('#cMail').value.trim(),msg=$('#cMsg').value.trim(),err=$('#cErr');
-  if(!n){err.textContent='Bitte gib deinen Namen an.';$('#cName').focus();return}
-  if(!MAIL.test(m)){err.textContent='Bitte gib eine gültige E-Mail-Adresse an.';$('#cMail').focus();return}
-  if(msg.length<5){err.textContent='Schreib uns bitte kurz, worum es geht.';$('#cMsg').focus();return}
-  err.textContent='';
-  deliver('Kontakt FindeDeineLeute.de: '+$('#cTopic').value,[['Name',n],['E-Mail',m],['Thema',$('#cTopic').value],['Nachricht',msg]],function(s){
-    if(s==='error'){err.textContent='Das Senden hat nicht geklappt. Bitte versuche es erneut oder schreib uns direkt per E-Mail.';return}
-    ok($('#contactBox'),'Danke, '+n.split(' ')[0]+'.',s==='sent'?'Deine Nachricht ist angekommen. Wir melden uns bei dir unter '+m+'.':'Dein Mailprogramm öffnet sich mit der vorbereiteten Nachricht. Sende sie ab, dann melden wir uns bei dir.',s==='mailto');
+if(cf){
+  var way='mail';
+  try{var qt=new URLSearchParams(location.search).get('thema');if(qt&&$('#cTopic').querySelector('option[value="'+qt+'"]'))$('#cTopic').value=qt}catch(e){}
+  $('#cWay').addEventListener('click',function(e){
+    var b=e.target.closest('button');if(!b)return;way=b.getAttribute('data-v');
+    $$('#cWay button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
+    $('#callBox').hidden=way!=='call';
+    if(way==='call')$('#cPhone').focus();
   });
-});
-
-/* Terminwunsch */
-var bf=$('#bookForm');
-if(bf){
-  var TYPES=[
-   {id:'orientierung',n:'Orientierung für dich',d:'20 Min. · Wir finden gemeinsam passende Communities.'},
-   {id:'eintragen',n:'Community eintragen',d:'30 Min. · Du stellst deine Gruppe vor, wir legen den Eintrag an.'},
-   {id:'kooperation',n:'Kooperation oder Presse',d:'20 Min. · Für Partner, Vereine und Medien.'}];
-  var TIMES=['09:30','11:00','13:30','15:00','16:30','18:00'];
-  var B={type:'orientierung',date:null,time:null,days:12};
-  try{var qt=new URLSearchParams(location.search).get('anliegen');if(qt&&TYPES.some(function(t){return t.id===qt}))B.type=qt}catch(e){}
-  var dkey=function(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')};
-  var weekdays=function(n){var out=[],d=new Date();d.setHours(12,0,0,0);d.setDate(d.getDate()+1);while(out.length<n){if(d.getDay()!==0&&d.getDay()!==6)out.push(new Date(d));d.setDate(d.getDate()+1)}return out};
-  var render=function(){
-    $('#types').innerHTML=TYPES.map(function(t){return '<button type="button" class="type" data-t="'+t.id+'" aria-pressed="'+(B.type===t.id)+'"><div><b>'+t.n+'</b><span>'+t.d+'</span></div></button>'}).join('');
-    $('#days').innerHTML=weekdays(B.days).map(function(d){var k=dkey(d);return '<button type="button" class="day" data-d="'+k+'" aria-pressed="'+(B.date===k)+'"><small>'+d.toLocaleDateString('de-DE',{weekday:'short'})+'</small><strong>'+d.getDate()+'</strong><small>'+d.toLocaleDateString('de-DE',{month:'short'})+'</small></button>'}).join('');
-    $('#times').innerHTML=B.date?TIMES.map(function(t){return '<button type="button" class="time" data-tm="'+t+'" aria-pressed="'+(B.time===t)+'">'+t+' Uhr</button>'}).join(''):'<p class="note">Wähle zuerst einen Tag, dann kannst du eine Uhrzeit vorschlagen.</p>';
-    var ty=TYPES.filter(function(t){return t.id===B.type})[0];$('#sType').textContent=ty.n;
-    var dEl=$('#sDate'),tEl=$('#sTime');
-    if(B.date){var p=B.date.split('-');dEl.textContent=new Date(p[0],p[1]-1,p[2]).toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'});dEl.className=''}else{dEl.textContent='Noch nicht gewählt';dEl.className='empty-v'}
-    if(B.time){tEl.textContent=B.time+' Uhr';tEl.className=''}else{tEl.textContent='Noch nicht gewählt';tEl.className='empty-v'}
-  };
-  $('#types').addEventListener('click',function(e){var b=e.target.closest('[data-t]');if(b){B.type=b.getAttribute('data-t');render()}});
-  $('#days').addEventListener('click',function(e){var b=e.target.closest('[data-d]');if(b){B.date=b.getAttribute('data-d');render()}});
-  $('#times').addEventListener('click',function(e){var b=e.target.closest('[data-tm]');if(b){B.time=b.getAttribute('data-tm');render()}});
-  $('#moreDays').addEventListener('click',function(){B.days+=10;render()});
-  bf.addEventListener('submit',function(e){
-    e.preventDefault();var err=$('#bErr'),n=$('#bName').value.trim(),m=$('#bMail').value.trim();
-    if(!B.date||!B.time){err.textContent='Bitte wähle einen Tag und eine Uhrzeit.';return}
-    if(!n){err.textContent='Bitte gib deinen Namen an.';$('#bName').focus();return}
-    if(!MAIL.test(m)){err.textContent='Bitte gib eine gültige E-Mail-Adresse an, damit wir dir den Termin bestätigen können.';$('#bMail').focus();return}
+  var PHONE=/^[+()\d][\d\s()\/.+-]{5,}$/;
+  cf.addEventListener('submit',function(e){
+    e.preventDefault();var n=$('#cName').value.trim(),m=$('#cMail').value.trim(),msg=$('#cMsg').value.trim(),err=$('#cErr'),ph=$('#cPhone').value.trim();
+    if(!n){err.textContent='Bitte gib deinen Namen an.';$('#cName').focus();return}
+    if(!MAIL.test(m)){err.textContent='Bitte gib eine gültige E-Mail-Adresse an.';$('#cMail').focus();return}
+    if(way==='call'&&!PHONE.test(ph)){err.textContent='Für einen Rückruf brauchen wir deine Telefonnummer.';$('#cPhone').focus();return}
+    if(msg.length<5){err.textContent='Schreib uns bitte kurz, worum es geht.';$('#cMsg').focus();return}
     err.textContent='';
-    var ty=TYPES.filter(function(t){return t.id===B.type})[0],p=B.date.split('-');
-    var ds=new Date(p[0],p[1]-1,p[2]).toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-    deliver('Terminwunsch FindeDeineLeute.de: '+ty.n,[['Name',n],['E-Mail',m],['Anliegen',ty.n],['Wunschtermin',ds+', '+B.time+' Uhr'],['Nachricht',$('#bMsg').value.trim()]],function(s){
+    var topic=$('#cTopic').options[$('#cTopic').selectedIndex].text;
+    var f=[['Name',n],['E-Mail',m],['Thema',topic],['Antwort gewünscht',way==='call'?'Rückruf':'Per E-Mail']];
+    if(way==='call'){f.push(['Telefon',ph]);f.push(['Erreichbar',$('#cWhen').value])}
+    f.push(['Nachricht',msg]);
+    deliver('Anfrage FindeDeineLeute.de: '+topic,f,function(s){
       if(s==='error'){err.textContent='Das Senden hat nicht geklappt. Bitte versuche es erneut oder schreib uns direkt per E-Mail.';return}
-      ok($('#bookBox'),'Dein Terminwunsch ist vorbereitet, '+n.split(' ')[0]+'.',s==='sent'?ty.n+', '+ds+' um '+B.time+' Uhr. Wir bestätigen den Termin per E-Mail an '+m+'.':'Dein Mailprogramm öffnet sich mit dem Terminwunsch ('+ty.n+', '+ds+' um '+B.time+' Uhr). Sende die Nachricht ab, dann bestätigen wir den Termin per E-Mail.',s==='mailto');
+      var tail=way==='call'?'Wir rufen dich unter '+ph+' zurück ('+$('#cWhen').value.toLowerCase()+').':'Wir antworten dir per E-Mail an '+m+'.';
+      ok($('#contactBox'),'Danke, '+n.split(' ')[0]+'.',s==='sent'?'Deine Anfrage ist angekommen. '+tail:'Dein Mailprogramm öffnet sich mit der vorbereiteten Anfrage. Sende sie ab, dann melden wir uns bei dir. '+tail,s==='mailto');
     });
   });
-  render();
 }
 
 /* Verzeichnis: jede Änderung filtert sofort */
