@@ -183,4 +183,21 @@ if($('#grid')){
 /* Startseite: Stadtwahl sofort anwenden */
 var hs=$('.hero form.search select');
 if(hs)hs.addEventListener('change',function(){this.form.submit()});
+
+/* Lebendigkeit: Einblenden, Zähler, Karussell, Filter mobil */
+(function(){
+var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+var rv=$$('.reveal');
+if('IntersectionObserver' in window&&!reduce){
+  rv.forEach(function(e){e.classList.add('rv-on')});
+  var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{threshold:.12,rootMargin:'0px 0px -6% 0px'});
+  rv.forEach(function(e){io.observe(e)});
+}
+var cn=$('[data-count]');
+if(cn&&!reduce){var T=+cn.getAttribute('data-count'),t0=null;function st(t){if(!t0)t0=t;var p=Math.min((t-t0)/1100,1),v=Math.round(T*(1-Math.pow(1-p,3)));cn.textContent=nf(v);if(p<1)requestAnimationFrame(st)}requestAnimationFrame(st)}
+var rail=$('#rail');
+if(rail){$$('.rail-btn').forEach(function(b){b.addEventListener('click',function(){rail.scrollBy({left:(+b.getAttribute('data-dir'))*Math.max(rail.clientWidth*.8,280),behavior:reduce?'auto':'smooth'})})})}
+var ft=$('#fToggle'),fl=$('#filters');
+if(ft&&fl){ft.addEventListener('click',function(){var o=fl.classList.toggle('open');ft.setAttribute('aria-expanded',o);ft.textContent=o?'Filter ausblenden':'Filter anzeigen'})}
+})();
 })();

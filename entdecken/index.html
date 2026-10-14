@@ -21,7 +21,7 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <link rel="alternate" type="application/rss+xml" title="Aktuelles von FindeDeineLeute.de" href="/aktuell/feed.xml">
-<link rel="preload" href="/assets/fonts/archivo-latin-300-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/styles.css">
 
 </head>
@@ -35,7 +35,7 @@
 </div></header>
 <main id="main">
 <div class="pagehead"><span class="eyebrow">Verzeichnis</span><h1 class="page-title">Communities entdecken</h1><p class="page-sub">Suche nach Themen oder wähle deine Stadt. Alle Filter wirken sofort, du musst nichts bestätigen. Kategorien kannst du kombinieren.</p></div>
-<div class="filters"><div class="frow">
+<div class="filters" id="filters"><button type="button" class="ftoggle" id="fToggle" aria-expanded="false">Filter anzeigen</button><div class="frow">
 <div class="field"><label for="q">Suche</label><input class="input" id="q" type="search" placeholder="Name, Thema oder Ort"></div>
 <div class="field"><label for="city">Stadt</label><select class="select" id="city"><option value="">Alle Städte</option></select></div>
 <div class="field"><label for="sort">Sortierung</label><select class="select" id="sort"><option value="rec">Empfohlen</option><option value="az">Name A bis Z</option></select></div>

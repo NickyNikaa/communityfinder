@@ -57,7 +57,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <link rel="alternate" type="application/rss+xml" title="Aktuelles von FindeDeineLeute.de" href="/aktuell/feed.xml">
-<link rel="preload" href="/assets/fonts/archivo-latin-300-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/styles.css">
 {extra_head}{ld}
 </head>
@@ -101,13 +101,21 @@ def pick(names): return [byname[n] for n in names if n in byname]
 onl_all=[e for e in data if e['f']=='online']
 opts=''.join('<option value="%s">%s</option>'%(E(n),E(n)) for n,_ in cities)
 stack=''.join('<div class="mini"><div><b>%s</b><span class="s">%s · %s</span></div></div>'%(E(c['n']),E(c['t']),E(CAT[c['c']])) for c in pick(['Hasenheide parkrun','Chaosdorf Düsseldorf','Urban Sketchers Hamburg']))
-feat=''.join(card(c) for c in pick(['Critical Mass Hamburg','Urban Sketchers Köln','Entropia Karlsruhe','Netzwerk Leipziger Gemeinschaftsgärten']))
+_f=pick(['Critical Mass Hamburg','Urban Sketchers Köln','Entropia Karlsruhe','Netzwerk Leipziger Gemeinschaftsgärten'])
+_seen={c['c'] for c in _f}
+for _cat in ['musik','tanz','spiele','wellbeing','lernen','foto','essen','leute','queer','outdoor']:
+    if len(_f)>=9: break
+    if _cat in _seen: continue
+    _c=[e for e in data if e['c']==_cat and e['f']!='online' and len(e.get('x',''))>70 and e['t'] in SLUG]
+    if _c: _f.append(_c[0]); _seen.add(_cat)
+feat=''.join(card(c).replace('<article class="card"','<article class="card c%d"'%(i%4),1) for i,c in enumerate(_f))
+mq=''.join('<a href="/%s/"><b>%s</b><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:24])
 cg=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:16])
 chips=''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[i])) for i in ['sport','outdoor','wellbeing','tanz','musik','kunst','foto','spiele','gaming','lernen','sprachen','essen','business','tech','leute','queer','frauen','familie','tiere','mobil','reisen','engagement','studium'] if i in CAT)
 rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
-start=f'''<div class="hero">
-<a class="badge" href="/entdecken/"><b>{format(N,',').replace(',','.')}</b> Communities in {len(cities)} Städten und online</a>
+start=f'''<div class="hero"><div class="blobs" aria-hidden="true"><i></i><i></i><i></i></div>
+<a class="badge" href="/entdecken/"><span class="live" aria-hidden="true"></span><b data-count="{N}">{format(N,',').replace(',','.')}</b> Communities in {len(cities)} Städten<span class="hm"> und online</span></a>
 <h1>Finde Menschen, die deine <em>Leidenschaft</em> teilen.</h1>
 <p class="lead">Das Verzeichnis für Communities in allen deutschen Großstädten und online. Ob Run Club, Hackerspace oder Gartennetzwerk: Such dir aus, wo du dazugehören willst.</p>
 <form class="search" action="/entdecken/" method="get" role="search">
@@ -118,20 +126,21 @@ start=f'''<div class="hero">
 <div class="chips">{chips}</div>
 <div class="stack" aria-label="Beispiele aus dem Verzeichnis">{stack}</div>
 </div>
-<section class="section"><div class="section-head"><div><span class="eyebrow">Gerade beliebt</span><h2>Communities zum Reinschnuppern</h2></div><a class="btn ghost" href="/entdecken/">Alle ansehen</a></div><div class="grid">{feat}</div></section>
-<section class="section"><div class="section-head"><div><span class="eyebrow">Online</span><h2>Communities ohne Ortsgrenze</h2></div><a class="btn ghost" href="/online/">Alle Online-Communities</a></div><div class="chips">{onchips}</div></section>
-<section class="section"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>
-<section class="section"><div class="section-head"><div><span class="eyebrow">So funktioniert es</span><h2>In drei Schritten dabei</h2></div></div>
+<div class="marquee" aria-label="Städte im Verzeichnis"><div class="mq-track">{mq}{mq}</div></div>
+<section class="section reveal"><div class="section-head"><div><span class="eyebrow live-eyebrow"><span class="live" aria-hidden="true"></span>Gerade beliebt</span><h2>Communities zum Reinschnuppern</h2></div><div class="rail-nav"><button type="button" class="rail-btn" data-dir="-1" aria-label="Zurück">&#8592;</button><button type="button" class="rail-btn" data-dir="1" aria-label="Weiter">&#8594;</button><a class="btn ghost" href="/entdecken/">Alle ansehen</a></div></div><div class="rail" id="rail">{feat}</div></section>
+<section class="section reveal"><div class="section-head"><div><span class="eyebrow">Online</span><h2>Communities ohne Ortsgrenze</h2></div><a class="btn ghost" href="/online/">Alle Online-Communities</a></div><div class="chips">{onchips}</div></section>
+<section class="section reveal"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>
+<section class="section reveal"><div class="section-head"><div><span class="eyebrow">So funktioniert es</span><h2>In drei Schritten dabei</h2></div></div>
 <div class="steps"><div class="step"><h3>Suchen</h3><p>Wähle deine Stadt, ein Thema oder Online. Die Suche durchsucht Namen, Beschreibungen und Themen.</p></div><div class="step"><h3>Reinschnuppern</h3><p>Jeder Eintrag verlinkt auf die Community selbst. Dort siehst du aktuelle Termine und kannst Kontakt aufnehmen.</p></div><div class="step"><h3>Dabeibleiben</h3><p>Gefällt es dir, wirst du Teil der Gruppe. Passt es nicht, probierst du die nächste aus.</p></div></div></section>
-<section class="section"><div class="section-head"><div><span class="eyebrow">Ratgeber</span><h2>Tipps für den Einstieg</h2></div><a class="btn ghost" href="/ratgeber/">Alle Beiträge</a></div><div class="grid">{rg}</div></section>
-<section class="section"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Schick uns eine kurze Anfrage, wir melden uns bei dir.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
+<section class="section reveal"><div class="section-head"><div><span class="eyebrow">Ratgeber</span><h2>Tipps für den Einstieg</h2></div><a class="btn ghost" href="/ratgeber/">Alle Beiträge</a></div><div class="grid">{rg}</div></section>
+<section class="section reveal"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Schick uns eine kurze Anfrage, wir melden uns bei dir.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
 org={"@context":"https://schema.org","@type":"Organization","name":"FindeDeineLeute.de","url":DOMAIN+"/","logo":DOMAIN+"/assets/favicon.svg"}
 wsite={"@context":"https://schema.org","@type":"WebSite","name":"FindeDeineLeute.de","url":DOMAIN+"/","inLanguage":"de","potentialAction":{"@type":"SearchAction","target":DOMAIN+"/entdecken/?q={search_term_string}","query-input":"required name=search_term_string"}}
 w('index.html',layout('start','/','FindeDeineLeute.de | Communities in deiner Stadt und online finden',f'Finde Communities in allen {len(cities)} deutschen Großstädten und online: Run Clubs, Hackerspaces, Gartennetzwerke, Zeichengruppen und mehr.',start,jsonld=[wsite,org]))
 
 # ---------- ENTDECKEN ----------
 entd='''<div class="pagehead"><span class="eyebrow">Verzeichnis</span><h1 class="page-title">Communities entdecken</h1><p class="page-sub">Suche nach Themen oder wähle deine Stadt. Alle Filter wirken sofort, du musst nichts bestätigen. Kategorien kannst du kombinieren.</p></div>
-<div class="filters"><div class="frow">
+<div class="filters" id="filters"><button type="button" class="ftoggle" id="fToggle" aria-expanded="false">Filter anzeigen</button><div class="frow">
 <div class="field"><label for="q">Suche</label><input class="input" id="q" type="search" placeholder="Name, Thema oder Ort"></div>
 <div class="field"><label for="city">Stadt</label><select class="select" id="city"><option value="">Alle Städte</option></select></div>
 <div class="field"><label for="sort">Sortierung</label><select class="select" id="sort"><option value="rec">Empfohlen</option><option value="az">Name A bis Z</option></select></div>
@@ -382,7 +391,7 @@ on=sorted([e for e in data if e['f']=='online'],key=lambda e:(-e['q'],e['n'].low
 pc=collections.Counter(e.get('p') for e in on)
 static=''.join('<li class="row"><div class="rb"><h3>%s</h3><p class="d">%s</p><p class="note">%s</p></div><div class="ra">%s</div></li>'%(E(e['n']),E(e['x']),E(PLAT.get(e.get('p'),'')),('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer">Zur Community</a>'%E(e['l'])) if e['l'] else '') for e in on[:200])
 onbody=f'''<div class="pagehead"><span class="eyebrow">Online</span><h1 class="page-title">Online-Communities</h1><p class="page-sub">{len(on)} Gruppen, Server und Foren, an denen du von überall teilnehmen kannst: Discord, Reddit, Telegram, Foren und mehr. Alle Filter wirken sofort.</p></div>
-<div class="filters"><div class="frow online">
+<div class="filters" id="filters"><button type="button" class="ftoggle" id="fToggle" aria-expanded="false">Filter anzeigen</button><div class="frow online">
 <div class="field"><label for="q">Suche</label><input class="input" id="q" type="search" placeholder="Name oder Thema"></div>
 <div class="field"><label for="sort">Sortierung</label><select class="select" id="sort"><option value="rec">Empfohlen</option><option value="az">Name A bis Z</option></select></div>
 </div>
@@ -413,6 +422,7 @@ w('ueber-uns/index.html',layout('ueber-uns','/ueber-uns/','Über uns | FindeDein
 # ---------- KONTAKT ----------
 kont='''<div class="contact"><div><span class="eyebrow">Anfrage</span><h1 class="page-title">Schreib uns.</h1>
 <p class="page-sub">Fragen zum Verzeichnis, Feedback, eine Community eintragen oder eine Kooperation: Schick uns eine Anfrage. Wir antworten per E-Mail oder rufen dich zurück, ganz wie du möchtest.</p>
+<a class="btn primary sm jump" href="#contactBox">Direkt zum Formular</a>
 <div class="faq">
 <details><summary>Ist die Nutzung kostenlos?</summary><p>Das Suchen und Finden von Communities ist für dich kostenlos. Einzelne Communities können Beiträge erheben, die du bei ihnen erfährst.</p></details>
 <details><summary>Wie trage ich meine Community ein?</summary><p>Wähle im Formular das Thema "Meine Community eintragen" und beschreibe kurz deine Gruppe mit einem Link. Wir legen den Eintrag dann an und melden uns bei dir.</p></details>
