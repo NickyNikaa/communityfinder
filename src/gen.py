@@ -65,7 +65,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <a class="skip" href="#main">Zum Inhalt springen</a>
 <div class="wrap">
 <header class="top"><div class="bar">
-<a class="brand" href="/" aria-label="FindeDeineLeute.de, zur Startseite">FindeDeineLeute.de</a>
+<a class="brand" href="/" aria-label="FindeDeineLeute.de, zur Startseite"><svg class="logo-mark" aria-hidden="true" focusable="false" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="lm"><circle cx="36" cy="48" r="26"/></clipPath></defs><circle cx="36" cy="48" r="26" fill="#d6336c"/><circle cx="60" cy="48" r="26" fill="#8fd3f4"/><circle cx="60" cy="48" r="26" fill="#a77cf0" clip-path="url(#lm)"/></svg><span>FindeDeineLeute<i>.de</i></span></a>
 <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="mainNav">Menü</button>
 <nav class="main" id="mainNav" aria-label="Hauptnavigation">{nav}<a class="btn primary sm" href="/kontakt/">Anfrage senden</a></nav>
 </div></header>
