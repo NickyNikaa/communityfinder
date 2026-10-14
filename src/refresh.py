@@ -27,7 +27,7 @@ from concurrent.futures import ThreadPoolExecutor
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = ROOT + '/data/state.json'
 DATA = ROOT + '/data/data.json'
-UA = 'FindeDeineLeuteBot/1.0 (+https://findedeineleute.de/ueber-uns/; nicoleemrich@outlook.com)'
+UA = 'FindeDeineLeuteBot/1.0 (+https://findedeineleute.de/ueber-uns/; nicky.nikaaa@gmail.com)'
 TODAY = datetime.date.today().isoformat()
 TIMEOUT = 15
 SKIP_HOSTS = ('instagram.com', 'facebook.com', 'fb.com', 'chat.whatsapp.com', 'whatsapp.com', 'signal.group', 'signal.me')

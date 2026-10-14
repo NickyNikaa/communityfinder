@@ -255,7 +255,7 @@ imp='''<div class="legalwrap prose-l"><h1 class="page-title">Impressum</h1>
 <h2>Diensteanbieterin</h2>
 <p>Nicole Emrich<br>Ammerndorfer Straße 22<br>90513 Zirndorf<br>Deutschland</p>
 <h2>Kontakt</h2>
-<p>E-Mail: <a href="mailto:nicoleemrich@outlook.com">nicoleemrich@outlook.com</a></p>
+<p>E-Mail: <a href="mailto:nicky.nikaaa@gmail.com">nicky.nikaaa@gmail.com</a></p>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
 <p>Nicole Emrich, Anschrift wie oben.</p>
 <h2>Hinweis zum Angebot</h2>
@@ -270,7 +270,7 @@ w('impressum/index.html',layout('','/impressum/','Impressum | FindeDeineLeute.de
 ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärung</h1>
 <p>Stand: Oktober 2026</p>
 <h2>1. Verantwortliche Stelle</h2>
-<p>Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br>Nicole Emrich, Ammerndorfer Straße 22, 90513 Zirndorf<br>E-Mail: <a href="mailto:nicoleemrich@outlook.com">nicoleemrich@outlook.com</a></p>
+<p>Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br>Nicole Emrich, Ammerndorfer Straße 22, 90513 Zirndorf<br>E-Mail: <a href="mailto:nicky.nikaaa@gmail.com">nicky.nikaaa@gmail.com</a></p>
 <h2>2. Grundsätzliches</h2>
 <p>Der Schutz deiner personenbezogenen Daten ist mir wichtig. FindeDeineLeute.de kommt ohne Nutzerkonten, ohne Cookies und ohne Tracking- oder Analyse-Tools aus. Es werden nur die Daten verarbeitet, die technisch zum Ausliefern und Anzeigen der Seite nötig sind.</p>
 <h2>3. Hosting und Server-Logfiles</h2>
