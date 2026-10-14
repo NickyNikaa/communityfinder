@@ -72,7 +72,7 @@ if($('#grid')){
     var pl=(c.f==='online'||c.p==='meetup'||c.p==='discord'||c.p==='telegram'||c.p==='whatsapp'||c.p==='instagram'||c.p==='facebook')&&c.p&&c.p!=='website'?'<span>'+esc(PLAT[c.p]||c.p)+'</span>':'';
     return '<article class="card"><div class="tag"><span>'+(c.f==='online'?'Online':'Vor Ort')+'</span><span>'+esc(CAT[c.c]||c.c)+'</span>'+pl+'</div>'+
      '<h3><button type="button" data-open="'+c.i+'">'+esc(c.n)+'</button></h3><div class="sub">'+esc(place)+'</div>'+
-     '<p class="d">'+esc(c.x)+'</p><div class="note">'+esc((c.w?c.w+' · ':'')+'Quelle: '+c.s.split(',')[0])+'</div></article>';
+     '<p class="d">'+esc(c.x)+'</p><div class="note">'+esc([c.w,c.s?'Quelle: '+c.s.split(',')[0]:''].filter(Boolean).join(' · '))+'</div></article>';
   };
   var robin=function(list){
     var by={},order=[],out=[],i=0,more=true;
@@ -138,7 +138,7 @@ if($('#grid')){
     var facts=[['Stadt',c.t==='Online'?'Online':c.t+(c.a?', '+c.a:'')],['Format',c.f==='online'?'Online':'Vor Ort']];
     if(c.p)facts.push(['Plattform',PLAT[c.p]||c.p]);
     facts.push(['Wann',c.w||'Siehe Seite der Community']);
-    if(c.m)facts.push(['Größe',c.m]);facts.push(['Quelle',c.s]);if(c.v)facts.push(['Zuletzt geprüft',new Date(c.v).toLocaleDateString('de-DE')]);
+    if(c.m)facts.push(['Größe',c.m]);if(c.s)facts.push(['Quelle',c.s]);if(c.v)facts.push(['Zuletzt geprüft',new Date(c.v).toLocaleDateString('de-DE')]);
     var host='';try{host=c.l?new URL(c.l).hostname.replace(/^www\./,''):''}catch(e){}
     $('#modal').innerHTML='<button class="x" type="button" id="mClose" aria-label="Schließen">✕</button>'+
      '<div class="chips"><span class="pill">'+esc(CAT[c.c]||c.c)+'</span><span class="pill '+(c.f==='online'?'on':'off')+'">'+(c.f==='online'?'Online':'Vor Ort')+'</span></div>'+

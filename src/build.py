@@ -8,8 +8,8 @@ out=[]
 def add(n,c,t,f='ort',w='',x='',l='',s='',a='',q=1,tags=''):
     out.append(dict(n=n,c=c,t=t,a=a,f=f,w=w,x=x,l=l,s=s,q=q,g=tags))
 
-# ---- Munich (MUCmeet) ----
-d=json.load(open(ROOT+'/data/mucmeet.json'))
+# ---- München (Basisdatensatz) ----
+d=json.load(open(ROOT+'/data/munich_base.json'))
 CAT_BY_INT={}
 for k in 'running fitness padel golf sport crossfit cycling basketball tennis martial-arts'.split(): CAT_BY_INT[k]='sport'
 for k in 'yoga pilates wellness'.split(): CAT_BY_INT[k]='wellbeing'
@@ -48,7 +48,7 @@ for x in d:
     f='online' if 'Online' in nb else 'ort'
     if not link and not x.get('email') and not x.get('phone') and rich==0: dropped+=1; continue
     q=1+rich+(1 if when else 0)+(1 if link else 0)+(1 if x.get('size','—') not in ('—','') else 0)
-    e=dict(n=name,c=cat,t='München',a=area,f=f,w=when,x=desc,l=link,s='MUCmeet',q=q,g=' '.join(x.get('tags',[])))
+    e=dict(n=name,c=cat,t='München',a=area,f=f,w=when,x=desc,l=link,s='',q=q,g=' '.join(x.get('tags',[])))
     if x.get('size') and x['size']!='—': e['m']=x['size']
     out.append(e)
 mun=len(out)

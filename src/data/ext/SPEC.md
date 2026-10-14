@@ -13,7 +13,7 @@ Stadt|Name|Kategorie|URL|Beschreibung|Wann|Plattform
 
 Regeln:
 - Nur real existierende, aktuell aktive Gruppen. Keine Firmen/Studios/Shops, keine Parteien, keine Anbieter kommerzieller Kurse. Vereine, Stammtische, Initiativen, Netzwerke, Clubs, Subreddits, Server, Kanaele sind richtig.
-- Bereits vorhanden (nicht nochmals liefern): Run Clubs/parkrun, CCC-Erfa/Hackerspaces, Critical Mass, Urban Sketchers, Gemeinschaftsgaerten, DAV-Sektionen, Repair Cafes, Nerd Nite sowie die MUCmeet-Eintraege fuer Muenchen.
+- Bereits vorhanden (nicht nochmals liefern): Run Clubs/parkrun, CCC-Erfa/Hackerspaces, Critical Mass, Urban Sketchers, Gemeinschaftsgaerten, DAV-Sektionen, Repair Cafes, Nerd Nite sowie der Basisdatensatz fuer Muenchen.
 - WebFetch/WebSearch verwenden. Wenn eine Domain blockiert ist, NICHT per curl/Python umgehen, Eintrag dann nur aus Suchergebnissen belegen oder weglassen.
 - Breite vor Tiefe: moeglichst viele der 79 Staedte abdecken, jede Stadt mit mehreren Eintraegen, plus Online.
 - Datei fortlaufend schreiben (mehrfach an die Datei anhaengen), damit nichts verloren geht. Am Ende nur kurz melden: Dateipfad, Zeilenzahl, abgedeckte Staedte.

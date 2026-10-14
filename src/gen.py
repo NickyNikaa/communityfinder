@@ -90,7 +90,7 @@ def card(c):
     href='/%s/#c%d'%(SLUG.get(c['t'],''),c['i']) if c['t'] in SLUG else (c['l'] or '#')
     place='Online' if c['t']=='Online' else c['t']+(' · '+c['a'] if c['a'] and c['s']!='criticalmass.de' else '')
     pl='<span>%s</span>'%E(PLAT.get(c.get('p'),'')) if c.get('p') and c['p']!='website' else ''
-    note=E((c['w']+' · ' if c['w'] else '')+'Quelle: '+c['s'].split(',')[0])
+    note=E(' · '.join(x for x in [c['w'],('Quelle: '+c['s'].split(',')[0]) if c['s'] else ''] if x))
     return ('<article class="card"><div class="tag"><span>'+('Online' if c['f']=='online' else 'Vor Ort')+'</span><span>'+E(CAT[c['c']])+'</span>'+pl+'</div><h3><a href="'+href+'">'+E(c['n'])+'</a></h3><div class="sub">'+E(place)+'</div><p class="d">'+E(c['x'])+'</p><div class="note">'+note+'</div></article>')
 byname={e['n']:e for e in data}
 def pick(names): return [byname[n] for n in names if n in byname]
@@ -141,7 +141,7 @@ entd='''<div class="pagehead"><span class="eyebrow">Verzeichnis</span><h1 class=
 <div class="grid" id="grid" data-mode="all"></div>
 <noscript><p class="lede">Für die Suche brauchst du JavaScript. Ohne JavaScript findest du alle Communities auf den <a href="/staedte/">Seiten der Städte</a>.</p></noscript>
 <div style="display:flex;justify-content:center;margin-top:44px"><button class="btn ghost" type="button" id="more" hidden>Mehr anzeigen</button></div>
-<p class="note" style="margin-top:28px">Die Einträge stammen aus öffentlich zugänglichen Quellen, die Quelle steht bei jedem Eintrag. Alle zwei Wochen prüfen wir die Links automatisch und blenden Einträge aus, die nicht mehr erreichbar sind. Termine und Angaben können sich ändern, bitte prüfe sie vor dem Besuch bei der Community.</p>
+<p class="note" style="margin-top:28px">Die Einträge stammen aus öffentlich zugänglichen Quellen, wo möglich nennen wir die Quelle beim Eintrag. Alle zwei Wochen prüfen wir die Links automatisch und blenden Einträge aus, die nicht mehr erreichbar sind. Termine und Angaben können sich ändern, bitte prüfe sie vor dem Besuch bei der Community.</p>
 <div class="overlay" id="overlay" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle" id="modal"></div></div>'''
 w('entdecken/index.html',layout('entdecken','/entdecken/','Communities entdecken | FindeDeineLeute.de','Durchsuche Communities in allen deutschen Großstädten und online nach Thema, Stadt und Kategorie.',entd))
 
@@ -174,8 +174,8 @@ for city,slug in cities:
         rows=''
         for e in l:
             sub=' · '.join(x for x in [e['a'] if e['a'] and e['s']!='criticalmass.de' else '',e['w']] if x)
-            rows+='<li class="row" id="c%d"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p><p class="note">Quelle: %s</p></div><div class="ra">%s</div></li>'%(
-                e['i'],E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),E(e['s']),
+            rows+='<li class="row" id="c%d"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p>%s</div><div class="ra">%s</div></li>'%(
+                e['i'],E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),('<p class="note">Quelle: %s</p>'%E(e['s'])) if e['s'] else '',
                 ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '')
         secs+='<section class="csec" id="k-%s"><h2>%s</h2><ul class="rows">%s</ul></section>'%(cid,E(CAT[cid]),rows)
     intro=city_intro(city,items)
@@ -195,7 +195,7 @@ for city,slug in cities:
 # ---------- ONLINE ----------
 on=sorted([e for e in data if e['f']=='online'],key=lambda e:(-e['q'],e['n'].lower()))
 pc=collections.Counter(e.get('p') for e in on)
-static=''.join('<li class="row"><div class="rb"><h3>%s</h3><p class="d">%s</p><p class="note">%s · Quelle: %s</p></div><div class="ra">%s</div></li>'%(E(e['n']),E(e['x']),E(PLAT.get(e.get('p'),'')),E(e['s']),('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer">Zur Community</a>'%E(e['l'])) if e['l'] else '') for e in on[:200])
+static=''.join('<li class="row"><div class="rb"><h3>%s</h3><p class="d">%s</p><p class="note">%s%s</p></div><div class="ra">%s</div></li>'%(E(e['n']),E(e['x']),E(PLAT.get(e.get('p'),'')),(' · Quelle: '+E(e['s'])) if e['s'] else '',('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer">Zur Community</a>'%E(e['l'])) if e['l'] else '') for e in on[:200])
 onbody=f'''<div class="pagehead"><span class="eyebrow">Online</span><h1 class="page-title">Online-Communities</h1><p class="page-sub">{len(on)} Gruppen, Server und Foren, an denen du von überall teilnehmen kannst: Discord, Reddit, Telegram, Foren und mehr. Alle Filter wirken sofort.</p></div>
 <div class="filters"><div class="frow online">
 <div class="field"><label for="q">Suche</label><input class="input" id="q" type="search" placeholder="Name oder Thema"></div>
@@ -218,7 +218,7 @@ about='''<div class="split"><div class="prose"><span class="eyebrow">Über uns</
 <div class="values">
 <div class="value"><h3>Bestehende Gruppen</h3><p>Wir listen Communities, die es schon gibt: Run Clubs, Hackerspaces, Gartennetzwerke, Zeichengruppen, Radtouren und mehr.</p></div>
 <div class="value"><h3>Alle Großstädte</h3><p>Von Berlin bis Kaiserslautern: Jede deutsche Stadt über 100.000 Einwohner hat ihre eigene Seite im Verzeichnis.</p></div>
-<div class="value"><h3>Transparente Quellen</h3><p>Die Einträge stammen aus öffentlichen Verzeichnissen und den Seiten der Gruppen selbst, etwa von socialrunclubs.de, ccc.de, criticalmass.de, Meetup, Reddit oder Discord. Jeder Eintrag nennt seine Quelle.</p></div>
+<div class="value"><h3>Transparente Quellen</h3><p>Die Einträge stammen aus öffentlichen Verzeichnissen und den Seiten der Gruppen selbst, etwa von socialrunclubs.de, ccc.de, criticalmass.de, Meetup, Reddit oder Discord.</p></div>
 <div class="value"><h3>Alle zwei Wochen geprüft</h3><p>Wir prüfen die Links regelmäßig automatisch und blenden Gruppen aus, die nicht mehr erreichbar sind. Instagram und Facebook rufen wir dabei nicht automatisiert ab.</p></div>
 <div class="value"><h3>Für alle Interessen</h3><p>Sport, Kunst, Technik, Engagement, Wellbeing: Wenn Menschen etwas verbindet, gehört es hierher.</p></div>
 <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px"><a class="btn primary" href="/entdecken/">Communities entdecken</a><a class="btn ghost" href="/kontakt/?thema=eintragen">Community eintragen</a></div>
@@ -259,7 +259,7 @@ imp='''<div class="legalwrap prose-l"><h1 class="page-title">Impressum</h1>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
 <p>Nicole Emrich, Anschrift wie oben.</p>
 <h2>Hinweis zum Angebot</h2>
-<p>FindeDeineLeute.de ist ein Verzeichnis, das öffentlich verfügbare Informationen zu Communities in deutschen Städten und online zusammenstellt und auf die jeweiligen Angebote verlinkt. Die Einträge stammen aus verschiedenen Quellen, die bei jedem Eintrag genannt sind. Für die Inhalte verlinkter externer Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
+<p>FindeDeineLeute.de ist ein Verzeichnis, das öffentlich verfügbare Informationen zu Communities in deutschen Städten und online zusammenstellt und auf die jeweiligen Angebote verlinkt. Die Einträge stammen aus verschiedenen öffentlichen Quellen. Für die Inhalte verlinkter externer Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
 <h2>Haftung für Inhalte</h2>
 <p>Die Inhalte dieser Seiten wurden mit Sorgfalt zusammengestellt. Für Richtigkeit, Vollständigkeit und Aktualität der Angaben zu Terminen, Orten und Gruppen kann jedoch keine Gewähr übernommen werden. Als Diensteanbieterin bin ich gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen.</p>
 <h2>Haftung für Links</h2>
