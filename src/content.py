@@ -460,4 +460,71 @@ Eine kleine Seite oder eine Instagram-Gruppe, ein Chat und Aushänge im Viertel 
 Trag deine Gruppe bei uns ein, damit Menschen, die danach suchen, sie finden. Wähle auf der [Anfrageseite](/kontakt/?thema=eintragen) das Thema "Meine Community eintragen" und beschreibe kurz Thema, Stadt und Link. Wir melden uns bei dir.
 
 Bleib am Anfang geduldig: Viele Gruppen starten mit zwei, drei Personen und wachsen über Monate.'''),
+
+ dict(slug='neue-kontakte-knuepfen', date='2026-10-14',
+  title='Neue Kontakte knüpfen: Warum es schwerer geworden ist und wie es trotzdem klappt',
+  desc='Neue Leute kennenlernen fühlt sich heute oft schwieriger an als früher. Warum das so ist und welche einfachen Schritte wirklich helfen.',
+  lead='Wenn du dich fragst, warum es dir so schwerfällt, neue Menschen kennenzulernen, bist du damit nicht allein. Es liegt selten an dir, sondern an den Bedingungen, unter denen wir heute leben.',
+  body='''## Warum es mit der Zeit schwerer wird
+
+In Schule, Ausbildung oder Studium entstehen Freundschaften fast von selbst: Man sieht dieselben Menschen jeden Tag, ohne Plan, ohne Termin. Im Berufsleben fällt genau das weg. Wir ziehen um, wechseln den Job, haben weniger freie Zeit und mehr Verpflichtungen. Kontakte müssen plötzlich aktiv gesucht werden, und das fühlt sich ungewohnt und manchmal peinlich an.
+
+Dazu kommt ein verbreiteter Denkfehler: Wir unterschätzen, wie sehr andere sich über Kontakt freuen. Die Forschung nennt das den Sympathie-Lücke-Effekt. In Studien von Erica Boothby und Kollegen unterschätzten Menschen nach Gesprächen mit Fremden systematisch, wie sehr ihr Gegenüber sie mochte ([Studie in Psychological Science](https://doi.org/10.1177/0956797617741719)). Die Unsicherheit ist also meist größer als der Grund dafür.
+
+## Ansprechen lohnt sich mehr, als es sich anfühlt
+
+Nicholas Epley und Juliana Schroeder ließen Pendler im Zug entweder still bleiben oder ein Gespräch mit Sitznachbarn beginnen. Das Ergebnis: Wer redete, erlebte die Fahrt als angenehmer. Die Teilnehmenden hatten vorher das Gegenteil erwartet ([Studie im Journal of Experimental Psychology](https://doi.org/10.1037/a0037323)). Das Gespräch war fast immer besser als die Vorhersage.
+
+## Ein einfacher Plan für den Anfang
+
+Setz dich nicht unter Druck, sofort Freunde zu finden. Ziel ist zuerst, regelmäßig dieselben Menschen zu sehen. Vertrautheit entsteht durch Wiederholung.
+
+Wähle eine Aktivität, die du ohnehin magst, und gehe mehrmals hin. Ein Lauftreff, ein Spieleabend, ein Sprachkurs oder ein Verein eignen sich gut, weil man etwas gemeinsam tut und nicht ständig reden muss. Passende Gruppen in deiner Stadt findest du über den [Verzeichnis-Filter](/entdecken/), online über die [Online-Communities](/online/).
+
+Gib einer Gruppe mindestens drei bis vier Besuche, bevor du entscheidest, ob sie zu dir passt. Beim ersten Mal kennt dich noch niemand, beim dritten Mal schon.
+
+## Kleine Sätze, die Türen öffnen
+
+Du brauchst keine geistreichen Einstiege. Funktionieren tun einfache Fragen: Wie lange bist du schon dabei? Wie bist du darauf gekommen? Kennst du noch andere Orte dafür? Danach folgt oft von selbst ein Gespräch. Und wenn es sich gut anfühlt, schlag am Ende vor: "Bist du nächste Woche auch dabei?"
+
+## Aus einem Treffen wird eine Freundschaft
+
+Der entscheidende Schritt kommt nach dem Treffen. Tausch Nummern aus und melde dich einmal selbst, zum Beispiel mit einem Foto oder einem Gruß vom Abend. Schlage dann etwas Konkretes vor, etwa einen Kaffee nach dem Training. Wer vage bleibt ("man müsste mal"), verabredet sich selten. Mehr dazu in [Freunde finden als Erwachsener](/ratgeber/freunde-finden-als-erwachsener/) und [Allein zum ersten Treffen](/ratgeber/allein-zum-ersten-treffen/).
+
+## Wenn es trotzdem schwerfällt
+
+Manchmal ist die Einsamkeit so groß, dass schon der erste Schritt zu viel ist. Das ist keine Schwäche. Mehr Hintergründe findest du in unserem Beitrag zum [Teufelskreis der Einsamkeit](/ratgeber/einsamkeit-teufelskreis-durchbrechen/). Wenn dich die Situation sehr belastet, kannst du jederzeit kostenlos und anonym die Telefonseelsorge unter 0800 111 0 111 anrufen.'''),
+ dict(slug='social-media-echte-verbindung', date='2026-10-14',
+  title='Social Media und echte Verbindung: Warum Kontakte online oft nicht tragen',
+  desc='Tausende Kontakte, trotzdem einsam? Warum die vermeintliche Verbindung in sozialen Netzwerken echte Nähe nicht ersetzt und was stattdessen hilft.',
+  lead='Nie war es leichter, mit anderen in Verbindung zu bleiben, und doch fühlen sich viele Menschen einsamer. Das ist kein Widerspruch, sondern hat mit der Art zu tun, wie Verbindung online entsteht.',
+  body='''## Verbunden wirken ist nicht verbunden sein
+
+Likes, Storys und Nachrichten geben uns kurze Signale von Zugehörigkeit. Sie fühlen sich nach Kontakt an, verlangen aber kaum etwas: keine Verabredung, keine Verletzlichkeit, kein Zuhören über eine Stunde. Echte Nähe entsteht dort, wo man Zeit teilt, sich zeigt und Verlässlichkeit erlebt. Das lässt sich über Bildschirme nur begrenzt herstellen.
+
+## Was die Forschung dazu sagt
+
+Melissa Hunt und ihr Team an der University of Pennsylvania ließen Studierende ihre Social-Media-Zeit auf etwa 30 Minuten pro Tag begrenzen. Nach drei Wochen berichteten sie von weniger Einsamkeit und weniger depressiven Symptomen als die Kontrollgruppe ([Studie im Journal of Social and Clinical Psychology](https://doi.org/10.1521/jscp.2018.37.10.751)).
+
+Ethan Kross und Kollegen fanden bei jungen Erwachsenen, dass häufigere Facebook-Nutzung mit einem schlechteren Wohlbefinden in den folgenden Wochen zusammenhing ([Studie in PLoS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841)). Wichtig: Diese Studien zeigen Zusammenhänge in bestimmten Gruppen. Sie belegen nicht, dass soziale Netzwerke grundsätzlich schaden. Entscheidend scheint, wie wir sie nutzen: Wer vor allem scrollt und vergleicht, fühlt sich schlechter als jemand, der gezielt Menschen schreibt und Treffen verabredet.
+
+## Der Vergleich macht es schwerer
+
+Online sehen wir die Höhepunkte der anderen: Reisen, Feiern, große Freundesgruppen. Daneben wirkt das eigene Leben leer. Dabei verfügen die meisten dieser Menschen ebenfalls über wenige enge Beziehungen. Das Bild verzerrt, und es verstärkt den Gedanken, dass mit einem selbst etwas nicht stimmt.
+
+## Einseitige Nähe
+
+Folgen wir Creatorn und Podcasts, entsteht ein Gefühl von Vertrautheit, ohne dass die Person uns kennt. Die Medienforschung spricht von parasozialen Beziehungen. Der Begriff geht auf Horton und Wohl zurück, die ihn 1956 prägten. Solche Beziehungen sind nicht schlimm und können Trost spenden. Sie ersetzen aber keinen Menschen, der dich zurückruft.
+
+## Was stattdessen hilft
+
+Du musst das Smartphone nicht verteufeln. Nutze es als Werkzeug, um Menschen zu treffen, nicht um Treffen zu ersetzen.
+
+Schreib einer konkreten Person und schlage ein Datum vor. Tritt einer Gruppe bei, die sich regelmäßig draußen trifft. Setz dir feste, kleine Zeitfenster für Social Media, etwa 30 Minuten am Tag. Und mach aus einer Online-Bekanntschaft schnell ein Treffen im echten Leben, am besten an einem öffentlichen Ort. Wie das gelingt, steht in [Online-Communities richtig nutzen](/ratgeber/online-communities-richtig-nutzen/).
+
+## Ein Anfang, der klein bleiben darf
+
+Fang mit einer Verabredung pro Woche an. Das ist wenig, und doch verändert es mit der Zeit, wen du regelmäßig siehst. Passende Gruppen findest du im [Verzeichnis](/entdecken/). Mehr zu Hintergründen und Studien: [Einsamkeit in Deutschland](/ratgeber/einsamkeit-in-deutschland-zahlen-und-ursachen/) und [Podcasts, Studien und Quellen](/ratgeber/einsamkeit-podcasts-studien-quellen/).
+
+Wenn dich Einsamkeit stark belastet, hilft die Telefonseelsorge kostenlos und anonym unter 0800 111 0 111.'''),
 ]
