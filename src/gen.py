@@ -3,6 +3,7 @@ import json,html,os,shutil,datetime,collections,sys
 ROOT=os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0,ROOT)
 from static_data import CITIES as CITYTXT
+from content import CATINFO, ARTICLES
 DOMAIN='https://findedeineleute.de'
 TODAY=datetime.date.today().isoformat()
 try: LASTRUN=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data','state.json'),encoding='utf8')).get('last_run','')
@@ -26,7 +27,7 @@ def w(path,content):
     os.makedirs(os.path.dirname(full),exist_ok=True)
     open(full,'w',encoding='utf8').write(content)
 
-NAV=[('/','Start','start'),('/entdecken/','Entdecken','entdecken'),('/online/','Online','online'),('/staedte/','Städte','staedte'),('/ueber-uns/','Über uns','ueber-uns'),('/kontakt/','Kontakt','kontakt')]
+NAV=[('/','Start','start'),('/entdecken/','Entdecken','entdecken'),('/online/','Online','online'),('/staedte/','Städte','staedte'),('/ratgeber/','Ratgeber','ratgeber'),('/ueber-uns/','Über uns','ueber-uns'),('/kontakt/','Kontakt','kontakt')]
 def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
     url=DOMAIN+path
     nav=''.join('<a class="nl" href="%s"%s>%s</a>'%(h,' aria-current="page"' if k==key else '',t) for h,t,k in NAV)
@@ -73,7 +74,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <footer>
 <div><b style="font-family:var(--f-display);font-size:18px;font-weight:500;color:var(--ink)">FindeDeineLeute.de</b><p style="margin-top:10px;max-width:34ch">Das Verzeichnis für Communities in allen deutschen Großstädten und online.</p></div>
 <div class="cols">
-<div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li></ul></div>
+<div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li><li><a href="/ratgeber/">Ratgeber</a></li></ul></div>
 <div><h4>Städte</h4><ul>{topc}</ul></div>
 <div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
 </div>
@@ -102,6 +103,7 @@ stack=''.join('<div class="mini"><div><b>%s</b><span class="s">%s · %s</span></
 feat=''.join(card(c) for c in pick(['Critical Mass Hamburg','Urban Sketchers Köln','Entropia Karlsruhe','Netzwerk Leipziger Gemeinschaftsgärten']))
 cg=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:16])
 chips=''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[i])) for i in ['sport','outdoor','kunst','tech','spiele','engagement','queer'])
+rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
 start=f'''<div class="hero">
 <div>
@@ -123,6 +125,7 @@ start=f'''<div class="hero">
 <section class="section"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">So funktioniert es</span><h2>In drei Schritten dabei</h2></div></div>
 <div class="steps"><div class="step"><h3>Suchen</h3><p>Wähle deine Stadt, ein Thema oder Online. Die Suche durchsucht Namen, Beschreibungen und Themen.</p></div><div class="step"><h3>Reinschnuppern</h3><p>Jeder Eintrag verlinkt auf die Community selbst und nennt die Quelle. Dort siehst du aktuelle Termine und kannst Kontakt aufnehmen.</p></div><div class="step"><h3>Dabeibleiben</h3><p>Gefällt es dir, wirst du Teil der Gruppe. Passt es nicht, probierst du die nächste aus.</p></div></div></section>
+<section class="section"><div class="section-head"><div><span class="eyebrow">Ratgeber</span><h2>Tipps für den Einstieg</h2></div><a class="btn ghost" href="/ratgeber/">Alle Beiträge</a></div><div class="grid">{rg}</div></section>
 <section class="section"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Schick uns eine kurze Anfrage, wir melden uns bei dir.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
 org={"@context":"https://schema.org","@type":"Organization","name":"FindeDeineLeute.de","url":DOMAIN+"/","logo":DOMAIN+"/assets/favicon.svg"}
 wsite={"@context":"https://schema.org","@type":"WebSite","name":"FindeDeineLeute.de","url":DOMAIN+"/","inLanguage":"de","potentialAction":{"@type":"SearchAction","target":DOMAIN+"/entdecken/?q={search_term_string}","query-input":"required name=search_term_string"}}
@@ -162,6 +165,11 @@ def city_intro(city,items):
     runs=[e for e in items if 'run club' in e['g'] or 'parkrun' in e['g']]
     s4=f'Dazu kommen {len(runs)} Run Clubs und parkrun-Läufe.' if len(runs)>=3 else ''
     return [s1+' '+s2,(s3+' '+s4).strip()]
+MINCOMBO=3
+COMBO={}
+for e in data:
+    COMBO.setdefault((e['t'],e['c']),[]).append(e)
+HAS={k for k,v in COMBO.items() if len(v)>=MINCOMBO and k[0] in SLUG}
 for city,slug in cities:
     items=sorted(by_city[city],key=lambda e:(-e['q'],e['n'].lower()))
     cats=collections.OrderedDict()
@@ -177,7 +185,8 @@ for city,slug in cities:
             rows+='<li class="row" id="c%d"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s</div></li>'%(
                 e['i'],E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),
                 ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '')
-        secs+='<section class="csec" id="k-%s"><h2>%s</h2><ul class="rows">%s</ul></section>'%(cid,E(CAT[cid]),rows)
+        more=('<p class="note" style="margin:-8px 0 18px"><a href="/%s/%s/">Alle %d Gruppen für %s in %s ansehen</a></p>'%(slug,cid,len(l),E(CATINFO[cid][0]),E(city))) if (city,cid) in HAS else ''
+        secs+='<section class="csec" id="k-%s"><h2>%s</h2>%s<ul class="rows">%s</ul></section>'%(cid,E(CAT[cid]),more,rows)
     intro=city_intro(city,items)
     others=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities if n!=city)[:0]
     near=[(n,s) for n,s in cities[:14] if n!=city][:12]
@@ -191,6 +200,86 @@ for city,slug in cities:
     ld=[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":DOMAIN+"/"},{"@type":"ListItem","position":2,"name":"Städte","item":DOMAIN+"/staedte/"},{"@type":"ListItem","position":3,"name":city,"item":f"{DOMAIN}/{slug}/"}]},
         {"@context":"https://schema.org","@type":"ItemList","name":f"Communities in {city}","numberOfItems":len(items),"itemListElement":[{"@type":"ListItem","position":k+1,"name":e['n'],**({"url":e['l']} if e['l'] else {})} for k,e in enumerate(items[:50])]}]
     w(f'{slug}/index.html',layout('staedte',f'/{slug}/',f'Communities in {city} | FindeDeineLeute.de',desc,body,jsonld=ld))
+
+
+# ---------- STADT x THEMA ----------
+def row_html(e):
+    sub=' · '.join(x for x in [e['a'] if e['a'] and e['s']!='criticalmass.de' else '',e['w']] if x)
+    return '<li class="row"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s</div></li>'%(
+        E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),
+        ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '')
+def join_de(xs):
+    xs=list(xs)
+    return xs[0] if len(xs)==1 else ', '.join(xs[:-1])+' und '+xs[-1]
+combo_pages=[]
+for city,slug in cities:
+    for cid,_ in CATS:
+        if (city,cid) not in HAS: continue
+        info=CATINFO[cid]; label=info[0]
+        l=sorted(COMBO[(city,cid)],key=lambda e:(-e['q'],e['n'].lower()))
+        n=len(l)
+        names=[e['n'] for e in l[:3]]
+        pcnt=collections.Counter(e.get('p') for e in l if e.get('p'))
+        plats=[PLAT[k] for k,_ in pcnt.most_common(3) if k in PLAT]
+        onl=[e for e in data if e['f']=='online' and e['c']==cid]
+        p1=f'In {city} findest du {n} Gruppen und Communities aus dem Bereich {label}, darunter {join_de(names)}.'
+        p2=info[1]
+        extra=[]
+        if plats: extra.append(E(f'Die Gruppen in {city} sind vor allem über {join_de(plats)} zu erreichen.'))
+        rh=[e for e in l if e['w'] and len(e['w'])<48][:2]
+        if rh: extra.append(E('Zum Rhythmus: '+' '.join('%s (%s).'%(e['n'],e['w'].rstrip('.')) for e in rh)))
+        if onl: extra.append(E(f'Wenn du zusätzlich online Anschluss suchst, schau in die {len(onl)} ')+'<a href="/online/?kategorie=%s">Online-Communities</a>'%cid+E(' zum Thema.'))
+        extra_html=' '.join(extra)
+        qa=[(info[3],info[4]),(f'Wie viele Gruppen für {label} gibt es in {city}?',f'Im Verzeichnis stehen aktuell {n} Einträge. Wir prüfen die Links alle zwei Wochen und ergänzen laufend neue Gruppen.')]
+        faq=''.join('<details><summary>%s</summary><p>%s</p></details>'%(E(q),E(a)) for q,a in qa)
+        otherc=[c for c,_ in CATS if c!=cid and (city,c) in HAS]
+        rel=''.join('<a class="chip" href="/%s/%s/">%s</a>'%(slug,c,E(CATINFO[c][0])) for c in otherc)
+        oc=[(cn,cs) for cn,cs in cities if cn!=city and (cn,cid) in HAS][:12]
+        ocg=''.join('<a class="cityb" href="/%s/%s/"><span>%s</span><i>%d</i></a>'%(cs,cid,E(cn),len(COMBO[(cn,cid)])) for cn,cs in oc)
+        body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/staedte/">Städte</a><span>/</span><a href="/{slug}/">{E(city)}</a><span>/</span><span>{E(label)}</span></nav>
+<div class="pagehead" style="padding-top:24px"><h1 class="page-title" style="margin-top:0">{E(label)} in {E(city)}</h1><p class="lede">{E(p1)}</p><p class="lede">{E(p2)}</p>{('<p class="lede">%s</p>'%extra_html) if extra_html else ''}</div>
+<section class="csec"><h2>So gelingt der Einstieg</h2><p class="lede" style="max-width:62ch">{E(info[2])}</p></section>
+<section class="csec"><h2>Alle Gruppen ({n})</h2><ul class="rows">{''.join(row_html(e) for e in l)}</ul></section>
+<section class="csec"><h2>Häufige Fragen</h2><div class="faq">{faq}</div></section>
+<section class="section" style="border-bottom:0"><div class="section-head"><div><span class="eyebrow">Mehr in {E(city)}</span><h2>Weitere Themen</h2></div><a class="btn ghost sm" href="/{slug}/">Alle Communities in {E(city)}</a></div><div class="chips">{rel}</div></section>
+{('<section class="section" style="border-bottom:0;padding-top:0"><div class="section-head"><div><span class="eyebrow">Andere Städte</span><h2>%s in weiteren Städten</h2></div></div><div class="citygrid">%s</div></section>'%(E(label),ocg)) if ocg else ''}
+<section class="section" style="border-bottom:0;padding-top:0"><div class="band"><div><h2>Deine Gruppe fehlt?</h2><p>Trag sie ein, damit andere sie finden.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
+        ld=[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":DOMAIN+"/"},{"@type":"ListItem","position":2,"name":city,"item":f"{DOMAIN}/{slug}/"},{"@type":"ListItem","position":3,"name":label,"item":f"{DOMAIN}/{slug}/{cid}/"}]},
+            {"@context":"https://schema.org","@type":"ItemList","name":f"{label} in {city}","numberOfItems":n,"itemListElement":[{"@type":"ListItem","position":k+1,"name":e['n'],**({"url":e['l']} if e['l'] else {})} for k,e in enumerate(l[:50])]},
+            {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in qa]}]
+        desc=f'{n} Gruppen für {label} in {city}: {", ".join(names)} und mehr. Mit Einsteigertipps und Links zu allen Treffen.'
+        path=f'/{slug}/{cid}/'
+        w(f'{slug}/{cid}/index.html',layout('staedte',path,f'{label} in {city}: {n} Gruppen und Communities | FindeDeineLeute.de',desc,body,jsonld=ld))
+        combo_pages.append(path)
+
+# ---------- RATGEBER ----------
+import re as _re
+def md(t):
+    out=[]
+    for blk in t.strip().split('\n\n'):
+        blk=blk.strip()
+        if blk.startswith('## '): out.append('<h2>%s</h2>'%E(blk[3:]))
+        else:
+            h=E(blk)
+            h=_re.sub(r'\[([^\]]+)\]\((/[^)]*)\)',lambda m:'<a href="%s">%s</a>'%(m.group(2).replace('&amp;','&'),m.group(1)),h)
+            out.append('<p>%s</p>'%h)
+    return '\n'.join(out)
+def fdate(d):
+    y,m,dd=d.split('-');mon=['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'][int(m)-1]
+    return '%d. %s %s'%(int(dd),mon,y)
+cards=''.join('<article class="card"><div class="tag"><span>Ratgeber</span><span>%s</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p><div class="note">Lesen</div></article>'%(fdate(a['date']),a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES)
+w('ratgeber/index.html',layout('ratgeber','/ratgeber/','Ratgeber: Leute kennenlernen und Communities finden | FindeDeineLeute.de','Praktische Tipps für alle, die neue Leute kennenlernen, eine Gruppe finden oder selbst eine Community starten möchten.',
+ f'<div class="pagehead"><span class="eyebrow">Ratgeber</span><h1 class="page-title">Leute kennenlernen, Gruppen finden</h1><p class="page-sub">Kurze, praktische Beiträge für den Einstieg: vom ersten Treffen bis zur eigenen Community.</p></div><div class="grid">{cards}</div><div style="height:48px"></div>'))
+for a in ARTICLES:
+    path='/ratgeber/%s/'%a['slug']
+    others=''.join('<li><a href="/ratgeber/%s/">%s</a></li>'%(b['slug'],E(b['title'])) for b in ARTICLES if b is not a)[:]
+    body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/ratgeber/">Ratgeber</a><span>/</span><span>{E(a['title'])}</span></nav>
+<article class="legalwrap prose-l"><p class="note">{fdate(a['date'])}</p><h1 class="page-title">{E(a['title'])}</h1><p class="lede">{E(a['lead'])}</p>
+{md(a['body'])}
+<h2>Weiterlesen</h2><ul>{others}</ul>
+<div class="band" style="margin-top:40px"><div><h2>Gruppe in deiner Stadt finden</h2><p>Wähle deine Stadt und stöbere durch alle Gruppen.</p></div><a class="btn" href="/staedte/">Städte ansehen</a></div></article>'''
+    ld=[{"@context":"https://schema.org","@type":"Article","headline":a['title'],"description":a['desc'],"datePublished":a['date'],"dateModified":a['date'],"inLanguage":"de","mainEntityOfPage":DOMAIN+path,"author":{"@type":"Organization","name":"FindeDeineLeute.de"},"publisher":{"@type":"Organization","name":"FindeDeineLeute.de","logo":{"@type":"ImageObject","url":DOMAIN+"/assets/favicon.svg"}}}]
+    w('ratgeber/%s/index.html'%a['slug'],layout('ratgeber',path,a['title']+' | FindeDeineLeute.de',a['desc'],body,jsonld=ld))
 
 # ---------- ONLINE ----------
 on=sorted([e for e in data if e['f']=='online'],key=lambda e:(-e['q'],e['n'].lower()))
@@ -301,7 +390,7 @@ for e in data:
     if e['s']=='criticalmass.de': d['a']=''
     pub.append(d)
 w('communities.json',json.dumps({"updated":LASTRUN or TODAY,"cities":cities,"items":pub},ensure_ascii=False,separators=(',',':')))
-urls=['/','/entdecken/','/staedte/','/online/']+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
+urls=['/','/entdecken/','/staedte/','/online/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
 sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n'%(DOMAIN,u,TODAY) for u in urls)+'</urlset>\n'
 w('sitemap.xml',sm)
 w('robots.txt','User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n'%DOMAIN)
