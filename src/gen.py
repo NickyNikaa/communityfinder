@@ -5,6 +5,7 @@ sys.path.insert(0,ROOT)
 from static_data import CITIES as CITYTXT
 from content import CATINFO, ARTICLES
 DOMAIN='https://findedeineleute.de'
+CF_EMAIL='nicky.nikaaa@gmail.com'
 TODAY=datetime.date.today().isoformat()
 try: LASTRUN=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'data','state.json'),encoding='utf8')).get('last_run','')
 except Exception: LASTRUN=''
@@ -27,7 +28,7 @@ def w(path,content):
     os.makedirs(os.path.dirname(full),exist_ok=True)
     open(full,'w',encoding='utf8').write(content)
 
-NAV=[('/entdecken/','Entdecken','entdecken'),('/online/','Online','online'),('/staedte/','Städte','staedte'),('/ratgeber/','Ratgeber','ratgeber'),('/aktuell/','Aktuell','aktuell'),('/ueber-uns/','Über uns','ueber-uns'),('/kontakt/','Kontakt','kontakt')]
+NAV=[('/entdecken/','Entdecken','entdecken'),('/online/','Online','online'),('/staedte/','Städte','staedte'),('/ratgeber/','Ratgeber','ratgeber'),('/kalender/','Kalender','kalender'),('/aktuell/','Aktuell','aktuell'),('/kontakt/','Kontakt','kontakt')]
 def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
     url=DOMAIN+path
     nav=''.join('<a class="nl" href="%s"%s>%s</a>'%(h,' aria-current="page"' if k==key else '',t) for h,t,k in NAV)
@@ -67,7 +68,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <header class="top"><div class="bar">
 <a class="brand" href="/" aria-label="FindeDeineLeute.de, zur Startseite"><svg class="logo-mark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><defs><linearGradient id="lm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6336c"/><stop offset=".55" stop-color="#a77cf0"/><stop offset="1" stop-color="#62b9f2"/></linearGradient></defs><circle cx="41" cy="41" r="30" fill="none" stroke="url(#lm)" stroke-width="8"/><path d="M63 63l21 21" stroke="#d6336c" stroke-width="10" stroke-linecap="round"/><circle cx="41" cy="32" r="9.5" fill="#d6336c" opacity="0.92"/><circle cx="50" cy="41" r="9.5" fill="#a77cf0" opacity="0.92"/><circle cx="41" cy="50" r="9.5" fill="#8fd3f4" opacity="0.92"/><circle cx="32" cy="41" r="9.5" fill="#f6a5c8" opacity="0.92"/></svg><span>FindeDeineLeute<i>.de</i></span></a>
 <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="mainNav">Menü</button>
-<nav class="main" id="mainNav" aria-label="Hauptnavigation">{nav}<a class="btn primary sm" href="/kontakt/">Anfrage senden</a></nav>
+<nav class="main" id="mainNav" aria-label="Hauptnavigation">{nav}<a class="saved-link" href="/merkliste/" aria-label="Meine Merkliste">{HEART}<span id="savedCount" aria-live="polite"></span></a><a class="btn primary sm" href="/kontakt/">Anfrage senden</a></nav>
 </div></header>
 <main id="main">
 {body}
@@ -75,9 +76,9 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <footer>
 <div><b style="font-family:var(--f-display);font-size:18px;font-weight:500;color:var(--ink)">FindeDeineLeute.de</b><p style="margin-top:10px;max-width:34ch">Das Verzeichnis für Communities in allen deutschen Großstädten und online.</p></div>
 <div class="cols">
-<div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li><li><a href="/ratgeber/">Ratgeber</a></li><li><a href="/aktuell/">Aktuell</a></li></ul></div>
+<div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li><li><a href="/ratgeber/">Ratgeber</a></li><li><a href="/aktuell/">Aktuell</a></li><li><a href="/kalender/">Kalender</a></li><li><a href="/merkliste/">Merkliste</a></li><li><a href="/auswertung/">Auswertung</a></li></ul></div>
 <div><h4>Städte</h4><ul>{topc}</ul></div>
-<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
+<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/presse/">Presse</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
 </div>
 <div class="legal">© {datetime.date.today().year} FindeDeineLeute.de. Die Einträge stammen aus öffentlich zugänglichen Verzeichnissen und verlinken auf die jeweiligen Communities.</div>
 </footer>
@@ -88,12 +89,52 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 </html>
 '''
 
+
+import zlib
+WD=[('montag',0),('dienstag',1),('mittwoch',2),('donnerstag',3),('freitag',4),('samstag',5),('sonntag',6)]
+WDRE=re.compile(r'(montag|dienstag|mittwoch|donnerstag|freitag|samstag|sonntag)s?',re.I)
+ORD={'erste':1,'zweite':2,'dritte':3,'vierte':4,'letzte':-1}
+def parse_when(w):
+    """Wandelt Texte wie 'Letzter Freitag, 18 Uhr' oder 'Samstags' in Termine um: [{d,o,t}]. Unklares wird übersprungen."""
+    if not w: return []
+    low=w.lower()
+    if re.search(r'monatlich|alle \d+ wochen|alle zwei wochen|zweiwöchentlich|etwa|meist|flexibel|regelm|pro jahr|mehrere|siehe',low) and not re.search(r'\d\.\s|letzte',low): return []
+    ms=list(WDRE.finditer(w))
+    if not ms: return []
+    out=[]
+    for i,m in enumerate(ms):
+        start=ms[i-1].end() if i else 0
+        end=ms[i+1].start() if i+1<len(ms) else len(w)
+        before=w[start:m.start()]; after=w[m.end():end]
+        ords=[int(x) for x in re.findall(r'(\d)\.',before)]
+        for k,v in ORD.items():
+            if re.search(k+r'[rn]?\b',before.lower()): ords.append(v)
+        t=''
+        mt=re.search(r'(\d{1,2})(?::(\d\d))?(?=\s*(?:Uhr|bis))',after) or re.search(r'\b(\d{1,2}):(\d\d)\b',after) or re.search(r'(\d{1,2})(?::(\d\d))?(?=\s*Uhr)',before)
+        if mt: t='%02d:%s'%(int(mt.group(1)),mt.group(2) or '00')
+        out.append({'d':[v for k,v in WD if m.group(1).lower()==k][0],'o':sorted(set(ords)),'t':t})
+    if 'darauf' in low: out=[o for o in out if o['o']]
+    return out
+def stable_key(e):
+    return format(zlib.crc32((e['n']+'|'+e['t']).encode('utf8')) & 0xffffffff,'x')
+
+CALIT=[]
+for e in data:
+    sc=parse_when(e.get('w',''))
+    if sc and e['t'] in SLUG:
+        CALIT.append({'k':stable_key(e),'n':e['n'],'t':e['t'],'c':e['c'],'w':e['w'],'l':e['l'],'sc':sc,'slug':SLUG[e['t']],'a':'' if e['s']=='criticalmass.de' else e['a']})
+CAL_BY_CITY=collections.defaultdict(list)
+for _x in CALIT: CAL_BY_CITY[_x['t']].append(_x)
+
+HEART='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C1 8.6 2.8 5 6.2 5c2 0 3.4 1.1 4.1 2.3L12 9.6l1.7-2.3C14.4 6.1 15.8 5 17.8 5c3.4 0 5.2 3.6 3.8 6.8C19.5 16.4 12 21 12 21Z"/></svg>'
+def savebtn(e):
+    return '<button type="button" class="save" data-save="%s" aria-pressed="false" aria-label="%s merken">%s</button>'%(stable_key(e),E(e['n']),HEART)
 def card(c):
     href='/%s/#c%d'%(SLUG.get(c['t'],''),c['i']) if c['t'] in SLUG else (c['l'] or '#')
     place='Online' if c['t']=='Online' else c['t']+(' · '+c['a'] if c['a'] and c['s']!='criticalmass.de' else '')
     pl='<span>%s</span>'%E(PLAT.get(c.get('p'),'')) if c.get('p') and c['p']!='website' else ''
     note=E(c['w'])
-    return ('<article class="card"><div class="tag"><span>'+('Online' if c['f']=='online' else 'Vor Ort')+'</span><span>'+E(CAT[c['c']])+'</span>'+pl+'</div><h3><a href="'+href+'">'+E(c['n'])+'</a></h3><div class="sub">'+E(place)+'</div><p class="d">'+E(c['x'])+'</p><div class="note">'+note+'</div></article>')
+    return ('<article class="card">'+savebtn(c)+'<div class="tag"><span>'+('Online' if c['f']=='online' else 'Vor Ort')+'</span><span>'+E(CAT[c['c']])+'</span>'+pl+'</div><h3><a href="'+href+'">'+E(c['n'])+'</a></h3><div class="sub">'+E(place)+'</div><p class="d">'+E(c['x'])+'</p><div class="note">'+note+'</div></article>')
 byname={e['n']:e for e in data}
 def pick(names): return [byname[n] for n in names if n in byname]
 
@@ -248,12 +289,14 @@ for city,slug in cities:
         rows=''
         for e in l:
             sub=' · '.join(x for x in [e['a'] if e['a'] and e['s']!='criticalmass.de' else '',e['w']] if x)
-            rows+='<li class="row" id="c%d"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s</div></li>'%(
+            rows+='<li class="row" id="c%d"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s%s</div></li>'%(
                 e['i'],E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),
-                ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '')
+                ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '',savebtn(e))
         more=('<p class="note" style="margin:-8px 0 18px"><a href="/%s/%s/">Alle %d Gruppen für %s in %s ansehen</a></p>'%(slug,cid,len(l),E(CATINFO[cid][0]),E(city))) if (city,cid) in HAS else ''
         secs+='<section class="csec" id="k-%s"><h2>%s</h2>%s<ul class="rows">%s</ul></section>'%(cid,E(CAT[cid]),more,rows)
     intro=city_intro(city,items)
+    _wk=CAL_BY_CITY.get(city,[])
+    weekbox=('<section class="csec weekbox" id="woche" data-city="%s" hidden><h2>Diese Woche in %s</h2><div class="weeklist" id="weekList"></div><p class="note" style="margin-top:14px"><a href="/kalender/?stadt=%s">Ganzen Kalender für %s ansehen</a></p><script type="application/json" id="weekData">%s</script></section>'%(E(city),E(city),slug,E(city),json.dumps(_wk,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))) if _wk else ''
     cp=POSTCITY.get(city,[])
     newsbox=('<section class="csec" id="aktuell"><h2>Aktuelles aus %s</h2><ul class="rows">%s</ul><p class="note" style="margin-top:14px"><a href="/%s/aktuell/">Alle Beiträge aus %s</a></p></section>'%(E(city),''.join('<li class="row"><div class="rb"><h3><a href="/aktuell/%s/">%s</a></h3><div class="sub">%s</div></div></li>'%(p['slug'],E(p['title']),E(fdate(p['date']))) for p in cp[:3]),slug,E(city))) if cp else ''
     others=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities if n!=city)[:0]
@@ -261,7 +304,7 @@ for city,slug in cities:
     others=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in near)
     body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/staedte/">Städte</a><span>/</span><span>{E(city)}</span></nav>
 <div class="pagehead" style="padding-top:24px"><h1 class="page-title" style="margin-top:0">Communities in {E(city)}</h1><p class="lede">{E(intro[0])}</p>{('<p class="lede">%s</p>'%E(intro[1])) if intro[1] else ''}<div class="catnav" aria-label="Kategorien in {E(city)}">{nav}</div></div>
-{newsbox}{secs}
+{weekbox}{newsbox}{secs}
 <section class="section" style="border-bottom:0"><div class="band"><div><h2>Deine Community fehlt in {E(city)}?</h2><p>Trag sie ein, damit andere sie finden.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>
 <section class="section" style="border-bottom:0;padding-top:0"><div class="section-head"><div><span class="eyebrow">Weitere Städte</span></div><a class="btn ghost sm" href="/staedte/">Alle Städte</a></div><div class="citygrid">{others}</div></section>'''
     desc=f'{len(items)} Communities in {city}: {", ".join(CAT[c] for c in list(cats)[:3])} und mehr. Finde Gruppen und Gleichgesinnte in deiner Stadt.'
@@ -273,9 +316,9 @@ for city,slug in cities:
 # ---------- STADT x THEMA ----------
 def row_html(e):
     sub=' · '.join(x for x in [e['a'] if e['a'] and e['s']!='criticalmass.de' else '',e['w']] if x)
-    return '<li class="row"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s</div></li>'%(
+    return '<li class="row"><div class="rb"><h3>%s</h3>%s<p class="d">%s</p></div><div class="ra">%s%s</div></li>'%(
         E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),
-        ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '')
+        ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '',savebtn(e))
 def join_de(xs):
     xs=list(xs)
     return xs[0] if len(xs)==1 else ', '.join(xs[:-1])+' und '+xs[-1]
@@ -467,17 +510,21 @@ ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärun
 <h2>1. Verantwortliche Stelle</h2>
 <p>Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br>Nicole Emrich, Ammerndorfer Straße 22, 90513 Zirndorf<br>E-Mail: <a href="mailto:nicky.nikaaa@gmail.com">nicky.nikaaa@gmail.com</a></p>
 <h2>2. Grundsätzliches</h2>
-<p>Der Schutz deiner personenbezogenen Daten ist mir wichtig. FindeDeineLeute.de kommt ohne Nutzerkonten, ohne Cookies und ohne Tracking- oder Analyse-Tools aus. Es werden nur die Daten verarbeitet, die technisch zum Ausliefern und Anzeigen der Seite nötig sind.</p>
+<p>Der Schutz deiner personenbezogenen Daten ist mir wichtig. FindeDeineLeute.de kommt ohne Nutzerkonten, ohne Cookies und ohne Tracking- oder Analyse-Tools aus. Die Merkliste speichert deine Auswahl lokal in deinem Browser (siehe Abschnitt 5a). Es werden nur die Daten verarbeitet, die technisch zum Ausliefern und Anzeigen der Seite nötig sind.</p>
 <h2>3. Hosting und Server-Logfiles</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc. (88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). Beim Aufruf der Seite verarbeitet GitHub aus technischen Gründen automatisch Zugriffsdaten, darunter deine IP-Adresse, Datum und Uhrzeit des Zugriffs sowie die angeforderte Datei. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer sicheren und funktionsfähigen Bereitstellung der Website).</p>
 <h2>4. Schriften</h2>
-<p>Die verwendete Schrift Archivo wird von diesem Server selbst ausgeliefert. Beim Aufruf der Seite wird dafür keine Verbindung zu Google oder anderen Schriftdiensten aufgebaut.</p>
+<p>Die verwendete Schrift Inter wird von diesem Server selbst ausgeliefert. Beim Aufruf der Seite wird dafür keine Verbindung zu Google oder anderen Schriftdiensten aufgebaut.</p>
 <h2>5. Kontaktaufnahme und Rückrufwunsch</h2>
 <p>Wenn du das Anfrageformular nutzt, werden deine Eingaben nicht an einen Server von FindeDeineLeute.de gesendet. Stattdessen öffnet sich dein E-Mail-Programm mit einer vorbereiteten Nachricht, die du selbst absendest. Die Nachricht und die darin enthaltenen Angaben (Name, E-Mail-Adresse, Thema, Nachricht und, falls du einen Rückruf wünschst, Telefonnummer und gewünschte Erreichbarkeit) verarbeite ich ausschließlich, um deine Anfrage zu beantworten oder dich zurückzurufen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO bzw. lit. f DSGVO. Die Daten werden gelöscht, sobald die Anfrage erledigt ist und keine gesetzlichen Aufbewahrungspflichten bestehen. Für den Versand gelten die Datenschutzbestimmungen deines E-Mail-Anbieters.</p>
+<h2>5a. Merkliste und Kalender</h2>
+<p>Wenn du bei einer Community auf das Herz tippst, speichert dein Browser diese Auswahl lokal im sogenannten Local Storage. Die Daten verlassen dein Gerät nicht und werden nicht an uns übertragen. Sie dienen ausschließlich dazu, die von dir gewünschte Funktion bereitzustellen (Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO in Verbindung mit § 25 Abs. 2 Nr. 2 TDDDG). Du kannst die Daten jederzeit löschen, indem du Einträge von der Merkliste entfernst oder den Browserspeicher leerst. Wenn du eine Merkliste als Link teilst, sind die ausgewählten Communities im Link enthalten. Der Kalender-Export erzeugt eine Datei direkt in deinem Browser, ohne Übertragung an uns.</p>
+<h2>5b. Newsletter</h2>
+<p>Wenn du dich zum Newsletter anmeldest, öffnet sich dein E-Mail-Programm mit einer vorbereiteten Nachricht. Wir verwenden deine E-Mail-Adresse und, falls angegeben, deine Stadt ausschließlich, um dir den Newsletter zu senden (Rechtsgrundlage: Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO). Du kannst jederzeit per E-Mail an <a href="mailto:nicky.nikaaa@gmail.com">nicky.nikaaa@gmail.com</a> widerrufen. Wir tragen dich nach deiner Nachricht manuell in den Verteiler ein und bestätigen das per Antwort. Sobald wir einen Newsletter-Dienst einsetzen, ergänzen wir diese Erklärung um den Anbieter.</p>
 <h2>6. Externe Links</h2>
 <p>FindeDeineLeute.de verlinkt auf externe Seiten der aufgeführten Communities und Quellen. Sobald du einen solchen Link anklickst, verlässt du diese Website. Für die Datenverarbeitung auf den Zielseiten gelten deren eigene Datenschutzbestimmungen.</p>
 <h2>7. Cookies, Tracking, Analyse</h2>
-<p>Diese Website setzt keine Cookies, verwendet keine Analyse-, Tracking- oder Werbe-Tools und bindet keine Social-Media-Plugins ein.</p>
+<p>Diese Website setzt keine Cookies (die lokal gespeicherte Merkliste ist kein Cookie), verwendet keine Analyse-, Tracking- oder Werbe-Tools und bindet keine Social-Media-Plugins ein.</p>
 <h2>8. Übermittlung in Drittländer</h2>
 <p>GitHub hat seinen Sitz in den USA. Eine Datenübermittlung dorthin erfolgt nur, soweit sie für die Auslieferung der Seiteninhalte erforderlich ist. Der Anbieter stützt sich dabei in der Regel auf geeignete Garantien, zum Beispiel EU-Standardvertragsklauseln oder das EU-US Data Privacy Framework.</p>
 <h2>9. Deine Rechte</h2>
@@ -486,17 +533,94 @@ ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärun
 <p>Diese Datenschutzerklärung wird angepasst, sobald sich an der Datenverarbeitung etwas ändert, zum Beispiel durch neue Funktionen oder Dienste.</p></div>'''
 w('datenschutz/index.html',layout('','/datenschutz/','Datenschutz | FindeDeineLeute.de','Datenschutzerklärung von FindeDeineLeute.de',ds,noindex=True))
 
+
+# ---------- KALENDER ----------
+cal_cities=sorted({x['t'] for x in CALIT},key=lambda n:[c for c,_ in cities].index(n))
+cal_opts=''.join('<option value="%s">%s (%d)</option>'%(SLUG[n],E(n),len(CAL_BY_CITY[n])) for n in cal_cities)
+kal=f"""<div class="pagehead"><span class="eyebrow">Kalender</span><h1 class="page-title">Diese Woche in deiner Stadt</h1>
+<p class="page-sub">Regelmäßige Treffen aus dem Verzeichnis, sortiert nach Datum. Wähle deine Stadt und füge Termine mit einem Klick zu deinem Kalender hinzu.</p></div>
+<div class="filters" style="margin-bottom:28px"><div class="frow cal"><div class="field"><label for="calCity">Stadt</label><select class="select" id="calCity"><option value="">Alle Städte</option>{cal_opts}</select></div>
+<div class="field"><label id="calRL">Zeitraum</label><div class="seg" role="group" aria-labelledby="calRL" id="calRange"><button data-v="7" aria-pressed="true">7 Tage</button><button data-v="14" aria-pressed="false">14 Tage</button><button data-v="31" aria-pressed="false">Monat</button></div></div></div></div>
+<div id="calBox" class="cal-box"><p class="note">Lade Termine …</p></div>
+<noscript><p class="lede">Für den Kalender brauchst du JavaScript. Alle Gruppen mit ihren Zeiten findest du auf den <a href="/staedte/">Seiten der Städte</a>.</p></noscript>
+<p class="note" style="margin-top:28px">Im Kalender stehen {len(CALIT)} Gruppen mit festen, wiederkehrenden Terminen in {len(cal_cities)} Städten. Nicht jede Gruppe veröffentlicht feste Zeiten, deshalb ist die Liste noch nicht vollständig. Termine können ausfallen oder sich verschieben, bitte prüfe sie vor dem Besuch bei der Community. Fehlt ein Termin? <a href="/kontakt/?thema=eintragen">Schick uns eine kurze Nachricht</a>.</p>"""
+w('kalender/index.html',layout('kalender','/kalender/','Kalender: Communities und Treffen in deiner Stadt | FindeDeineLeute.de','Wiederkehrende Treffen aus deiner Stadt für die nächsten Tage: Run Clubs, Critical Mass, Stammtische und mehr. Mit Kalender-Export.',kal))
+
+# ---------- MERKLISTE ----------
+mk="""<div class="pagehead"><span class="eyebrow">Merkliste</span><h1 class="page-title">Deine gemerkten Communities</h1>
+<p class="page-sub">Tippe bei einer Community auf das Herz, dann landet sie hier. Du kannst die Liste als Link teilen, zum Beispiel per WhatsApp an Freunde, die mitkommen sollen.</p></div>
+<div id="mlBanner"></div><div id="mlBar" class="share-bar" hidden></div>
+<div class="grid" id="mlGrid"><p class="note">Lade Merkliste …</p></div>
+<p class="note" style="margin-top:28px">Deine Merkliste wird nur in deinem Browser gespeichert und nicht an uns übertragen. Wenn du den Browserspeicher löschst oder ein anderes Gerät nutzt, ist sie weg. Zum Mitnehmen kannst du sie als Link teilen.</p>"""
+w('merkliste/index.html',layout('merkliste','/merkliste/','Merkliste | FindeDeineLeute.de','Deine gemerkten Communities, zum Teilen als Link.',mk,noindex=True))
+
+# ---------- AUSWERTUNG ----------
+_cnt=collections.Counter(e['t'] for e in data if e['t']!='Online')
+_div={c:len({e['c'] for e in by_city[c]}) for c in by_city if c!='Online'}
+_top=_cnt.most_common(10)
+_topdiv=sorted(_div.items(),key=lambda kv:(-kv[1],-_cnt[kv[0]]))[:10]
+_catlead=[]
+for cid in CAT:
+    cc=collections.Counter(e['t'] for e in data if e['c']==cid and e['t']!='Online')
+    if cc:
+        n,v=cc.most_common(1)[0]
+        _catlead.append((cid,n,v,sum(cc.values())))
+_catlead.sort(key=lambda x:-x[3])
+def _li(a,b,c=''): return '<li class="row"><div class="rb"><h3>%s</h3></div><div class="ra"><span class="pill off">%s</span></div></li>'%(E(a),E(b))
+auswertung=f"""<div class="pagehead"><span class="eyebrow">Auswertung</span><h1 class="page-title">Was es wo gibt: Communities in deutschen Großstädten</h1>
+<p class="page-sub">Eine Auswertung der {format(len(data),',').replace(',','.')} Einträge im Verzeichnis von FindeDeineLeute.de. Stand {fdate(TODAY)}.</p></div>
+<div class="prose-l" style="max-width:760px"><p class="lede"><b>Wichtig vorab:</b> Die Zahlen zeigen, was im Verzeichnis steht, nicht, wie viele Gruppen es in der Stadt wirklich gibt. Das Verzeichnis wächst, manche Städte sind bereits sehr gut abgedeckt, andere erst am Anfang. Die Auswertung ist deshalb ein Zwischenstand und kein Städte-Ranking.</p></div>
+<section class="csec"><h2>Städte mit den meisten Einträgen</h2><ul class="rows">{''.join(_li(n,'%d Einträge'%v) for n,v in _top)}</ul></section>
+<section class="csec"><h2>Städte mit den meisten verschiedenen Kategorien</h2><ul class="rows">{''.join(_li(n,'%d von %d Kategorien'%(v,len(CAT))) for n,v in _topdiv)}</ul></section>
+<section class="csec"><h2>Wo es welche Art von Gruppe am häufigsten gibt</h2><ul class="rows">{''.join(_li(CAT[cid],'%s (%d von %d)'%(n,v,tot)) for cid,n,v,tot in _catlead)}</ul></section>
+<section class="csec"><h2>Online-Communities</h2><p class="lede">{len(onl_all)} Gruppen sind unabhängig vom Ort erreichbar. Die häufigsten Plattformen: {', '.join('%s (%d)'%(PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common(4) if k in PLAT)}.</p></section>
+<p class="note" style="margin-top:28px">Quelle: eigenes Verzeichnis aus öffentlich zugänglichen Angaben, alle zwei Wochen automatisch auf Erreichbarkeit geprüft. Wer die Zahlen zitieren möchte, nennt bitte FindeDeineLeute.de und verlinkt auf diese Seite. Rückfragen und Daten für Journalistinnen und Journalisten gibt es im <a href="/presse/">Pressebereich</a>.</p>"""
+w('auswertung/index.html',layout('auswertung','/auswertung/','Auswertung: Communities in deutschen Großstädten | FindeDeineLeute.de','Welche Arten von Gruppen es in welchen Großstädten gibt: Zwischenstand aus dem Verzeichnis von FindeDeineLeute.de.',auswertung))
+
+# ---------- PRESSE ----------
+presse=f"""<div class="pagehead"><span class="eyebrow">Presse</span><h1 class="page-title">Presse und Medien</h1>
+<p class="page-sub">Alles, was du für einen Beitrag über FindeDeineLeute.de brauchst: Kurzbeschreibung, Zahlen, Logo und Ansprechpartnerin.</p></div>
+<section class="csec"><h2>Kurzbeschreibung</h2><p class="lede">FindeDeineLeute.de ist ein kostenloses Verzeichnis für Gruppen und Communities in allen {len(cities)} deutschen Großstädten mit mehr als 100.000 Einwohnern sowie online. Wer neu in der Stadt ist, Gleichgesinnte sucht oder aus der Einsamkeit herauswill, findet Run Clubs, Hobbygruppen, Stammtische und Online-Gemeinschaften nach Stadt und Thema.</p>
+<p class="lede">Das Verzeichnis ist unabhängig, werbefrei und ohne Nutzerkonto nutzbar. Die Links werden alle zwei Wochen automatisch geprüft.</p></section>
+<section class="csec"><h2>Zahlen im Überblick</h2><ul class="rows"><li class="row"><div class="rb"><h3>{format(len(data),',').replace(',','.')} Einträge</h3><div class="sub">davon {len(onl_all)} Online-Communities</div></div></li><li class="row"><div class="rb"><h3>{len(cities)} Städte</h3><div class="sub">alle deutschen Großstädte über 100.000 Einwohner</div></div></li><li class="row"><div class="rb"><h3>{len(CAT)} Kategorien</h3><div class="sub">von Sport über Kunst bis Familie, Tiere und Reisen</div></div></li></ul>
+<p class="note" style="margin-top:14px">Details und Einschränkungen stehen in der <a href="/auswertung/">Auswertung</a>.</p></section>
+<section class="csec"><h2>Logo und Material</h2><p class="lede">Du darfst das Logo für redaktionelle Berichterstattung über FindeDeineLeute.de verwenden.</p>
+<div class="actions" style="display:flex;gap:10px;flex-wrap:wrap;margin-top:16px"><a class="btn ghost" href="/assets/logo-symbol.svg" download>Logo-Symbol (SVG)</a><a class="btn ghost" href="/assets/logo-findedeineleute.png" download>Logo mit Schriftzug (PNG)</a><a class="btn ghost" href="/assets/og.png" download>Vorschaubild (PNG)</a></div></section>
+<section class="csec"><h2>Ansprechpartnerin</h2><p class="lede">Nicole Emrich, Gründerin<br><a href="mailto:{CF_EMAIL}?subject=Presseanfrage%20FindeDeineLeute.de">{CF_EMAIL}</a></p>
+<p class="note" style="margin-top:12px">Gerne liefern wir Zahlen für einzelne Städte, Hintergründe zum Thema Einsamkeit und Gesprächspartner.</p></section>"""
+w('presse/index.html',layout('presse','/presse/','Presse | FindeDeineLeute.de','Pressebereich von FindeDeineLeute.de: Kurzbeschreibung, Zahlen, Logo und Kontakt.',presse))
+
+# ---------- NEWSLETTER ----------
+nl=f"""<div class="contact"><div><span class="eyebrow">Newsletter</span><h1 class="page-title">Neu in deiner Stadt</h1>
+<p class="page-sub">Einmal im Monat: neue Gruppen, Termine und ein Tipp, wie du leichter Anschluss findest. Kein Spam, jederzeit abbestellbar.</p>
+<div class="faq"><details><summary>Wie läuft die Anmeldung?</summary><p>Beim Absenden öffnet sich dein E-Mail-Programm mit einer fertigen Nachricht. Wir tragen dich dann ein und bestätigen das kurz per Antwort. Erst danach bekommst du den Newsletter.</p></details>
+<details><summary>Welche Daten braucht ihr?</summary><p>Deine E-Mail-Adresse und, wenn du magst, deine Stadt, damit wir passende Tipps schicken. Mehr nicht. Details stehen in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p></details>
+<details><summary>Wie bestelle ich ab?</summary><p>Schreib uns eine kurze Nachricht an {CF_EMAIL}, wir streichen dich sofort aus dem Verteiler.</p></details></div></div>
+<div class="formcard" id="nlBox"><form id="nlForm" class="stack-f" novalidate>
+<div class="field"><label for="nlMail">E-Mail-Adresse</label><input class="input" id="nlMail" name="email" type="email" autocomplete="email" required></div>
+<div class="field"><label for="nlCity">Deine Stadt (optional)</label><select class="select" id="nlCity"><option value="">Keine Angabe</option>{opts}</select></div>
+<label class="check"><input type="checkbox" id="nlOk" required> <span>Ich möchte den Newsletter von FindeDeineLeute.de erhalten und habe die <a href="/datenschutz/">Datenschutzerklärung</a> gelesen.</span></label>
+<p class="err" id="nlErr" role="alert"></p>
+<button class="btn primary" type="submit">Anmelden</button></form></div></div>"""
+w('newsletter/index.html',layout('newsletter','/newsletter/','Newsletter: Neu in deiner Stadt | FindeDeineLeute.de','Einmal im Monat neue Gruppen, Termine und Tipps für deine Stadt. Kostenlos und jederzeit abbestellbar.',nl))
+
 # ---------- 404 ----------
 w('404.html',layout('','/404.html','Seite nicht gefunden | FindeDeineLeute.de','Diese Seite gibt es nicht.','<div class="pagehead"><h1 class="page-title">Seite nicht gefunden</h1><p class="page-sub">Diese Adresse gibt es nicht. Vielleicht hilft dir die Suche weiter.</p><div style="display:flex;gap:10px;margin-top:28px;flex-wrap:wrap"><a class="btn primary" href="/entdecken/">Communities entdecken</a><a class="btn ghost" href="/staedte/">Alle Städte</a></div></div>',noindex=True))
 
 # ---------- Daten, Sitemap, robots, CNAME ----------
+
 pub=[]
+_keys=set()
 for e in data:
     d={k:v for k,v in e.items() if k!='s'}
     if e['s']=='criticalmass.de': d['a']=''
+    d['k']=stable_key(e)
+    assert d['k'] not in _keys,e['n']
+    _keys.add(d['k'])
     pub.append(d)
+w('calendar.json',json.dumps({'updated':LASTRUN or TODAY,'items':CALIT},ensure_ascii=False,separators=(',',':')))
 w('communities.json',json.dumps({"updated":LASTRUN or TODAY,"cities":cities,"items":pub},ensure_ascii=False,separators=(',',':')))
-urls=['/','/entdecken/','/staedte/','/online/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
+urls=['/','/entdecken/','/staedte/','/online/','/kalender/','/auswertung/','/presse/','/newsletter/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
 sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n'%(DOMAIN,u,TODAY) for u in urls)+'</urlset>\n'
 w('sitemap.xml',sm)
 w('robots.txt','User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n'%DOMAIN)

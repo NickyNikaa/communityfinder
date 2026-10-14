@@ -70,7 +70,7 @@ if($('#grid')){
   var cardHtml=function(c){
     var place=c.t==='Online'?'Online':c.t+(c.a?' · '+c.a:'');
     var pl=(c.f==='online'||c.p==='meetup'||c.p==='discord'||c.p==='telegram'||c.p==='whatsapp'||c.p==='instagram'||c.p==='facebook')&&c.p&&c.p!=='website'?'<span>'+esc(PLAT[c.p]||c.p)+'</span>':'';
-    return '<article class="card"><div class="tag"><span>'+(c.f==='online'?'Online':'Vor Ort')+'</span><span>'+esc(CAT[c.c]||c.c)+'</span>'+pl+'</div>'+
+    return '<article class="card">'+saveBtn(c)+'<div class="tag"><span>'+(c.f==='online'?'Online':'Vor Ort')+'</span><span>'+esc(CAT[c.c]||c.c)+'</span>'+pl+'</div>'+
      '<h3><button type="button" data-open="'+c.i+'">'+esc(c.n)+'</button></h3><div class="sub">'+esc(place)+'</div>'+
      '<p class="d">'+esc(c.x)+'</p><div class="note">'+esc(c.w||'')+'</div></article>';
   };
@@ -200,4 +200,104 @@ if(rail){$$('.rail-btn').forEach(function(b){b.addEventListener('click',function
 var ft=$('#fToggle'),fl=$('#filters');
 if(ft&&fl){ft.addEventListener('click',function(){var o=fl.classList.toggle('open');ft.setAttribute('aria-expanded',o);ft.textContent=o?'Filter ausblenden':'Filter anzeigen'})}
 })();
+
+/* ===== Merkliste ===== */
+var SK='fdl_saved';
+var HEART='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C1 8.6 2.8 5 6.2 5c2 0 3.4 1.1 4.1 2.3L12 9.6l1.7-2.3C14.4 6.1 15.8 5 17.8 5c3.4 0 5.2 3.6 3.8 6.8C19.5 16.4 12 21 12 21Z"/></svg>';
+function getSaved(){try{var a=JSON.parse(localStorage.getItem(SK)||'[]');return Array.isArray(a)?a:[]}catch(e){return[]}}
+function putSaved(a){try{localStorage.setItem(SK,JSON.stringify(a))}catch(e){}}
+function saveBtn(c){return '<button type="button" class="save" data-save="'+esc(c.k||'')+'" aria-pressed="false" aria-label="'+esc(c.n)+' merken">'+HEART+'</button>'}
+var toastT;
+function toast(msg,link){var t=$('#toast');if(!t){t=document.createElement('div');t.id='toast';t.className='toast';t.setAttribute('role','status');document.body.appendChild(t)}
+  t.innerHTML=esc(msg)+(link?' <a href="'+link[1]+'">'+esc(link[0])+'</a>':'');t.classList.add('on');clearTimeout(toastT);toastT=setTimeout(function(){t.classList.remove('on')},3200)}
+function syncSaved(){var s=getSaved();
+  $$('[data-save]').forEach(function(b){b.setAttribute('aria-pressed',s.indexOf(b.getAttribute('data-save'))>-1?'true':'false')});
+  var n=$('#savedCount');if(n){n.textContent=s.length?String(s.length):''}
+  var l=$('.saved-link');if(l)l.classList.toggle('has',s.length>0)}
+document.addEventListener('click',function(e){
+  var b=e.target.closest('[data-save]');if(!b)return;e.preventDefault();e.stopPropagation();
+  var k=b.getAttribute('data-save');if(!k)return;var s=getSaved(),i=s.indexOf(k);
+  if(i>-1){s.splice(i,1);putSaved(s);toast('Von der Merkliste entfernt')}else{s.push(k);putSaved(s);toast('Auf deiner Merkliste',['Ansehen','/merkliste/'])}
+  syncSaved();if(window.__mlRender)window.__mlRender();
+},true);
+syncSaved();
+var gr=$('#grid');if(gr&&window.MutationObserver){new MutationObserver(syncSaved).observe(gr,{childList:true})}
+
+/* ===== Kalender-Logik ===== */
+var DOW=['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag'],BYD=['MO','TU','WE','TH','FR','SA','SU'];
+function dim(d){return new Date(d.getFullYear(),d.getMonth()+1,0).getDate()}
+function matches(sc,d){var wd=(d.getDay()+6)%7;if(wd!==sc.d)return false;if(!sc.o.length)return true;
+  var n=Math.floor((d.getDate()-1)/7)+1,last=d.getDate()+7>dim(d);return sc.o.indexOf(n)>-1||(sc.o.indexOf(-1)>-1&&last)}
+function p2(n){return (n<10?'0':'')+n}
+function ymd(d){return d.getFullYear()+p2(d.getMonth()+1)+p2(d.getDate())}
+function occurrences(items,from,days){var out=[];for(var i=0;i<days;i++){var d=new Date(from.getFullYear(),from.getMonth(),from.getDate()+i);
+  items.forEach(function(it){it.sc.forEach(function(sc){if(matches(sc,d))out.push({d:d,it:it,sc:sc})})})}
+  out.sort(function(a,b){return a.d-b.d||(a.sc.t||'99').localeCompare(b.sc.t||'99')||a.it.n.localeCompare(b.it.n)});return out}
+function dayLabel(d,today){var diff=Math.round((d-today)/864e5);var base=DOW[(d.getDay()+6)%7]+', '+d.getDate()+'. '+['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'][d.getMonth()];return {t:base,today:diff===0,tom:diff===1}}
+function icsFor(it,sc){var first=null,t0=new Date();t0=new Date(t0.getFullYear(),t0.getMonth(),t0.getDate());
+  for(var i=0;i<62&&!first;i++){var d=new Date(t0.getFullYear(),t0.getMonth(),t0.getDate()+i);if(matches(sc,d))first=d}
+  if(!first)return null;
+  var rule=sc.o.length?'FREQ=MONTHLY;BYDAY='+sc.o.map(function(n){return n+BYD[sc.d]}).join(','):'FREQ=WEEKLY;BYDAY='+BYD[sc.d];
+  var ds,de;if(sc.t){var h=+sc.t.slice(0,2),m=sc.t.slice(3);ds='DTSTART:'+ymd(first)+'T'+p2(h)+m+'00';de='DTEND:'+ymd(first)+'T'+p2((h+1)%24)+m+'00'}
+  else{var nx=new Date(first.getFullYear(),first.getMonth(),first.getDate()+1);ds='DTSTART;VALUE=DATE:'+ymd(first);de='DTEND;VALUE=DATE:'+ymd(nx)}
+  function e2(s){return String(s).replace(/([,;\\])/g,'\\$1').replace(/\n/g,'\\n')}
+  var L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//FindeDeineLeute.de//DE','CALSCALE:GREGORIAN','BEGIN:VEVENT','UID:'+it.k+'-'+sc.d+'-'+sc.t+'@findedeineleute.de','DTSTAMP:'+ymd(new Date())+'T000000Z',ds,de,'RRULE:'+rule,'SUMMARY:'+e2(it.n),'DESCRIPTION:'+e2('Zeiten laut Verzeichnis: '+it.w+'. Bitte vorab bei der Community prüfen. '+(it.l||'https://findedeineleute.de/')),it.l?'URL:'+it.l:'','END:VEVENT','END:VCALENDAR'].filter(Boolean);
+  return L.join('\r\n')}
+function dlIcs(it,sc){var s=icsFor(it,sc);if(!s)return;var b=new Blob([s],{type:'text/calendar;charset=utf-8'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download=it.n.replace(/[^\w\-]+/g,'_').slice(0,40)+'.ics';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(u);a.remove()},500)}
+var CALIDX=[];
+function calHtml(occ,today,showCity){if(!occ.length)return '<p class="note">In diesem Zeitraum sind keine festen Termine eingetragen.</p>';
+  var days=[],cur=null;occ.forEach(function(o){var k=ymd(o.d);if(!cur||cur.k!==k){cur={k:k,d:o.d,l:[]};days.push(cur)}cur.l.push(o)});
+  return days.map(function(g){var lb=dayLabel(g.d,today);
+    return '<div class="cal-day"><h2>'+lb.t+(lb.today?' <span class="today">Heute</span>':lb.tom?' <span class="today">Morgen</span>':'')+'</h2>'+
+    g.l.map(function(o){CALIDX.push(o);var i=CALIDX.length-1,it=o.it;
+      return '<div class="cal-item"><time>'+(o.sc.t||'')+'</time><div><div class="nm">'+esc(it.n)+'</div><div class="sb">'+(showCity?esc(it.t)+' · ':'')+esc(it.w)+(it.a?' · '+esc(it.a):'')+'</div></div><div class="cal-actions">'+(it.l?'<a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="'+esc(it.l)+'">Zur Community</a>':'')+'<button type="button" class="btn ghost sm" data-ics="'+i+'">In Kalender</button>'+saveBtn(it)+'</div></div>'}).join('')+'</div>'}).join('')}
+document.addEventListener('click',function(e){var b=e.target.closest('[data-ics]');if(!b)return;var o=CALIDX[+b.getAttribute('data-ics')];if(o){dlIcs(o.it,o.sc);toast('Kalenderdatei geladen')}});
+/* Kalender-Seite */
+var cb=$('#calBox');
+if(cb){var CAL=[],RNG=7,SLUGBYCITY={};
+  var today=new Date();today=new Date(today.getFullYear(),today.getMonth(),today.getDate());
+  var calRender=function(){CALIDX=[];var sl=$('#calCity').value,items=CAL.filter(function(x){return !sl||x.slug===sl});
+    cb.innerHTML=calHtml(occurrences(items,today,RNG),today,!sl);syncSaved();
+    try{var u=new URL(location.href);if(sl)u.searchParams.set('stadt',sl);else u.searchParams.delete('stadt');history.replaceState(null,'',u)}catch(e){}};
+  fetch('/calendar.json').then(function(r){return r.json()}).then(function(j){
+    CAL=j.items;
+    var q=new URLSearchParams(location.search).get('stadt');if(q&&$('#calCity option[value="'+q+'"]'))$('#calCity').value=q;
+    calRender()}).catch(function(){cb.innerHTML='<p class="err">Der Kalender konnte nicht geladen werden. Bitte lade die Seite neu.</p>'});
+  $('#calCity').addEventListener('change',calRender);
+  $$('#calRange button').forEach(function(b){b.addEventListener('click',function(){RNG=+b.getAttribute('data-v');$$('#calRange button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});calRender()})});
+}
+/* Stadtseite: Diese Woche */
+var wb=$('#woche');
+if(wb){try{var wd=JSON.parse($('#weekData').textContent),td=new Date();td=new Date(td.getFullYear(),td.getMonth(),td.getDate());
+  var oc=occurrences(wd,td,7);if(oc.length){$('#weekList').innerHTML=calHtml(oc,td,false);wb.hidden=false;syncSaved()}}catch(e){}}
+
+/* ===== Merkliste-Seite ===== */
+var mg=$('#mlGrid');
+if(mg){var ALL=null,shared=null;
+  try{var lp=new URLSearchParams(location.search).get('l');if(lp)shared=lp.split(',').filter(Boolean).slice(0,200)}catch(e){}
+  var mlRender=function(){if(!ALL)return;var keys=shared||getSaved(),by={};ALL.items.forEach(function(c){by[c.k]=c});
+    var list=keys.map(function(k){return by[k]}).filter(Boolean),sm={};ALL.cities.forEach(function(c){sm[c[0]]=c[1]});
+    var ban=$('#mlBanner'),bar=$('#mlBar');
+    ban.innerHTML=shared?'<div class="banner"><span><b>Jemand hat dir eine Liste geschickt.</b> '+list.length+' Communities.</span><button type="button" class="btn primary sm" id="mlTake">Alle auf meine Merkliste</button></div>':'';
+    if(!list.length){mg.innerHTML='<div class="empty"><h3>Noch nichts gemerkt</h3><p>Tippe bei einer Community auf das Herz, dann siehst du sie hier.</p><a class="btn primary" href="/entdecken/">Communities entdecken</a></div>';bar.hidden=true;return}
+    mg.innerHTML=list.map(function(c){var place=c.t==='Online'?'Online':c.t+(c.a?' · '+c.a:'');
+      return '<article class="card">'+saveBtn(c)+'<div class="tag"><span>'+(c.f==='online'?'Online':'Vor Ort')+'</span><span>'+esc(c.t)+'</span></div><h3>'+(c.l?'<a target="_blank" rel="noopener noreferrer" href="'+esc(c.l)+'">'+esc(c.n)+'</a>':esc(c.n))+'</h3><div class="sub">'+esc(place)+'</div><p class="d">'+esc(c.x)+'</p>'+(c.w?'<div class="note">'+esc(c.w)+'</div>':'')+(sm[c.t]?'<div class="note"><a href="/'+sm[c.t]+'/#c'+c.i+'">Mehr aus '+esc(c.t)+'</a></div>':'')+'</article>'}).join('');
+    var url=location.origin+'/merkliste/?l='+list.map(function(c){return c.k}).join(',');
+    bar.hidden=false;bar.innerHTML=(shared?'':'')+'<button type="button" class="btn primary sm" id="mlCopy">Link kopieren</button><a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="https://wa.me/?text='+encodeURIComponent('Das sind Communities, die ich bei FindeDeineLeute.de gefunden habe: '+url)+'">Per WhatsApp teilen</a><a class="btn ghost sm" href="mailto:?subject='+encodeURIComponent('Communities für uns')+'&body='+encodeURIComponent('Schau mal, die habe ich bei FindeDeineLeute.de gefunden:\n'+url)+'">Per E-Mail</a>'+(navigator.share?'<button type="button" class="btn ghost sm" id="mlShare">Teilen</button>':'')+(shared?'':'<button type="button" class="btn ghost sm" id="mlClear">Liste leeren</button>');
+    $('#mlCopy').onclick=function(){if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){toast('Link kopiert')},function(){prompt('Link kopieren:',url)})}else{prompt('Link kopieren:',url)}};
+    var sh=$('#mlShare');if(sh)sh.onclick=function(){navigator.share({title:'Meine Communities',url:url}).catch(function(){})};
+    var cl=$('#mlClear');if(cl)cl.onclick=function(){putSaved([]);syncSaved();mlRender()};
+    var tk=$('#mlTake');if(tk)tk.onclick=function(){var s=getSaved();keys.forEach(function(k){if(s.indexOf(k)<0)s.push(k)});putSaved(s);shared=null;history.replaceState(null,'','/merkliste/');syncSaved();mlRender();toast('Zur Merkliste hinzugefügt')};
+    syncSaved()};
+  window.__mlRender=function(){if(!shared)mlRender()};
+  fetch('/communities.json').then(function(r){return r.json()}).then(function(j){ALL=j;mlRender()}).catch(function(){mg.innerHTML='<p class="err">Die Merkliste konnte nicht geladen werden. Bitte lade die Seite neu.</p>'});
+}
+
+/* ===== Newsletter ===== */
+var nf2=$('#nlForm');
+if(nf2){nf2.addEventListener('submit',function(e){e.preventDefault();var m=$('#nlMail').value.trim(),er=$('#nlErr');er.textContent='';
+  if(!MAIL.test(m)){er.textContent='Bitte gib eine gültige E-Mail-Adresse ein.';return}
+  if(!$('#nlOk').checked){er.textContent='Bitte stimme dem Erhalt des Newsletters zu.';return}
+  deliver('Newsletter-Anmeldung',[['E-Mail',m],['Stadt',$('#nlCity').value||'keine Angabe'],['Einwilligung','Ja, ich möchte den Newsletter erhalten und habe die Datenschutzerklärung gelesen.']],function(s){
+    ok($('#nlBox'),s==='error'?'Das hat nicht geklappt':'Fast geschafft',s==='error'?'Bitte schreib uns direkt eine E-Mail.':'Sende die vorbereitete E-Mail ab. Wir tragen dich ein und bestätigen kurz.',s==='mailto')})})}
 })();
