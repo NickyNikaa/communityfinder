@@ -110,7 +110,7 @@ for _cat in ['musik','tanz','spiele','wellbeing','lernen','foto','essen','leute'
     if _c: _f.append(_c[0]); _seen.add(_cat)
 feat=''.join(card(c).replace('<article class="card"','<article class="card c%d"'%(i%4),1) for i,c in enumerate(_f))
 mq=''.join('<a href="/%s/"><b>%s</b><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:24])
-cg=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:16])
+cg=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:15])
 chips=''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[i])) for i in ['sport','outdoor','wellbeing','tanz','musik','kunst','foto','spiele','gaming','lernen','sprachen','essen','business','tech','leute','queer','frauen','familie','tiere','mobil','reisen','engagement','studium'] if i in CAT)
 rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
@@ -126,7 +126,7 @@ start=f'''<div class="hero"><div class="blobs" aria-hidden="true"><i></i><i></i>
 <div class="chips">{chips}</div>
 <div class="stack" aria-label="Beispiele aus dem Verzeichnis">{stack}</div>
 </div>
-<div class="marquee" aria-label="Städte im Verzeichnis"><div class="mq-track">{mq}{mq}</div></div>
+
 <section class="section reveal"><div class="section-head"><div><span class="eyebrow live-eyebrow"><span class="live" aria-hidden="true"></span>Gerade beliebt</span><h2>Communities zum Reinschnuppern</h2></div><div class="rail-nav"><button type="button" class="rail-btn" data-dir="-1" aria-label="Zurück">&#8592;</button><button type="button" class="rail-btn" data-dir="1" aria-label="Weiter">&#8594;</button><a class="btn ghost" href="/entdecken/">Alle ansehen</a></div></div><div class="rail" id="rail">{feat}</div></section>
 <section class="section reveal"><div class="section-head"><div><span class="eyebrow">Online</span><h2>Communities ohne Ortsgrenze</h2></div><a class="btn ghost" href="/online/">Alle Online-Communities</a></div><div class="chips">{onchips}</div></section>
 <section class="section reveal"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>

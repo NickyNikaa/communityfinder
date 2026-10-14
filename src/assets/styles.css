@@ -549,3 +549,6 @@ article.prose h2,.prose h2{font-weight:600;text-transform:none;letter-spacing:-.
 .blobs i{opacity:.45}
 .hero .badge{white-space:nowrap}
 @media (max-width:560px){.hm{display:none}.hero .badge{font-size:12.5px}}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:140px;background:linear-gradient(180deg,rgba(252,251,248,0),var(--bg));pointer-events:none;z-index:0}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(214,51,108,.5)}70%{box-shadow:0 0 0 7px rgba(214,51,108,0)}100%{box-shadow:0 0 0 0 rgba(214,51,108,0)}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero::after{background:linear-gradient(180deg,rgba(20,18,17,0),var(--bg))}}
