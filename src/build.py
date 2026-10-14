@@ -134,6 +134,7 @@ for fn in sorted(glob.glob(ROOT+'/data/ext/*.txt')):
         wn='' if wn.lower() in ('laufend','') else fixde(wn)
         e=dict(n=fixde(n),c=c,t=city,a='',f=f,w=wn,x=fixde(x),l=u,s=host,q=2+(1 if wn else 0)+(1 if len(x)>60 else 0),g=c+' '+pf)
         e['p']=pf
+        e['_ext']=1
         out.append(e)
 
 # dedupe identical (name, city)
@@ -170,6 +171,21 @@ for e in res:
             e['m']=compact(s_['members'])+(' Mitglieder' if e['p']!='reddit' else ' Abonnenten')
     keep.append(e)
 res=keep
+# Erstes Auftreten je Eintrag (für automatische Neuigkeiten)
+FSF=ROOT+'/data/firstseen.json'
+try: FS=json.load(open(FSF,encoding='utf8'))
+except Exception: FS=None
+first_run=FS is None
+if first_run: FS={}
+TODAY_=datetime.date.today().isoformat()
+for e in res:
+    k=e['t']+'|'+e['n']
+    if k not in FS:
+        # Erstbefüllung: Bestand gilt als alt, Einträge aus data/ext als heute neu
+        FS[k]=TODAY_ if (not first_run or e.get('_ext')) else '2026-09-01'
+    e['fs']=FS[k]
+    e.pop('_ext',None)
+json.dump(FS,open(FSF,'w',encoding='utf8'),ensure_ascii=False,sort_keys=True,indent=0)
 print('wegen toter Links ausgeblendet',hidden)
 res.sort(key=lambda e:(-e['q'],e['t'],e['n'].lower()))
 for i,e in enumerate(res): e['i']=i+1

@@ -1,0 +1,23 @@
+Beiträge für den Bereich "Aktuell" liegen hier als Dateien mit der Endung .md.
+Dateiname: JJJJ-MM-TT-kurzer-titel.md
+Aufbau: oben ein Kopf zwischen zwei Linien aus drei Strichen, danach der Text.
+
+---
+titel: Laufabend im Englischen Garten
+datum: 2026-10-20
+stadt: München
+typ: veranstaltung
+beschreibung: Ein Satz für Google und die Vorschau.
+link: https://beispiel.de/veranstaltung
+event_start: 2026-10-25T18:00
+event_ort: Englischer Garten, München
+---
+Text in Absätzen, getrennt durch Leerzeilen.
+
+## Zwischenüberschrift
+
+Noch ein Absatz mit [internem Link](/muenchen/sport/).
+
+Erlaubte Typen: veranstaltung, news, thema, spotlight
+stadt: Name einer Stadt aus dem Verzeichnis, oder Online, oder leer für bundesweit.
+link und event_* sind optional.
