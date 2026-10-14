@@ -107,25 +107,22 @@ chips=''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[
 rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
 start=f'''<div class="hero">
-<div>
-<span class="eyebrow">Community Hub für Deutschland</span>
+<a class="badge" href="/entdecken/"><b>{format(N,',').replace(',','.')}</b> Communities in {len(cities)} Städten und online</a>
 <h1>Finde Menschen, die deine <em>Leidenschaft</em> teilen.</h1>
-<p class="lead">FindeDeineLeute.de ist das Verzeichnis für Communities in allen deutschen Großstädten und online. Ob Run Club, Hackerspace oder Gartennetzwerk: Such dir aus, wo du dazugehören willst.</p>
+<p class="lead">Das Verzeichnis für Communities in allen deutschen Großstädten und online. Ob Run Club, Hackerspace oder Gartennetzwerk: Such dir aus, wo du dazugehören willst.</p>
 <form class="search" action="/entdecken/" method="get" role="search">
-<input name="q" type="search" placeholder="Thema, z. B. Laufen" aria-label="Community suchen">
+<input name="q" type="search" placeholder="Wonach suchst du? z. B. Laufen" aria-label="Community suchen">
 <select name="stadt" class="select" aria-label="Stadt wählen"><option value="">Alle Städte</option>{opts}</select>
 <button class="btn primary" type="submit">Suchen</button>
 </form>
-<p class="note" style="margin-top:18px">{N-len(onl_all):,} Communities in {len(cities)} Städten und {len(onl_all)} Online-Gruppen</p>
-<div class="chips" style="margin-top:26px">{chips}</div>
-</div>
+<div class="chips">{chips}</div>
 <div class="stack" aria-label="Beispiele aus dem Verzeichnis">{stack}</div>
 </div>
 <section class="section"><div class="section-head"><div><span class="eyebrow">Gerade beliebt</span><h2>Communities zum Reinschnuppern</h2></div><a class="btn ghost" href="/entdecken/">Alle ansehen</a></div><div class="grid">{feat}</div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">Online</span><h2>Communities ohne Ortsgrenze</h2></div><a class="btn ghost" href="/online/">Alle Online-Communities</a></div><div class="chips">{onchips}</div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">Städte</span><h2>Die größten Städte</h2></div><a class="btn ghost" href="/staedte/">Alle {len(cities)} Städte</a></div><div class="citygrid">{cg}</div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">So funktioniert es</span><h2>In drei Schritten dabei</h2></div></div>
-<div class="steps"><div class="step"><h3>Suchen</h3><p>Wähle deine Stadt, ein Thema oder Online. Die Suche durchsucht Namen, Beschreibungen und Themen.</p></div><div class="step"><h3>Reinschnuppern</h3><p>Jeder Eintrag verlinkt auf die Community selbst und nennt die Quelle. Dort siehst du aktuelle Termine und kannst Kontakt aufnehmen.</p></div><div class="step"><h3>Dabeibleiben</h3><p>Gefällt es dir, wirst du Teil der Gruppe. Passt es nicht, probierst du die nächste aus.</p></div></div></section>
+<div class="steps"><div class="step"><h3>Suchen</h3><p>Wähle deine Stadt, ein Thema oder Online. Die Suche durchsucht Namen, Beschreibungen und Themen.</p></div><div class="step"><h3>Reinschnuppern</h3><p>Jeder Eintrag verlinkt auf die Community selbst. Dort siehst du aktuelle Termine und kannst Kontakt aufnehmen.</p></div><div class="step"><h3>Dabeibleiben</h3><p>Gefällt es dir, wirst du Teil der Gruppe. Passt es nicht, probierst du die nächste aus.</p></div></div></section>
 <section class="section"><div class="section-head"><div><span class="eyebrow">Ratgeber</span><h2>Tipps für den Einstieg</h2></div><a class="btn ghost" href="/ratgeber/">Alle Beiträge</a></div><div class="grid">{rg}</div></section>
 <section class="section"><div class="band"><div><h2>Du leitest eine Community?</h2><p>Trag deine Gruppe bei FindeDeineLeute.de ein und werde von Menschen gefunden, die genau dein Thema suchen. Schick uns eine kurze Anfrage, wir melden uns bei dir.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
 org={"@context":"https://schema.org","@type":"Organization","name":"FindeDeineLeute.de","url":DOMAIN+"/","logo":DOMAIN+"/assets/favicon.svg"}
