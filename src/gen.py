@@ -78,13 +78,14 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <div class="cols">
 <div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li><li><a href="/ratgeber/">Ratgeber</a></li><li><a href="/aktuell/">Aktuell</a></li><li><a href="/kalender/">Kalender</a></li><li><a href="/merkliste/">Merkliste</a></li><li><a href="/auswertung/">Auswertung</a></li></ul></div>
 <div><h4>Städte</h4><ul>{topc}</ul></div>
-<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/presse/">Presse</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li></ul></div>
+<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/presse/">Presse</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li><li><button type="button" class="linkbtn" data-consent-open>Cookie-Einstellungen</button></li></ul></div>
 </div>
 <div class="legal">© {datetime.date.today().year} FindeDeineLeute.de. Die Einträge stammen aus öffentlich zugänglichen Verzeichnissen und verlinken auf die jeweiligen Communities.</div>
 </footer>
 </div>
 <script src="/assets/config.js"></script>
 <script src="/assets/app.js" defer></script>
+<script src="/assets/consent.js" defer></script>
 </body>
 </html>
 '''
@@ -510,7 +511,7 @@ ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärun
 <h2>1. Verantwortliche Stelle</h2>
 <p>Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br>Nicole Emrich, Ammerndorfer Straße 22, 90513 Zirndorf<br>E-Mail: <a href="mailto:nicky.nikaaa@gmail.com">nicky.nikaaa@gmail.com</a></p>
 <h2>2. Grundsätzliches</h2>
-<p>Der Schutz deiner personenbezogenen Daten ist mir wichtig. FindeDeineLeute.de kommt ohne Nutzerkonten, ohne Cookies und ohne Tracking- oder Analyse-Tools aus. Die Merkliste speichert deine Auswahl lokal in deinem Browser (siehe Abschnitt 5a). Es werden nur die Daten verarbeitet, die technisch zum Ausliefern und Anzeigen der Seite nötig sind.</p>
+<p>Der Schutz deiner personenbezogenen Daten ist mir wichtig. FindeDeineLeute.de kommt ohne Nutzerkonten, ohne Cookies und aktuell ohne Tracking- oder Analyse-Tools aus. Die Merkliste speichert deine Auswahl lokal in deinem Browser (siehe Abschnitt 5a). Es werden nur die Daten verarbeitet, die technisch zum Ausliefern und Anzeigen der Seite nötig sind.</p>
 <h2>3. Hosting und Server-Logfiles</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc. (88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). Beim Aufruf der Seite verarbeitet GitHub aus technischen Gründen automatisch Zugriffsdaten, darunter deine IP-Adresse, Datum und Uhrzeit des Zugriffs sowie die angeforderte Datei. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer sicheren und funktionsfähigen Bereitstellung der Website).</p>
 <h2>4. Schriften</h2>
@@ -524,7 +525,8 @@ ds='''<div class="legalwrap prose-l"><h1 class="page-title">Datenschutzerklärun
 <h2>6. Externe Links</h2>
 <p>FindeDeineLeute.de verlinkt auf externe Seiten der aufgeführten Communities und Quellen. Sobald du einen solchen Link anklickst, verlässt du diese Website. Für die Datenverarbeitung auf den Zielseiten gelten deren eigene Datenschutzbestimmungen.</p>
 <h2>7. Cookies, Tracking, Analyse</h2>
-<p>Diese Website setzt keine Cookies (die lokal gespeicherte Merkliste ist kein Cookie), verwendet keine Analyse-, Tracking- oder Werbe-Tools und bindet keine Social-Media-Plugins ein.</p>
+<p>Diese Website setzt keine Cookies (die lokal gespeicherte Merkliste ist kein Cookie), verwendet aktuell keine Analyse-, Tracking- oder Werbe-Tools und bindet keine Social-Media-Plugins ein.</p>
+<p>Beim ersten Besuch zeigt die Seite ein Einwilligungs-Banner. Deine Auswahl wird lokal in deinem Browser gespeichert (Schlüssel „fdl_consent“, ohne Übertragung an einen Server) und dient nur dazu, deine Entscheidung zu merken. Sie ist technisch notwendig und erfordert keine Einwilligung (§ 25 Abs. 2 Nr. 2 TDDDG). Optionale Dienste wie eine anonyme Reichweitenmessung würden erst nach deiner Zustimmung aktiviert. Du kannst deine Auswahl jederzeit über „Cookie-Einstellungen“ im Footer ändern oder widerrufen.</p>
 <h2>8. Übermittlung in Drittländer</h2>
 <p>GitHub hat seinen Sitz in den USA. Eine Datenübermittlung dorthin erfolgt nur, soweit sie für die Auslieferung der Seiteninhalte erforderlich ist. Der Anbieter stützt sich dabei in der Regel auf geeignete Garantien, zum Beispiel EU-Standardvertragsklauseln oder das EU-US Data Privacy Framework.</p>
 <h2>9. Deine Rechte</h2>
