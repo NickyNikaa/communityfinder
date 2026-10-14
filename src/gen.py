@@ -323,7 +323,7 @@ def md(t):
         if blk.startswith('## '): out.append('<h2>%s</h2>'%E(blk[3:]))
         else:
             h=E(blk)
-            h=_re.sub(r'\[([^\]]+)\]\((/[^)]*)\)',lambda m:'<a href="%s">%s</a>'%(m.group(2).replace('&amp;','&'),m.group(1)),h)
+            h=_re.sub(r'\[([^\]]+)\]\(((?:/|https?://)[^)]*)\)',lambda m:'<a href="%s"%s>%s</a>'%(m.group(2).replace('&amp;','&'),' target="_blank" rel="noopener noreferrer"' if m.group(2).startswith('http') else '',m.group(1)),h)
             out.append('<p>%s</p>'%h)
     return '\n'.join(out)
 def fdate(d):

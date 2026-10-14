@@ -121,9 +121,114 @@ CATINFO = {
   'Bei vielen Hochschulgruppen ja, bei anderen sind Gäste willkommen. Die Beschreibung oder eine kurze Nachfrage klärt das.'),
 }
 
+
 # Ratgeber-Beiträge. Markup: '## ' Zwischenüberschrift, Leerzeile trennt Absätze, [Text](/pfad/) Links.
 ARTICLES = [
- dict(slug='neu-in-der-stadt-leute-kennenlernen', date='2026-10-15',
+ dict(slug='einsamkeit-in-deutschland-zahlen-und-ursachen', date='2026-10-14',
+  title='Einsamkeit in Deutschland: Zahlen, Ursachen und was die Forschung sagt',
+  desc='Wie viele Menschen sind einsam, warum belastet Einsamkeit die Gesundheit und was unterscheidet Einsamkeit vom Alleinsein? Ein Überblick mit Studien.',
+  lead='Einsamkeit ist kein Randthema. Sie betrifft Menschen jeden Alters, und die Forschung zeigt, dass sie nicht nur schmerzt, sondern auch die Gesundheit beeinflusst. Hier ein Überblick über die wichtigsten Zahlen und Erkenntnisse.',
+  body='''## Einsamkeit ist nicht Alleinsein
+
+Alleinsein beschreibt eine Situation: Du bist ohne andere Menschen. Einsamkeit beschreibt ein Gefühl: Du erlebst, dass deine Beziehungen weniger oder weniger tief sind, als du dir wünschst. Man kann allein sein und sich wohlfühlen, und man kann unter vielen Menschen einsam sein. Deshalb hilft es selten, einfach "mehr Leute zu treffen". Entscheidend ist, ob du dich verbunden fühlst.
+
+## Wie viele Menschen sind betroffen?
+
+Das Einsamkeitsbarometer des Bundesfamilienministeriums, das auf Daten des Sozio-oekonomischen Panels beruht, zeigt: 2017 lag der Anteil der Erwachsenen mit erhöhter Einsamkeitsbelastung bei 7,6 Prozent, im ersten Pandemiejahr 2020 bei 28,2 Prozent und 2021 bei 11,3 Prozent. Der Wert ging also nach dem Höhepunkt zurück, blieb aber über dem Niveau vor der Pandemie. 2020 waren junge Erwachsene zwischen 18 und 29 mit 31,8 Prozent stärker betroffen als Menschen über 75 mit 22,8 Prozent. Das [Einsamkeitsbarometer 2024](https://www.bmbfsfj.bund.de/resource/blob/240528/5a00706c4e1d60528b4fed062e9debcc/einsamkeitsbarometer-2024-data.pdf) macht auch klar: Einsamkeit ist nicht allein ein Thema des Alters.
+
+Weltweit schätzt die Weltgesundheitsorganisation, dass etwa jeder sechste Mensch von Einsamkeit betroffen ist. Unter den 13 bis 29 Jährigen geben laut dem [WHO Bericht von 2025](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death) 17 bis 21 Prozent an, sich einsam zu fühlen. Die WHO bringt Einsamkeit mit etwa 100 Todesfällen pro Stunde in Verbindung, das sind mehr als 871.000 pro Jahr. Solche Zahlen beschreiben Zusammenhänge und keine einfache Ursache, sie zeigen aber, wie ernst das Thema genommen wird.
+
+## Was Einsamkeit mit der Gesundheit macht
+
+Die Psychologin Julianne Holt-Lunstad und ihr Team werteten 2015 in einer [Meta-Analyse](https://scholarsarchive.byu.edu/facpub/7516) Studien zu Einsamkeit, sozialer Isolation und Sterblichkeit aus. Das Risiko früher zu sterben war bei Einsamkeit um etwa 26 Prozent erhöht, bei sozialer Isolation um etwa 29 Prozent und beim Alleinleben um etwa 32 Prozent. Die Ergebnisse waren über Geschlecht und Weltregion hinweg ähnlich.
+
+Auch die [Harvard Study of Adult Development](https://hsph.harvard.edu/health-happiness/news/the-good-life-a-discussion-with-dr-robert-waldinger/) läuft seit 1938 und kommt zu einem ähnlichen Bild: Menschen mit engen, warmen Beziehungen bleiben im Schnitt gesünder und zufriedener. Auch im Einsamkeitsbarometer zeigt sich ein Zusammenhang mit der psychischen Gesundheit: 2021 hatten knapp 72 Prozent der einsamkeitsbelasteten Menschen eine unterdurchschnittliche psychische Gesundheit. Ob Einsamkeit die Ursache ist oder auch eine Folge, lässt sich daraus nicht sicher ablesen, vermutlich verstärken sich beide gegenseitig.
+
+## Wer ist besonders betroffen?
+
+Die Einsamkeitsforschung nennt unter anderem Menschen in Umbruchphasen (Umzug, Trennung, Jobverlust, Berufseinstieg), Menschen mit wenig Einkommen, Erwerbslose, pflegende Angehörige und Menschen, die einer Minderheit angehören. Die Fokusanalyse im [Einsamkeitsbarometer 2025](https://www.bmbfsfj.bund.de/resource/blob/266140/405c86f87b9ce075738f06b7f87fd12a/einsamkeitsbarometer-2025-data.pdf) fand zum Beispiel bei LSBTIQ* Personen mit 16,1 Prozent eine höhere Belastung als bei der Gesamtbevölkerung. Das ist eine Frage der Lebensumstände, nicht der Persönlichkeit.
+
+## Was dagegen hilft
+
+Einsamkeit lässt sich selten im Kopf lösen, sie braucht Begegnungen. Wiederkehrende Treffen mit denselben Menschen, ein gemeinsames Thema und niedrige Einstiegshürden sind erfahrungsgemäß der leichteste Weg. Genau dafür gibt es Gruppen: Du findest sie in unserer [Suche](/entdecken/) oder in den [Online-Communities](/online/). Wie die innere Spirale entsteht, die den ersten Schritt so schwer macht, liest du im Beitrag [Warum Einsamkeit sich selbst verstärkt](/ratgeber/einsamkeit-teufelskreis-durchbrechen/).
+
+## Wenn es dich stark belastet
+
+Wenn du dich über längere Zeit niedergeschlagen, hoffnungslos oder wie abgeschnitten fühlst, such dir bitte Unterstützung. Die Telefonseelsorge ist kostenlos und rund um die Uhr erreichbar unter 0800 111 0 111 und 0800 111 0 222, und deine Hausärztin oder dein Hausarzt kann dich weitervermitteln. Dieser Beitrag ersetzt keine Beratung oder Behandlung.'''),
+ dict(slug='einsamkeit-teufelskreis-durchbrechen', date='2026-10-14',
+  title='Warum Einsamkeit sich selbst verstärkt und wie du den Kreislauf durchbrichst',
+  desc='Einsamkeit verändert, wie wir andere wahrnehmen. Was die Psychologie über den Teufelskreis weiß und welche kleinen Schritte helfen.',
+  lead='Je länger man einsam ist, desto schwerer fällt oft der Kontakt. Das ist keine Schwäche, sondern ein bekanntes psychologisches Muster. Wer es kennt, kann es unterbrechen.',
+  body='''## Einsamkeit als Warnsignal
+
+Nach der evolutionären Theorie von John und Stephanie Cacioppo ist Einsamkeit ein Signal, ähnlich wie Hunger: Sie zeigt an, dass uns Verbindung fehlt, und drängt uns dazu, sie zu suchen. Das Problem beginnt, wenn das Signal lange anhält. Dann verändert sich, wie wir andere wahrnehmen.
+
+## Was die Forschung zeigt
+
+Ein Team um Kory Floyd untersuchte 2022 im Fachjournal OBM Neurobiology, wie Einsamkeit Wahrnehmung beeinflusst ([Studie](https://experts.arizona.edu/en/publications/examining-the-social-signaling-and-person-perception-functions-of/)). 480 Beobachtende sahen Videos von Menschen, die sich vorstellten und zuvor ihre Einsamkeit eingeschätzt hatten. Zwei Befunde fallen auf. Erstens erkannten die Beobachtenden einsame Personen häufiger richtig, als der Zufall erwarten lässt, es gibt also Signale im Auftreten, die andere wahrnehmen. Zweitens bewerteten Beobachtende, die selbst einsamer waren, die Sprechenden negativer. Einsamkeit färbt also den Blick auf andere.
+
+## Der Kreislauf in vier Schritten
+
+Wer sich einsam fühlt, rechnet eher mit Ablehnung und hält sich zurück. Zurückhaltung wirkt auf andere distanziert, und Kontakte bleiben aus. Das bestätigt das Gefühl, nicht dazuzugehören, und der Rückzug wird größer. Dieser Kreislauf ist kein Charakterfehler, sondern eine nachvollziehbare Reaktion. Gut ist, dass jeder Schritt eine Stelle bietet, an der man ihn unterbrechen kann.
+
+## So unterbrichst du ihn
+
+Nimm deine Annahmen nicht als Tatsachen. Der Gedanke "Die wollen mich nicht dabeihaben" ist eine Vermutung, die du bei einem Treffen prüfen kannst. Gehe in kleinen Schritten vor und setze dir Ziele wie "Ich bleibe eine Stunde" oder "Ich spreche mit zwei Personen". Such dir Formate mit Struktur, etwa eine Laufgruppe oder einen Spieleabend, dort gibt es Gesprächsstoff. Und plane Wiederholung ein: Das erste Treffen fühlt sich oft schwer an, das dritte deutlich leichter. Wie du den ersten Besuch vorbereitest, steht im Beitrag [Allein zum ersten Treffen](/ratgeber/allein-zum-ersten-treffen/).
+
+## Sei freundlich zu dir
+
+Viele erklären sich ihre Einsamkeit mit eigenen Mängeln. Die Forschung sieht eher Lebensumstände und Muster als Ursache. Sprich mit jemandem, wenn dich das Thema belastet, und hol dir bei anhaltender Niedergeschlagenheit professionelle Hilfe, zum Beispiel über die Hausarztpraxis oder die Telefonseelsorge unter 0800 111 0 111.'''),
+ dict(slug='kleine-kontakte-grosse-wirkung', date='2026-10-14',
+  title='Kleine Kontakte, große Wirkung: Warum Gespräche mit Fremden guttun',
+  desc='Auch flüchtige Gespräche mit Bekannten und Fremden heben die Stimmung. Was die Forschung zu schwachen Bindungen sagt und wie du es ausprobierst.',
+  lead='Nicht jeder Kontakt muss tief sein. Studien zeigen, dass auch kurze Begegnungen mit Bekannten und Fremden das Wohlbefinden steigern. Das nimmt den Druck, sofort Freundschaften zu schließen.',
+  body='''## Was schwache Bindungen sind
+
+Schwache Bindungen sind Menschen, die du kennst oder siehst, ohne eng befreundet zu sein: die Barista, die Nachbarin, der Mann aus dem Lauftreff. Die Psychologin Gillian Sandstrom von der University of Sussex untersucht, was solche Kontakte bewirken. In einer Studie aus dem Jahr 2014 zählten etwa 50 Teilnehmende sechs Tage lang ihre Gespräche. Wer mehr Gespräche mit schwachen Bindungen führte, war im Schnitt zufriedener, und an Tagen mit mehr solchen Kontakten ging es jedem Einzelnen besser. Diese Befunde schildert der Beitrag von [NPR](https://www.npr.org/sections/goatsandsoda/2023/08/23/1193148718/why-a-strangers-hello-can-do-more-than-just-brighten-your-day).
+
+## Auch kleine Begegnungen zählen
+
+In einer späteren Studie in einem Café in Vancouver waren Menschen, die kurz mit der Person am Tresen sprachen, besser gelaunt und fühlten sich stärker zugehörig. Hanne Collins von der Harvard Business School fand in Daten aus acht Ländern, dass Menschen zufriedener waren, wenn ihre täglichen Gespräche eine größere Vielfalt an Beziehungen umfassten. Der Psychiater Robert Waldinger, der die Harvard Study of Adult Development leitet, rät dazu, mit Smalltalk anzufangen, weil die meisten Menschen positiv darauf reagieren.
+
+## Warum das für dich wichtig ist
+
+Wenn dir enge Freundschaften fehlen, wirkt der Weg dorthin riesig. Schwache Bindungen sind ein Zwischenschritt: Sie geben das Gefühl, gesehen zu werden, und können sich mit der Zeit vertiefen. Wer einmal in der Woche dieselbe Gruppe sieht, wird vom Gesicht zur Bekanntschaft und manchmal zum Freund.
+
+## Drei Dinge zum Ausprobieren
+
+Sprich diese Woche an einem festen Ort mit jemandem, den du öfter siehst, zum Beispiel im Café oder im Hausflur. Geh zu einer Gruppe mit festem Termin, etwa einer [Laufgruppe](/ratgeber/run-club-finden-und-einsteigen/) oder einem Stammtisch, und zähle dein Ziel in Gesprächen, nicht in Freundschaften. Und stelle nach dem ersten Satz eine Frage, die zum Ort passt, etwa nach dem Weg, dem Spiel oder dem Projekt.
+
+Eine Gruppe in deiner Stadt findest du über die [Suche](/entdecken/) oder die [Städteübersicht](/staedte/).'''),
+ dict(slug='einsamkeit-podcasts-studien-quellen', date='2026-10-14',
+  title='Einsamkeit verstehen: Podcasts, Studien und Anlaufstellen',
+  desc='Hörenswerte Podcasts, wichtige Studien und hilfreiche Anlaufstellen rund um das Thema Einsamkeit, deutschsprachig und international.',
+  lead='Wer sich mit Einsamkeit beschäftigen möchte, findet inzwischen gute Podcasts, Berichte und Studien. Hier eine Auswahl, die wir selbst gelesen und gehört haben.',
+  body='''## Podcasts auf Deutsch
+
+In der Folge [#168 des Podcasts Rebellisch gesund](https://www.podcast.de/episode/703843997/168-einsamkeit-warum-sie-uns-alle-betrifft-mit-einsamkeitsforscherin-prof-dr-maike-luhmann) spricht die Einsamkeitsforscherin Prof. Dr. Maike Luhmann darüber, wie Einsamkeit entsteht, warum sie in eine negative Spirale führen kann und was davor schützt. Die Folge dauert gut eine Stunde.
+
+Die Bundeszentrale für politische Bildung beschäftigt sich im Landwärts-Podcast "Einsam, und jetzt?" mit gesellschaftlichen Folgen. In der ersten Folge, [Einsamkeit und Demokratie](https://www.bpb.de/mediathek/podcasts/571694/01-einsamkeit-und-demokratie/) (Oktober 2025), geht es unter anderem um Risikofaktoren und darum, wie Einsamkeit mit politischem Rückzug zusammenhängen kann.
+
+Der Podcast Gesundheit zum Hören der Techniker Krankenkasse hat eine Folge zum Thema: [Einsamkeit und ihre gesundheitlichen Folgen](https://www.tk.de/techniker/gesundheit-foerdern/digitale-gesundheit/podcasts/einsamkeit-und-ihre-gesundheitlichen-folgen-2149090) mit der Psychologin Dr. Susanne Bücker, unter anderem dazu, wann Einsamkeit zum Gesundheitsrisiko wird.
+
+## Zum Weiterhören auf Englisch
+
+Robert Waldinger, der die Harvard Study of Adult Development leitet, spricht im TED Format über die Frage, was ein gutes Leben ausmacht: [How to lead a happier, more fulfilling life](https://www.ted.com/pages/how-to-lead-a-happier-more-fulfilling-life-with-dr.-robert-waldinger). Seine Kernaussage: Die Qualität unserer Beziehungen ist ein starker Hinweis darauf, wie gesund und zufrieden wir alt werden.
+
+## Berichte und Studien
+
+Das [Einsamkeitsbarometer des Bundesfamilienministeriums](https://www.bmbfsfj.bund.de/resource/blob/240528/5a00706c4e1d60528b4fed062e9debcc/einsamkeitsbarometer-2024-data.pdf) fasst die Entwicklung von Einsamkeit in Deutschland über Jahrzehnte zusammen. Spätere Ausgaben vertiefen einzelne Gruppen, die [Ausgabe 2025](https://www.bmbfsfj.bund.de/resource/blob/266140/405c86f87b9ce075738f06b7f87fd12a/einsamkeitsbarometer-2025-data.pdf) zum Beispiel LSBTIQ* Personen, die [Ausgabe 2026](https://www.bmbfsfj.bund.de/bmbfsfj/service/publikationen/einsamkeitsbarometer-2026-286390) Menschen mit Behinderungen.
+
+Die Weltgesundheitsorganisation hat im Juni 2025 einen [Bericht zu sozialer Verbundenheit](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death) veröffentlicht. Die bekannteste Meta-Analyse zu Einsamkeit und Sterblichkeit stammt von [Holt-Lunstad und Kollegen (2015)](https://scholarsarchive.byu.edu/facpub/7516). Über Gespräche mit Fremden berichtet [NPR](https://www.npr.org/sections/goatsandsoda/2023/08/23/1193148718/why-a-strangers-hello-can-do-more-than-just-brighten-your-day), über die Wahrnehmung anderer bei Einsamkeit eine [Studie von Floyd und Kollegen (2022)](https://experts.arizona.edu/en/publications/examining-the-social-signaling-and-person-perception-functions-of/).
+
+## Anlaufstellen, wenn es dich belastet
+
+Die Telefonseelsorge ist kostenlos und rund um die Uhr erreichbar, unter 0800 111 0 111 und 0800 111 0 222. Deine Hausarztpraxis kann dich bei anhaltender Niedergeschlagenheit weitervermitteln. Dieser Beitrag ersetzt keine Beratung oder Behandlung.
+
+## Vom Wissen zum Handeln
+
+Verstehen hilft, aber Verbindung entsteht durch Begegnung. Stöbere in unserem [Verzeichnis](/entdecken/), wähle eine Gruppe mit festem Termin und geh ein zweites Mal hin. Und wenn du eine Gruppe leitest und möchtest, dass andere dich finden, lies [Eigene Community starten](/ratgeber/eigene-community-starten/).'''),
+ dict(slug='neu-in-der-stadt-leute-kennenlernen', date='2026-10-14',
   title='Neu in der Stadt: 9 Wege, Leute kennenzulernen',
   desc='Neu in der Stadt und niemand da? Neun erprobte Wege, wie du Anschluss findest: von Stammtischen über Sportgruppen bis zu Online-Communities.',
   lead='Der Umzug ist geschafft, die Kartons sind ausgepackt, aber niemand kennt dich. Das geht fast allen so. Mit etwas Planung findest du in wenigen Wochen Anschluss, ohne dich zu verstellen.',
@@ -164,7 +269,7 @@ Wenn dich jemand zu einem Treffen einlädt, sag ja. Die zweite Einladung kommt m
 Freundschaften brauchen Wochen bis Monate. Rechne nicht damit, nach dem ersten Abend neue beste Freunde zu haben. Wenn du dranbleibst, entstehen Bekanntschaften, aus denen oft mehr wird.
 
 Alle Städte findest du in der [Städteübersicht](/staedte/), dort kannst du direkt in deiner Stadt nach Gruppen suchen.'''),
- dict(slug='run-club-finden-und-einsteigen', date='2026-10-15',
+ dict(slug='run-club-finden-und-einsteigen', date='2026-10-14',
   title='Run Club finden und einsteigen: Das solltest du wissen',
   desc='Wie funktioniert ein Run Club, brauche ich Vorkenntnisse und was kostet das? Antworten auf die häufigsten Einsteigerfragen.',
   lead='Run Clubs sind in vielen Städten ein beliebter Treffpunkt: gemeinsam laufen, danach Kaffee trinken. Die gute Nachricht: Du musst dafür nicht schnell sein.',
@@ -195,7 +300,7 @@ Komm ein paar Minuten früher, sag, dass du neu bist, und frag nach der Strecke.
 ## Was, wenn es mir nicht gefällt?
 
 Dann probierst du den nächsten Club. In größeren Städten gibt es mehrere Gruppen mit unterschiedlicher Stimmung, von sportlich bis gemütlich. Alle Gruppen findest du auf den Seiten der Städte, zum Beispiel in der [Städteübersicht](/staedte/).'''),
- dict(slug='hobby-gruppe-finden', date='2026-10-15',
+ dict(slug='hobby-gruppe-finden', date='2026-10-14',
   title='Die passende Hobby-Gruppe finden: So gehst du vor',
   desc='Wie du aus hunderten Angeboten die Gruppe findest, die zu dir passt, und woran du eine gute Community erkennst.',
   lead='Es gibt Gruppen für fast alles, und genau das macht die Auswahl schwer. Mit diesen Schritten findest du schneller eine Gruppe, in der du dich wohlfühlst.',
@@ -222,7 +327,7 @@ Schau, ob es aktuelle Termine oder Beiträge gibt. Gruppen ohne Aktivität seit 
 ## Sei geduldig mit dir
 
 Nicht jede Gruppe passt beim ersten Mal. Wenn du dich unwohl fühlst, heißt das nicht, dass du das Problem bist. Probier die nächste, die Auswahl ist groß.'''),
- dict(slug='online-communities-richtig-nutzen', date='2026-10-15',
+ dict(slug='online-communities-richtig-nutzen', date='2026-10-14',
   title='Online-Communities richtig nutzen: Discord, Telegram und Reddit',
   desc='Wie funktionieren Discord-Server, Telegram-Gruppen und Subreddits, wie findest du sie und wie bleibst du dabei sicher?',
   lead='Nicht jede Community trifft sich im Park. Auf Discord, Telegram und Reddit finden sich Menschen mit gleichen Interessen, egal wo sie wohnen. Hier erfährst du, worin sich die Plattformen unterscheiden.',
@@ -249,7 +354,7 @@ Gib persönliche Daten wie Adresse oder Telefonnummer nicht in offenen Gruppen p
 ## Vom Chat zum echten Treffen
 
 Viele lokale Gruppen verabreden Treffen im Chat. Wenn du dich online wohlfühlst, ist das ein sanfter Einstieg. Wie du dann den ersten Schritt vor Ort machst, liest du im Beitrag [Allein zum ersten Treffen](/ratgeber/allein-zum-ersten-treffen/).'''),
- dict(slug='allein-zum-ersten-treffen', date='2026-10-15',
+ dict(slug='allein-zum-ersten-treffen', date='2026-10-14',
   title='Allein zum ersten Treffen: Tipps gegen die Hemmschwelle',
   desc='Aufgeregt vor dem ersten Gruppentreffen? Mit diesen sechs Tipps wird der erste Besuch leichter.',
   lead='Allein in eine Gruppe zu gehen, kostet Überwindung. Das geht fast jedem so, und es gibt einfache Wege, den ersten Besuch zu erleichtern.',
@@ -278,7 +383,7 @@ Zum Beispiel: mit zwei Personen sprechen oder eine Stunde bleiben. Wenn du danac
 Das erste Treffen fühlt sich fast immer holprig an. Beim zweiten Mal kennst du Gesichter, und es wird merklich leichter. Gib einer Gruppe deshalb mindestens zwei Chancen.
 
 Eine Gruppe in deiner Stadt findest du über die [Städteübersicht](/staedte/) oder die [Suche](/entdecken/).'''),
- dict(slug='verein-oder-lockere-gruppe', date='2026-10-15',
+ dict(slug='verein-oder-lockere-gruppe', date='2026-10-14',
   title='Verein oder lockere Gruppe: Was passt zu dir?',
   desc='Wo liegen die Unterschiede zwischen Verein, Stammtisch und offener Community, und wie entscheidest du dich?',
   lead='Manche Gruppen sind eingetragene Vereine, andere treffen sich einfach so. Beides hat Vorteile. Hier die wichtigsten Unterschiede.',
@@ -299,7 +404,7 @@ Sie ist ortsunabhängig und jederzeit erreichbar. Gut für Nischenthemen und fü
 Frag dich: Wie oft kann ich verlässlich kommen? Möchte ich mich verpflichten? Brauche ich Trainer oder Ausrüstung? Wenn du unsicher bist, starte locker und wechsle später in einen Verein, wenn dir die Gruppe gefällt. Viele Vereine erlauben ohnehin Probetermine.
 
 Stöbere in unserem [Verzeichnis](/entdecken/), dort findest du beide Arten nebeneinander.'''),
- dict(slug='freunde-finden-als-erwachsener', date='2026-10-15',
+ dict(slug='freunde-finden-als-erwachsener', date='2026-10-14',
   title='Freunde finden als Erwachsener: Warum es schwerer ist und was hilft',
   desc='Warum es im Erwachsenenalter schwerer wird, Freunde zu finden, und welche Gewohnheiten wirklich helfen.',
   lead='In Schule und Studium entstehen Freundschaften fast von allein. Später fehlt der Rahmen. Das ist normal, und du kannst etwas dagegen tun.',
@@ -326,7 +431,7 @@ Ein Chat kann den Kontakt zwischen den Treffen halten. Gerade in lokalen Gruppen
 ## Sei selbst jemand, der einlädt
 
 Wer zu einem Spieleabend oder Spaziergang einlädt, wird oft zum Mittelpunkt der Gruppe. Du musst keine große Veranstaltung planen, ein kleiner Anlass reicht. Wenn du eine eigene Gruppe starten möchtest, lies unseren Beitrag [Eigene Community starten](/ratgeber/eigene-community-starten/).'''),
- dict(slug='eigene-community-starten', date='2026-10-15',
+ dict(slug='eigene-community-starten', date='2026-10-14',
   title='Eigene Community starten: In 6 Schritten zur ersten Runde',
   desc='So startest du eine eigene Gruppe vor Ort: Thema, Format, Ort, Reichweite und wie du gefunden wirst.',
   lead='Du findest nichts Passendes? Dann gründe selbst etwas. Eine gute Gruppe braucht weniger, als du denkst: ein klares Thema, einen festen Termin und etwas Ausdauer.',
