@@ -1,0 +1,38 @@
+name: Daten alle zwei Wochen aktualisieren
+
+on:
+  schedule:
+    - cron: '17 4 1,15 * *'   # am 1. und 15. jedes Monats, 04:17 UTC
+  workflow_dispatch:           # zusätzlich per Knopf unter Actions startbar
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Links prüfen (robots.txt beachtet, keine Instagram/Facebook-Abrufe)
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python src/build.py
+          python src/refresh.py | tee refresh-report.txt
+      - name: Seite neu bauen
+        run: |
+          python src/build.py
+          OUT=$GITHUB_WORKSPACE/dist python src/gen.py
+          rsync -a --delete --exclude '.git' --exclude 'src' --exclude '.github' --exclude 'dist' --exclude 'refresh-report.txt' dist/ ./
+          rm -rf dist
+      - name: Änderungen speichern
+        run: |
+          git config user.name "FindeDeineLeute Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Daten aktualisiert $(date +%F)"
+          git push

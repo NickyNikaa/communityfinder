@@ -1,0 +1,121 @@
+Berlin|r/berlin|leute|https://www.reddit.com/r/Berlin|Zweisprachiges Stadt-Subreddit fuer alles rund um Berlin, von Wohnungssuche ueber Restauranttipps bis zu Alltagsfragen.||reddit
+Hamburg|r/hamburg|leute|https://www.reddit.com/r/Hamburg|Allgemeines Hamburg-Subreddit fuer Neuigkeiten, Fragen von Zugezogenen und Tipps aus der Stadt.||reddit
+München|r/Munich|leute|https://www.reddit.com/r/Munich|Subreddit fuer Muenchen mit Fragen zum Leben in der Stadt, Veranstaltungstipps und Austausch unter Einheimischen und Neuankoemmlingen.||reddit
+Köln|r/cologne|leute|https://www.reddit.com/r/Cologne|Subreddit fuer Koeln, in dem Leute Tipps austauschen, Fragen stellen und ueber Lokales diskutieren.||reddit
+Frankfurt am Main|r/frankfurt|leute|https://www.reddit.com/r/Frankfurt|Subreddit fuer Frankfurt mit Alltagsfragen, Ausgehtipps und Stadtnachrichten.||reddit
+Düsseldorf|r/duesseldorf|leute|https://www.reddit.com/r/duesseldorf|Subreddit fuer Duesseldorf, in dem es oft um Ratschlaege, Essen, neue Kontakte und lokale Angebote geht.||reddit
+Leipzig|r/leipzig|leute|https://www.reddit.com/r/Leipzig|Subreddit rund um Leipzig fuer Austausch, Fragen und Hinweise zu Veranstaltungen.||reddit
+Stuttgart|r/stuttgart|leute|https://www.reddit.com/r/Stuttgart|Subreddit fuer Stuttgart und Umgebung mit Diskussionen und Tipps zum Stadtleben.||reddit
+Dortmund|r/dortmund|leute|https://www.reddit.com/r/Dortmund|Subreddit fuer Dortmund, in dem Menschen Fragen stellen und sich zu Lokalem austauschen.||reddit
+Bremen|r/bremen|leute|https://www.reddit.com/r/Bremen|Subreddit fuer Bremen mit Austausch zu Stadtthemen und Alltagsfragen.||reddit
+Essen|r/StadtEssen|leute|https://www.reddit.com/r/StadtEssen|Subreddit fuer alles, was mit der Stadt Essen zu tun hat.||reddit
+Dresden|r/dresden|leute|https://www.reddit.com/r/Dresden|Subreddit fuer Dresden, in dem ueber die Stadt diskutiert und Tipps geteilt werden.||reddit
+Nürnberg|r/nuremberg|leute|https://www.reddit.com/r/Nuremberg|Subreddit fuer Nuernberg mit Fragen, Tipps und Neuigkeiten aus der Region.||reddit
+Karlsruhe|r/karlsruhe|leute|https://www.reddit.com/r/Karlsruhe|Subreddit fuer Karlsruhe, offen fuer Studierende, Einheimische und Zugezogene.||reddit
+Heidelberg|r/heidelberg|leute|https://www.reddit.com/r/Heidelberg/|Subreddit fuer Heidelberg mit Austausch zu Stadt, Studium und Alltag.||reddit
+Würzburg|r/wuerzburg|leute|https://www.reddit.com/r/Wuerzburg|Subreddit fuer Wuerzburg zum Austausch ueber die Stadt und ihr Umfeld.||reddit
+Aachen|r/aachen|leute|https://www.reddit.com/r/aachen|Subreddit fuer Aachen, in dem es viel um Ratschlaege, Studium, Jobs und Wohnen geht.||reddit
+Kiel|r/kiel|leute|https://www.reddit.com/r/kiel|Deutschsprachiges Subreddit fuer Kiel, auch fuer Menschen ohne Deutschkenntnisse offen.||reddit
+Erfurt|r/erfurt|leute|https://www.reddit.com/r/erfurt|Kleines Subreddit fuer die thueringische Landeshauptstadt Erfurt.||reddit
+Freiburg im Breisgau|r/freiburg|leute|https://www.reddit.com/r/freiburg|Offenes Subreddit fuer alles rund um Freiburg im Breisgau.||reddit
+Online|r/de|leute|https://www.reddit.com/r/de|Zentrales deutschsprachiges Subreddit fuer Nachrichten, Politik, Humor und allgemeine Diskussionen.||reddit
+Online|r/Finanzen|business|https://www.reddit.com/r/finanzen|Deutschsprachiger Austausch zu Geldanlage, Sparen, Steuern und persoenlichen Finanzen.||reddit
+Online|r/Kochen|essen|https://www.reddit.com/r/Kochen|Subreddit zum Kochen mit Rezepten, Fragen und Fotos aus der eigenen Kueche.||reddit
+Online|r/FragReddit|leute|https://www.reddit.com/r/FragReddit|Deutschsprachiges Frage-und-Antwort-Subreddit fuer alles, was man von der Community wissen moechte.||reddit
+Online|r/ich_iel|leute|https://www.reddit.com/r/ich_iel|Deutsches Meme-Subreddit mit selbstironischem Humor im Stil von me_irl.||reddit
+Online|r/de_EDV|tech|https://www.reddit.com/r/de_EDV|Subreddit fuer IT-Fragen und Technikhilfe auf Deutsch.||reddit
+Online|r/de_IAmA|leute|https://www.reddit.com/r/de_IAmA|Deutschsprachige Fragerunden, in denen Menschen mit besonderen Berufen oder Erfahrungen Rede und Antwort stehen.||reddit
+Online|r/de_podcasts|musik|https://www.reddit.com/r/de_podcasts|Empfehlungen und Diskussionen zu deutschsprachigen Podcasts.||reddit
+Online|r/dokumentationen|lernen|https://www.reddit.com/r/dokumentationen|Sammlung und Austausch zu deutschsprachigen Dokumentationen.||reddit
+Online|r/einfach_schreiben|kunst|https://www.reddit.com/r/einfach_schreiben|Community zum Teilen und Ueben eigener deutscher Geschichten und Gedichte.||reddit
+Online|r/schreibkunst|kunst|https://www.reddit.com/r/schreibkunst|Subreddit fuer selbstgeschriebene Geschichten und Gedichte auf Deutsch.||reddit
+Online|r/GermanPractice|sprachen|https://www.reddit.com/r/GermanPractice|Treffpunkt zum Sprechen und Schreiben ueben fuer Deutschlernende.||reddit
+Online|r/GuteNachrichten|leute|https://www.reddit.com/r/GuteNachrichten|Sammelstelle fuer positive Meldungen auf Deutsch.||reddit
+Online|r/Wissenschaft|lernen|https://www.reddit.com/r/Wissenschaft|Deutschsprachige Artikel und Diskussionen aus der Wissenschaft.||reddit
+Online|r/buecher|kunst|https://www.reddit.com/r/buecher|Austausch ueber Buecher, Lesetipps und Neuerscheinungen auf Deutsch.||reddit
+Online|r/filme|kunst|https://www.reddit.com/r/filme|Diskussionen und Empfehlungen zu Filmen fuer ein deutschsprachiges Publikum.||reddit
+Online|r/fernsehen|kunst|https://www.reddit.com/r/fernsehen|Gespraeche ueber Serien und Fernsehen, deutsche wie internationale.||reddit
+Online|r/germusic|musik|https://www.reddit.com/r/germusic|Empfehlungen und Diskussion rund um deutschsprachige Musik.||reddit
+Online|r/germanrap|musik|https://www.reddit.com/r/germanrap|Fan-Subreddit fuer deutschen Rap mit Neuerscheinungen und Debatten.||reddit
+Online|r/de_punk|musik|https://www.reddit.com/r/de_punk|Subreddit fuer deutschen Punk, Bands und Konzerte.||reddit
+Online|r/MusizierenDE|musik|https://www.reddit.com/r/MusizierenDE|Treffpunkt fuer deutschsprachige Musikerinnen und Musiker zum Fachsimpeln und Zeigen eigener Stuecke.||reddit
+Online|r/Backen|essen|https://www.reddit.com/r/Backen|Subreddit fuer Backrezepte, Fotos und Tipps rund ums Backen.||reddit
+Online|r/Bier|essen|https://www.reddit.com/r/Bier|Austausch ueber Bier aus Deutschland und den Nachbarlaendern, von Craft bis Klassiker.||reddit
+Online|r/Grillen|essen|https://www.reddit.com/r/Grillen|Community fuer Grillrezepte, Technik und Fotos vom Rost.||reddit
+Online|r/keinstresskochen|essen|https://www.reddit.com/r/keinstresskochen|Einfache und schnelle Rezepte fuer den Alltag.||reddit
+Online|r/VeganDE|essen|https://www.reddit.com/r/VeganDE|Deutschsprachige vegane Community mit Tipps, Rezepten und Diskussionen.||reddit
+Online|r/vegetarischDE|essen|https://www.reddit.com/r/vegetarischDE|Austausch fuer Menschen mit vegetarischer Ernaehrung.||reddit
+Online|r/veganeRezepte|essen|https://www.reddit.com/r/veganeRezepte|Sammlung veganer Rezepte auf Deutsch.||reddit
+Online|r/AsiatischKochen|essen|https://www.reddit.com/r/AsiatischKochen|Subreddit fuer asiatische Kueche mit Rezepten und Zutatenfragen.||reddit
+Online|r/zocken|gaming|https://www.reddit.com/r/zocken|Allgemeines deutschsprachiges Gaming-Subreddit fuer Spiele und Konsolen.||reddit
+Online|r/AnnoDE|gaming|https://www.reddit.com/r/AnnoDE|Deutschsprachige Community zur Anno-Spielreihe.||reddit
+Online|r/aoeDE|gaming|https://www.reddit.com/r/aoeDE|Subreddit fuer deutschsprachige Age-of-Empires-Fans.||reddit
+Online|r/MinecraftDE|gaming|https://www.reddit.com/r/MinecraftDE|Deutschsprachige Minecraft-Community mit Bauprojekten und Fragen.||reddit
+Online|r/NintendoDE|gaming|https://www.reddit.com/r/NintendoDE|Austausch von Nintendo-Fans auf Deutsch.||reddit
+Online|r/DSA_RPG|spiele|https://www.reddit.com/r/DSA_RPG|Subreddit zum Pen-and-Paper-Rollenspiel Das Schwarze Auge.||reddit
+Online|r/PCBaumeister|tech|https://www.reddit.com/r/PCBaumeister|Hilfe und Beratung beim Zusammenstellen und Bauen von PCs.||reddit
+Online|r/Bundesliga|sport|https://www.reddit.com/r/Bundesliga|Fan-Subreddit rund um die Fussball-Bundesliga.||reddit
+Online|r/fussball|sport|https://www.reddit.com/r/fussball|Deutschsprachige Diskussionen zu Fussball allgemein.||reddit
+Online|r/formel1|sport|https://www.reddit.com/r/formel1|Deutschsprachiges Subreddit fuer Formel-1-Fans.||reddit
+Online|r/Fahrrad|mobil|https://www.reddit.com/r/Fahrrad|Austausch zum Radfahren, Reparieren und Kaufen von Fahrraedern.||reddit
+Online|r/radsport|sport|https://www.reddit.com/r/radsport|Subreddit fuer den Radsport mit Rennen, Training und Material.||reddit
+Online|r/Kampfsport|sport|https://www.reddit.com/r/Kampfsport|Community fuer Kampfsport und Kampfkuenste auf Deutsch.||reddit
+Online|r/wandern|outdoor|https://www.reddit.com/r/wandern|Subreddit fuer Wandertouren, Ausruestung und Routentipps.||reddit
+Online|r/FitnessDE|sport|https://www.reddit.com/r/FitnessDE|Deutschsprachige Fitness-Community mit Trainingsplaenen und Ernaehrungsfragen.||reddit
+Online|r/arbeitsleben|business|https://www.reddit.com/r/arbeitsleben|Austausch zu Beruf, Arbeitsalltag und Karrierefragen.||reddit
+Online|r/DEjobs|business|https://www.reddit.com/r/DEjobs|Subreddit fuer Stellenangebote und Jobsuche im deutschsprachigen Raum.||reddit
+Online|r/eltern|familie|https://www.reddit.com/r/eltern|Austausch fuer Eltern zu Erziehung und Familienalltag.||reddit
+Online|r/schwanger|familie|https://www.reddit.com/r/schwanger|Community fuer Schwangere und werdende Eltern.||reddit
+Online|r/egenbogen|queer|https://www.reddit.com/r/egenbogen|Deutschsprachiger Treffpunkt der LGBTQ+-Community.||reddit
+Online|r/Weibsvolk|frauen|https://www.reddit.com/r/Weibsvolk|Deutschsprachiger Austausch von Frauen zu Alltag und Themen.||reddit
+Online|r/Garten|outdoor|https://www.reddit.com/r/Garten|Subreddit fuer Gartenfragen, Pflanzen und Projekte.||reddit
+Online|r/Haustiere|tiere|https://www.reddit.com/r/Haustiere|Austausch von Haustierhaltern zu Pflege und Erziehung.||reddit
+Online|r/Lehrerzimmer|lernen|https://www.reddit.com/r/Lehrerzimmer|Subreddit fuer Lehrkraefte zum Austausch ueber Schulalltag und Unterricht.||reddit
+Online|r/erasmus|studium|https://www.reddit.com/r/erasmus|Austausch rund um Auslandssemester und das Erasmus-Programm.||reddit
+Online|r/LegaladviceGerman|leute|https://www.reddit.com/r/LegaladviceGerman|Fragen zu rechtlichen Alltagsproblemen in Deutschland, beantwortet von der Community.||reddit
+Online|r/sparen|business|https://www.reddit.com/r/sparen|Tipps und Austausch zum Sparen im Alltag.||reddit
+Online|r/spabiergang|leute|https://www.reddit.com/r/spabiergang|Humorvolle Community rund um Spaziergaenge mit Bier.||reddit
+Online|r/Geschichte|lernen|https://www.reddit.com/r/Geschichte|Deutschsprachige Diskussionen und Artikel zur Geschichte.||reddit
+Online|r/Futurologie|lernen|https://www.reddit.com/r/Futurologie|Artikel und Videos zu Zukunftstechnologien und Wissenschaft auf Deutsch.||reddit
+Online|r/wortwitzkasse|leute|https://www.reddit.com/r/wortwitzkasse|Sammlung von Wortspielen und Kalauern.||reddit
+Online|r/deutschememes|leute|https://www.reddit.com/r/deutschememes|Treffpunkt fuer deutschsprachige Memes.||reddit
+Online|r/NettHier|leute|https://www.reddit.com/r/NettHier|Humorvolle Community um die bekannten Aufkleber mit dem Baden-Wuerttemberg-Spruch.||reddit
+Online|r/rentnerzeigenaufdinge|leute|https://www.reddit.com/r/rentnerzeigenaufdinge|Lustige Fotos von Rentnern, die auf Dinge zeigen.||reddit
+Online|r/wasletztepreis|leute|https://www.reddit.com/r/wasletztepreis|Sammlung kurioser Verhandlungen aus Kleinanzeigen.||reddit
+Online|r/aberBitteLaminiert|leute|https://www.reddit.com/r/aberBitteLaminiert|Fotos von laminierten Schildern und kuriosen Zetteln.||reddit
+Online|r/Easy_German|sprachen|https://www.reddit.com/r/Easy_German|Subreddit mit leicht verstaendlichen deutschen Videos fuer Lernende.||reddit
+Online|r/hoerbuecher|kunst|https://www.reddit.com/r/hoerbuecher|Austausch zu Hoerbuechern mit Ausschnitten und Empfehlungen.||reddit
+Online|r/schland|leute|https://www.reddit.com/r/schland|Humorvolle Diskussionen ueber deutsche Kultur und Eigenheiten.||reddit
+Online|Mikrocontroller.net Forum|tech|https://www.mikrocontroller.net/forum|Grosses deutschsprachiges Forum zu Mikrocontrollern, Elektronik, FPGA und Platinen.||forum
+Online|Roboternetz|tech|https://www.roboternetz.de|Forum und Wiki fuer Robotik, Elektronik und Mikrocontroller-Projekte.||forum
+Online|RC-Network|tech|https://www.rc-network.de|Forum und Magazin fuer ferngesteuerten Modellflug, Schiffsmodellbau und RC-Technik.||forum
+Online|Hardwareluxx Forum|tech|https://www.hardwareluxx.de/community/|Technikforum zu PC-Hardware, Peripherie, Smartphones, Gaming und Software.||forum
+Online|ubuntuusers.de|tech|https://www.ubuntuusers.de|Verein und Community mit Forum und Wiki fuer Hilfe zu Ubuntu und Linux.||forum
+Online|ioBroker Community|tech|https://forum.iobroker.net|Forum zur Smart-Home-Plattform ioBroker mit deutschem Schwerpunkt.||forum
+Online|simon42 Community|tech|https://community.simon42.com|Deutschsprachiges Forum zu Home Assistant, Smart Home und Technik.||forum
+Online|garten-pur Forum|outdoor|https://www.garten-pur.de|Gartenforum zu Pflanzen, Gartengestaltung und Naturthemen.||forum
+Online|MTB-News Forum|outdoor|https://www.mtb-news.de/forum/|Mountainbike-Forum mit Technik, Touren, Fahrtechnik und Flohmarkt.||forum
+Online|Rennrad-News Forum|sport|https://www.rennrad-news.de/forum/|Deutschsprachiges Forum fuer Rennrad und Gravel mit Lokalforen zur Suche nach Mitfahrern.||forum
+Online|MOTOR-TALK|mobil|https://www.motor-talk.de|Grosses deutschsprachiges Auto- und Motorradforum.||forum
+Online|wer-weiss-was|leute|https://www.wer-weiss-was.de|Frage-und-Antwort-Forum zu vielen Alltags- und Fachthemen, seit 1996 aktiv.||forum
+Online|mydealz|leute|https://www.mydealz.de|Community, in der Mitglieder Angebote und Gutscheine teilen und diskutieren.||forum
+Online|Netzwerk Fotografie|foto|https://www.nikon-fotografie.de|Foto-Community mit Forum, Testberichten und Bildbesprechung.||forum
+Online|Brettspielnetz|spiele|https://www.brettspielnetz.de|Kostenlose Online-Plattform fuer Brett- und Kartenspiele mit Turnieren und Gruppen.||website
+Online|TabletopWelt|spiele|https://www.tabletopwelt.de|Forum fuer Tabletop-Systeme, Miniaturenbemalung, Turniere und Spielersuche.||forum
+Online|chaos.social|tech|https://chaos.social|Mastodon-Instanz aus dem Umfeld der Chaos-Community.||sonstige
+Online|discuss.tchncs.de|tech|https://discuss.tchncs.de|Lemmy-Instanz mit technikorientierten Communities.||sonstige
+Online|alphalist|tech|https://alphalist.com|Netzwerk fuer CTOs und Entwicklungsleiter, das sich ueber einen privaten Slack-Workspace austauscht.||slack
+Online|de-RSE Matrix-Space|tech|https://matrix.to/#/#de-rse.org:matrix.org|Matrix-Raeume der Research-Software-Engineering-Community im deutschsprachigen Raum, mit Jobs und Veranstaltungen.||sonstige
+Online|Plastikfrei(er) leben|engagement|https://www.facebook.com/groups/plastikfreileben/|Oeffentliche Facebook-Gruppe fuer Tipps zu einem Leben mit weniger Plastik.||facebook
+Online|Sneakerholics Germany|leute|https://www.facebook.com/groups/sneakerholics.germany/|Facebook-Gruppe fuer Sneaker-Fans in Deutschland.||facebook
+Online|Alles umsonst, nur Versandkosten|leute|https://www.facebook.com/groups/245119048999215|Facebook-Gruppe zum Verschenken und Tauschen von Gegenstaenden.||facebook
+Online|Low Carb Kompendium|essen|https://www.facebook.com/groups/lowcarbrezeptesammlung/|Facebook-Gruppe mit Low-Carb-Rezepten.||facebook
+Nürnberg|Schwarzes Brett Nürnberg|leute|https://www.facebook.com/groups/S.brett|Grosse regionale Facebook-Gruppe fuer Kleinanzeigen und Austausch in Nuernberg.||facebook
+München|Das schwarze Brett München|leute|https://www.facebook.com/groups/108243755882642|Facebook-Gruppe fuer Kleinanzeigen und Austausch in Muenchen.||facebook
+Berlin|WG-Zimmer & Wohnungen Berlin|leute|https://www.facebook.com/groups/wg.wohnung.berlin|Facebook-Gruppe zur Suche und zum Angebot von WG-Zimmern und Wohnungen in Berlin.||facebook
+Online|FHEM Forum|tech|https://forum.fhem.de|Forum des Vereins hinter der Open-Source-Hausautomation FHEM mit Boards zu Hardware, Perl und Energie.||forum
+Online|Freifunk Forum|tech|https://forum.freifunk.net|Diskussionsforum der Freifunk-Community zu Mesh-Netzen, Firmware und regionalen Gruppen.||forum
+Online|Katzen Forum|tiere|https://www.katzen-forum.net|Kostenloses deutschsprachiges Forum fuer Katzenhalter mit Bereichen zu Ernaehrung, Gesundheit und Verhalten.||forum
+Online|Stummis Modellbahnforum|spiele|https://www.stummiforum.de|Forum fuer Modellbahnfreunde aller Spurweiten, mit Anlagenvorstellungen, Digitaltechnik und Bauplanung.||forum
+Online|Rund ums Baby|familie|https://www.rund-ums-baby.de|Eltern-Community mit Forum zu Schwangerschaft, Babys und Familienleben sowie Fachfragen an Expertinnen.||forum
+Online|OpenStreetMap Deutschland|tech|https://www.openstreetmap.de|Deutsche Anlaufstelle der freiwilligen OpenStreetMap-Community, die gemeinsam eine freie Weltkarte pflegt.||website

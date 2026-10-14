@@ -1,0 +1,48 @@
+Hannover|TableTopTreff Hannover e.V.|spiele|https://tabletoptreff-hannover.de/|Tabletop-Verein mit eigenen Vereinsräumen für Miniaturenschlachten, Bemal-Workshops und Turniere. Es gibt auch einen großen Discord für Mitglieder und Interessierte.|Vereinsräume in der Vahrenwalder Straße, Termine im Vereinskalender|website
+Hannover|Komm Spielen Freizeitheim Linden|spiele|https://www.hannover.de/Kultur-Freizeit/Freizeit-Sport/Freizeiteinrichtungen/Freizeitheime-Stadtteilzentren/Freizeitheim-Linden/Veranstaltungen-Projekte/Komm-Spielen|Offener Brettspieltreff im Stadtteilzentrum, bei dem ein Spielekenner Klassiker und Neuheiten erklärt. Auch Menschen mit wenig Deutsch sind willkommen.|Jeden dritten Dienstag im Monat, 17:30 bis 20 Uhr|website
+Hannover|Hannover Game Development Meetup|gaming|https://www.meetup.com/hannover-unity-meetup/|Treffen für Entwicklerinnen und Entwickler, die in Hannover mit Unity und anderen Engines Spiele bauen.||meetup
+Göttingen|ESUG E-Sport Union Göttingen e.V.|gaming|https://discord.gg/esug-384481186346696705|E-Sport-Verein und Hochschulgruppe an der Uni Göttingen mit Trainings und Events für viele verschiedene Spiele.||discord
+München|Munich Boardgame Meetup|spiele|https://www.meetup.com/de-de/munich-boardgame-meetup/|Große Münchner Brettspielgruppe mit Spieleabenden an wechselnden Orten, vom Einsteiger bis zum Vielspieler. Gelegentlich gibt es auch englischsprachige Abende und Go-Einsteigerabende.|Mehrere Termine pro Monat, wechselnde Orte|meetup
+München|Munich Pen n' Paper RPG Night|spiele|https://www.meetup.com/mucrpg/|Gruppe für Pen-and-Paper-Rollenspiele in München, die Spielerinnen und Spielleitungen zusammenbringt.||meetup
+München|Munich Social Gaming|spiele|https://www.meetup.com/munich-social-gaming/|Sehr große Münchner Meetup-Gruppe für gesellige Spieleabende mit Brett- und Kartenspielen.||meetup
+München|GameDevMünchen Stammtisch|gaming|https://www.meetup.com/gamedevmuc/|Stammtisch für Spieleentwicklerinnen und Spieleentwickler in München zum Austausch über Projekte und Branche.|Jeden zweiten Montag im Monat|meetup
+Berlin|Pen and Paper Berlin|spiele|https://www.meetup.com/pen-and-paper-berlin/|Meetup-Gruppe für Pen-and-Paper-Rollenspiele in Berlin, in der Runden gesucht und organisiert werden.||meetup
+Berlin|Cthulhu in Berlin|spiele|https://www.meetup.com/cthulhu-in-berlin-pen-paper-rollenspiele/|Kleine Rollenspielgruppe in Berlin, die Cthulhu-Horrorrunden am Tisch spielt.||meetup
+Berlin|Spieletreff Berlin|spiele|https://www.meetup.com/spieletreffberlin/|Große Berliner Gruppe für offene Brettspielabende in wechselnden Lokalen.||meetup
+Berlin|Berlin Board Gamers|spiele|https://www.meetup.com/berlin-board-gamers/|Brettspielgruppe in Berlin für regelmäßige Spieleabende.||meetup
+Berlin|Berlin Gemeinschaft Spielen|spiele|https://www.meetup.com/berlin-gemeinschaft-spielen/|Kleine Berliner Gruppe, die gemeinsam Gesellschaftsspiele spielt.||meetup
+Berlin|Blood on the Clocktower Berlin Schöneberg|spiele|https://www.meetup.com/blood-on-the-clocktower-by-boardroom/|Gruppe für das Social-Deduction-Spiel Blood on the Clocktower in Schöneberg.||meetup
+Berlin|The Geekup Berlin|spiele|https://www.meetup.com/berlin-games-and-geeks/|Treff für Spiele und Nerd-Themen in Berlin.||meetup
+Berlin|Schach für Anfänger Berlin|spiele|https://www.meetup.com/de-de/berlin-schach-chess-beginners/|Lockere Schachrunden für Einsteiger in Berlin, auf Deutsch und Englisch.||meetup
+Berlin|Anime Community Berlin|gaming|https://www.meetup.com/anime-community-berlin/|Berliner Gruppe für Anime-Fans mit gemeinsamen Treffen und Gesprächen über Serien und Filme.||meetup
+Berlin|Lets get quizical Quiz in Berlin|spiele|https://www.meetup.com/lets-get-quizical-quiz-in-berlin/|Quizabende in Berlin für Teams und Einzelspieler, meist auf Englisch.||meetup
+Hamburg|The Hamburg Board Gaming Club|spiele|https://www.meetup.com/de-de/the-hamburg-board-gaming-club/|Großer Brettspielclub in Hamburg mit regelmäßigen Meet-and-Play-Sonntagen.|Etwa alle zwei Wochen sonntags|meetup
+Hamburg|Spieleabend in Hamburg|spiele|https://www.meetup.com/de-DE/spieleabend-in-hamburg/|Brettspiel-Stammtische an wechselnden Orten in Hamburg, zum Beispiel in Eimsbüttel.||meetup
+Hamburg|Spielen in Hamburg|spiele|https://www.meetup.com/de-de/spielen-in-hamburg/|Monatliche Spieleabende in verschiedenen Stadtteilen wie Altona, Ottensen und Eppendorf.|Monatlich|meetup
+Hamburg|Socializer Hamburg|spiele|https://www.meetup.com/de-DE/the-socializer-hamburg/|Brettspielabende in Barmbek, bei denen man neue Leute kennenlernt.|Alle zwei Wochen|meetup
+Hamburg|Casual Spieleabend Hamburg|spiele|https://www.meetup.com/de-DE/casual-spieleabend/|Entspannter Spieleabend für alle, die in Hamburg unkompliziert Gesellschaftsspiele spielen wollen.||meetup
+Hamburg|Hamburg Fischmarkt Brettspiele Meetup|spiele|https://www.meetup.com/hamburg-fischmarkt-brettspiele-meetup/|Brettspieltreffen in Hamburg, die sich an Spielerinnen und Spieler aus der Umgebung richten.||meetup
+Hamburg|Riichi Mahjong Hamburg|spiele|https://www.meetup.com/de-DE/riichi-mahjong-hamburg/|Mahjong-Treffen nach japanischen Riichi-Regeln für Anfänger und Fortgeschrittene.||meetup
+Hamburg|International Mafia Game Hamburg|spiele|https://www.meetup.com/de-DE/meetup-group-chqdoplf/|Regelmäßige Runden des Partyspiels Mafia in Hamburg.|Wöchentlich|meetup
+Hamburg|Hamburger Indie Treff|gaming|https://www.meetup.com/hamburger-indie-treff/|Treffen für Indie-Spieleentwicklerinnen und Entwickler in Hamburg mit Vorträgen und Austausch.||meetup
+Hamburg|Hamburg Unity Meetup|gaming|https://www.meetup.com/hamburg-unity-meetup/|Meetup rund um die Spiele-Engine Unity mit Vorträgen und Projektvorstellungen in Hamburg.||meetup
+Frankfurt am Main|Frankfurt Board Games|spiele|https://www.meetup.com/frankfurt-boardgames/|Große Frankfurter Brettspielgruppe mit regelmäßigen offenen Spieleabenden.||meetup
+Frankfurt am Main|Frankfurt Role Players|spiele|https://www.meetup.com/de-de/frankfurt-rpg-gamers/|Gruppe für Pen-and-Paper-Rollenspieler in Frankfurt, die Runden und Mitspieler vermittelt.||meetup
+Frankfurt am Main|Frankfurt BoardGame Night The Kingmakers Table|spiele|https://www.meetup.com/the-kingmakers-table/|Brettspielabende in Frankfurt für Fans anspruchsvollerer Spiele.||meetup
+Frankfurt am Main|Frankfurt Pub Quiz Meetup Group|spiele|https://www.meetup.com/frankfurt-pub-quiz-meetup-group/|Gruppe für Pub-Quiz-Abende in Frankfurt, bei der man in Teams Wissensfragen löst.||meetup
+Stuttgart|PNP RPG Games Stuttgart|spiele|https://www.meetup.com/de-de/roleplaying-games-stuttgart/|Rollenspielgruppe in Stuttgart für Pen-and-Paper-Runden auf Deutsch und Englisch.||meetup
+Stuttgart|Game Developer Meetup Stuttgart|gaming|https://www.meetup.com/stuttgart-game-developer-meetup/|Meetup für Spieleentwicklung in Stuttgart mit Vorträgen und Austausch unter Entwicklern.||meetup
+Düsseldorf|Düsselgamers|spiele|https://www.meetup.com/duesselgamers/|Spielegruppe aus dem Raum Düsseldorf für gemeinsame Spieleabende.||meetup
+Heidelberg|Beer and Board Games Heidelberg|spiele|https://www.meetup.com/beer-board-games-heidelberg/|Gesellige Brettspielabende in Heidelberg in einer Kneipenatmosphäre.||meetup
+Heidelberg|Heidelberg English Speaking Board Gaming|spiele|https://www.meetup.com/heidelberg-english-speaking-board-gaming/|Englischsprachige Brettspielgruppe in Heidelberg, offen für Neuzugezogene und Studierende.||meetup
+Darmstadt|Unity Developers Darmstadt|gaming|https://www.meetup.com/unity-developers-darmstadt/|Kleine Entwicklergruppe in Darmstadt, die sich über Spieleprogrammierung mit Unity austauscht.||meetup
+Mainz|Unity Meetup Mainz Wiesbaden|gaming|https://www.meetup.com/unity-meetup-mainz-wiesbaden/|Regionales Treffen für Unity-Entwickler aus Mainz und Wiesbaden.||meetup
+Berlin|Godot User Group Berlin|gaming|https://www.meetup.com/de-DE/godot-user-group-berlin/|Nutzergruppe für die freie Spiele-Engine Godot mit Treffen zum Austausch und Vorträgen in Berlin.||meetup
+Berlin|Berlin Chess Club|spiele|https://www.meetup.com/chess-mornings-berlin/|Offene Schachtreffen in Berlin, bei denen man spontan Partien spielen kann.||meetup
+Berlin|Chess for all Schach für alle|spiele|https://www.meetup.com/berlin-learn-to-play-chess-meetup-group/|Schachgruppe in Berlin, in der Anfänger das Spiel lernen und Fortgeschrittene mitspielen.||meetup
+Berlin|Chess For Fun Berlin|spiele|https://www.meetup.com/chess-for-fun/|Lockere Schachtreffen in Berlin ohne Turnierdruck.||meetup
+Berlin|ChessBar Events Berlin|spiele|https://www.meetup.com/chessbar-events/|Schachabende in Bars in Berlin, bei denen Spiel und Geselligkeit zusammenkommen.||meetup
+Frankfurt am Main|Frankfurt Anime Manga Karaoke Meetup|gaming|https://www.meetup.com/frankfurt-karaoke-meetup-group/|Kleine Frankfurter Gruppe für Fans von Anime und Manga, die gemeinsam Karaoke singen.||meetup
+Ingolstadt|Hochschulgaming Ingolstadt e.V.|gaming|https://hochschulgaming.de/|Gaming- und E-Sport-Verein an der Hochschule Ingolstadt mit Teams in mehreren Ligen, Turnieren und einem aktiven Discord.||website
+Ingolstadt|Hochschulgaming Ingolstadt Discord|gaming|https://discord.gg/7gfTVHS|Discord-Server des Ingolstädter Hochschulgaming-Vereins für Mitglieder, Turniere und gemeinsames Spielen.||discord
+Köln|Schachfreunde Köln-Mülheim e.V.|spiele|http://www.sfkm.de|Schachverein mit rund 70 Mitgliedern im Stadtteilzentrum Buchforst, der Gäste zu seinen Öffnungszeiten und zu freien Turnieren einlädt.|Im Stadtteilzentrum Köln-Buchforst, Öffnungszeiten auf der Website|website

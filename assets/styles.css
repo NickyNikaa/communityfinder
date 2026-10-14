@@ -271,3 +271,12 @@ footer .legal{grid-column:1/-1;border-top:1px solid var(--line);padding-top:20px
 .prose-l a{color:var(--ink)}
 .legalwrap{padding-block:64px}
 [hidden]{display:none!important}
+
+.chip i{font-style:normal;opacity:.55;font-size:10px;letter-spacing:.04em}
+.chip.ghost{border-style:dashed;color:var(--muted)}
+.flabel{font:500 10.5px/1 var(--f-body);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.frow.online{grid-template-columns:2fr 1fr}
+@media (max-width:600px){.frow.online{grid-template-columns:1fr}}
+.card .tag{flex-wrap:wrap}
+
+@media (min-width:861px){.brand{position:static;transform:none;margin-right:28px;padding-left:0}nav.main .nl{padding:10px 10px}}

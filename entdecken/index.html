@@ -30,21 +30,22 @@
 <header class="top"><div class="bar">
 <a class="brand" href="/" aria-label="FindeDeineLeute.de, zur Startseite">FindeDeineLeute.de</a>
 <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="mainNav">Menü</button>
-<nav class="main" id="mainNav" aria-label="Hauptnavigation"><a class="nl" href="/">Start</a><a class="nl" href="/entdecken/" aria-current="page">Entdecken</a><a class="nl" href="/staedte/">Städte</a><a class="nl" href="/ueber-uns/">Über uns</a><a class="nl" href="/kontakt/">Kontakt</a><a class="btn primary sm" href="/termin/">Termin buchen</a></nav>
+<nav class="main" id="mainNav" aria-label="Hauptnavigation"><a class="nl" href="/">Start</a><a class="nl" href="/entdecken/" aria-current="page">Entdecken</a><a class="nl" href="/online/">Online</a><a class="nl" href="/staedte/">Städte</a><a class="nl" href="/ueber-uns/">Über uns</a><a class="nl" href="/kontakt/">Kontakt</a><a class="btn primary sm" href="/termin/">Termin buchen</a></nav>
 </div></header>
 <main id="main">
-<div class="pagehead"><span class="eyebrow">Verzeichnis</span><h1 class="page-title">Communities entdecken</h1><p class="page-sub">Suche nach Themen oder wähle deine Stadt. Du findest Communities in allen 79 deutschen Großstädten und online.</p></div>
+<div class="pagehead"><span class="eyebrow">Verzeichnis</span><h1 class="page-title">Communities entdecken</h1><p class="page-sub">Suche nach Themen oder wähle deine Stadt. Alle Filter wirken sofort, du musst nichts bestätigen. Kategorien kannst du kombinieren.</p></div>
 <div class="filters"><div class="frow">
 <div class="field"><label for="q">Suche</label><input class="input" id="q" type="search" placeholder="Name, Thema oder Ort"></div>
 <div class="field"><label for="city">Stadt</label><select class="select" id="city"><option value="">Alle Städte</option></select></div>
 <div class="field"><label for="sort">Sortierung</label><select class="select" id="sort"><option value="rec">Empfohlen</option><option value="az">Name A bis Z</option></select></div>
+<div class="field"><label for="plat">Plattform</label><select class="select" id="plat"><option value="">Alle Plattformen</option></select></div>
 <div class="field"><label id="fmtL">Format</label><div class="seg" role="group" aria-labelledby="fmtL" id="fmt"><button data-v="" aria-pressed="true">Alle</button><button data-v="ort" aria-pressed="false">Vor Ort</button><button data-v="online" aria-pressed="false">Online</button></div></div>
 </div><div class="chips" id="catChips" role="group" aria-label="Kategorien"></div></div>
 <div class="result-bar"><b id="count" aria-live="polite">Lade Verzeichnis …</b><span style="display:flex;gap:14px;align-items:center;flex-wrap:wrap"><a class="btn ghost sm" id="cityLink" href="#" hidden></a><button class="btn ghost sm" id="reset" type="button">Filter zurücksetzen</button></span></div>
-<div class="grid" id="grid"></div>
+<div class="grid" id="grid" data-mode="all"></div>
 <noscript><p class="lede">Für die Suche brauchst du JavaScript. Ohne JavaScript findest du alle Communities auf den <a href="/staedte/">Seiten der Städte</a>.</p></noscript>
 <div style="display:flex;justify-content:center;margin-top:44px"><button class="btn ghost" type="button" id="more" hidden>Mehr anzeigen</button></div>
-<p class="note" style="margin-top:28px">Die Einträge stammen aus öffentlich zugänglichen Verzeichnissen, die Quelle steht bei jedem Eintrag. Termine und Angaben können sich ändern, bitte prüfe sie vor dem Besuch bei der Community.</p>
+<p class="note" style="margin-top:28px">Die Einträge stammen aus öffentlich zugänglichen Quellen, die Quelle steht bei jedem Eintrag. Alle zwei Wochen prüfen wir die Links automatisch und blenden Einträge aus, die nicht mehr erreichbar sind. Termine und Angaben können sich ändern, bitte prüfe sie vor dem Besuch bei der Community.</p>
 <div class="overlay" id="overlay" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle" id="modal"></div></div>
 </main>
 <footer>
