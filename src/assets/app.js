@@ -66,7 +66,7 @@ if($('#grid')){
   var PLAT={website:'Website',instagram:'Instagram',facebook:'Facebook',meetup:'Meetup',discord:'Discord',telegram:'Telegram',whatsapp:'WhatsApp',reddit:'Reddit',slack:'Slack',signal:'Signal',forum:'Forum',sonstige:'Weitere'};
   var CAT={};CATS.forEach(function(c){CAT[c[0]]=c[1]});
   var C=[],CITIES=[],SLUG={},RANK={},CNT={},BYID={},CATN={},PLATN={};
-  var lastFocus=null,TOP=12,showAllCats=false;
+  var lastFocus=null,TOP=99,showAllCats=false;
   var cardHtml=function(c){
     var place=c.t==='Online'?'Online':c.t+(c.a?' · '+c.a:'');
     var pl=(c.f==='online'||c.p==='meetup'||c.p==='discord'||c.p==='telegram'||c.p==='whatsapp'||c.p==='instagram'||c.p==='facebook')&&c.p&&c.p!=='website'?'<span>'+esc(PLAT[c.p]||c.p)+'</span>':'';
