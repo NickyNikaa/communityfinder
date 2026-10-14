@@ -280,3 +280,23 @@ footer .legal{grid-column:1/-1;border-top:1px solid var(--line);padding-top:20px
 .card .tag{flex-wrap:wrap}
 
 @media (min-width:861px){.brand{position:static;transform:none;margin-right:28px;padding-left:0}nav.main .nl{padding:10px 10px}}
+
+/* Farbhauch: Palette Magenta, Rosa, Koralle, Orange */
+:root{--c1:#c0689f;--c2:#e0609c;--c3:#e0523c;--c4:#e5703a;--grad:linear-gradient(100deg,#c0689f 0%,#e0609c 30%,#e0523c 68%,#e5703a 100%)}
+header.top{border-bottom:0;box-shadow:0 1px 0 var(--line)}
+header.top::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--grad)}
+.hero{position:relative;background:radial-gradient(60% 90% at 100% 100%,rgba(229,112,58,.16),transparent 70%),radial-gradient(50% 80% at 0% 0%,rgba(192,104,159,.14),transparent 70%)}
+.hero h1 em{text-decoration-color:var(--c3);text-decoration-thickness:3px}
+.step::before{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;font-weight:600}
+.band{background:var(--grad);color:#fff}
+.band p{opacity:.92}
+.band .btn{background:#fff;color:#0a0a0a;border-color:#fff}
+.band .btn:hover{background:transparent;color:#fff}
+.chip:hover{border-color:var(--c2)}
+.chip[aria-pressed="true"]{background:var(--c3);border-color:var(--c3);color:#fff}
+.btn.primary:hover{border-color:var(--c3);color:var(--c3)}
+.card:hover .tag span:first-child,.card .tag span:first-child{color:var(--c3)}
+a:hover{text-decoration-color:var(--c2)}
+:focus-visible{outline-color:var(--c2)}
+footer{border-top:2px solid transparent;border-image:var(--grad) 1}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero{background:radial-gradient(60% 90% at 100% 100%,rgba(229,112,58,.18),transparent 70%),radial-gradient(50% 80% at 0% 0%,rgba(192,104,159,.18),transparent 70%)}}
