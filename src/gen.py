@@ -87,7 +87,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <div class="cols">
 <div><h4>Entdecken</h4><ul><li><a href="/entdecken/">Alle Communities</a></li><li><a href="/staedte/">Alle Städte</a></li><li><a href="/online/">Online-Communities</a></li><li><a href="/ratgeber/">Ratgeber</a></li><li><a href="/aktuell/">Aktuell</a></li><li><a href="/kalender/">Kalender</a></li><li><a href="/merkliste/">Merkliste</a></li><li><a href="/auswertung/">Auswertung</a></li></ul></div>
 <div><h4>Städte</h4><ul>{topc}</ul></div>
-<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/presse/">Presse</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li><li><button type="button" class="linkbtn" data-consent-open>Cookie-Einstellungen</button></li></ul></div>
+<div><h4>Mehr</h4><ul><li><a href="/ueber-uns/">Über uns</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/ki/">KI &amp; AI</a></li><li><a href="/presse/">Presse</a></li><li><a href="/kontakt/">Kontakt</a></li><li><a href="/impressum/">Impressum</a></li><li><a href="/datenschutz/">Datenschutz</a></li><li><button type="button" class="linkbtn" data-consent-open>Cookie-Einstellungen</button></li></ul></div>
 </div>
 <div class="legal">© {datetime.date.today().year} FindeDeineLeute.de. Die Einträge stammen aus öffentlich zugänglichen Verzeichnissen und verlinken auf die jeweiligen Communities.</div>
 </footer>
@@ -164,7 +164,9 @@ for _cat in ['musik','tanz','spiele','wellbeing','lernen','foto','essen','leute'
 feat=''.join(card(c).replace('<article class="card"','<article class="card c%d"'%(i%4),1) for i,c in enumerate(_f))
 mq=''.join('<a href="/%s/"><b>%s</b><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:24])
 cg=''.join('<a class="cityb" href="/%s/"><span>%s</span><i>%d</i></a>'%(s,E(n),len(by_city[n])) for n,s in cities[:15])
-chips=''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[i])) for i in ['sport','outdoor','wellbeing','tanz','musik','kunst','foto','spiele','gaming','lernen','sprachen','essen','business','tech','leute','queer','frauen','familie','tiere','mobil','reisen','engagement','studium'] if i in CAT)
+KI_RE=re.compile(r'\b(ki|ai|künstliche intelligenz|machine learning|maschinelles lernen|data science|chatgpt|llms?|deep learning|openai|mlops|prompt\w*|generative)\b',re.I)
+_kin=len([e for e in data if KI_RE.search(e['n']+' '+e['x']+' '+e.get('g',''))])
+chips='<a class="chip topic" href="/ki/">KI &amp; AI <i>%d</i></a>'%_kin+''.join('<a class="chip" href="/entdecken/?kategorie=%s">%s</a>'%(i,E(CAT[i])) for i in ['sport','outdoor','wellbeing','tanz','musik','kunst','foto','spiele','gaming','lernen','sprachen','essen','business','tech','leute','queer','frauen','familie','tiere','mobil','reisen','engagement','studium'] if i in CAT)
 rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
 start=f'''<div class="hero"><div class="blobs" aria-hidden="true"><i></i><i></i><i></i></div>
@@ -441,6 +443,18 @@ for city,lst_ in POSTCITY.items():
       '<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/%s/">%s</a><span>/</span><span>Aktuell</span></nav><div class="pagehead" style="padding-top:24px"><h1 class="page-title" style="margin-top:0">Aktuell in %s</h1><p class="page-sub">Neue Gruppen, Veranstaltungen und Themen aus %s.</p></div><div class="grid">%s</div><div style="height:48px"></div>'%(s,E(city),E(city),E(city),''.join(post_card(p) for p in lst_))))
     aktuell_pages.append('/%s/aktuell/'%s)
 
+# ---------- KI & AI ----------
+KI_RE=re.compile(r'\b(ki|ai|künstliche intelligenz|machine learning|maschinelles lernen|data science|chatgpt|llms?|deep learning|openai|mlops|prompt\w*|generative)\b',re.I)
+KI_ITEMS=sorted([e for e in data if KI_RE.search(e['n']+' '+e['x']+' '+e.get('g',''))],key=lambda e:(e['t']=='Online',e['t'],-e['q'],e['n'].lower()))
+_kc=collections.OrderedDict()
+for e in KI_ITEMS: _kc.setdefault(e['t'],[]).append(e)
+kibody='<div class="pagehead"><span class="eyebrow">Thema</span><h1 class="page-title">KI &amp; AI Communities in Deutschland</h1><p class="page-sub">%d Gruppen, Meetups und Online-Communities rund um Künstliche Intelligenz, Machine Learning und Data Science in %d Städten und online. Zum Austauschen, Ausprobieren und Dazulernen.</p></div>'%(len(KI_ITEMS),len([k for k in _kc if k!='Online']))
+kibody+='<p class="lede" style="max-width:720px">Du suchst gezielt etwas anderes? In der <a href="/entdecken/?q=KI">Suche</a> findest du KI-Gruppen auch zusammen mit Stadt und Format. Fehlt eine Gruppe? <a href="/kontakt/?thema=eintragen">Schick uns eine kurze Nachricht</a>.</p>'
+for _t,_es in _kc.items():
+    _h=('<a href="/%s/">%s</a>'%(SLUG[_t],E(_t))) if _t in SLUG else 'Online'
+    kibody+='<section class="reveal" style="margin-top:40px"><h2 style="font-size:26px">%s <span class="note">%d</span></h2><ul class="rows">%s</ul></section>'%(_h,len(_es),''.join(row_html(e) for e in _es))
+w('ki/index.html',layout('ki','/ki/','KI & AI Communities in Deutschland: Meetups, Stammtische, Online | FindeDeineLeute.de','%d Communities zu KI, Machine Learning und Data Science in deutschen Städten und online: Meetups, Stammtische, Discord und mehr.'%len(KI_ITEMS),kibody))
+
 # ---------- ONLINE ----------
 on=sorted([e for e in data if e['f']=='online'],key=lambda e:(-e['q'],e['n'].lower()))
 pc=collections.Counter(e.get('p') for e in on)
@@ -633,7 +647,7 @@ for e in data:
     pub.append(d)
 w('calendar.json',json.dumps({'updated':LASTRUN or TODAY,'items':CALIT},ensure_ascii=False,separators=(',',':')))
 w('communities.json',json.dumps({"updated":LASTRUN or TODAY,"cities":cities,"items":pub},ensure_ascii=False,separators=(',',':')))
-urls=['/','/entdecken/','/staedte/','/online/','/kalender/','/auswertung/','/presse/','/newsletter/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
+urls=['/','/entdecken/','/staedte/','/online/','/ki/','/kalender/','/auswertung/','/presse/','/newsletter/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
 sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n'%(DOMAIN,u,TODAY) for u in urls)+'</urlset>\n'
 w('sitemap.xml',sm)
 w('robots.txt','User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n'%DOMAIN)

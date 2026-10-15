@@ -1,0 +1,3 @@
+Regensburg|AI Tinkerers Regensburg|tech|https://regensburg.aitinkerers.org/|Praxisnahes Treffen für Menschen, die mit KI bauen: Live-Demos, technischer Austausch und Networking ohne Verkaufspräsentationen.|Unregelmäßig, meist abends|website
+Würzburg|Global AI Würzburg|tech|https://globalai.community/chapters/wurzburg|Lokale Gruppe der Global AI Community für Austausch, Vorträge und Workshops rund um KI und Daten, offen für Einsteiger und Fortgeschrittene.|Unregelmäßig, meist abends|website
+Heilbronn|AI Developers Heilbronn|tech|https://lu.ma/l5qv2lts|Monatliches Community-Treffen zur praktischen KI-Entwicklung mit Vorträgen, Diskussion und Networking bei Pizza.|Monatlich|sonstige
