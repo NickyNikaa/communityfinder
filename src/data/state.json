@@ -1,0 +1,3196 @@
+{
+ "last_run": "2026-10-15",
+ "links": {
+  "http://aachen.rotaract.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://binary.kitchen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://c3re.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://darmstadt.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://gemeinsinnschafftgarten.de/die-gaerten": {
+   "fails": 1
+  },
+  "http://hackerspace-bielefeld.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://heidelberg-international.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://heidelberg.rotaract.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://kaiserslautern.rotaract.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://koblenz.rotaract.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://muenchen.parentsforfuture.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://muenster.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://recklinghausen.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://rotaract-wuppertal.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://saarbruecken.rotaract.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://toppoint.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://urbane-gaerten-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://wuerzburg.parentsforfuture.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.australienfreundemuenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.bpw-bremen.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.bytewerk.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.clublatino.de/salsa-veranstaltungen-muenchen/salsa-portal-muenchen-startseite/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.dkg-online.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.duisburg.rotaract.de/": {},
+  "http://www.enactus-mannheim.com": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.families4future.net/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.gea-muc.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.isghannover.de/gartenkarte-hannover/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.maschinendeck.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.mohr-villa-chor.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.muenchner-frauenchor.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.repaircafe-mh.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.rotaract-muelheim.de/": {},
+  "http://www.sfkm.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.stja.de/lavie": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.the-munich-caledonians.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.toytowngermany.com/munich": {
+   "fails": 1
+  },
+  "http://www.urbane-gaerten.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.vorspiel-berlin.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "http://www.warpzone.ms/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://Mannheim.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://agbc-munich.com/contact": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://aiesec.de/frankfurt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://aiesec.de/heidelberg": {
+   "fails": 1
+  },
+  "https://alphalist.com": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ananas-buchclub.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ananas-buchclub.de/#home/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://beats-and-frogs.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://berlin-irish.com/mixed-touch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://berlin.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://berlin.pyladies.com/en/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bgmuc.de/": {},
+  "https://bikerunion.de/c2/?q=node/63": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bodhiberlin.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bonn.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bonnimwandel.de/gartnern-in-bonn/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://braunschweig.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bremen.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bremen.rotaract.de/rotaract/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://bremerhaven.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://c3d2.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://c3pb.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://c3si.de": {},
+  "https://campusrunners.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ccc-ffm.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ccc-mannheim.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ccc.ac": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://cccfr.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ccchb.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://cccmz.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://cccs.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaos-darmstadt.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaos-inkl.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaos.social": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaos.social/@c3hamm": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaoschemnitz.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaosdorf.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaospott.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaostreff-dortmund.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaostreff-goettingen.de": {},
+  "https://chaostreff-nuernberg.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaostreff-osnabrueck.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chaotikum.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://chat.whatsapp.com/BZyyYDjUPs3FBJzxZUaoTo": {},
+  "https://chat.whatsapp.com/BjGYMsNvVYkBQ0evW03wOA": {},
+  "https://chat.whatsapp.com/Bvvxm2t0sHf3Qfh34nQ4vH": {},
+  "https://chat.whatsapp.com/CmN3Gj44h0rLUKk4HS5ICj": {},
+  "https://chat.whatsapp.com/CmPbdkxcjv1Bk6jYLuk0IG": {},
+  "https://chat.whatsapp.com/CywKiL6XHxjJAeBHpRvA5t": {},
+  "https://chat.whatsapp.com/D2e5lqJnSLv8rLMgitSvXx": {},
+  "https://chat.whatsapp.com/DRBhFzSmVfm6vALygEVer2": {},
+  "https://chat.whatsapp.com/DSAh042ndBHC70mxMsOKLv": {},
+  "https://chat.whatsapp.com/DayxHN4H1MS6ZVwiCRrJKO": {},
+  "https://chat.whatsapp.com/DbQrRy7dCWsBjGl1FecC5H": {},
+  "https://chat.whatsapp.com/Dc9WhQQfFGP2h3kJSyoeqJ": {},
+  "https://chat.whatsapp.com/DcdQaP2rAUqATKKEzddlYU": {},
+  "https://chat.whatsapp.com/Doq620joAtb4KPZb4hN7JO": {},
+  "https://chat.whatsapp.com/DuAJRMjPP495FRRqmMbNsn": {},
+  "https://chat.whatsapp.com/E51NWA0Yhub0HCBLpwFEVm": {},
+  "https://chat.whatsapp.com/E93fm39UC5w8jzRARbOeCm": {},
+  "https://chat.whatsapp.com/EARIo4yLGcoKCnf9B7iddJ": {},
+  "https://chat.whatsapp.com/ECRONE6LnGsAvrVHMSOrfw": {},
+  "https://chat.whatsapp.com/EGhScBeQYj47ZN79cwxOuS": {},
+  "https://chat.whatsapp.com/EKXR9UpgUtW2wn7vbrj4XU": {},
+  "https://chat.whatsapp.com/EqjuOsElwzH5iqqUD2rWfY": {},
+  "https://chat.whatsapp.com/EuUBTiQqWYr6EPKctc0A4e": {},
+  "https://chat.whatsapp.com/Evoz9YVPtUHLCZl1S3kDaO": {},
+  "https://chat.whatsapp.com/F0UEAnF6jDs7aOAKz8kJGa": {},
+  "https://chat.whatsapp.com/FKmk3bIDNP76hoVC0dTNvB": {},
+  "https://chat.whatsapp.com/FNj8zzxSXDX49G1VZ45cWR": {},
+  "https://chat.whatsapp.com/Fh1wla8Xwjw6uMPl3KeS6D": {},
+  "https://chat.whatsapp.com/FkdMdQkFUJI98CLxpkF6Ke": {},
+  "https://chat.whatsapp.com/FuOATJgvBtfCq9DAKVbAv4": {},
+  "https://chat.whatsapp.com/G0Qsu9UzP2VL4SwTaXvbeo": {},
+  "https://chat.whatsapp.com/G2jWQ0ebKF86pJWpiWzxwN": {},
+  "https://chat.whatsapp.com/HJl3Ti76Ge2I99wmgfe6Jz": {},
+  "https://chat.whatsapp.com/HQ1JS9LLvTFHIKlQZ4SVPe": {},
+  "https://chat.whatsapp.com/HQkqtUSm46HKVFLLSULWTj": {},
+  "https://chat.whatsapp.com/HTGyfov3zmuKti59OIOzb2": {},
+  "https://chat.whatsapp.com/HWgIAtEyURE1Bhu3wvfSDQ": {},
+  "https://chat.whatsapp.com/HnOQdqLzV2h4KDO7ba0ppV": {},
+  "https://chat.whatsapp.com/HqqMTSUYSix9FfDBqnk3Nf": {},
+  "https://chat.whatsapp.com/HrP3yNtWyZaBeGStkUIZAS": {},
+  "https://chat.whatsapp.com/I19HujRbT5mDH46vzyeTwH": {},
+  "https://chat.whatsapp.com/I1NbUJ9Yhh44wEVh7abBFR": {},
+  "https://chat.whatsapp.com/I2nB97AftzIB5ET74yCAzU": {},
+  "https://chat.whatsapp.com/ICe4YRPDac896LmXDH0wtf": {},
+  "https://chat.whatsapp.com/IFQKssQ0mav7ryC1Iwj04o": {},
+  "https://chat.whatsapp.com/IIR2zmejSf39GM4MwfF2kc": {},
+  "https://chat.whatsapp.com/IiyzJO7ma3k8SdfORsLkkl": {},
+  "https://chat.whatsapp.com/IlQeMBDKPm46CYfbjy3P5T": {},
+  "https://chat.whatsapp.com/Iw7QW2Yuc3SBVhfuUZ30uP": {},
+  "https://chat.whatsapp.com/JIdNJDLfjOqCOt8fJHZ0LF": {},
+  "https://chat.whatsapp.com/JPUHOUXIMq3KByIufS8xPu": {},
+  "https://chat.whatsapp.com/JrCwX9K36ty7c2YB5Oo6ju": {},
+  "https://chat.whatsapp.com/JsgrLbfSQ900AIKgqZI232": {},
+  "https://chat.whatsapp.com/KCts8mHfpLbDDmas9K5YTl": {},
+  "https://chat.whatsapp.com/KIKcLeZcVKNCuyEevqLPCY": {},
+  "https://chat.whatsapp.com/KNXj3DZd4GCEo9OB2Z46tE": {},
+  "https://chat.whatsapp.com/KZCjXFsZV1Z62IRKXm4Eml": {},
+  "https://chat.whatsapp.com/Khlz0waduNZ2MkG37nEPxI": {},
+  "https://chat.whatsapp.com/KlrMF9Tu91vJUCb9hmYJb3": {},
+  "https://chat.whatsapp.com/KymD8nyyn2XHbQQSFmNG1o": {},
+  "https://chat.whatsapp.com/LMlnqkR5wcI3G73nWMsAcF": {},
+  "https://community.simon42.com": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://content.rapha.cc/de/de/clubhouses/munich": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://criticalmass.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://crossfitmuc.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://cvjm-muenchen.org/projekte/gaming": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://dachmasters.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://das-labor.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://datenburg.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://dezentrale.space": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/AR7TsmQVBk": {
+   "fails": 0,
+   "members": 4509,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/AbGzNzDYte": {
+   "fails": 0,
+   "members": 151,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/AvVvjJa": {
+   "fails": 0,
+   "members": 699,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/GJ6zqaf": {
+   "fails": 0,
+   "members": 4003,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/GpEMBUnCsN": {
+   "fails": 0,
+   "members": 165,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/HwNnBJT": {
+   "fails": 0,
+   "members": 2114,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/SYVQuAdAmW": {
+   "fails": 0,
+   "members": 1927,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/TFjTcXq": {
+   "fails": 0,
+   "members": 1995,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/UwA2eSZVB4": {
+   "fails": 0,
+   "members": 1298,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/VAZzMHdGZm": {
+   "fails": 0,
+   "members": 713,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/WG3sw5HNH6": {
+   "fails": 0,
+   "members": 286,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/YWMYKjBJkX": {
+   "fails": 0,
+   "members": 364,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/aktien": {
+   "fails": 0,
+   "members": 2901,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/animegamingcafe": {
+   "fails": 0,
+   "members": 23377,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/azgeda": {
+   "fails": 0,
+   "members": 4281,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/baltic-esports-kiel-505341874995855365": {
+   "fails": 0,
+   "members": 1478,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/deutsch-lernen-729327061814083634": {
+   "fails": 0,
+   "members": 32223,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/deutsch-lernen-und-debatten-773685835462606868": {
+   "fails": 0,
+   "members": 20584,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/esportscologne": {
+   "fails": 0,
+   "members": 552,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/gP3mFH3": {
+   "fails": 0,
+   "members": 1760,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/gaming-deutschland-867915973150253066": {
+   "fails": 0,
+   "members": 5948,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/german": {
+   "fails": 0,
+   "members": 245555,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/germangamingspace": {
+   "fails": 0,
+   "members": 9215,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/hellocoding-de-530141674463035402": {
+   "fails": 0,
+   "members": 1561,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/kit-sc-esports-257127995410612224": {
+   "fails": 0,
+   "members": 2069,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/p6DKQPQSah": {
+   "fails": 0,
+   "members": 1217,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/s2XGWH2": {
+   "fails": 0,
+   "members": 1606,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/sachsen": {
+   "fails": 0,
+   "members": 1717,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/st": {
+   "fails": 0,
+   "members": 5129,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/studium-1108394658809249845": {
+   "fails": 0,
+   "members": 4017,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/studying-in-germany-1223306372284813352": {
+   "fails": 0,
+   "members": 5023,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/u2t2UXV": {
+   "fails": 0,
+   "members": 2616,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/uWZfTnXgUP": {
+   "fails": 0,
+   "members": 398,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/invite/yQa5BQF": {
+   "fails": 0,
+   "members": 511,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/-dsg-deutsche-squad-gemeinschaft--846109505556578364": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/-or-schuler-helfen-schulern-757305117153296485": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/among-us-deutsch-zenialnet-748538641353015367": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/anglophones-in-aachen-1007195532323721276": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/anicafe-824376923492319302": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/annoverse-372128553031958529": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/arc-raiders-deutsch-1173725697248862371": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/battlefield-6-germany-1299737559475294208": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/bl4cklistcoding-616655040614236160": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/brawlhalla-germany-349281746166218772": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/coole-ecken-1106175929987891232": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/cosm1c-463875872869318676": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/cs2-ballermania-deutsch-569966026259693579": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/delta-force-deutsch-701724279527571486": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/deutsch-gym-679258262532653107": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/deutsche-anime-community-585629092943101952": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/deutsche-deadlock-community-1289721245281292288": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/diablo-4-deutsch-523572384523878400": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/elden-ring-nightreign-the-duskbloods-deutsch-809469632859471933": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/ffxiv-online-deutschland-808328571126153216": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/freiburg-esports-ev-513013834026582019": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/gaming-lounge-de-or-dein-treffpunkt-fur-gaming-1115331371200675890": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/german-business-network-1287632593080029204": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/german-chat-947258775088271441": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/german-chill-society-hoyoverse-anime-gaming-1381753808190832804": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/german-friends-1037432233746767892": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/german-otakus-181058313423814664": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/gta-6-germany-965726769212715029": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/gtg-german-tactical-group-1281935603184701442": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/hoyoverse-hub-deutsch-or-genshin-impact-or-honkai-454052039899611136": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/kiosk-1109924071795327027": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/l-o-c-k-d-o-w-n-788076416990183506": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/league-of-legends-wild-rift-germany-345269902510129154": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/marvel-rivals-deutsch-1178646640517726249": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/mentale-hilfe-de-mental-health-matters-858715806036262912": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/mindfrag-cs2-germany-1124729923085553807": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/minecraft-germany-898467372573286440": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/munchen-648673058978005012": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/munchner-stadtbibliothek-816603524066443285": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/nachhilfe-826151434008789012": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/niedersachsen-bremen-892449657463111751": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/overwatch-deutsch-638403043104260119": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/palma-city-roleplay-787998137234882590": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/pen-paper-rollenspiele-208148137750036480": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/pokemon-go-deutschland-329588201343680523": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/rematch-deutsch-1095800336242987089": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/repo-deutsch-863127243981979648": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/rhamburg-518735458759475206": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/rocket-league-germany-595922668876857364": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/rplacede-297765871122907136": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/seelische-unterstutzung-585148805943525406": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/sprich-deutsch-761629996329598977": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/studienkolleg-1136241069533700206": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/the-big-greek-523765744895393812": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/the-finals-deutsch-1079029282745106524": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/trading-tempel-1280046726530732045": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/treffpunkt--716437274404978788": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/tuhh-study-lounge-1410704180531691654": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/unicacity-reallife-and-roleplay-1427406920569852016": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/valorant-de-704715447764779178": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/valorant-germany-875427460668358716": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/vrchat-germany-921361075075682335": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/war-thunder-deutschland-community-inoffiziell-695714757273059429": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/warhammer-40k-deutsch-1038969051218706492": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/wendepunkt--deutsch--german--chill--emojis--752976202452566076": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/wirtschaftsinformatik-fernuni-hagen-1022552869347536967": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.com/servers/wurzburg-mainfranken-1409859256655548430": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://discord.gg/7gfTVHS": {
+   "fails": 0,
+   "members": 1067,
+   "ok": "2026-10-15"
+  },
+  "https://discord.gg/dd5c": {
+   "fails": 0,
+   "members": 14119,
+   "ok": "2026-10-15"
+  },
+  "https://discord.gg/esug-384481186346696705": {
+   "fails": 0,
+   "members": 1861,
+   "ok": "2026-10-15"
+  },
+  "https://discuss.tchncs.de": {},
+  "https://dresden.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://duesseldorf.esn-germany.de/de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://duesseldorf.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ecstatic-conscious-dance-muenchen.de/": {},
+  "https://egsmunich.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://eigenbaukombinat.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://entropia.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://erfurt.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://erlangen.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://erlangen.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://erlug.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://essbare-stadt-nuernberg.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://essbare-stadt.koeln/im-veedel/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/F4FHH": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/Wtal_WhatsApp": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/infowa": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/ogstuttgart-whatsapp": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/siegen-wa1": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fffutu.re/wafffkl1": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fnordeingang.de/chaostreff": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://forum.fhem.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://forum.freifunk.net": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://forum.iobroker.net": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://frankfurt-international.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://frankfurt.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://frankfurt.rotaract.de/?p=149": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://freiburg.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://friendsandfiction.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://fzof.de/Veranstaltung/repair-cafe-reparaturtreff-im-w58/": {
+   "fails": 1
+  },
+  "https://gaisenhaus.de/frauen-chor-stimme-dizza/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://gartennetzwerk.inbraunschweig.org/aktuell": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://gdg.community.dev/gdg-munich-android": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://gdg.community.dev/gdg-on-campus-technical-university-berlin-berlin-germany": {
+   "fails": 1
+  },
+  "https://gemeinsamstricken.blogspot.com/": {},
+  "https://gemeinschaftsgaerten-koeln.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://gemeinschaftsgartenessen.wordpress.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://globetrotter-wanderclub.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://goettinger-land-gaerten.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://halle.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hamburg-international.rotaract.de/?p=15": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hamburg.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hamburg.nerdnite.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hamburg.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hamburgsgaerten.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hannover.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hannover.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hannover.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://heilbronn.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://hochschulgaming.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://infinity-mannheim.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://integreat.app/lkmuenchen/de/events/anmeldung-kochtreffen-f%C3%BCr-frauen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://karlsruhe.parentsforfuture.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://kassel.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://kassel.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://kiel.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://koeln.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://koeln.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://kraut.space/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://leemos.de/bookclub?place=&latitude=&longitude=&hideFull=0&selectedTypes=3&selectedGenres=&selectedMeetupOnly=0&selectedNewOnly=0": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://leipzig.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://leipzig.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://luebeck.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://luft.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://lupo-tennis.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://magdeburg.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://mainz.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://mainz.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://mannheim.rotaract.de/rotaract/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://matrix.to/#/#de-rse.org:matrix.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://meetup.com/de-DE/datenanalyse-dortmund-pydata": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://meetup.com/de-DE/gdg-berlin": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://meetup.com/de-DE/hamburg-data-science-meetup": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://meetup.com/de-DE/hamburg-hikers": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://meetup.com/de-DE/treptower-park-ultimate-frisbee": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://mh3.beer/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://moenchengladbach.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://mrfc.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://muc.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://muenchen.fruehstueckstreff.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://muenchen.nerdnite.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://munich-mma.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://naturfreunde-muenchen-ost.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://nelge.de/": {},
+  "https://nerd2nerd.org": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ngakde.org/en/munich.php": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://nuernberg.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://openlab-augsburg.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://osnabrueck.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://p4f-jena.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://padel-seasons.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://parentsforfuture-heidelberg.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://parentsforfuture.de/de/augsburg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://parentsforfuture.de/de/darmstadt": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://parentsforfuture.de/stuttgart-homepage": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://parentsforfutureberlin.de/": {},
+  "https://paul-klinger-ksw.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://pforzheim.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://pilates-sports.com/de/startseite": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://python.berlin/en/latest/django-user-group-berlin/index.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://python.berlin/en/latest/djangogirls-berlin/index.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://python.berlin/en/latest/opentechschool-berlin/index.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://python.berlin/en/latest/pub/index.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://python.berlin/en/latest/pydata-berlin/index.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://queerinmunich.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://qzwi.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://rac-sgn.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://rebrand.ly/FFFfreiburg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://rebrand.ly/whatsapp-fffMSigr": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://regensburg.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://reutlingen.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://rt11.round-table.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://rt13.round-table.de/round-table-deutschland/": {},
+  "https://runningsociety.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://saarland.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://scheckclub.de/padel/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://siegen.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://silentbook.club/blogs/events/hamburg-germany-denktraume-silent-book-club": {
+   "fails": 1
+  },
+  "https://silentbook.club/pages/sbc-virtual-meetups": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialmatch.de/": {},
+  "https://socialrunclubs.de/aachen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/augsburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bielefeld/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bochum/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bonn/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bottrop/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/braunschweig/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bremen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/bremerhaven/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/chemnitz/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/darmstadt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/dortmund/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/dresden/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/duesseldorf/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/duisburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/erfurt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/erlangen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/essen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/frankfurt-am-main/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/freiburg-im-breisgau/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/fuerth/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/gelsenkirchen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/goettingen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/hagen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/halle-saale/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/hamm/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/hannover/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/heidelberg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/heilbronn/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/herne/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/ingolstadt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/jena/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/kaiserslautern/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/karlsruhe/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/kassel/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/kiel/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/koblenz/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/koeln/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/krefeld/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/leipzig/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/leverkusen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/ludwigshafen-am-rhein/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/luebeck/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/magdeburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/mainz/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/mannheim/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/moenchengladbach/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/moers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/muelheim-an-der-ruhr/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/muenster/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/neuss/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/nuernberg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/oberhausen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/offenbach-am-main/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/oldenburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/osnabrueck/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/paderborn/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/pforzheim/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/potsdam/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/recklinghausen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/regensburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/remscheid/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/reutlingen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/rostock/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/saarbruecken/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/salzgitter/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/siegen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/solingen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/stuttgart/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/trier/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/ulm/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/wiesbaden/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/wolfsburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/wuerzburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://socialrunclubs.de/wuppertal/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://spielwiesn.de/sw/spieletreffs": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://studio-core-and-emotion.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/+w84Xxf1ALXg5NTFi": {
+   "fails": 0,
+   "members": 4,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/RussischDeutschSprachaustausch": {
+   "fails": 0,
+   "members": 312,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/chatandspeakgerman": {
+   "fails": 0,
+   "members": 13652,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/fffberlin": {
+   "fails": 0,
+   "members": 2635,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/jobinberlin": {
+   "fails": 0,
+   "members": 505,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/munichexpats": {
+   "fails": 0,
+   "members": 1421,
+   "ok": "2026-10-15"
+  },
+  "https://t.me/s/gute_partie?before=1314": {
+   "fails": 1
+  },
+  "https://tabletoptreff-hannover.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://thesanctuary.me/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://transitiontown-neuss.de/was-wir-machen/repair-cafe/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://trier.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://trier.rotaract.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://tu-dresden.de/gsw/slk/lsk/msz/tandem/sprachcafe": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://uferloska.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ulm.ccc.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://ulm.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://urbanes-gaertnern-freiburg.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://urbansketchers.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://urbansportsclub.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://vdac.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://warmeswiesbaden.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wechange.de/project/parents-for-future-bonn": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wechange.de/project/parents4futurekoln/microsite": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiesbaden.parentsforfuture.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Berlin/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Bochum/OSM-Treffen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Bonn/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Braunschweig/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Bremen/Veranstaltungen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/D%C3%BCsseldorf/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/DE:Disastermappers_Heidelberg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Essen/OSM-Treffen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Hamburger_Mappertreffen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Karlsruhe": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Kiel": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/L%C3%BCbecker_Mappertreffen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Leipzig/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Mainz#Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Potsdam/Mappertreffen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Stammtisch_Dresden": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Stammtisch_Hannover": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Stammtisch_K%C3%B6ln": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Stuttgart/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://wiki.openstreetmap.org/wiki/Ulm_Neu-Ulm/Stammtisch": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://women-in-tech.org/gr/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.49ontop.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.aidshilfe-wiesbaden.de/transalive/": {
+   "fails": 1
+  },
+  "https://www.alpenverein-erlangen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.alpenverein-hannover.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.alpenverein-muenchen-oberland.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.alpenverein-muenchen-oberland.de/dav-kletterhallen-in-muenchen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.alpenverein.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.atpeace.eu/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bearcityrollerderby.com/new-skaters/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.becommunity.online/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bergfreunde-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.berlin.de/gemeinschaftsgaertnern/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.berlinbruisers.com/about-us": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bodenlos.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bookclubandfriends.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bpw-karlsruhe.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.brettspielnetz.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.businettes.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.bytespeicher.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.ccc-p.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.chaostal.de/category/meeting": {
+   "fails": 1
+  },
+  "https://www.dahc-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.dallmayr.com/de/coffee-club/": {},
+  "https://www.dav-augsburg.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.dbg-munich.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.diymunich.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.dortmund.de/themen/foerderungen/querbeet-dortmund/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.dresden-pflanzbar.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.enactus.de/berlin/home": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.enactus.de/uni-frankfurt": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.facebook.com/M97Moutainbikegruppe/": {},
+  "https://www.facebook.com/P4FDO/": {},
+  "https://www.facebook.com/Parents-for-Future-M%C3%BClheim-466247953917395/": {},
+  "https://www.facebook.com/Parents-for-future-Bochum-412588579544320/": {},
+  "https://www.facebook.com/Parents4FutureBielefeld/": {},
+  "https://www.facebook.com/Parents4FutureKreisRE": {},
+  "https://www.facebook.com/ParentsforFuturePaderborn/": {},
+  "https://www.facebook.com/groups/108243755882642": {},
+  "https://www.facebook.com/groups/2224969894422654/": {},
+  "https://www.facebook.com/groups/245119048999215": {},
+  "https://www.facebook.com/groups/S.brett": {},
+  "https://www.facebook.com/groups/lowcarbrezeptesammlung/": {},
+  "https://www.facebook.com/groups/plastikfreileben/": {},
+  "https://www.facebook.com/groups/sneakerholics.germany/": {},
+  "https://www.facebook.com/groups/wg.wohnung.berlin": {},
+  "https://www.facebook.com/parentsforfutureRegionalgruppepotsdam/": {},
+  "https://www.facebook.com/pff.hamm/": {},
+  "https://www.flux-munich.com/activities/flux-community-yoga": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.games-bavaria.com/die-gamerei/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.garten-pur.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.hacksaar.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.hannover.de/Kultur-Freizeit/Freizeit-Sport/Freizeiteinrichtungen/Freizeitheime-Stadtteilzentren/Freizeitheim-Linden/Veranstaltungen-Projekte/Komm-Spielen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.hannover.de/Leben-in-der-Region-Hannover/Bildung/Bibliotheken-Archive/Stadtbibliothek-Hannover/Veranstaltungen/Silent-Book-Club-Hannover/Silent-Book-Club-%7C-Misburg-Edition": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.hardwareluxx.de/community/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.hei-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.herrenbesuch.net/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.igsm.info/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.instagram.com/26.miles/": {},
+  "https://www.instagram.com/26.miles_running/": {},
+  "https://www.instagram.com/2cupsmunich/": {},
+  "https://www.instagram.com/5amrunclub_muc_east/": {},
+  "https://www.instagram.com/_skatehoes_/": {},
+  "https://www.instagram.com/_sowhatcollective_/": {},
+  "https://www.instagram.com/aless.hrm/": {},
+  "https://www.instagram.com/alex.munichstories/": {},
+  "https://www.instagram.com/alina.es/": {},
+  "https://www.instagram.com/alinaluisa__/": {},
+  "https://www.instagram.com/allin.move/": {},
+  "https://www.instagram.com/angeliqueur/": {},
+  "https://www.instagram.com/aper.munich/": {},
+  "https://www.instagram.com/arc_muenchen/": {},
+  "https://www.instagram.com/artcafe.munich/": {},
+  "https://www.instagram.com/artistenschule.muenchen/": {},
+  "https://www.instagram.com/atelier.schauen/": {},
+  "https://www.instagram.com/atelierinspire.de/": {},
+  "https://www.instagram.com/bandoleros_muc/": {},
+  "https://www.instagram.com/bavaria.social/": {},
+  "https://www.instagram.com/beat81/": {},
+  "https://www.instagram.com/beatleticsclub/": {},
+  "https://www.instagram.com/bigbadwolfrunning/": {},
+  "https://www.instagram.com/birdsofpride/": {},
+  "https://www.instagram.com/bladenightmuenchen/": {},
+  "https://www.instagram.com/blix_munich/": {},
+  "https://www.instagram.com/bloomhosts/": {},
+  "https://www.instagram.com/blush.munich/": {},
+  "https://www.instagram.com/bold.runningclub/": {},
+  "https://www.instagram.com/boost_zone/": {},
+  "https://www.instagram.com/broke.today/": {},
+  "https://www.instagram.com/bryony.cecil/": {},
+  "https://www.instagram.com/casacalma.yoga/": {},
+  "https://www.instagram.com/cato.run/": {},
+  "https://www.instagram.com/cava_community/": {},
+  "https://www.instagram.com/cf_benni_87/": {},
+  "https://www.instagram.com/citygems_munich/": {},
+  "https://www.instagram.com/clicqui_muc/": {},
+  "https://www.instagram.com/communitykitchen_muc/": {},
+  "https://www.instagram.com/creative_supper_club/": {},
+  "https://www.instagram.com/crossfitmunich/": {},
+  "https://www.instagram.com/danceupmunich/": {},
+  "https://www.instagram.com/dashalloprojekt/": {},
+  "https://www.instagram.com/daysofmunich/": {},
+  "https://www.instagram.com/die_keramikothek/": {},
+  "https://www.instagram.com/diemarathoniken/": {},
+  "https://www.instagram.com/ebruslifestyleecke/": {},
+  "https://www.instagram.com/elevate_buchclub_muenchen/": {},
+  "https://www.instagram.com/endorphinclubmunich/": {},
+  "https://www.instagram.com/esnmesa/": {},
+  "https://www.instagram.com/eternity.healthclub/": {},
+  "https://www.instagram.com/fcf.club/": {},
+  "https://www.instagram.com/feelings.muc/": {},
+  "https://www.instagram.com/fitness_ma_/": {},
+  "https://www.instagram.com/fitness_socks_nico/": {},
+  "https://www.instagram.com/freanks.athletes.club/": {},
+  "https://www.instagram.com/freeform.pilates/": {},
+  "https://www.instagram.com/freiesmusikzentrummunich/": {},
+  "https://www.instagram.com/fsi.kunstgeschichte/": {},
+  "https://www.instagram.com/gbm_cyclingclub/": {},
+  "https://www.instagram.com/gc_valley/": {},
+  "https://www.instagram.com/gcmuenchen/": {},
+  "https://www.instagram.com/geheimkonzerte/": {},
+  "https://www.instagram.com/gif.me.books/": {},
+  "https://www.instagram.com/girls_coffeeclub/": {},
+  "https://www.instagram.com/giuliakowalski/": {},
+  "https://www.instagram.com/golf_mit_lukas/": {},
+  "https://www.instagram.com/gretaoto_munich/": {},
+  "https://www.instagram.com/haunted.jewellery/": {},
+  "https://www.instagram.com/haus12.health/": {},
+  "https://www.instagram.com/heavensgate_klettern_bouldern/": {},
+  "https://www.instagram.com/herspace.munich/": {},
+  "https://www.instagram.com/hofstatt_munich/": {},
+  "https://www.instagram.com/hold.space_recovery/": {},
+  "https://www.instagram.com/homeinmunichbookclub/": {},
+  "https://www.instagram.com/iamhearteyes/": {},
+  "https://www.instagram.com/irgendwiediemarie/": {},
+  "https://www.instagram.com/jounisto/": {},
+  "https://www.instagram.com/kefai.munich/": {},
+  "https://www.instagram.com/kindderstadtmuenchen/": {},
+  "https://www.instagram.com/kmkv.superjeilezick/": {},
+  "https://www.instagram.com/kraxlkollektiv/": {},
+  "https://www.instagram.com/kunsthallemuc/": {},
+  "https://www.instagram.com/kunstlabor.munich/": {},
+  "https://www.instagram.com/kunstvereinmuenchen/": {},
+  "https://www.instagram.com/lana.ruee/": {},
+  "https://www.instagram.com/lauraanatalie_/": {},
+  "https://www.instagram.com/laurafranziskaaa/": {},
+  "https://www.instagram.com/lauramariesoons/": {},
+  "https://www.instagram.com/lecirqle/": {},
+  "https://www.instagram.com/lesrunmuc/": {},
+  "https://www.instagram.com/limitlezz.community/": {},
+  "https://www.instagram.com/longevity.munich/": {},
+  "https://www.instagram.com/lucaxcarolin/": {},
+  "https://www.instagram.com/luisazickler/": {},
+  "https://www.instagram.com/maishas_human_arts/": {},
+  "https://www.instagram.com/marah_cgn/": {},
+  "https://www.instagram.com/maxkiebacher/": {},
+  "https://www.instagram.com/maxxarena/": {},
+  "https://www.instagram.com/mindspace_germany/": {},
+  "https://www.instagram.com/miria.hny/": {},
+  "https://www.instagram.com/momaxpilates/": {},
+  "https://www.instagram.com/movewithreform/": {},
+  "https://www.instagram.com/mtv_basketball/": {},
+  "https://www.instagram.com/muc_girlsandgatherings/": {},
+  "https://www.instagram.com/muenchen_in_fuenf_minuten/": {},
+  "https://www.instagram.com/muenchenbasket/": {},
+  "https://www.instagram.com/muenchener.meute/": {},
+  "https://www.instagram.com/muenchner_konzertchor/": {},
+  "https://www.instagram.com/munich.morning.miles/": {},
+  "https://www.instagram.com/munich.padelclub/": {},
+  "https://www.instagram.com/munich.social.club/": {},
+  "https://www.instagram.com/munich_art_district/": {},
+  "https://www.instagram.com/munich_minutes/": {},
+  "https://www.instagram.com/munich_new_in_town/": {},
+  "https://www.instagram.com/munich_openair_dance_community/": {},
+  "https://www.instagram.com/munich_skiclub/": {},
+  "https://www.instagram.com/munichartgallery/": {},
+  "https://www.instagram.com/munichbarcommunity/": {},
+  "https://www.instagram.com/munichcorporategirl/": {},
+  "https://www.instagram.com/munichesports/": {},
+  "https://www.instagram.com/munichinternationalladies/": {},
+  "https://www.instagram.com/munichmove/": {},
+  "https://www.instagram.com/munichpadelbash/": {},
+  "https://www.instagram.com/munichpickleballclub/": {},
+  "https://www.instagram.com/munichpilates/": {},
+  "https://www.instagram.com/munichruncollective/": {},
+  "https://www.instagram.com/munichrunningacademy/": {},
+  "https://www.instagram.com/munichtrend/": {},
+  "https://www.instagram.com/munichworkouts/": {},
+  "https://www.instagram.com/my_mom_moment/": {},
+  "https://www.instagram.com/mymunichjournal/": {},
+  "https://www.instagram.com/neleahlbrn/": {},
+  "https://www.instagram.com/nfbc.run/": {},
+  "https://www.instagram.com/nfc_runningclub/": {},
+  "https://www.instagram.com/nightlife_munich/": {},
+  "https://www.instagram.com/nopbclub.munich/": {},
+  "https://www.instagram.com/nymphenruns/": {},
+  "https://www.instagram.com/obvs_studios/": {},
+  "https://www.instagram.com/ollimuenchen/": {},
+  "https://www.instagram.com/one_nation_munich/": {},
+  "https://www.instagram.com/openartmunich/": {},
+  "https://www.instagram.com/opengymmunich/": {},
+  "https://www.instagram.com/oyess_moments/": {},
+  "https://www.instagram.com/pace.magazin/": {},
+  "https://www.instagram.com/padel.parranda/": {},
+  "https://www.instagram.com/padelclubmuenchen/": {},
+  "https://www.instagram.com/padelcrewmunich/": {},
+  "https://www.instagram.com/padelseasons/": {},
+  "https://www.instagram.com/paqmas_official/": {},
+  "https://www.instagram.com/patopickleball/": {},
+  "https://www.instagram.com/paulomuc/": {},
+  "https://www.instagram.com/people.on_bikes/": {},
+  "https://www.instagram.com/pickleball.crew/": {},
+  "https://www.instagram.com/pilatesinmunich/": {},
+  "https://www.instagram.com/pink_heaven_events_munich/": {},
+  "https://www.instagram.com/pure.munich/": {},
+  "https://www.instagram.com/puritepilatesmunich/": {},
+  "https://www.instagram.com/queer.walk.talk/": {},
+  "https://www.instagram.com/queergelesen_muc/": {},
+  "https://www.instagram.com/ray.roadrunner/": {},
+  "https://www.instagram.com/recoveryclub.muc/": {},
+  "https://www.instagram.com/reformer.club/": {},
+  "https://www.instagram.com/reformidablestudios/": {},
+  "https://www.instagram.com/revynd.de/": {},
+  "https://www.instagram.com/rituals.ofc/": {},
+  "https://www.instagram.com/rominasfitnessjourney/": {},
+  "https://www.instagram.com/rostudiosworld/": {},
+  "https://www.instagram.com/rosylongevityclub/": {},
+  "https://www.instagram.com/ruckzuck.running/": {},
+  "https://www.instagram.com/runandchill.munich/": {},
+  "https://www.instagram.com/runbeat.munich/": {},
+  "https://www.instagram.com/runnersmunich/": {},
+  "https://www.instagram.com/sarahmarialinder/": {},
+  "https://www.instagram.com/saturo.event/": {},
+  "https://www.instagram.com/session.labs/": {},
+  "https://www.instagram.com/sipandshare.munich/": {},
+  "https://www.instagram.com/sissyisabellafotografie/": {},
+  "https://www.instagram.com/skigaudi.official/": {},
+  "https://www.instagram.com/slovotum/": {},
+  "https://www.instagram.com/sophia_popov/": {},
+  "https://www.instagram.com/sophiieengel/": {},
+  "https://www.instagram.com/soultrain.munich/": {},
+  "https://www.instagram.com/spark.events.de/": {},
+  "https://www.instagram.com/specialized.munich/": {},
+  "https://www.instagram.com/specialtycoffeemunich/": {},
+  "https://www.instagram.com/stefaniehelen/": {},
+  "https://www.instagram.com/sunrise_striders/": {},
+  "https://www.instagram.com/superhouseclub.munich/": {},
+  "https://www.instagram.com/supermunich/": {},
+  "https://www.instagram.com/superplusstudio/": {},
+  "https://www.instagram.com/surfskate_munich/": {},
+  "https://www.instagram.com/susanne_felgenhauer_art/": {},
+  "https://www.instagram.com/sweatclub.of/": {},
+  "https://www.instagram.com/team.nvrstp/": {},
+  "https://www.instagram.com/terra.e.mano/": {},
+  "https://www.instagram.com/the_collective_flow/": {},
+  "https://www.instagram.com/theactionpainters/": {},
+  "https://www.instagram.com/theglowbesties/": {},
+  "https://www.instagram.com/thepilatesatelier_munich/": {},
+  "https://www.instagram.com/thestudioyogamunich/": {},
+  "https://www.instagram.com/tribeperformance.official/": {},
+  "https://www.instagram.com/tuerkenstrasse/": {},
+  "https://www.instagram.com/tutti_studios/": {},
+  "https://www.instagram.com/un1t_muenchen/": {},
+  "https://www.instagram.com/untereweidenstrasse/": {},
+  "https://www.instagram.com/urbanyogamunich/": {},
+  "https://www.instagram.com/wandernmuc/": {},
+  "https://www.instagram.com/yarko_werkstatt/": {},
+  "https://www.instagram.com/yo_franklin_art/": {},
+  "https://www.instagram.com/yogabeemunich/": {},
+  "https://www.instagram.com/yogaloftmunich/": {},
+  "https://www.instagram.com/yogaloverscommunity/": {},
+  "https://www.instagram.com/yogaonthe.move/": {},
+  "https://www.instagram.com/zarkosretenovic/": {},
+  "https://www.instagram.com/zeithafen/": {},
+  "https://www.instagram.com/zhs_muenchen/": {},
+  "https://www.internations.org/munich-expats/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.inuma.space/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.jumpingdinner.de/deinestadt/muenchen": {},
+  "https://www.katzen-forum.net": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.klub-langer-menschen.de/bg/muenchen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.linuxcafe-stuttgart.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.lokalkompass.de/oberhausen/c-vereine-ehrenamt/repair-caf-oberhausen_a875849": {
+   "fails": 1
+  },
+  "https://www.lost-in-perfection.de/?srsltid=AfmBOoqPDe4BMKAQVvR-WkxTu_DLsgb1jaNxsUBIEpyUzWScql4gy_Di": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.luga.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Berlin-Beachvolleyball/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Berlin-Contact-Improvisation-Meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Berlin-Hikers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Dusseldorf-Creative-Writers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/JUGStuttgart/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Lightweight-Java-User-Group-Munchen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/Munich-EXPATS/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/PyLadies-Hamburg/events/281267985": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/anime-community-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/arts-and-crafts-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/ballsport-leipzig/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/barbershop-singing-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/beer-board-games-heidelberg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-beachvolleyball-beginners/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-board-gamers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-games-and-geeks/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-gemeinschaft-spielen/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-group-ride/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-learn-to-play-chess-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-portrait-drawing-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-rock-climbing-and-bouldering-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/berlin-volley/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/blood-on-the-clocktower-by-boardroom/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/chess-for-fun/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/chess-mornings-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/chessbar-events/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/cthulhu-in-berlin-pen-paper-rollenspiele/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/darmstadt-bouldering-hiking-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/darmstadt-improv-lab-d-i-y-night-live/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/Greater-Stuttgart-Hiking-Group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/Java-User-Group-Cologne/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/Munich-English-Improv-and-Theatre/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/PyData-Hamburg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/berlin-walking-biking-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/c-user-group-karlsruhe/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/casual-spieleabend/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/eisbaden-ice-dippers-frankfurt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/godot-user-group-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/hamburg-gemutliches-wandern-in-um-hamburg-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/meetup-group-chqdoplf/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/munich-hiking-friends/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/power-hiking-dusseldorf/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/queer-hiking-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/riichi-mahjong-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/silent-book-club-berlin-west": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/spieleabend-in-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/tech-talk-stuttgart/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/the-karlsruhe-functional-programmers-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-DE/the-socializer-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/berlin-gravel-bike-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/berlin-schach-chess-beginners/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/berlin-wandern-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/founders-running-club-munich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/frankfurt-rpg-gamers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/frankfurt-super-hiking-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/java-user-group-karlsruhe/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/java-user-group-munchen-jugm/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/jug-dortmund/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/jug-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/leipzig-hikers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/munich-boardgame-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/munich-international-hiking/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/nurnberg-runaways-trekking-hiking/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/pyladiesmunich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/roleplaying-games-stuttgart/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/spielen-in-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/de-de/the-hamburg-board-gaming-club/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/duesselgamers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/dusseldorf-street-photography-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/dusseldorf-wandern-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/english-creative-writing-group-frankfurt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/english-improv-in-dusseldorf/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/english-improv-theatre-group-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/frankfurt-beach-volleyball-social-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/frankfurt-boardgames/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/frankfurt-karaoke-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/frankfurt-pub-quiz-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/frankfurt-swing-dancers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/gamedevmuc/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/gray-fox-book-club-munich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-book-club-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-creative-writing-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-fischmarkt-brettspiele-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-improv-theatre-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-sketching-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburg-unity-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hamburger-indie-treff/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/hannover-unity-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/heidelberg-bouldering-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/heidelberg-english-speaking-board-gaming/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/impact-improv-frankfurt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/kaiserslautern-social-cycling/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/knitting-club-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/leipzig-python-user-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/lets-get-quizical-quiz-in-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/mainz-book-club/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/mannheim-java-usergroup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/mucrpg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/muenchenscifibookclub/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munchen-reading-circle/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munich-art-community/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munich-bouldering-climbing-meetup-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munich-social-cyclists/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munich-social-gaming/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/munich-tech/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/nurnberg-photographers/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/pen-and-paper-berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/pymunich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/python-user-group-hamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/ricecookieimprov/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/shabach/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/showtime_berlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/shutupandwritecologne/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/shutupandwritehamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/shutupandwriteleipzig/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/shutupandwritemunich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/silent-book-club-berlin-chapter/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/silent-book-club-cologne-chapter/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/silent-book-club/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/sommerbuchclub-im-herrngarten/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/spieletreffberlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/sports-social-munich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/stuttgart-game-developer-meetup/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/takeaphotowalkberlin/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/takeaphotowalkhamburg/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/tech-talk-koln/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/the-kingmakers-table/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/unity-developers-darmstadt/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/unity-meetup-mainz-wiesbaden/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/volleyball-outdoor-munich/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/wanderungen-frankfurt-und-umgebung/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.meetup.com/wiesbaden-figure-drawing-drink-and-draw-group/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.mikrocontroller.net/forum": {},
+  "https://www.motor-talk.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.mtb-news.de/forum/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.muenchner-camera-club.de/mcc/Links/index.shtml": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.muenchner-frauenchor.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.muenchner-kammerspiele.de/de/programm/34875-community-dance": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.muenchner-sportclub.de/tennis/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.muenchner-stadtbibliothek.de/buchclubs-lesekreise": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.munich-cowboys.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.munich-startup.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.munich-toastmasters.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.mydealz.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.naturfreunde-bezirk-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.netzwerkurbanegaertenberlin.org/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.nikon-fotografie.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.noname-ev.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.nuernberg.de/internet/agenda21/urban_gardening.html": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.oberhausen-aktuell.de/Veranstaltung/repair-cafe-des-lebenshilfe-e-v/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.openstreetmap.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.parentsforfuture.de/de/chemnitz": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.parkrun.com.de/": {},
+  "https://www.popupyogamuc.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.python.org/events/python-user-group/locations/101": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.queerchor-hannover.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.rc-network.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.reddit.com/r/AnnoDE": {},
+  "https://www.reddit.com/r/AsiatischKochen": {},
+  "https://www.reddit.com/r/Backen": {},
+  "https://www.reddit.com/r/Berlin": {},
+  "https://www.reddit.com/r/Bier": {},
+  "https://www.reddit.com/r/Bremen": {},
+  "https://www.reddit.com/r/Bundesliga": {},
+  "https://www.reddit.com/r/Cologne": {},
+  "https://www.reddit.com/r/DEjobs": {},
+  "https://www.reddit.com/r/DSA_RPG": {},
+  "https://www.reddit.com/r/Dortmund": {},
+  "https://www.reddit.com/r/Dresden": {},
+  "https://www.reddit.com/r/Easy_German": {},
+  "https://www.reddit.com/r/Fahrrad": {},
+  "https://www.reddit.com/r/FitnessDE": {},
+  "https://www.reddit.com/r/FragReddit": {},
+  "https://www.reddit.com/r/Frankfurt": {},
+  "https://www.reddit.com/r/Futurologie": {},
+  "https://www.reddit.com/r/Garten": {},
+  "https://www.reddit.com/r/GermanPractice": {},
+  "https://www.reddit.com/r/Geschichte": {},
+  "https://www.reddit.com/r/Grillen": {},
+  "https://www.reddit.com/r/GuteNachrichten": {},
+  "https://www.reddit.com/r/Hamburg": {},
+  "https://www.reddit.com/r/Haustiere": {},
+  "https://www.reddit.com/r/Heidelberg/": {},
+  "https://www.reddit.com/r/Kampfsport": {},
+  "https://www.reddit.com/r/Karlsruhe": {},
+  "https://www.reddit.com/r/Kochen": {},
+  "https://www.reddit.com/r/LegaladviceGerman": {},
+  "https://www.reddit.com/r/Lehrerzimmer": {},
+  "https://www.reddit.com/r/Leipzig": {},
+  "https://www.reddit.com/r/MinecraftDE": {},
+  "https://www.reddit.com/r/Munich": {},
+  "https://www.reddit.com/r/MusizierenDE": {},
+  "https://www.reddit.com/r/NettHier": {},
+  "https://www.reddit.com/r/NintendoDE": {},
+  "https://www.reddit.com/r/Nuremberg": {},
+  "https://www.reddit.com/r/PCBaumeister": {},
+  "https://www.reddit.com/r/StadtEssen": {},
+  "https://www.reddit.com/r/Stuttgart": {},
+  "https://www.reddit.com/r/VeganDE": {},
+  "https://www.reddit.com/r/Weibsvolk": {},
+  "https://www.reddit.com/r/Wissenschaft": {},
+  "https://www.reddit.com/r/Wuerzburg": {},
+  "https://www.reddit.com/r/aachen": {},
+  "https://www.reddit.com/r/aberBitteLaminiert": {},
+  "https://www.reddit.com/r/aoeDE": {},
+  "https://www.reddit.com/r/arbeitsleben": {},
+  "https://www.reddit.com/r/buecher": {},
+  "https://www.reddit.com/r/de": {},
+  "https://www.reddit.com/r/de_EDV": {},
+  "https://www.reddit.com/r/de_IAmA": {},
+  "https://www.reddit.com/r/de_podcasts": {},
+  "https://www.reddit.com/r/de_punk": {},
+  "https://www.reddit.com/r/deutschememes": {},
+  "https://www.reddit.com/r/dokumentationen": {},
+  "https://www.reddit.com/r/duesseldorf": {},
+  "https://www.reddit.com/r/egenbogen": {},
+  "https://www.reddit.com/r/einfach_schreiben": {},
+  "https://www.reddit.com/r/eltern": {},
+  "https://www.reddit.com/r/erasmus": {},
+  "https://www.reddit.com/r/erfurt": {},
+  "https://www.reddit.com/r/fernsehen": {},
+  "https://www.reddit.com/r/filme": {},
+  "https://www.reddit.com/r/finanzen": {},
+  "https://www.reddit.com/r/formel1": {},
+  "https://www.reddit.com/r/freiburg": {},
+  "https://www.reddit.com/r/fussball": {},
+  "https://www.reddit.com/r/germanrap": {},
+  "https://www.reddit.com/r/germusic": {},
+  "https://www.reddit.com/r/hoerbuecher": {},
+  "https://www.reddit.com/r/ich_iel": {},
+  "https://www.reddit.com/r/keinstresskochen": {},
+  "https://www.reddit.com/r/kiel": {},
+  "https://www.reddit.com/r/radsport": {},
+  "https://www.reddit.com/r/rentnerzeigenaufdinge": {},
+  "https://www.reddit.com/r/schland": {},
+  "https://www.reddit.com/r/schreibkunst": {},
+  "https://www.reddit.com/r/schwanger": {},
+  "https://www.reddit.com/r/spabiergang": {},
+  "https://www.reddit.com/r/sparen": {},
+  "https://www.reddit.com/r/veganeRezepte": {},
+  "https://www.reddit.com/r/vegetarischDE": {},
+  "https://www.reddit.com/r/wandern": {},
+  "https://www.reddit.com/r/wasletztepreis": {},
+  "https://www.reddit.com/r/wortwitzkasse": {},
+  "https://www.reddit.com/r/zocken": {},
+  "https://www.rennrad-news.de/forum/": {},
+  "https://www.reparatur-initiativen.de/repair-cafe-bensberg": {},
+  "https://www.reparatur-initiativen.de/repair-cafe-moers": {},
+  "https://www.reparatur-initiativen.de/repair-cafe-muelheim-netzwerk-broich": {},
+  "https://www.reparatur-initiativen.de/repaircafe-der-kolpingsfamilie-herne-zentral": {},
+  "https://www.reparatur-initiativen.de/reparatur-cafe-gl-refrath": {},
+  "https://www.reparatur-initiativen.de/reparatur-cafe-gl65647": {},
+  "https://www.reparatur-initiativen.de/reparatur-cafe-im-alfred-zingler-haus": {},
+  "https://www.reparatur-initiativen.de/reparatur-cafe-neuss": {},
+  "https://www.reparatur-initiativen.de/reparaturcafe-solingen-e-v": {},
+  "https://www.reparatur-initiativen.de/reparaturen-cafe-remscheid": {},
+  "https://www.roboternetz.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.rosalinde-leipzig.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.rund-ums-baby.de": {},
+  "https://www.spielefreunde-muenchen.de/": {},
+  "https://www.sprossachse.org/sdb/wir/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.stummiforum.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.tabletopwelt.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.tanz.de/tanzparty-muenchen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.thehappyclub.de/workshops": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.thelocal.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.thi.de/en/studies/campus-and-student-life/student-clubs-and-initiatives-at-thi/enactus-ingolstadt-ev/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00001632-heidelberg-international-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00005872": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00008040-nuremberg-toastmasters-club": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00008306-00008306": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00009754-cologne-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00594291-kieler-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00641732-les-toastmasters-francophones-de-munich": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00680945": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00817718-karlsruhetoastmastersclub": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00820973-noris-toastmasters-nuremberg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/00839612-mannheim-international-toastmasters-club": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01022848-01022848": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01022921-ulmer-redespatzen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01066272-01066272": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01223043-rhetorikclub-mannheim": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01539207-bremer-sprechstunde": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01584104-leipziger-redefreiheit": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/01668448-toastmasters-dresden": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/02174231-02174231": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/02884134-business-club-frankfurt-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/03024984-03024984": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/03155062-03155062": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/03836029-power-speakers-lechfeld": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/04694957": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/04949050": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/05114865-rhetorikklub-dresden": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/05479529-heidelberg-toastmasters-rhetorikclub": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/06793979-wrzburg": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/06902964-muc-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/07007864-toastmastersmuenchen": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/07615158": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/1107177-1107177": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/28675504-dresden-international-toastmasters": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/28678002-kassel-germany-pros-club": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.toastmasters.org/Find-a-Club/5571-hannover-speakers-club": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.trekdinner-muenchen.de/stammtisch/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.ubuntuusers.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.unternehmertum.de/en/landingpages/women-startup": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.verein-muenchner-pferdefreunde.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.weibrations.com/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.wer-weiss-was.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.wirhelfenkindern.eu/neuigkeiten/details/repair-cafe-salzgitter-ba": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.wuppertals-urbane-gaerten.de/newsletter-archiv/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.xn--mnchner-freizeitclub-pec.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.yoganebenan.de/": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  },
+  "https://www.zauberfloeten.de": {
+   "fails": 0,
+   "ok": "2026-10-15"
+  }
+ },
+ "stats": {
+  "dead": 10,
+  "ok": 675,
+  "skip": 295,
+  "unknown": 117
+ }
+}
