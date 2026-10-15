@@ -15,6 +15,15 @@ os.makedirs(OUT)
 shutil.copytree(ROOT+'/assets',OUT+'/assets')
 E=html.escape
 data=json.load(open(ROOT+'/data/data.json',encoding='utf8'))
+# Recherchierte Treffzeiten (data/wann_extra.json) einarbeiten; parkrun startet bundesweit um 9 Uhr
+try: _WX=json.load(open(ROOT+'/data/wann_extra.json',encoding='utf8'))
+except Exception: _WX={}
+for _e in data:
+    _x=_WX.get(_e['n']+'|'+_e['t'])
+    if _x and not _e.get('w'):
+        _e['w']=_x['w']
+        if _x.get('a') and not _e.get('a'): _e['a']=_x['a']
+    if 'parkrun' in _e['n'].lower() and _e.get('w')=='Samstags': _e['w']='Samstags 9 Uhr'
 cities=[l.split('|') for l in CITYTXT.splitlines()]   # (name, slug)
 SLUG={n:s for n,s in cities}
 CATS=[('sport','Sport & Fitness'),('outdoor','Outdoor & Natur'),('wellbeing','Wellbeing'),('tanz','Tanz'),('musik','Musik & Chor'),('kunst','Kunst & Handwerk'),('foto','Foto & Film'),('spiele','Brett- & Rollenspiele'),('gaming','Gaming & E-Sport'),('lernen','Bücher & Lernen'),('sprachen','Sprachen & Austausch'),('essen','Essen & Trinken'),('business','Business & Karriere'),('tech','Tech & Code'),('leute','Neue Leute'),('queer','Queer'),('frauen','Frauen'),('familie','Eltern & Familie'),('tiere','Tiere'),('mobil','Mobilität & Rad'),('reisen','Reisen'),('engagement','Umwelt & Engagement'),('studium','Studium')]
@@ -114,6 +123,8 @@ def parse_when(w):
         mt=re.search(r'(\d{1,2})(?::(\d\d))?(?=\s*(?:Uhr|bis))',after) or re.search(r'\b(\d{1,2}):(\d\d)\b',after) or re.search(r'(\d{1,2})(?::(\d\d))?(?=\s*Uhr)',before)
         if mt: t='%02d:%s'%(int(mt.group(1)),mt.group(2) or '00')
         out.append({'d':[v for k,v in WD if m.group(1).lower()==k][0],'o':sorted(set(ords)),'t':t})
+    for i in range(len(out)-2,-1,-1):
+        if not out[i]['t'] and out[i+1]['t'] and not re.search(r'\d',w[ms[i].end():ms[i+1].start()]): out[i]['t']=out[i+1]['t']
     if 'darauf' in low: out=[o for o in out if o['o']]
     return out
 def stable_key(e):
