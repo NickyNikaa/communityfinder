@@ -1,0 +1,49 @@
+Herne|DSC Wanne-Eickel Handball|sport|https://dsc-handball.de|Handballabteilung des DSC Wanne-Eickel mit Mannschaften für verschiedene Altersgruppen.||website
+Herne|Chon-Ji Wanne 05|sport|https://chon-ji-wanne05.de|Kampfsportverein in Wanne-Eickel, bei dem man Taekwondo-nahes Training im Verein ausprobieren kann.||website
+Herne|Herner Turn-Club 1880|sport|https://www.herner-turn-club.de|Traditioneller Turnverein mit Breitensportangeboten für Kinder und Erwachsene.||website
+Herne|SV GEA-Happel|sport|https://www.svgeahappel.de|Herner Sportverein mit Turn- und Freizeitsportangeboten.||website
+Herne|Blau-Weiß Herne-Baukau 06/16|sport|http://bw-herne-baukau.de|Mehrspartenverein im Stadtteil Baukau mit Turnen und Fußball.||website
+Herne|Turnverein Wanne 1885|sport|https://www.tvwanne1885.de|Turnverein in Wanne mit Gruppen für Kinder, Erwachsene und Ältere.||website
+Herne|Minigolf-Club Rot-Weiß Wanne-Eickel|sport|https://mgc-wanne.de|Minigolfclub, in dem man Bahnengolf freizeitmäßig und im Ligabetrieb spielen kann.||website
+Herne|Bushikan Herne|sport|https://bushikan-herne.de|Kampfsportverein in Herne mit Training für Einsteiger und Fortgeschrittene.||website
+Herne|Baukauer Turnclub Herne 1879|sport|https://www.btc-herne.de|Alter Turnverein im Stadtteil Baukau mit mehreren Sportgruppen.||website
+Herne|Ruderverein Emscher Wanne-Eickel-Herten|sport|https://www.rvemscher.de|Rudern auf dem Rhein-Herne-Kanal, auch für Neueinsteiger.||website
+Herne|Wanner Kanu-Verein 1931|sport|https://www.facebook.com/WannerKanuVerein/|Kanuverein mit Paddeln auf Kanal und Gewässern der Region.||facebook
+Herne|Reit- und Fahrverein St. Hubertus Herne/Bochum-Gerthe|tiere|https://www.reitverein-hubertus-herne.de|Reitverein für Reitunterricht, Pferdesport und Vereinsleben.||website
+Herne|Wassersportgemeinschaft Wanne-Eickel|sport|https://www.wgwkanu.de|Wassersportverein mit Schwerpunkt Kanu und gemeinsamen Touren.||website
+Herne|Tennisclub Blau-Weiß Wanne-Eickel|sport|https://www.tc-bww.de|Tennisclub mit Plätzen, Mannschaftsspiel und Jugendarbeit.||website
+Herne|Turnverein Börnig-Sodingen 1889/90|sport|http://tbs-herne.de/cms|Turn- und Sportverein in Börnig und Sodingen mit vielen Abteilungen.||website
+Herne|ETuS Wanne 28|sport|https://www.etuswanne28.de|Sportverein in Wanne mit Fußball und weiteren Angeboten.||website
+Herne|SV Holsterhausen 1924|sport|https://svh1924.de|Fußballverein im Stadtteil Holsterhausen mit Jugend und Senioren.||website
+Herne|DLRG Wanne-Eickel|engagement|https://wanne-eickel.dlrg.de|Ortsgruppe der Lebensrettungsgesellschaft mit Schwimmtraining, Rettungsschwimmen und Jugendarbeit.||website
+Herne|Canu Touring Wanne 32/02|sport|https://www.ct-wanne.de|Kanuverein, der Paddeltouren und Kanusport anbietet.||website
+Herne|Boxring Schwarz-Weiß Unser Fritz 1984|sport|https://boxring-unser-fritz.de|Boxverein im Stadtteil Unser Fritz mit Training für Jugendliche und Erwachsene.||website
+Herne|Sportfreunde 04/12 Wanne-Eickel|sport|http://www.sportfreunde-wanne-eickel.de|Fußballverein in Wanne-Eickel mit mehreren Teams.||website
+Herne|Arminia Holsterhausen|sport|https://www.arminia-holsterhausen.de|Fußballverein mit Mannschaften für Kinder und Erwachsene.||website
+Herne|Ruhrpott Baskets Herne|sport|https://www.ruhrpott-baskets.de|Basketballverein in Herne mit Jugend- und Seniorenteams.||website
+Herne|Sportverein Wanne 1911|sport|http://www.svwanne11.de|Fußballverein in Wanne mit Jugendarbeit.||website
+Herne|Angelsportverein Blitzkuhle Wanne-Eickel|outdoor|https://asv-blitzkuhle.de|Anglerverein mit gemeinsamem Angeln und Gewässerpflege.||website
+Herne|Tennisclub Emschertal Herne|sport|https://www.tc-emschertal.de/|Tennisverein mit Plätzen und Mannschaftsbetrieb.||website
+Herne|Reitsportgemeinschaft Herne-Börnig|tiere|https://www.rsg-herne-boernig.de|Reitgemeinschaft für Reitsport und Pferdefreunde in Börnig.||website
+Herne|Schwimmverein Neptun Herne 1923|sport|http://www.svneptunherne.de|Schwimmverein mit Training für Kinder, Jugendliche und Erwachsene.||website
+Herne|Reitverein Gut Steinhausen|tiere|https://www.gutsteinhausen.de|Reitverein mit Reitbetrieb und Vereinsleben rund um Pferde.||website
+Herne|VfB Börnig 1919|sport|https://www.vfbboernig1919.de|Fußballverein in Börnig mit Jugend und Senioren.||website
+Herne|SpVgg Röhlinghausen 1913|sport|http://www.svroehlinghausen.de|Traditioneller Fußballverein in Röhlinghausen.||website
+Herne|BV Herne-Süd 1913|sport|https://www.bvhernesued.de|Fußballverein im Herner Süden mit Jugendabteilung.||website
+Herne|DJK Falkenhorst Herne 1909|sport|https://de-de.facebook.com/djkfalkenhorst/|Fußballverein der DJK-Sportbewegung in Herne.||facebook
+Herne|TC Parkhaus Wanne-Eickel|sport|https://cms.tc-parkhaus.de|Tennisclub in Wanne-Eickel.||website
+Herne|SV Blau Weiß Börnig 1954|sport|https://www.svblauweissboernig.de|Fußballverein in Börnig mit mehreren Mannschaften.||website
+Herne|Wassersportverein Herne 1920|sport|https://www.wsv-herne.de|Wassersportverein mit Segeln und Paddeln am Rhein-Herne-Kanal.||website
+Herne|DSC Wanne-Eickel Fußball|sport|https://www.dsc-wanne-fussball.de|Fußballabteilung des DSC Wanne-Eickel.||website
+Herne|SC Westfalia 04 Herne|sport|https://www.westfalia-herne.de|Fußballverein aus Herne-Mitte mit großer Jugendarbeit.||website
+Herne|Arminia Sodingen 1926|sport|https://www.facebook.com/ArminiaSodingen|Fußballverein im Stadtteil Sodingen.||facebook
+Herne|SpVgg Herne-Horsthausen 12/26|sport|http://www.spvgg-horsthausen.de|Fußballverein im Stadtteil Horsthausen.||website
+Herne|SV Sodingen 1912|sport|https://de-de.facebook.com/SVSodingen1912|Traditionsreicher Fußballverein aus Sodingen.||facebook
+Herne|FC Herne 1957|sport|https://www.fc-herne-1957.de|Fußballverein in Herne mit Jugend und Seniorenteams.||website
+Herne|Tennisclub Grün-Weiß Herne|sport|https://gruen-weiss-herne.de|Tennisclub in Herne mit Plätzen und Vereinsleben.||website
+Herne|Tischtennisclub Ruhrstadt Herne|sport|https://www.ruhrstadt-herne.de|Tischtennisverein mit Training und Ligabetrieb.||website
+Herne|SG Herne 70|sport|http://sgherne70-jugend.de|Fußballverein mit Fokus auf Jugendarbeit.||website
+Herne|Tennisclub Friedrich der Große Herne|sport|http://tc-fdg-herne.de|Tennisclub im Herner Stadtgebiet.||website
+Herne|Historischer Verein Herne/Wanne-Eickel|leute|https://www.hv-her-wan.de/index.php/der-verein|Verein für Stadtgeschichte mit Gesprächskreis, Genealogie-Treffpunkt, Filmgruppe und Stadt-Wiki.|Familienforschungs-Stammtisch ca. monatlich, 18:30 Uhr|website
+Herne|ADFC Herne|mobil|https://herne.adfc.de/fileadmin/Gliederungen/Sattel/herne/user_upload/PDF-Dateien/Jubilaeumsfestschrift-Homepage.pdf|Ortsgruppe des Fahrradclubs mit geführten Tages- und Halbtagestouren sowie ruhigeren Bummeltouren.|Touren überwiegend sonntags|website
+Herne|Herner Sport Taucher|sport|https://www.schwimmbadcheck.de/verein/herner-sport-taucher-e.v.html|Tauchsportverein in Herne mit Schwimmbadtraining für Tauchbegeisterte.||sonstige

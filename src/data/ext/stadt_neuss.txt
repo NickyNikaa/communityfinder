@@ -1,0 +1,47 @@
+Neuss|Schachgemeinschaft Neuss e.V.|spiele|http://www.schachgemeinschaft-neuss.de|Schachverein der Stadt, in dem Hobbyspieler und Ligaspieler zusammenkommen.||website
+Neuss|Tanzsportclub Neuss e.V.|tanz|http://www.tanzsportclub-neuss.de|Tanzverein mit Gesellschaftstanz und Turniertanz für Paare.||website
+Neuss|Tanzsportgemeinschaft Quirinus e.V. Neuss|tanz|http://www.tsgquirinus.de|Tanzsportverein mit Tanz- und Turnierangeboten, auch beim Sport im Park der Stadt dabei.||website
+Neuss|Neusser Karnevalsgesellschaft Blaue Funken von 1954|tanz|https://www.blaue-funken-neuss.de/|Karnevalsgesellschaft mit Tanzgruppen für Kinder und Erwachsene, Gardetanz inklusive.||website
+Neuss|DLRG Ortsgruppe Stadt Neuss e.V.|engagement|http://www.stadt-neuss.dlrg.de|Ehrenamtliche Wasserretter, die Schwimmen und Rettungsschwimmen trainieren und Wachdienste übernehmen.||website
+Neuss|DRK Wasserwacht Neuss e.V.|engagement|http://www.wasserwacht-neuss.de|Wasserrettung und Schwimmangebote für Kinder und Erwachsene, getragen von Ehrenamtlichen.||website
+Neuss|CVJM Neuss e.V.|leute|http://www.cvjm-neuss.de|Christlicher Verein mit offenen Sport- und Freizeitgruppen, darunter Hallenfußball, Volleyball und Laufgruppe.||website
+Neuss|DVG Neuss Rheinallee e.V.|tiere|http://www.dvg-neuss.de|Hundesportverein mit Welpenspiel, Grundausbildung und Begleithundetraining.||website
+Neuss|Ski-Club Neuss e.V.|outdoor|http://www.skiclub-neuss.de|Verein für Wanderungen, Fahrradtouren, Skifahren und Gymnastik das ganze Jahr über.||website
+Neuss|Verein Neusser Angelfischer 1922|outdoor|https://neusser-angelfischer.de/|Anglerverein für Sportfischer in und um Neuss.||website
+Neuss|Neusser Kanu-Club e.V.|outdoor|http://www.neusser-kanu.de|Verein für Paddeln, Kajak und Segeln auf dem Wasser.||website
+Neuss|Kanugemeinschaft Erft in Neuss e.V.|outdoor|http://www.kanustrecke.de|Kanuverein an der Erft für Freizeit- und Wettkampfpaddler.||website
+Neuss|Neusser Ruderverein e.V.|outdoor|http://www.neusserrv.de|Rudern auf dem Rhein für Einsteiger und Fortgeschrittene.||website
+Neuss|Neusser Wassersportverein e.V.|outdoor|https://neusser-wassersportverein.de/|Verein für Segeln und Motorbootsport am Wasser.||website
+Neuss|Marine-Verein Neuss von 1895 e.V.|outdoor|http://www.marinevereinneuss.de|Traditionsreicher Verein rund um Wassersport und Kameradschaft.||website
+Neuss|Pulchra Amphora e.V.|outdoor|http://www.pulchra-amphora.de|Tauchverein mit Unterwasserrugby, Apnoetauchen, Jugendtauchen und Aquafitness.||website
+Neuss|Neusser Radfahrerverein von 1888/09 e.V.|mobil|http://www.nrv1888.de|Radsportverein für gemeinsames Fahren und Training.||website
+Neuss|Neusser Motorsportclub 1928 e.V.|mobil|http://www.nmsc.de|Motorsportverein für Interessierte an Wettbewerben und Technik.||website
+Neuss|Neusser Scheibenschützen-Gesellschaft von 1415 e.V.|leute|http://www.neusser-scheibenschuetzen.de|Sehr alter Schützenverein mit Schießsport und Brauchtumspflege.||website
+Neuss|Lebenshilfe Neuss e.V.|engagement|http://www.lebenshilfe-neuss.de|Verein für Menschen mit Behinderung mit Sport- und Freizeitangeboten wie Kegeln, Tanzen und Schwimmen.||website
+Neuss|Parkinson Regionalgruppe Neuss|wellbeing|http://www.neuss-parkinson.de|Selbsthilfegruppe mit Bewegungsangeboten für Parkinson Betroffene und Angehörige.||website
+Neuss|Vereinigung der Heimatfreunde Neuss e.V.|leute|https://www.heimatfreunde-neuss.de/|Heimatverein mit geführten Wanderungen, Rundgängen, Büchern und Ausflügen zur Stadtgeschichte.||website
+Neuss|Neusser Tandem Treff e.V.|sprachen|https://www.neusser-tandem-treff.de/|Verein für Austausch zwischen Menschen deutscher und anderer Herkunft mit Café, Stadtführungen und Gruppentreffen.|Meist donnerstags 16 Uhr im Café der Interkulturellen Begegnung|website
+Neuss|Grünes Herz Neuss e.V.|engagement|https://gruenes-herz-neuss.de/|Mitmachverein rund um den neuen Bürgerpark mit Themengruppen, Spaziergängen und Stammtisch.|Stammtisch regelmäßig, Termine im Kalender|website
+Neuss|Freiwilligenzentrale Neuss|engagement|https://www.freiwilligenzentrale-neuss.de|Anlaufstelle, die Interessierte zu Ehrenamt berät und in passende Aufgaben vermittelt.|Di und Mi 10 bis 12 Uhr, Do 14 bis 16 Uhr|website
+Neuss|Neusser Stammtisch das Original|leute|https://community.spontacts.com/community/friendseek/groups/LnKQTQxTAhe|Offene Gruppe zum Kennenlernen mit Stammtisch, Quiz, Billard und Ausflügen.|Einmal im Monat|sonstige
+Neuss|Mädels-Stammtisch Neuss und Grevenbroich|frauen|https://community.gemeinsamerleben.com/community/friendseek/groups/AudZvuqCAeG|Frauengruppe für gemeinsame Abende und Freizeit in der Region.|Etwa monatlich freitags abends|sonstige
+Neuss|Neusser TTC Nordstadt 38 e.V.|sport|http://www.nttc.de|Tischtennisverein der Stadt.||website
+Neuss|1st ASC Neuss Gladiators|sport|http://www.neussgladiators.de|Verein für American Football, Flag Football und Cheerleading.||website
+Neuss|Boxring Neuss 1992 e.V.|sport|https://boxen-neuss.de/|Boxverein, der auch beim Sport im Park der Stadt mitmacht.||website
+Neuss|BV Weckhoven 1927 e.V.|sport|http://www.bvweckhoven.de|Breiter Sportverein mit Badminton, Baseball, Football, Volleyball und Inklusionssport.||website
+Neuss|Club der Billardfreunde Neuss e.V.|sport|http://www.cdbf-neuss.de|Billardverein mit Karambol und Poolbillard.||website
+Neuss|Dart Club Hot Shots Neuss 1994 e.V.|sport|https://dchs-neuss.de|Dartverein der Stadt.||website
+Neuss|DJK Rheinkraft Neuss 1914 e.V.|sport|http://www.djk-rheinkraft-neuss.de|Vielseitiger Verein mit Fußball, Leichtathletik, Turnen, Volleyball und Seniorensport.||website
+Neuss|Fighting Rheinisch on wheels e.V.|sport|http://www.fighting-rheinisch.de|Skaterhockey Verein.||website
+Neuss|Gojukan Neuss e.V.|sport|http://www.gojukan.de|Karateverein, auch mit Angebot für Senioren.||website
+Neuss|HTC Schwarz-Weiß Neuss e.V.|sport|http://www.htc-neuss.de|Hockey und Tennis Club.||website
+Neuss|Neuss Rebels Baseball|sport|http://www.neussrebels.de|Baseballabteilung im BV Weckhoven.||website
+Neuss|Neuss Legions|sport|http://www.neuss-legions.de|American Football und Cheerleading im BV Weckhoven.||website
+Neuss|Neusser Eishockey Verein e.V.|sport|http://www.neusserev.de|Eishockeyverein der Stadt.||website
+Neuss|Neusser Handballverein e.V.|sport|https://neusserhv.com|Handballverein der Stadt.||website
+Neuss|Neusser Kegler 1920 e.V.|sport|https://www.neusser-kegler.de/|Kegelverein, der auch Tanzangebote hat.||website
+Neuss|Neusser Schwimmverein 1900 e.V.|sport|http://www.neusser-sv.de|Schwimmen, Triathlon, Fechten und Breitensport.||website
+Neuss|Turngemeinde Neuss von 1848 e.V.|sport|http://www.tg-neuss.de|Großer Turnverein mit sehr breitem Kurs- und Sportangebot.||website
+Neuss|Turn- und Sportverein Norf e.V.|sport|http://www.tsv-norf.de|Mehrspartenverein mit Lauftreff, Tanz, Turnen und Ballsport.||website
+Neuss|Tae-Kwon-Do Club Neuss e.V.|sport|http://www.taekwondo-neuss.de|Taekwondo und Kickboxen.||website
+Neuss|GWN Sport-Team e.V.|sport|http://www.gwn-sport-team.de|Verein mit Lauftreff, Tischtennis und Behindertensport.||website

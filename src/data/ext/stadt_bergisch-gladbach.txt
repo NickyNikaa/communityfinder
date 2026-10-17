@@ -1,0 +1,108 @@
+Bergisch Gladbach|ADFC Rhein-Berg|mobil|https://www.rhein-berg.adfc.de|Fahrradverband der Region mit Beratung und gefuehrten Radtouren.||website
+Bergisch Gladbach|Amnesty International Bergisch Gladbach|engagement|https://www.amnesty-bergisch-gladbach.de|Ortsgruppe, die sich fuer Menschenrechte einsetzt und Aktionen organisiert.|Montags|website
+Bergisch Gladbach|Bergisch Gladbach fuer Demokratie und Vielfalt|engagement|https://www.gl-devi.de|Buergerverein, der sich fuer Demokratie und Vielfalt stark macht und gegen Extremismus eintritt.||website
+Bergisch Gladbach|Bergisch Gladbacher Billard-Club 1926|sport|https://www.bgbc1926.de|Billardverein mit eigenem Clubheim und offenen Clubabenden.|Dienstags und donnerstags 17 bis 20:30 Uhr|website
+Bergisch Gladbach|Bergischer Geschichtsverein Rhein-Berg|lernen|https://www.bgv-rhein-berg.de|Verein fuer Lokalgeschichte mit Vortraegen, Exkursionen und Denkmalpflege.||website
+Bergisch Gladbach|Bergischer Luftsport Verein|sport|https://www.blvev.de|Fliegerverein fuer Motor-, Segel- und Modellflug.||website
+Bergisch Gladbach|Bienenzuchtverein Bergisch Gladbach|tiere|https://www.glsummt.de|Imkerverein rund um Bienenhaltung, Bienenschutz und Bildungsangebote.|Monatliche Versammlungen|website
+Bergisch Gladbach|Cafe GrenzenLos|leute|https://www.grenzenlos-gl.de|Inklusives Cafe als Treffpunkt mit Freizeitangeboten fuer Menschen mit und ohne Behinderung.||website
+Bergisch Gladbach|Eisenbahn-Club Bergisch Gladbach|spiele|https://www.ecgl.de|Club fuer Eisenbahngeschichte und Modellbahn.||website
+Bergisch Gladbach|Klimafreunde Rhein-Berg|engagement|https://www.klimafreunde-rheinberg.de|Klima- und Umweltgruppe mit Aktionen und Arbeitsgruppen.||website
+Bergisch Gladbach|LESEMENTOR Bergisch Gladbach|engagement|https://www.mentor-bergischgladbach.de|Ehrenamtliche begleiten Schulkinder beim Lesenlernen.||website
+Bergisch Gladbach|Mehrgenerationenhaus Bergisch Gladbach|familie|https://www.mgh-gl.de|Offener Treffpunkt fuer alle Generationen, dazu ein Spielmobil.||website
+Bergisch Gladbach|MiKibU|engagement|https://www.mikibu.de|Mentoren foerdern Grundschulkinder, die Unterstuetzung beim Deutsch brauchen.||website
+Bergisch Gladbach|Nachhaltige Mobilitaet GL|mobil|https://www.nachhaltige-mobilitaet-gl.de|Verein, der sich fuer sichere und umweltfreundliche Verkehrsgestaltung in der Stadt einsetzt.||website
+Bergisch Gladbach|Omas gegen Rechts Bergisch Gladbach|engagement|https://www.ogr-bergischgladbach.de|Gruppe aelterer Frauen mit Infostaenden und Veranstaltungen fuer Demokratie.||website
+Bergisch Gladbach|Round Table 215 Bergisch Gladbach|leute|https://www.rt-gl.de|Service-Club junger Maenner, der ehrenamtlich Projekte fuer gemeinnuetzige Zwecke umsetzt.||website
+Bergisch Gladbach|Schuhe fuer Bulgarien|engagement|https://www.schuhe-fuer-bulgarien.de|Verein, der Hilfstransporte nach Bulgarien organisiert.||website
+Bergisch Gladbach|Stadtjugendring Bergisch Gladbach|engagement|https://www.stadtjugendring-gl.de|Zusammenschluss der Jugendverbaende und Jugendgruppen der Stadt.||website
+Bergisch Gladbach|Terre des Hommes Arbeitsgruppe Bergisch Gladbach|engagement|https://www.tdh-ag.de/bergischgladbach.html|Lokale Gruppe fuer Kinderrechte und humanitaere Hilfe.||website
+Bergisch Gladbach|Trostteddy|engagement|https://www.trostteddy.com|Ehrenamtliche stellen Trostteddys her und verteilen sie an Kinder in Notlagen.||website
+Bergisch Gladbach|Verschoenerungsverein Bergisch Gladbach|engagement|https://www.verschoenerungsverein-gl.de|Verein, der staedtische Denkmaeler und Anlagen pflegt und restauriert.||website
+Bergisch Gladbach|Wanderfreunde Bergisches Land|outdoor|https://www.wf-bergischesland.de|Wanderverein mit regelmaessigen Wanderungen und Radtouren.||website
+Bergisch Gladbach|Queerer Jugendtreff der Aidshilfe RheinBerg|queer|https://www.aidshilfe-gl.de|Treff fuer queere junge Menschen von 14 bis 27 Jahren.|Jeden 2. und 4. Donnerstag im Monat|website
+Bergisch Gladbach|Refrather Treff|leute|https://www.ov-bensberg-refrath.drk.de/start/refrather-treff-ggmbh.html|Begegnungsstaette in Refrath mit Kursen, Gruppen und Veranstaltungen.||website
+Bergisch Gladbach|Mittendrin Begegnungsstaette|leute|https://www.caritas-rheinberg.de/hilfen-angebote/senioren/freizeit/begegnungsstatten|Begegnungsstaette der Caritas in der Stadtmitte mit Freizeitangeboten.||website
+Bergisch Gladbach|TREFFpunkt Anna Haus|leute|https://www.caritas-rheinberg.de/hilfen-angebote/senioren/freizeit/begegnungsstatten|Begegnungsstaette der Caritas in Paffrath mit Treffangeboten.||website
+Bergisch Gladbach|PRO Treff Bensberg|leute|https://www.progymnasium.de|Nachbarschaftstreff mit Kursen, Gruppen und Veranstaltungen rund ums PROgymnasium Bensberg.||website
+Bergisch Gladbach|Evangelische Begegnungsstaette Hand|leute|https://www.heilig-geist-kirche.de/einrichtungen/ev-begegnungsstatte|Treffpunkt im Stadtteil Hand mit Kursen, Ausfluegen und Beratung.||website
+Bergisch Gladbach|DLRG Ortsgruppe Bergisch Gladbach|sport|https://gl.dlrg.de|Wasserrettungsverein mit Schwimmtraining und Ehrenamt.||website
+Bergisch Gladbach|Freiwillige Feuerwehr Bergisch Gladbach Loeschzug 7|engagement|https://www.feuerwehr-gl.de|Freiwillige Feuerwehr, bei der Interessierte ehrenamtlich mitmachen koennen.||website
+Bergisch Gladbach|SV Bergisch Gladbach 09|sport|https://www.bergischgladbach09.de|Fussballverein mit Frauen-, Herren- und Jugendmannschaften.||website
+Bergisch Gladbach|SV Blau-Weiss Hand|sport|https://www.blau-weiss-hand.de|Grosser Sportverein im Stadtteil Hand mit vielfaeltigem Angebot.||website
+Bergisch Gladbach|THC Rot-Weiss Bergisch Gladbach Hockey|sport|https://www.thc-rot-weiss.de/hockey|Hockeyverein fuer alle Altersklassen.||website
+Bergisch Gladbach|Turnerschaft Bergisch Gladbach 1879|sport|https://www.ts79.de|Breitensportverein mit vielen Kursen und Gruppen.||website
+Bergisch Gladbach|Ganey Tikva Bergisch Gladbach|engagement|https://www.ganey-tikva-verein.de|Partnerschaftsverein fuer Begegnungen zwischen Bergisch Gladbach und Israel.||website
+Bergisch Gladbach|Selbsthilfegruppe Hochsensibel und nicht allein|wellbeing|https://www.bergischgladbach.de|Austauschgruppe fuer hochsensible Menschen.|Jeden 1. Donnerstag im Monat, 18 Uhr|website
+Bergisch Gladbach|NEW Beginners|leute|https://www.new-beginners.jimdofree.com/termine|Selbsthilfegruppe gegen Einsamkeit fuer Menschen ab 50.||website
+Bergisch Gladbach|Gemeinsam statt einsam Wohnen im Alter|leute|https://www.bergischgladbach.de|Austauschgruppe zu gemeinschaftlichem Wohnen im Alter.|Jeden 1. Samstag im Monat, 16 Uhr|website
+Bergisch Gladbach|Freundeskreis fuer Suchtkrankenhilfe|wellbeing|https://www.freundeskreis-bergisch-gladbach.de|Selbsthilfegruppe fuer Suchtkranke und Angehoerige.|Dienstags 18:30 Uhr|website
+Bergisch Gladbach|Selbsthilfegruppe gegen Angst|wellbeing|https://www.shg-gegen-angst.de|Austauschgruppe zu Aengsten und Phobien.|Zweimal im Monat|website
+Bergisch Gladbach|Klartext Selbsthilfegruppe Autismus|familie|https://www.klartext-shg.jimdofree.com|Austausch fuer Eltern und Angehoerige von Menschen im Autismus-Spektrum.|Jeden 1. Freitag im Monat, 19:30 Uhr|website
+Bergisch Gladbach|Besonders stark zusammen|familie|https://www.einfachgemeinsam.gl|Elternnetzwerk fuer Familien mit behinderten Kindern.|Meist letzter Mittwoch im Monat, 19:30 Uhr|website
+Bergisch Gladbach|Sinfonieorchester Bergisch Gladbach|musik|https://www.sinfonieorchester-bg.de|Laienorchester mit Profis, seit 1968 aktiv, mehrere Konzerte im Jahr.||website
+Bergisch Gladbach|THEAS Theaterschule und Theater|kunst|https://www.theas.de|Kleine Buehne mit Theatergruppen fuer verschiedene Altersgruppen.||website
+Bergisch Gladbach|Initiative KlimaGerecht Leben|engagement|https://www.klimagerecht-leben.de|Initiative fuer Klimagerechtigkeit mit oeffentlichen Aktionen und einem offenen Klimatalk.||website
+Bergisch Gladbach|Freiwilligen-Boerse RheinBerg|engagement|https://www.fwb-direkt.de|Vermittelt Interessierte an ehrenamtliche Aufgaben im Rheinisch-Bergischen Kreis.||website
+Bergisch Gladbach|Fellas for Europe|engagement|https://www.fellas4europe.org|Verein fuer Ukraine-Hilfe mit Spendensammlungen und Transporten.||website
+Bergisch Gladbach|Stadtverband Eine Welt Bergisch Gladbach|engagement|https://www.bergischgladbach.de/stadtverband-eine-welt.aspx|Zusammenschluss von Gruppen, die sich fuer Eine-Welt-Themen und fairen Handel engagieren.||website
+Bergisch Gladbach|Solidaritaetspartnerschaft Bergisch Gladbach Nir Oz|engagement|https://www.bgl-niroz.de|Verein, der den Wiederaufbau des Kibbuz Nir Oz unterstuetzt.||website
+Bergisch Gladbach|Il-Won Meditationszentrum|wellbeing|https://www.il-won.de|Won-buddhistisches Meditationszentrum an der Igeler Muehle.||website
+Bergisch Gladbach|Die Platte|engagement|https://www.platte-ev.de|Verein, der wohnungslose und beduerftige Menschen unterstuetzt und Ehrenamtliche einbindet.||website
+Bergisch Gladbach|Endo Was Selbsthilfegruppe|wellbeing|https://www.instagram.com/shg_endo_was|Selbsthilfegruppe fuer Menschen mit Endometriose und ihr Umfeld.||instagram
+Bergisch Gladbach|Liebevoll ICH Selbsthilfegruppe|wellbeing|https://www.liebevollich.de|Selbsthilfegruppe fuer seelische Gesundheit und Selbstwert.||website
+Bergisch Gladbach|Ohne Alkohol leben|wellbeing|https://www.bergischgladbach.de|Gruppe fuer alkoholkranke Frauen und Maenner in Zusammenarbeit mit der Caritas Suchthilfe.|Dienstags 18 Uhr|website
+Bergisch Gladbach|Tinnitus-Liga Selbsthilfegruppe Bergisch Gladbach|wellbeing|https://www.bergischgladbach.de|Austausch fuer Tinnitusbetroffene und Angehoerige.|Jeden 1. Donnerstag im Monat, 18 Uhr|website
+Bergisch Gladbach|Badminton Verein Bergisch Gladbach 2004|sport|http://www.bv04.net|Badmintonverein mit Training fuer Freizeit- und Wettkampfspieler.||website
+Bergisch Gladbach|Bahnengolfclub Bergisch Gladbach 1983|sport|http://www.bgc-bg.de|Verein fuer Bahnengolf mit Training und Turnieren.||website
+Bergisch Gladbach|Bergische Schachfreunde 1923|spiele|http://www.bsf1923.de|Schachverein mit Spielabenden und Mannschaftsbetrieb.||website
+Bergisch Gladbach|Bergische Sporttaucher|sport|http://www.bst-gl.de|Tauchverein mit Schwimmbadtraining und gemeinsamen Tauchgaengen.||website
+Bergisch Gladbach|Box-Club 32/84 Bergisch Gladbach|sport|http://www.boxclub-bergischgladbach.de|Boxverein mit Training fuer Einsteiger und Fortgeschrittene.||website
+Bergisch Gladbach|DJK SSV Sand|sport|http://www.ommerbornsand.de|Sportverein im Stadtteil Sand mit Fussball, Tischtennis, Gymnastik und Kinderturnen.||website
+Bergisch Gladbach|DLRG Bensberg|sport|http://www.og-bensberg.de|Ortsgruppe mit Schwimmtraining, Rettungsschwimmen und Tauchen.||website
+Bergisch Gladbach|Eissportverein Bergisch Gladbach|sport|http://www.esv-gl.de|Eissportverein mit Eishockey, Eiskunstlauf und Eistanz.||website
+Bergisch Gladbach|Familiensportgemeinschaft Bergisch Gladbach|sport|http://www.fsg-bergischgladbach.de|Sportgemeinschaft mit Badminton, Faustball, Volleyball, Tischtennis und Gymnastik.||website
+Bergisch Gladbach|FC Bensberg 2002|sport|http://www.fcbensberg.de|Fussballverein aus Bensberg.||website
+Bergisch Gladbach|1. FFC Bergisch Gladbach 2009|sport|http://www.ffcbergischgladbach.de|Frauen- und Maedchenfussballverein.||website
+Bergisch Gladbach|Frauen in Bewegung|frauen|http://www.fibev.de|Sportverein fuer Frauen mit sehr vielseitigem Kursangebot.||website
+Bergisch Gladbach|Gencler Birligi Bergisch Gladbach 1988|sport|http://www.gencler-birligi.de|Fussballverein mit tuerkischen Wurzeln, offen fuer alle.||website
+Bergisch Gladbach|Inter 96 Bergisch Gladbach|sport|http://www.inter96.net|Fussballverein aus Bergisch Gladbach.||website
+Bergisch Gladbach|Judo-Club Kiaen-Sue Bergisch Gladbach 1955|sport|http://www.kiaen-sue.de|Judo- und Jiu-Jitsu-Verein mit Training fuer verschiedene Altersgruppen.||website
+Bergisch Gladbach|Karate Zanshin Bergisch Gladbach|sport|http://www.karate-zanshin.de|Karateverein mit Training fuer Kinder und Erwachsene.||website
+Bergisch Gladbach|1. Karate-Club Bergisch Gladbach 1975|sport|http://www.karate-gl.de|Karateclub mit Trainingsgruppen fuer alle Stufen.||website
+Bergisch Gladbach|Karategemeinschaft Bergisch Gladbach|sport|http://www.karate-gemeinschaft.de|Karateverein mit regelmaessigen Trainingsgruppen.||website
+Bergisch Gladbach|Rhein-Berg-Karate Bergisch Gladbach|sport|http://www.rhein-berg-karate.de|Karateverein der Region mit Trainingsangeboten.||website
+Bergisch Gladbach|Kreisfischereiverein Bergisch Gladbach|outdoor|http://www.kfv-gl.de|Anglerverein mit Sportfischen, Casting und Gewaesserpflege.||website
+Bergisch Gladbach|Kunstturnzentrum 86 Bergisch Gladbach|sport|https://bergischgladbach.de/sportarten-2016-2.pdfx|Verein fuer Kunstturnen mit Nachwuchsfoerderung.||website
+Bergisch Gladbach|Laendlicher Reit- und Fahrverein Bergisch Gladbach|tiere|http://www.lrufv-gl.de|Reitverein mit Reiten, Fahren und Voltigieren.||website
+Bergisch Gladbach|MTB RheinBerg|sport|http://www.mtbrb.de|Mountainbike-Verein mit gemeinsamen Ausfahrten.||website
+Bergisch Gladbach|Radsportverein Staubwolke Refrath 1952|sport|http://www.staubwolke-refrath.de|Radsportverein aus Refrath mit gemeinsamen Touren.||website
+Bergisch Gladbach|Reit- und Turniergemeinschaft Siefer Hof|tiere|http://www.rtg-sieferhof.de|Reitverein mit Reiten, Fahren und Voltigieren.||website
+Bergisch Gladbach|Reiterverein Eicherhof|tiere|http://www.rv-eicherhof.de|Reitverein fuer Reiten und Fahren.||website
+Bergisch Gladbach|Reiterverein Hebborner Hof|tiere|http://www.rv-hebbornerhof.de|Reitverein fuer Reiten und Fahren.||website
+Bergisch Gladbach|Reiterverein Komturei Herrenstrunden|tiere|http://www.rv-mkh.de|Reitverein mit Reiten, Fahren und Voltigieren.||website
+Bergisch Gladbach|Rhein-Berg Runners|sport|https://bergischgladbach.de/sportarten-2016-2.pdfx|Laufverein der Region fuer Leichtathletik und gemeinsames Laufen.||website
+Bergisch Gladbach|Schiess-Sport-Club Bergisch Gladbach 1864|sport|https://bergischgladbach.de/sportarten-2016-2.pdfx|Traditioneller Schiessverein der Stadt.||website
+Bergisch Gladbach|Schuetzengilde Jan-Wellem Bensberg|sport|http://www.jan-wellem-sgil.de|Schuetzenverein mit Bogenschiessen und Schiesssport.||website
+Bergisch Gladbach|Schwimmverein Bergisch Gladbach 1920/71|sport|http://www.svbg.de|Schwimmverein mit Schwimmen, Wasserball, Triathlon und Tauchen.||website
+Bergisch Gladbach|SG Pegasus Rommerscheid 91|sport|http://www.sg-pegasus.de|Sportgemeinschaft mit Korfball, Gymnastik, Yoga und Kinderturnen.||website
+Bergisch Gladbach|Ski-Club Bergisch Gladbach|outdoor|http://www.skiclub-bergischgladbach.de|Skiclub mit Skifahrten, Skigymnastik und Badminton.||website
+Bergisch Gladbach|Sport-Club 1927 Bergisch Gladbach|sport|http://www.sc27.de|Fussballverein der Stadt.||website
+Bergisch Gladbach|Sportgemeinschaft Bockenberg 1965|sport|http://www.sg-bockenberg.de|Sportverein mit Basketball, Volleyball, Leichtathletik und Wandern.||website
+Bergisch Gladbach|SSV Jan Wellem 05|sport|http://www.ssvjanwellem05.de|Sportverein mit Fussball, Faustball und Gymnastik.||website
+Bergisch Gladbach|SV Refrath/Frankenforst 1926|sport|http://www.sv-refrath.com|Sportverein mit Fussball, Tennis und Segeln.||website
+Bergisch Gladbach|Tanzsportgemeinschaft Rot-Weiss Bensberg|tanz|http://www.tsg-rot-weiss.de|Tanzverein mit Gardetanz.||website
+Bergisch Gladbach|Tauchsportclub Bergisch Gladbach|sport|https://bergischgladbach.de/sportarten-2016-2.pdfx|Tauchverein der Stadt.||website
+Bergisch Gladbach|Tennisfreunde Gruen-Weiss Bergisch Gladbach 75|sport|http://www.tennisfreunde75.de|Tennisverein fuer Freizeit- und Mannschaftsspiel.||website
+Bergisch Gladbach|Therap|tiere|http://www.therap-ev.de|Verein fuer Behindertensport und therapeutisches Reiten.||website
+Bergisch Gladbach|Tischtennisclub Baerbroich 1958|sport|http://www.ttc-baerbroich.de|Tischtennisverein mit Training und Ligabetrieb.||website
+Bergisch Gladbach|Tischtennisclub Bensberg|sport|http://www.ttc-bensberg.de|Tischtennisverein aus Bensberg.||website
+Bergisch Gladbach|Tischtennisverein 59 Bergisch Gladbach|sport|http://www.ttv59.de|Tischtennisverein mit Training und Ligabetrieb.||website
+Bergisch Gladbach|Turn und Kulturverein 2012 Bergisch Gladbach|sport|http://www.tkv-bg.de|Verein fuer Kunstturnen und Kultur.||website
+Bergisch Gladbach|TuS Moitzfeld 1961|sport|http://www.tus-moitzfeld.de|Breitensportverein mit Ballsport, Turnen, Tanz und Gymnastik.||website
+Bergisch Gladbach|TuS Schildgen 1932|sport|http://www.tus-schildgen.de|Breitensportverein mit Volkstanz, Gesellschaftstanz, Wandern und vielen Kursen.||website
+Bergisch Gladbach|Turnverein Bensberg 1901|sport|http://www.tvbensberg.de|Vielseitiger Turnverein aus Bensberg.||website
+Bergisch Gladbach|Turnverein Herkenrath 1909|sport|http://www.tvherkenrath09.de|Sportverein mit Handball, Basketball, Volleyball, Tanz und Wandern.||website
+Bergisch Gladbach|Turnverein Refrath 1893|sport|http://www.tv-refrath.de|Vielseitiger Turnverein aus Refrath.||website
+Bergisch Gladbach|Bergische Pferdesportfreunde|tiere|http://www.bergische-pferdesportfreunde.de|Pferdesportverein mit Reiten, Fahren und Voltigieren.||website
+Bergisch Gladbach|Intermelodie Seniorenchor Dreiklang|musik|https://bergischgladbach.de/chorflyer20250104.pdfx|Offener Singkreis der Max-Bruch-Musikschule, Notenkenntnisse sind nicht noetig, Gaeste duerfen unverbindlich vorbeikommen.|Dienstags 10:30 Uhr|website

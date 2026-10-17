@@ -1,0 +1,55 @@
+Leverkusen|Kunstverein Leverkusen Schloss Morsbroich|kunst|http://www.kunstverein-leverkusen.de|Trägerverein rund um das Schloss Morsbroich, der Ausstellungen, Führungen und Austausch zu zeitgenössischer Kunst anbietet.||website
+Leverkusen|ADFC Leverkusen|mobil|https://leverkusen.adfc.de|Ortsgruppe des Fahrradclubs mit Radtouren, Verkehrsthemen und Einsatz für bessere Radwege in der Stadt.||website
+Leverkusen|Freizeitclub 50 mittendrin|leute|http://www.freizeitclub-50-mittendrin.de|Freizeitclub für Menschen ab der Lebensmitte, der gemeinsame Ausflüge und Treffen organisiert.||website
+Leverkusen|Old- & Youngtimer IG Leverkusen|mobil|http://www.oldyoungtimer-ig.de|Interessengemeinschaft für Freunde alter und junger Klassiker, mit Treffen und Ausfahrten.||website
+Leverkusen|Karnevalsfreunde Manfort 1930|leute|http://www.karnevalsfreunde-manfort.de|Karnevalsverein im Stadtteil Manfort, der Sitzungen und Veranstaltungen im Jahreslauf auf die Beine stellt.||website
+Leverkusen|Bürgerverein Leverkusen-Alkenrath|leute|http://www.buergerhaus-alkenrath.de|Stadtteilverein, der das Bürgerhaus Alkenrath trägt und Treffen und Feste im Viertel organisiert.||website
+Leverkusen|LeVegan|essen|http://levegan.de|Lokale Initiative für vegane Lebensweise mit Infos und Aktionen in Leverkusen.||website
+Leverkusen|Männerchor Germania Opladen|musik|http://www.germania-opladen.de|Traditionsreicher Männerchor aus Opladen, der regelmäßig probt und auftritt.||website
+Leverkusen|Opladener Chorgemeinschaft|musik|http://www.flacke.de|Chor aus Opladen mit regelmäßigen Proben und Konzerten.||website
+Leverkusen|MGV Loreley Leverkusen-Schlebusch|musik|http://www.loreley-schlebusch.de|Männergesangverein aus Schlebusch, der gemeinsam singt und Konzerte gibt.||website
+Leverkusen|Förderverein Literatur in Leverkusen|kunst|https://litlev.wordpress.com|Verein, der Lesungen und literarische Veranstaltungen in der Stadt fördert.||website
+Leverkusen|Filmclub Leverkusen|kunst|http://kulturstadtlev.de|Filmclub für Kinofans, der Filmabende und Gespräche über Filme veranstaltet.||website
+Leverkusen|Kommunales Kino Leverkusen|kunst|http://kommunales-kino-leverkusen.de|Verein, der kommunale Filmarbeit unterstützt und Programmkino für die Stadt anbietet.||website
+Leverkusen|Künstlerverein Begegnungsstätte Bunker|kunst|http://www.kuenstlerbunker-lev.de|Künstlerverein im früheren Bunker, mit Ateliers, Ausstellungen und Begegnung für Kunstinteressierte.||website
+Leverkusen|Fanprojekt Leverkusen|leute|http://www.fanprojekt-lev.de|Fanprojekt für junge Fußballfans mit Treffpunkt, Fahrten und sozialer Arbeit rund um den Fußball.||website
+Leverkusen|Verein für Aquarien-, Terrarien- und Naturkunde Bayer Leverkusen|tiere|http://www.aquaterralev.de|Hobbyverein für Aquaristik und Terraristik mit Austausch unter Haltern.||website
+Leverkusen|Gartenbau-Verein der Bayer AG|outdoor|http://www.gartenbauverein.com|Gartenverein für Hobbygärtner mit Austausch, Beratung und gemeinsamen Aktionen.||website
+Leverkusen|KG Altstadtfunken Opladen|leute|http://altstadtfunken-opladen.de|Karnevalsgesellschaft in Opladen mit Sitzungen, Umzügen und Vereinsleben.||website
+Leverkusen|Karnevalsgesellschaft Rote Funken Leverkusen|leute|http://rotefunken.de|Karnevalsgesellschaft von 1910, die in der Session Sitzungen und Auftritte veranstaltet.||website
+Leverkusen|Förderkreis Wildpark Leverkusen|engagement|http://www.wildpark-lev.de|Förderverein, der den Wildpark unterstützt und Mitmachaktionen rund um Tiere und Natur anbietet.||website
+Leverkusen|KjG Region Leverkusen|familie|http://www.kjg-leverkusen.de|Katholische Jugendgruppen mit Freizeiten, Gruppenstunden und Aktionen für Kinder und Jugendliche.||website
+Leverkusen|Deutscher Kinderschutzbund Ortsverband Leverkusen|engagement|http://www.dksb-leverkusen.de|Ortsverband mit Angeboten für Kinder und Familien, bei dem man sich auch ehrenamtlich einbringen kann.||website
+Leverkusen|Die Spielbaustelle|familie|http://www.spielbaustelle.de|Verein für Spielpädagogik mit Spielangeboten für Kinder.||website
+Leverkusen|Lions Club Leverkusen Opladen|engagement|http://lions-club-leverkusen.de|Serviceclub, der sich mit Spendenaktionen und Projekten für soziale Zwecke vor Ort einsetzt.||website
+Leverkusen|Crossing Creeks Square Dance Club|tanz|http://crossingcreeks.de|Square Dance Club, in dem man gemeinsam nach Ansagen tanzt, auch für Einsteiger.||website
+Leverkusen|Kneipp-Verein Leverkusen 1978|wellbeing|http://www.kneipp-leverkusen.de|Verein für Gesundheit nach Kneipp mit Bewegungs- und Entspannungsangeboten.||website
+Leverkusen|Opladener Geschichtsverein von 1979|lernen|https://ogv-leverkusen.de|Geschichtsverein mit Vorträgen, Ausstellungen und Führungen zur Stadt- und Regionalgeschichte.||website
+Leverkusen|Sauerländischer Gebirgsverein Abteilung Opladen|outdoor|https://www.leverkusen.de/verzeichnisse/adressverzeichnis/Sauerlaendischer_Gebirgsverein__Abt.-Opladen_von_1937_e.V..php|Wanderverein, der gemeinsame Wanderungen in der Region unternimmt.||website
+Leverkusen|Verkehrs- und Verschönerungsverein Opladen|engagement|https://www.leverkusen.de/verzeichnisse/ehrenamtsdatenbank/Verkehrs-_und_Verschoenerungsverein_Opladen_e._V..php|Bürgerverein, der sich um die Verschönerung und das Stadtbild von Opladen kümmert.||website
+Leverkusen|Imbacher Pferdefreunde|tiere|http://www.imbacher-pferdefreunde.de|Pferdefreunde-Verein für Reit- und Freizeitaktivitäten rund ums Pferd.||website
+Leverkusen|Islandpferdefreunde Wiehbachtal|tiere|http://www.gangpferdefreunde-wiehbachtal.de|Gruppe für Freunde der Islandpferde mit gemeinsamen Ausritten und Treffen.||website
+Leverkusen|Deutsch-Französische Gesellschaft Leverkusen|sprachen|http://www.dfg-leverkusen.de|Verein, der den Austausch mit Frankreich pflegt und Veranstaltungen zu Sprache und Kultur anbietet.||website
+Leverkusen|Leverkusener Schachclub von 1910|spiele|https://leverkusener-schachclub-1910.de|Schachverein mit Spielabenden und Mannschaftsbetrieb.||website
+Leverkusen|Schachfreunde Schlebusch|spiele|http://www.sf-schlebusch.de|Schachverein im Stadtteil Schlebusch mit regelmäßigem Spielbetrieb.||website
+Leverkusen|Schachverein Opladen 1922|spiele|http://www.opladen22.de|Schachverein aus Opladen mit Training und Ligaspielen.||website
+Leverkusen|Schachverein Springer 70 Hitdorf|spiele|http://www.schachverein-hitdorf.de|Schachverein aus Hitdorf für Freizeit- und Turnierspieler.||website
+Leverkusen|Schachvereinigung Königsspringer Leverkusen 1919|spiele|https://www.levschach1919.de|Traditionsreicher Schachverein mit Spielbetrieb in Leverkusen.||website
+Leverkusen|Schachverein Fideler Bauer Leverkusen|spiele|http://schachverein-fideler-bauer.eu|Schachverein mit Spielabenden in Leverkusen.||website
+Leverkusen|Schachclub Bayer Leverkusen|spiele|http://www.schachclub-bayer-leverkusen.de|Schachclub mit Training und Ligabetrieb.||website
+Leverkusen|Pétanque-Club Leverkusen Les Loups|spiele|http://www.pclll.de|Boule-Verein, in dem man gemeinsam Pétanque spielt.||website
+Leverkusen|Lebenshilfe Leverkusen|engagement|http://www.lebenshilfe-lev.de|Verein für Menschen mit geistiger Behinderung, bei dem Ehrenamtliche mitwirken können.||website
+Leverkusen|Wildcats Cheerleader Leverkusen|tanz|http://www.wildcats-cheerleader.de|Cheerleading-Verein mit Tanz und Akrobatik.||website
+Leverkusen|Badminton Verein Leverkusen|sport|http://www.bv-lev.de|Badmintonverein mit Training und Freizeitspiel.||website
+Leverkusen|Opladener Badminton Club 79|sport|http://www.obc79.de|Badmintonclub aus Opladen.||website
+Leverkusen|Bogensport Leverkusen|sport|http://www.bogensport-leverkusen.de|Verein für Bogenschießen.||website
+Leverkusen|Tauchclub Leverkusen|sport|http://www.tauchclubleverkusen.de/index.php?id=3|Tauchverein für Hobbytaucher.||website
+Leverkusen|Moon Divers Leverkusen|sport|http://www.moon-divers.net|Tauchverein in Leverkusen.||website
+Leverkusen|Verein für Kanusport Bayer Leverkusen 1922|sport|http://www.kanuclub-leverkusen.de|Kanuverein auf dem Wasser.||website
+Leverkusen|DLRG Leverkusen|sport|https://leverkusen.dlrg.de|Lebensrettungsgesellschaft mit Schwimm- und Rettungsangeboten.||website
+Leverkusen|Radsport-Club Titan Leverkusen 1963|sport|http://www.rc-titan-leverkusen.de|Radsportverein.||website
+Leverkusen|Sport-Club Fast-Break Leverkusen|sport|https://www.fast-break.de|Basketballverein.||website
+Leverkusen|Turn-Club 72 Leverkusen|sport|http://www.tc-72.de|Turnverein mit Breitensport.||website
+Leverkusen|Behindertensport Opladen 1962|sport|http://www.bs-opladen.de|Sportgemeinschaft für Menschen mit Behinderung.||website
+Leverkusen|Karate Club Leverkusen|sport|http://www.karate-club-leverkusen.de|Karateverein.||website
+Leverkusen|Yachtclub Leverkusen-Hitdorf|sport|http://www.yclh.de|Segelverein am Rhein.||website

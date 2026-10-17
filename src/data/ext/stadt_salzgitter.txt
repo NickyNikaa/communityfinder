@@ -1,0 +1,104 @@
+Salzgitter|1. Handballclub Salzgitter e.V.|sport|https://www.hc-salzgitter.de|Handballverein in Salzgitter mit Mannschaften für verschiedene Altersgruppen.||website
+Salzgitter|1. Internationaler Sportverein Fredenberg 2012 e.V.|sport|https://ksb-sz.de/vereine/|Stadtteilverein aus Fredenberg, der Sport für Menschen verschiedener Herkunft anbietet.||website
+Salzgitter|Behinderten-Sportverein Salzgitter-Lebenstedt|sport|https://www.behsv-szleb.de|Sportverein für Menschen mit und ohne Behinderung in Lebenstedt.||website
+Salzgitter|Billard-Sport-Club Rot-Weiss Salzgitter|sport|https://ksb-sz.de/vereine/|Billardverein, bei dem Hobbyspieler und Ligaspieler gemeinsam am Tisch stehen.||website
+Salzgitter|Box-Club Tigers Salzgitter|sport|https://ksb-sz.de/vereine/|Boxverein in Salzgitter mit Training für Einsteiger und Fortgeschrittene.||website
+Salzgitter|Boxclub Heros Salzgitter|sport|http://www.boxclubheros-salzgitter.de|Boxclub mit Trainingsgruppen für Kinder, Jugendliche und Erwachsene.||website
+Salzgitter|Bushido-Salzgitter e.V.|sport|http://www.bushido-salzgitter.de|Kampfsportverein in Salzgitter mit Budo-Training.||website
+Salzgitter|Country Club Salzgitter|tanz|http://www.country-sz.de|Verein rund um Country-Musik und Linedance in Salzgitter.||website
+Salzgitter|DC Lumberjacks Salzgitter-Bad 1992 e. V.|sport|https://www.dc-lumberjacks.de|Dartverein in Salzgitter-Bad, der in Ligen spielt und neue Spieler aufnimmt.||website
+Salzgitter|DC Pharaonen Steeldart|sport|https://ksb-sz.de/vereine/|Steeldart-Club in Salzgitter für Freizeit und Liga.||website
+Salzgitter|DC Tobis Steeldarts|sport|https://ksb-sz.de/vereine/|Steeldart-Club in Salzgitter, der regelmäßig zusammen wirft.||website
+Salzgitter|Deutscher-Unterwasser-Club Salzgitter Bad e.V.|sport|https://www.duc-salzgitter.de|Tauchverein mit gemeinsamen Tauchgängen und Ausbildung.||website
+Salzgitter|DLRG Ortsgruppe Gebhardshagen|engagement|http://www.gebhardshagen.dlrg.de|Ortsgruppe der Lebensrettungsgesellschaft mit Schwimmtraining und Wasserrettung.||website
+Salzgitter|DLRG Ortsgruppe Lebenstedt|engagement|http://www.salzgitter-lebenstedt.dlrg.de|Ehrenamtliche Wasserretter in Lebenstedt mit Schwimm und Rettungsangeboten.||website
+Salzgitter|DLRG Ortsgruppe Thiede|engagement|http://www.salzgitter-thiede.dlrg.de|Ortsgruppe in Thiede, die Schwimmen lehrt und Wachdienste übernimmt.||website
+Salzgitter|Dolphins Cheer Community Salzgitter-Lichtenberg e.V.|tanz|http://www.dolphins-online.de|Cheerleading- und Tanzverein mit Gruppen für verschiedene Altersstufen.||website
+Salzgitter|Familiensportbund Salzgitter e.V.|sport|http://www.fsb-salzgitter.de|Sportverein für Familien mit breitem Kurs und Gruppenangebot.||website
+Salzgitter|FC 45 Salzgitter|sport|https://ksb-sz.de/vereine/|Fußballverein in Lebenstedt mit Jugend und Herrenmannschaften.||website
+Salzgitter|FC Flachstöckheim|sport|https://ksb-sz.de/vereine/|Dorfverein für Fußball in Flachstöckheim.||website
+Salzgitter|FC Germania Bleckenstedt|sport|https://ksb-sz.de/vereine/|Fußballverein aus Bleckenstedt.||website
+Salzgitter|FC Viktoria Thiede|sport|https://www.viktoriathiede.de|Fußballverein in Thiede mit Mannschaften für alle Altersklassen.||website
+Salzgitter|Fit IN SZ e.V.|sport|https://ksb-sz.de/vereine/|Verein für Fitness und Gesundheitssport in Salzgitter.||website
+Salzgitter|GIGA Salzgitter Darts|sport|https://ksb-sz.de/vereine/|Dartclub in Salzgitter für Freizeitspieler und Turniere.||website
+Salzgitter|Glück Auf 1901 Gebhardshagen|sport|https://www.glueck-auf-gebhardshagen.de|Traditioneller Sportverein in Gebhardshagen mit mehreren Abteilungen.||website
+Salzgitter|Golf-Club Salzgitter/Liebenburg|sport|https://www.golfclub-salzgitter.de|Golfclub mit Platz und Turnieren, offen für Neueinsteiger.||website
+Salzgitter|Gymnastikverein Reppner|sport|https://ksb-sz.de/vereine/|Verein für Gymnastik und Gesundheitssport im Ortsteil Reppner.||website
+Salzgitter|ISB Integration Sport Beratung|sport|http://www.isb-sz.de/|Verein, der Menschen mit Zuwanderungsgeschichte über Sport einbindet.||website
+Salzgitter|Ju Jutsu Verein Salzgitter-Bad|sport|https://www.ju-jutsu-verein-salzgitter-bad.de|Selbstverteidigung und Ju Jutsu für Kinder und Erwachsene.||website
+Salzgitter|Kanu-Club Salzgitter|outdoor|http://www.kanu-club-salzgitter.de/|Paddelverein mit Touren und Training auf dem Salzgittersee.||website
+Salzgitter|Kegelsportverein Salzgitter|sport|https://ksb-sz.de/vereine/|Kegelverein für Freizeit und Wettkampf.||website
+Salzgitter|Kneipp-Verein Salzgitter-Lebenstedt|wellbeing|https://ksb-sz.de/vereine/|Gesundheitsverein nach Kneipp mit Bewegung, Wasser und Entspannung.||website
+Salzgitter|Kneippfreunde Salzgitter|wellbeing|https://ksb-sz.de/vereine/|Kneipp-Gruppe mit gemeinsamen Anwendungen und Spaziergängen.||website
+Salzgitter|Koryo Taekwondo e.V.|sport|https://ksb-sz.de/vereine/|Taekwondo-Verein in Salzgitter.||website
+Salzgitter|KSV Siegfried Salzgitter|sport|https://www.ksv-salzgitter-ringen.de|Ringerverein mit Training für Nachwuchs und Erwachsene.||website
+Salzgitter|KSV Vahdet Salzgitter|sport|https://ksb-sz.de/vereine/|Kraftsportverein mit Ringen und Kampfsport.||website
+Salzgitter|Lebenstedter Basketballgemeinschaft|sport|https://www.basketball-salzgitter.de|Basketballverein in Lebenstedt für Jugend und Erwachsene.||website
+Salzgitter|Luftsportgemeinschaft Schäferstuhl|outdoor|https://www.lsg-schaeferstuhl.de|Segelflugverein mit Fliegen und Mitfliegen auf dem Flugplatz.||website
+Salzgitter|MTV Immendorf|sport|https://www.mtv-immendorf.de|Mehrspartenverein in Immendorf.||website
+Salzgitter|MTV Lichtenberg|sport|https://www.mtv-lichtenberg.de|Turn und Sportverein in Lichtenberg mit vielen Abteilungen.||website
+Salzgitter|MTV Salzgitter|sport|https://www.mtv-salzgitter.de|Mehrspartensportverein mit Kursen und Mannschaften.||website
+Salzgitter|PSV Gitter in Salzgitter-Gitter e.V.|sport|https://ksb-sz.de/vereine/|Polizei-Sportverein im Stadtteil Gitter.||website
+Salzgitter|Radfahrerverein Wanderlust Beddingen|outdoor|https://ksb-sz.de/vereine/|Radsportverein aus Beddingen mit gemeinsamen Ausfahrten.||website
+Salzgitter|Reha- und Gesundheitssportverein Salzgitter-Bad|wellbeing|https://ksb-sz.de/vereine/|Verein für Rehabilitations und Gesundheitssport in Bad.||website
+Salzgitter|Reit- und Fahrverein Salzgitter Mahner Berg|tiere|https://ksb-sz.de/vereine/|Reitverein am Mahner Berg mit Reiten und Fahren.||website
+Salzgitter|Reitverein Mauritz|tiere|http://www.reitverein-mauritz.de|Reitverein mit Pferdesport und Reitstunden.||website
+Salzgitter|Reitverein Salzgitter|tiere|https://www.reitverein-salzgitter.de/|Reitverein für Freizeit und Turnierreiter.||website
+Salzgitter|Ruderclub am Salzgittersee|sport|http://www.rc-am-salzgittersee.de|Rudern auf dem Salzgittersee, auch für Einsteiger.||website
+Salzgitter|SC Gitter|sport|https://ksb-sz.de/vereine/|Sportclub im Stadtteil Gitter.||website
+Salzgitter|SC Salzgitter Sportfreunde|sport|https://ksb-sz.de/vereine/|Sportverein mit Mannschaften und Freizeitgruppen.||website
+Salzgitter|Schachclub Salzgitter-Bad|spiele|https://ksb-sz.de/vereine/|Schachclub in Salzgitter-Bad.||website
+Salzgitter|Schachfreunde Bleckenstedt|spiele|https://ksb-sz.de/vereine/|Schachgruppe aus Bleckenstedt.||website
+Salzgitter|Schachvereinigung Salzgitter e.V.|spiele|http://www.schachvereinigung-salzgitter.de|Schachverein mit Ligabetrieb und Training.||website
+Salzgitter|Schießclub Flora Lebenstedt|sport|https://ksb-sz.de/vereine/|Schießsportverein in Lebenstedt.||website
+Salzgitter|Schießsportgemeinschaft Flachstöckheim|sport|https://ksb-sz.de/vereine/|Schießsport im Ortsteil Flachstöckheim.||website
+Salzgitter|Schießsportgemeinschaft Gitter|sport|https://ksb-sz.de/vereine/|Schießsport im Stadtteil Gitter.||website
+Salzgitter|Schießsportgemeinschaft Hallendorf|sport|https://ksb-sz.de/vereine/|Schießsport in Hallendorf.||website
+Salzgitter|Schießsportgemeinschaft Lebenstedt|sport|https://ksb-sz.de/vereine/|Schießsportgemeinschaft in Lebenstedt.||website
+Salzgitter|Schützengilde Lützow Salzgitter|sport|http://www.schuetzengilde-luetzow-salzgitter.de|Schützengilde mit Schießsport und Vereinsleben.||website
+Salzgitter|Schützengesellschaft Gebhardshagen|sport|https://ksb-sz.de/vereine/|Schützengesellschaft im Stadtteil Gebhardshagen.||website
+Salzgitter|Schützenverein Beddingen|sport|https://www.schützenverein-beddingen.de/|Schützenverein im Dorf Beddingen.||website
+Salzgitter|Schützenverein Üfingen|sport|https://ksb-sz.de/vereine/|Schützenverein aus Üfingen.||website
+Salzgitter|Schwarz-Weiß Engelnstedt|sport|https://www.engelnstedt.de|Dorfsportverein aus Engelnstedt.||website
+Salzgitter|Schwimmclub Delphin Salzgitter|sport|https://www.scdelphin-salzgitter.de|Schwimmverein mit Training für Kinder und Erwachsene.||website
+Salzgitter|Schwimmclub Hellas Salzgitter|sport|https://www.hellas-salzgitter.de|Schwimmclub mit Wettkampf und Freizeitgruppen.||website
+Salzgitter|Segel-Club Salzgitter|outdoor|https://www.scsz.de|Segelclub am Salzgittersee mit Jugendarbeit und Regatten.||website
+Salzgitter|Sportgemeinschaft Aero Salzgitter|outdoor|http://www.sg-aero.de|Luftsportverein in Salzgitter.||website
+Salzgitter|Sportverein am Salzgittersee e.V.|sport|https://ksb-sz.de/vereine/|Sportverein direkt am See.||website
+Salzgitter|Sportverein FC Fatih Salzgitter e.V.|sport|https://ksb-sz.de/vereine/|Fußballverein mit türkischen Wurzeln, offen für alle.||website
+Salzgitter|STV Ringelheim|sport|https://www.stv-ringelheim.de|Sport und Turnverein in Ringelheim.||website
+Salzgitter|Surf-Klub Salzgitter|outdoor|http://www.surf-klub-salzgitter.com|Windsurfen auf dem Salzgittersee.||website
+Salzgitter|SV Aktiv Steterburg 2011 e.V.|sport|https://ksb-sz.de/vereine/|Sportverein in Steterburg.||website
+Salzgitter|SV Borussia Salzgitter|sport|https://www.sportverein-borussia-salzgitter.de/|Sportverein in Lebenstedt mit Fußball und weiteren Sparten.||website
+Salzgitter|SV Fortuna Lebenstedt|sport|https://ksb-sz.de/vereine/|Sportverein in Lebenstedt.||website
+Salzgitter|SV Stern Lobmachtersen|sport|https://ksb-sz.de/vereine/|Dorfsportverein aus Lobmachtersen.||website
+Salzgitter|SV Union Salzgitter-Bad|sport|https://www.svunionsalzgitter.de|Mehrspartenverein in Bad mit Fußball und Kegeln.||website
+Salzgitter|SV Viktoria Heerte|sport|https://www.victoria-heerte.de|Sportverein in Heerte.||website
+Salzgitter|Tanzsportclub Blau-Silber Salzgitter|tanz|http://www.tsc-blausilber.de|Tanzsportclub für Turnier und Breitensport.||website
+Salzgitter|Tauchgemeinschaft Beluga Salzgitter|sport|https://www.tauchgemeinschaft-beluga.de|Tauchgruppe mit gemeinsamen Tauchgängen.||website
+Salzgitter|Tennis-Club Blau-Weiß Salzgitter|sport|https://ksb-sz.de/vereine/|Tennisverein in Salzgitter.||website
+Salzgitter|Tennisclub Salzgitter-Bad|sport|https://www.tc-bad.de|Tennisclub in Bad mit Plätzen und Mannschaften.||website
+Salzgitter|Tennisclub Schwarz-Weiß Steterburg|sport|https://www.TC-SW-Steterburg.de|Tennisverein in Steterburg.||website
+Salzgitter|Tennisverein Gebhardshagen|sport|https://www.tv-gebhardshagen.de|Tennisverein in Gebhardshagen.||website
+Salzgitter|TG Jugenddorf Salzgitter|sport|http://www.tgj-salzgitter.de|Turn und Sportgemeinschaft mit mehreren Abteilungen.||website
+Salzgitter|Thieder Tanzsport-Center Salzgitter|tanz|http://www.ttc-sz.de|Tanzsportverein in Thiede.||website
+Salzgitter|TSV Beddingen|sport|https://www.tsv-beddingen.de|Turn und Sportverein in Beddingen.||website
+Salzgitter|TSV Hallendorf|sport|http://tsv-hallendorf.de/Startseite|Sportverein in Hallendorf.||website
+Salzgitter|TSV Lesse|sport|https://www.tsv-lesse.de|Dorfsportverein in Lesse.||website
+Salzgitter|TSV Salzgitter|sport|https://www.tsv-salzgitter.de|Großer Verein mit mehreren Abteilungen in Lebenstedt.||website
+Salzgitter|TSV Thiede|sport|https://www.tsv-thiede.de|Turn und Sportverein in Thiede.||website
+Salzgitter|TSV Üfingen|sport|https://www.tsv-uefingen.de|Dorfsportverein in Üfingen.||website
+Salzgitter|TV Gut-Heil Barum|sport|https://www.tvgut-heilbarum.de|Turnverein in Barum.||website
+Salzgitter|VfL Salder|sport|https://www.vflsalder.de/|Sportverein in Salder.||website
+Salzgitter|Volleyball-Club Gebhardshagen|sport|http://www.vcgebhardshagen.de/|Volleyballverein in Gebhardshagen.||website
+Salzgitter|Wasserwanderer Salzgitter|outdoor|https://www.salzgitter.de/sport/sport/salzgittersee/fakten-salzgittersee.php|Wassersportgruppe für Touren auf dem Wasser.||website
+Salzgitter|Wrestling Academy Salzgitter e.V.|sport|https://wa-salzgitter.de|Wrestling-Verein mit Training.||website
+Salzgitter|Schiffsmodellclub Salzgitter|spiele|https://www.salzgitter.de/sport/sport/salzgittersee/fakten-salzgittersee.php|Modellbauclub für ferngesteuerte Schiffe am Salzgittersee.||website
+Salzgitter|Marinekameradschaft Salzgitter|leute|https://www.salzgitter.de/sport/sport/salzgittersee/fakten-salzgittersee.php|Kameradschaft mit Bezug zur Seefahrt.||website
+Salzgitter|Lauftreff Salzgitter Lebenstedt|sport|https://www.lauftreff-salzgitter.de/|Offener Lauftreff, kostenlos, mit Gruppen nach Tempo sowie Walking.|Dienstags 18 Uhr|website
+Salzgitter|Lauftreff Salzgitter-Bad|sport|https://www.lauftreff-salzgitter.de/|Offener kostenloser Lauftreff in Bad.|Donnerstags 18 Uhr|website
+Salzgitter|Freiwilligen-Zentrum Salzgitter|engagement|https://freiwilligenzentrum-salzgitter.de/|Kontaktstelle für Ehrenamt mit Beratung und Netzwerktreffen.||website
+Salzgitter|Internationale Schachgruppe im Freiwilligenzentrum|spiele|https://freiwilligenzentrum-salzgitter.de/|Offene Schachrunde im Freiwilligenzentrum.|Nachmittags 16 bis 18 Uhr|website
+Salzgitter|SOS-Mütterzentrum Salzgitter|familie|https://www.salzgitter.de/soziales/sos-muetterzentrum.php?loc=en|Mehrgenerationenhaus mit Treffpunkt für Familien und Nachbarn in Bad.||website
+Salzgitter|Bürgerverein Bad Salzgitter e.V.|leute|https://www.salzgitter.de/veranstaltungskalender/extern/buergersingen.php?loc=en|Stadtteilverein, der Bürgersingen und weitere Aktionen organisiert.||website
+Salzgitter|Kantorei an St. Mariae-Jakobi|musik|https://www.salzgitter.de/veranstaltungskalender/extern/buergersingen.php?loc=en|Kirchenchor in Bad, der auch öffentlich auftritt.||website
