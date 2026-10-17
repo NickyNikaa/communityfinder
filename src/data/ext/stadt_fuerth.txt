@@ -1,0 +1,54 @@
+Fürth|ASV Fürth|sport|https://www.asvfuerth.de/|Großer Breitensportverein mit Fußball, Judo, Ju-Jutsu, Eltern-Kind-Turnen und Beachvolleyball.||website
+Fürth|ASV Vach|sport|http://www.asv-vach.de/|Fußballverein im Stadtteil Vach für Kinder, Jugendliche und Erwachsene.||website
+Fürth|Aikido in Fürth|sport|http://www.aikido-in-fuerth.de/|Aikido-Abteilung im TV Fürth 1860, offen für Einsteiger.||website
+Fürth|Bujinkan Wakagi Dojo Fürth|sport|https://www.wakagi.de/|Dojo für Bujinkan Budo Taijutsu, eine japanische Kampfkunst.||website
+Fürth|Capoeira IBECA Fürth|sport|http://www.capoeirafuerth.de/|Capoeira-Gruppe mit Bewegung, Musik und Roda.||website
+Fürth|DJK Concordia Fürth 1920|sport|https://djk-fuerth.de/|Mehrspartenverein mit Badminton, Tischtennis, Fußball, Stocksport und Kampfkunst.||website
+Fürth|Fechtclub Fürth|sport|http://www.fechtclub-fuerth.de/|Fechtverein, bei dem man den Sport neu kennenlernen oder im Wettkampf trainieren kann.||website
+Fürth|Kanuclub Fürth|outdoor|http://www.kanuclub-fuerth.de/|Paddelverein mit Touren und Training auf dem Wasser.||website
+Fürth|K3 Kampfkunstkreis Fürth|sport|https://www.k3ev.de/Joomla/|Verein für Kampfkunst und Kampfsport mit regelmäßigem Training.||website
+Fürth|Ken Tsuru Dojo Fürth|sport|https://kentsurudojo.de/|Dojo für traditionelle japanische Kampfkunst.||website
+Fürth|Laufteam Fürth 2010|sport|https://www.laufteam-fuerth.de/|Lauftreff und Laufverein für Hobbyläufer in Fürth.||website
+Fürth|Laufclub Down-Syndrom Marathonstaffel|sport|https://www.laufclub21.de/|Inklusiver Laufverein, der Menschen mit und ohne Down-Syndrom zusammen laufen lässt.||website
+Fürth|LAC Quelle Fürth|sport|http://www.lacquelle.de/|Leichtathletikverein für Kinder, Jugendliche und Erwachsene.||website
+Fürth|MTV Stadeln|sport|http://www.mtv-stadeln.de/|Stadtteilverein mit Fitness, Mannschafts- und Wettkampfsport.||website
+Fürth|RSV Fürth Vach|sport|https://www.rsv-fuerth-vach.de/clubdesk/www|Radsportverein mit Training und Wettkämpfen für Jung und Alt.||website
+Fürth|Tanzsportgemeinschaft Fürth|tanz|http://www.tsg-fuerth.de/|Tanzsportverein für Paartanz und Turniertanz.||website
+Fürth|Tennisfreunde Grün-Weiß Fürth|sport|https://www.tennisverein-fuerth.de/|Tennisverein mit Platzanlage, Training und Mannschaftsbetrieb.||website
+Fürth|CPD Stamm Franken|outdoor|http://www.cp-stamm-franken.de|Christliche Pfadfinder mit Gruppen für Kinder ab sechs Jahren, Naturerlebnis und Lager.||website
+Fürth|Christliche Pfadfinder Burgfarrnbach|outdoor|https://pfadfinder-burgfarrnbach.de/|Pfadfindergruppe im Stadtteil Burgfarrnbach für Kinder ab sechs Jahren.||website
+Fürth|DPSG Stamm Sophie Magdalena Scholl|outdoor|https://www.dpsg-sms.de|Katholischer Pfadfinderstamm mit Gruppen für alle Altersstufen.||website
+Fürth|Fürther Jugendrat|engagement|https://www.instagram.com/fuertherjugendrat/|Gewählte Jugendliche, die junge Menschen gegenüber Stadtrat und Verwaltung vertreten.||instagram
+Fürth|Kreisjugendwerk der AWO Fürth|engagement|https://www.awo-fuerth.de/navid.397/kreisjugendwerk-awo-fuerth-bayern.htm|Jugendarbeit der Arbeiterwohlfahrt mit Freizeit- und Bildungsangeboten.||website
+Fürth|NaturFreunde Fürth|outdoor|http://www.naturfreunde-fuerth.de|Ortsgruppe mit Wandern, Bergsport, Kanu, Radreisen, Fotografie und Umweltschutz.||website
+Fürth|BUND Naturschutz Kreisgruppe Fürth Stadt|engagement|https://fuerth.bund-naturschutz.de/|Umwelt- und Naturschutzgruppe mit Aktionen, Vorträgen und Mitmachmöglichkeiten.||website
+Fürth|BUNDjugend Fürth Stadt|engagement|https://fuerth.bund-naturschutz.de/kinder-jugend|Kinder- und Jugendgruppe des Bund Naturschutz mit Naturaktionen.||website
+Fürth|DLRG Jugend Fürth|engagement|https://fuerth.dlrg.de/mitmachen/jugend/|Jugendgruppe der Wasserrettung mit Schwimmtraining und Freizeiten.||website
+Fürth|Jugendfeuerwehr Fürth|engagement|https://fw-fuerth.org/freiwillige-feuerwehr/jugendfeuerwehr/|Jugendgruppe ab 12 Jahren, die an den Feuerwehrdienst heranführt.||website
+Fürth|Jugendrotkreuz Fürth|engagement|https://www.jrkfuerth.de|Kinder- und Jugendverband des Roten Kreuzes mit Erster Hilfe und Gruppenstunden.||website
+Fürth|THW Jugend Fürth|engagement|https://www.thw-jugend-fuerth.de|Jugendgruppe des Technischen Hilfswerks für 10 bis 17 Jahre mit Technik und Freizeit.||website
+Fürth|Heimat- und Volkstrachtenverein Stadeln|musik|http://www.trachtenverein-stadeln.de/|Pflege von Brauchtum, Volkstanz und Theater, auch mit Kinder- und Jugendgruppe.||website
+Fürth|CVJM Fürth Stadt|leute|https://www.cvjm-fuerth.de/|Christlicher Verein mit Gruppen, Freizeiten und Treffen für junge Menschen und Familien.||website
+Fürth|CVJM Fürth Stadeln|leute|https://cvjm-stadeln.de/|Verein im Stadtteil Stadeln mit wöchentlichen Gruppen und Aktionen.||website
+Fürth|Altstadtverein Fürth|engagement|http://www.altstadtverein-fuerth.de/|Verein, der sich für Belebung, Kultur und Denkmalpflege rund um St. Michael einsetzt.||website
+Fürth|Fränkischer Albverein Ortsgruppe Fürth|outdoor|http://www.fraenkischer-albverein.de/verein/gruppen/fraenkischer-albverein-ortsgruppe-fuerth-e-v|Wanderverein, der Wanderungen anbietet und Wanderwege pflegt.||website
+Fürth|Fürther Eisenbahnclub|leute|http://www.fuerther-eisenbahnclub.de/|Modellbahnfreunde, die Anlagen bauen und der Öffentlichkeit zeigen.||website
+Fürth|Fürther Eltern Verband|familie|http://www.fev-fuerth.de/|Elterninitiative, die sich für die Förderung aller Kinder und Jugendlichen in Fürth einsetzt.||website
+Fürth|Fürther Kirchenmusikverein|musik|http://www.kirchenmusiktage.de/|Verein zur Förderung der Kirchenmusik, Veranstalter der Fürther Kirchenmusiktage.||website
+Fürth|Geschichtsverein Fürth|kunst|http://www.geschichtsverein-fuerth.de/|Vorträge, Exkursionen und Stadtführungen zur Fürther Geschichte.||website
+Fürth|LBV Kreisgruppe Fürth|engagement|http://www.lbv-fuerth.de/|Vogel- und Naturschutzgruppe mit Naturschutzjugend.||website
+Fürth|Netzwerk Kinderfreundliche Stadt|familie|http://www.nwkfs.de/|Verein, der sich für Rechte und Mitbestimmung von Kindern und Jugendlichen einsetzt.||website
+Fürth|Schule der Phantasie Fürth|kunst|https://www.schulederphantasie-fuerth.de/aktuell/|Verein mit kreativen Angeboten, die Selbstvertrauen und Fantasie junger Menschen stärken.||website
+Fürth|Fischerei Verein Fürth 1881|outdoor|https://fischereiverein-fuerth.de/|Anglerverein mit Jugendarbeit, Gewässerpflege und Anglerschulung.||website
+Fürth|Theaterverein Fürth|kunst|https://theaterverein.de/|Förderverein des Stadttheaters mit Theaterfahrten, Benefizveranstaltungen und Mitgliedertreffen.||website
+Fürth|Musica Viva Fürth|musik|https://musicavivafuerth.wordpress.com/|A-cappella-Kammerchor, der Sängerinnen und Sänger mit Chorerfahrung sucht, besonders Bässe und Tenöre.|Dienstags 19:30 Uhr in Fürth Sack|website
+Fürth|Fotoclub Fürth|foto|https://www.fotoclub-fuerth.de/ueber-uns|Fotofreunde, die gemeinsam fotografieren, Bilder besprechen und Exkursionen machen; Gäste willkommen.|Einmal im Monat|website
+Fürth|Fotofreunde Fürth|foto|https://www.fotofreunde-fuerth.de/|Fotogruppe in Fürth für gemeinsames Fotografieren und Austausch.||website
+Fürth|Musikzug TSV 1895 Burgfarrnbach|musik|https://www.musikzug-burgfarrnbach.de|Blasmusikgruppe im Stadtteil Burgfarrnbach.||website
+Fürth|Queer-Treff Fürth|queer|https://zett9.jimdofree.com/gruppen/queertreff-f%C3%BCrth/|Offener Treff für queere Menschen zwischen etwa 20 und 35 im Hof des Kulturcafés Zett9, ohne Anmeldung.||website
+Fürth|CSD Fürth|queer|https://frankenpride.de/csd-fuerth/|Organisation rund um den Christopher Street Day in Fürth.||website
+Fürth|Freiwilligen-Zentrum Fürth|engagement|https://www.iska-nuernberg.de/fzf/|Anlaufstelle für Ehrenamt mit Projekten wie Mentoring, Leseclub, Besuchsdienst und Fahrradkurs für Frauen.||website
+Fürth|Mütterzentrum Fürth|familie|https://www.muetterzentrum-fuerth.de/kurse-kopie.html|Mehrgenerationenhaus mit offenem Familiencafé, Krabbelgruppe und Sprachcafé.|Offenes Familiencafé Montag bis Freitag ab 9 Uhr, Krabbelgruppe mittwochs 15 Uhr|website
+Fürth|Tierschutzhaus Fürth Stadt|tiere|https://www.tsh-fuerth.de/|Tierschutzverein mit Tierheim, bei dem man ehrenamtlich helfen kann.||website
+Fürth|Imkerverein Fürth und Umgebung|tiere|https://www.imkerverein-fuerth.de/|Imkerverein für Austausch, Schulung und Bienenhaltung.||website
+Fürth|Schachgemeinschaft 1882 Fürth|spiele|https://sg1882fuerth.de/|Schachverein mit Mannschaften und Jugendabteilung.||website

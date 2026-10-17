@@ -1,0 +1,55 @@
+Duisburg|IGV Duisburg Hobby Volleyball|sport|https://www.igv-duisburg.de/|Kleiner Hobby Volleyballverein mit Herren und Mixed Mannschaft im Kreisliga Betrieb. Neue Spieler zwischen 16 und 65 können nach Absprache zum Probetraining kommen.|Montags 20 Uhr|website
+Duisburg|Ultimate Frisbee in Duisburg|sport|https://ultimate-duisburg.de/|Ultimate Gruppe, die auch Anfängern einen leichten Einstieg verspricht. Für das Training genügen Sportschuhe und zwei Trikots in hell und dunkel.||website
+Duisburg|Schachabteilung PSV Duisburg|spiele|https://psv-duisburg.de/abteilungen/schach/|Schachabteilung des Polizeisportvereins mit festem Vereinsabend im Vereinsheim.|Freitags ab 19 Uhr|website
+Duisburg|Duisburger Ruderverein 1897/1910|sport|https://www.duisburger-ruderverein.de/|Ruderverein mit Rudern und einer Volleyballabteilung auf dem Gelände der Regattabahn.||website
+Duisburg|Eintracht Duisburg 1848|sport|https://www.eintracht-duisburg.org/|Großer Mehrspartenverein mit Kanu, Tischtennis, Fußball, Fechten und Leichtathletik.||website
+Duisburg|Turnverein Wanheimerort 1880|sport|http://www.tv-wanheimerort-1880.de/|Turnverein im Stadtteil mit Geräteturnen, Volleyball, Prellball, Handball und Freizeitsport.||website
+Duisburg|Freie Schwimmer Duisburg 1920|sport|https://www.fsduisburg.de/|Schwimmverein mit Wasserball, Beachvolleyball und Schwimmangeboten.||website
+Duisburg|Bertasee Duisburg|outdoor|http://www.bertasee.de/|Kanuverein mit Rennsport, Kajak und Canadier am Bertasee.||website
+Duisburg|Freie Wasserfahrer Duisburg Süd 1928|outdoor|https://www.freiewasserfahrer.de/|Kanuverein im Duisburger Süden mit Paddeln und Freizeitangeboten.||website
+Duisburg|Ausdauer-Sportverein Duisburg|sport|https://www.asv-duisburg.de/|Verein für Ausdauersport mit Laufen, Radfahren und Skaten.||website
+Duisburg|Duisburger Schwimmverein von 1898|sport|https://www.dsv98.de/de|Schwimmverein mit Triathlon, Wasserball, Schwimmen und Freizeitsport.||website
+Duisburg|Spieletreff Duisburg|spiele|https://spieletreff-duisburg.de/|Offener Spieleabend von Partyspielen bis zu komplexen Brettspielen, dazu Rollenspielrunden wie Cthulhu und DnD. Private Treffen werden über eine WhatsApp Gruppe angekündigt.|Dienstags 18:30 Uhr im ZAP Neudorf|website
+Duisburg|Schachfreunde Duisburg|spiele|https://sf-bvk-duisburg.de/|Schachverein, der aus den Schachfreunden Brett vor'm Kopp hervorgeht.||website
+Duisburg|OSC Rheinhausen Schach|spiele|https://www.osc-schach.de/|Schachabteilung des Vereins OSC Rheinhausen.||website
+Duisburg|Philharmonischer Chor Duisburg|musik|https://philchor-du.de/ueber-uns/|Großer Konzertchor mit rund 120 Stimmen, der regelmäßig mit den Duisburger Philharmonikern auftritt. Neue Mitglieder sind willkommen.|Montags 19:30 Uhr|website
+Duisburg|Shanty Chor Duisburg WSP NRW|musik|https://www.shantychor-duisburg.com/|Eingetragener Verein, der Seemannslieder singt. Sänger und Musiker können jederzeit dazukommen.|Dienstags 16:30 Uhr|website
+Duisburg|Sternenstaubchor|musik|https://sternenstaubchor.de/|Duisburger Kammerchor, gegründet 2017, mit regelmäßigen Konzerten.||website
+Duisburg|BigBandits der Universität Duisburg-Essen|musik|https://bigbandits.org/|Big Band von Studierenden und Musikbegeisterten an der Universität.||website
+Duisburg|Vielhomonie Rhein-Ruhr|queer|https://duisburg.gay-web.info/gruppen/vielhomonie-rhein-ruhr|Der erste schwule Chor im Ruhrgebiet, geprobt wird in der Alten Schmiede in Wehofen.|Donnerstags 20 Uhr|website
+Duisburg|Pink Power Duisburg|queer|https://www.pipodu.de/|Offene LGBTQ Community mit über 50 Jahren Geschichte, Stammtisch und mehreren Selbsthilfegruppen.|Freitags ab 18:30 Uhr|website
+Duisburg|DUPride CSD Duisburg|queer|https://dupride.de/|Verein queerer Menschen, der den Christopher Street Day in Duisburg organisiert.||website
+Duisburg|Queerkeller Duisburg|queer|https://queerkeller.de/|Queerer Treffpunkt und Veranstaltungsort in Duisburg.||website
+Duisburg|Queer Meetup Duisburg|queer|https://duisburg.gay-web.info/gruppen/queer-meetup-duisburg|Lockeres Treffen für queere Menschen im Café Edel.|Jeden 2. Dienstag im Monat, 18 Uhr|website
+Duisburg|RainbowZebras|queer|https://duisburg.gay-web.info/gruppen/rainbowzebras|Queerer Stammtisch im Steinbruch.|Jeden 1. Dienstag im Monat, 19:02 Uhr|website
+Duisburg|Regenbogenstammtisch Duisburg|queer|https://duisburg.gay-web.info/gruppen/regenbogen-stammtisch|Stammtisch für Lesben, Schwule und alle anderen im Café Museum.|Jeden 1. Donnerstag im Monat, 18 Uhr|website
+Duisburg|Pink Wednesday After Work Meet|queer|https://duisburg.gay-web.info/gruppen/pink-wednesday-after-work-meet|Queerer After Work Treff im Marianne's Bistro.|Jeden 3. Mittwoch im Monat, 18 Uhr|website
+Duisburg|Café Regenbogen|familie|https://duisburg.gay-web.info/gruppen/cafe-regenbogen|Treffen für Regenbogenfamilien, getragen vom DRK Familienbildungswerk.|Jeden 1. Freitag im Monat, 16 Uhr|website
+Duisburg|Freie trans* Menschen Duisburg|queer|https://duisburg.gay-web.info/gruppen/freie-trans-menschen-duisburg|Selbsthilfegruppe für trans* Menschen, der Treffpunkt wird über eine Hotline genannt.|Jeden 1. Samstag im Monat, 18 Uhr|website
+Duisburg|NaturFreunde Duisburg|outdoor|https://www.naturfreunde.de/ortsgruppe/ortsgruppe-duisburg|Ortsgruppe mit Naturschutz, Vogelkunde, Vorträgen und Führungen im Naturkundemuseum. Gäste sind am Gruppenabend willkommen.|Donnerstags ab 19 Uhr|website
+Duisburg|NABU Duisburg|engagement|https://www.nabu-duisburg.de/|Ortsgruppe des Naturschutzbundes mit Aktionen für Natur und Arten in der Stadt.||website
+Duisburg|Foodsharing Duisburg|engagement|https://x.com/foodsharing_DU|Bezirksgruppe, die Lebensmittel vor dem Wegwerfen rettet und weitergibt.||sonstige
+Duisburg|Duisburg summt|engagement|https://duisburg.deutschland-summt.de/die-initiative-duisburg.html|Initiative für Wildbienen und Insekten, die Flächen bienenfreundlich gestaltet.||website
+Duisburg|Naturschutz- und Bildungsinitiative Wilde Biene|engagement|https://wilde-biene.org/|Verein für Wildbienenschutz mit Umweltbildung.||website
+Duisburg|Gesellschaft für Aquarienkunde Duisburg|tiere|http://www.gesfa.de/index.php/de/|Hobbyverein für Aquaristik und Austausch unter Aquarianern.||website
+Duisburg|Duisburger Tauschring|engagement|http://www.tauschen-ohne-geld.de/duisburger-tauschring|Netzwerk, in dem Mitglieder Dienste und Dinge ohne Geld tauschen.||website
+Duisburg|Tafel Duisburg|engagement|http://www.tafel-duisburg.de/|Verein, der Lebensmittel an Bedürftige verteilt und Ehrenamtliche sucht.||website
+Duisburg|Mentor Die Leselernhelfer Duisburg|engagement|https://mentor-duisburg.de/|Ehrenamtliche begleiten Kinder einzeln beim Lesenlernen.||website
+Duisburg|Bürgerstiftung Duisburg|engagement|http://www.buergerstiftung-duisburg.de/|Stiftung von Bürgern, die lokale Projekte fördert und Mitmachen ermöglicht.||website
+Duisburg|Freiwilligenagentur Duisburg|engagement|https://freiwilligenagentur-duisburg.de/|Zentrale Anlaufstelle, die Interessierte an passende Ehrenamtsstellen vermittelt.||website
+Duisburg|Verband der Duisburger Bürgervereine|engagement|https://www.vdubv.de/|Dachverband der Bürgervereine in den Stadtteilen.||website
+Duisburg|Labdoo Duisburg|engagement|https://www.labdoo.org/de/LabdooD|Gruppe, die gebrauchte Laptops aufbereitet und an Schulen spendet.||website
+Duisburg|Weitblick Duisburg-Essen|engagement|https://weitblicker.org/Stadt/Duisburg-Essen|Studentische Ortsgruppe, die Bildungsprojekte im Ausland unterstützt.||website
+Duisburg|Jugendring der Stadt Duisburg|engagement|https://www.jugendring-duisburg.de/jugendring/|Dachverband der Jugendverbände in Duisburg.||website
+Duisburg|Pfadfinder BdP Duisburg|familie|https://www.jugendring-duisburg.de/mitgliederorganisationen/bdp/|Pfadfindergruppen des Bundes der Pfadfinderinnen und Pfadfinder mit Lagern und Gruppenstunden.||website
+Duisburg|SJD Die Falken Duisburg|familie|https://www.jugendring-duisburg.de/mitgliederorganisationen/sjd-die-falken/|Sozialistische Jugend mit Gruppenarbeit und Zeltlagern für Kinder und Jugendliche.||website
+Duisburg|ArbeiterKind.de Duisburg-Essen|studium|https://arbeiterkind.de/mitmachen/lokale-gruppen/duisburg-essen/|Lokale Gruppe, die Studierende aus Nichtakademikerfamilien berät und unterstützt.||website
+Duisburg|CampusFM|studium|https://campusfm.info/|Studentisches Radio der Universität Duisburg-Essen, bei dem man mitarbeiten kann.||website
+Duisburg|Initiative für Nachhaltigkeit UDE|studium|https://www.uni-due.de/ifn/|Studentische Initiative für Nachhaltigkeit an der Universität.||website
+Duisburg|Thesis e.V. Duisburg-Essen|studium|https://www.thesis.de/|Interdisziplinäres Netzwerk für Promovierende und Promovierte.||website
+Duisburg|DEISA Indian Student Association|studium|https://www.instagram.com/teamdeisa/|Verein indischer Studierender an der Universität mit Treffen und Kulturangeboten.||instagram
+Duisburg|CampusGarten Duisburg-Essen|studium|https://www.facebook.com/CampusgartenDuE/|Gemeinschaftlicher Garten auf dem Campus der Universität.||facebook
+Duisburg|ADFC Duisburg|mobil|https://duisburg.adfc.de/radfahren|Ortsgruppe des Fahrradclubs mit Touren, Radwanderung und Verkehrsengagement.||website
+Duisburg|Sprachenstammtische Düsseldorf Duisburg Köln|sprachen|https://community.gemeinsamerleben.com/community/weiterbildung/groups/YM2We6pKpXj|Online Gruppe zur Verabredung von Sprachstammtischen und Tandems im Rheinland.||sonstige
+Duisburg|Fotoclub Meiderich|foto|http://www.fotoclub-meiderich.de/|Fotoclub im Stadtteil Meiderich für Hobbyfotografen.||website
+Duisburg|Ruhrorter Fotoclub|foto|https://dasplusamneumarkt.de/dargeboten25/ruhrorter-fotoclub|Fotoclub aus Ruhrort, der seine Bilder in Ausstellungen zeigt.||website

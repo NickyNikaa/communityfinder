@@ -1,0 +1,58 @@
+Kaiserslautern|Badmintonverein Kaiserslautern|sport|http://www.bvkl.de/|Badmintonverein mit Training für Freizeitspieler und Wettkampfteams in der Stadt.||website
+Kaiserslautern|Volleyballclub Kaiserslautern|sport|http://www.vbc-kl.de/|Volleyballverein der Stadt mit Mannschaften und Trainingsgruppen.||website
+Kaiserslautern|VC Feuerball Kaiserslautern|sport|http://www.vcfeuerball.de/|Volleyballclub, bei dem man in Teams trainieren und spielen kann.||website
+Kaiserslautern|Paddlergilde Kaiserslautern 1926|outdoor|http://www.paddlergilde-kl.de/|Kanu- und Paddelverein, der gemeinsame Touren und Training auf dem Wasser anbietet.||website
+Kaiserslautern|Tauchsportclub Kaiserslautern|sport|http://www.tauchsportclubkl.de/|Tauchverein für Einsteiger und erfahrene Taucher mit gemeinsamen Ausfahrten.||website
+Kaiserslautern|Zwerch von Links Historischer Schwertkampf|sport|https://www.zwerchvonlinks.de/|Verein für historischen Schwertkampf, in dem Techniken nach alten Fechtbüchern geübt werden.||website
+Kaiserslautern|Trend- und Funsport Club Kaiserslautern|sport|http://www.tfc-kl.de/|Sportverein mit wechselnden Trend- und Freizeitsportarten für verschiedene Altersgruppen.||website
+Kaiserslautern|Ski- und Kanuclub Kaiserslautern|outdoor|https://www.skiundkanuclub.de/index.php?cd=popup|Verein, der im Winter Skifahrten und im Sommer Kanutouren organisiert.||website
+Kaiserslautern|TSG 1861 Kaiserslautern|sport|http://www.tsg-kl.de/|Großer Turn- und Sportverein mit vielen Abteilungen von Turnen bis Ballsport.||website
+Kaiserslautern|1. Judo-Club Kaiserslautern|sport|http://www.judoclub-kaiserslautern.de/|Judoverein mit Trainingsgruppen für Kinder und Erwachsene.||website
+Kaiserslautern|1. FC Kaiserslautern Hockey|sport|http://www.fck-hockey.de|Hockeyabteilung des FCK mit Teams für Jugend und Erwachsene.||website
+Kaiserslautern|1. FC Kaiserslautern Running|sport|http://www.fck-running.de/|Laufabteilung des FCK für gemeinsames Training und Wettkämpfe.||website
+Kaiserslautern|TV Morlautern|sport|http://www.tv-morlautern.de/|Turnverein im Stadtteil Morlautern mit mehreren Sportangeboten.||website
+Kaiserslautern|Tanzclub Barbarossa|tanz|http://www.tanzclub-barbarossa.de/|Tanzsportverein für Paartanz und Turniertanz, auch für Neueinsteiger.||website
+Kaiserslautern|Tanzclub Grün-Orange Kaiserslautern|tanz|https://tc-gruen-orange.de/willkommen|Tanzsportclub mit Gesellschaftstanz und Turniergruppen.||website
+Kaiserslautern|Tanz-Club Rot-Weiß Kaiserslautern|tanz|https://www.tcrotweiss-kl.de/|Tanzclub für Standard, Latein und Breitensport.||website
+Kaiserslautern|BSV Lucky Nine Kaiserslautern|spiele|http://www.bsv-luckynine.de/|Billardverein mit Spielabenden und Ligaspielbetrieb.||website
+Kaiserslautern|Rallye-Club Barbarossa und Vespa-Club 59|mobil|http://www.rcb-vc59-kl.de/|Motorsport- und Rollerfreunde mit gemeinsamen Ausfahrten und Veranstaltungen.||website
+Kaiserslautern|DLRG Kaiserslautern|engagement|http://www.kaiserslautern.dlrg.de/|Wasserrettung und Schwimmausbildung, Mitmachen als Helfer oder Ausbilder möglich.||website
+Kaiserslautern|ArbeiterKind.de Kaiserslautern|studium|https://www.instagram.com/arbeiterkind.de_kaiserslautern/|Ehrenamtliche Gruppe, die Studierende aus Nichtakademikerfamilien berät und vernetzt.||instagram
+Kaiserslautern|bonding Studenteninitiative Kaiserslautern|studium|http://kaiserslautern.bonding.de/|Studentische Initiative, die Kontakte zur Wirtschaft und Veranstaltungen für Ingenieurstudierende organisiert.||website
+Kaiserslautern|CampusGemeinde Kaiserslautern|leute|https://campusgemeinde-kl.de/|Offene Gemeinschaft für Studierende mit Treffen, Gesprächen und gemeinsamen Aktionen.||website
+Kaiserslautern|ESN STEP Kaiserslautern|studium|http://step.wiwi.uni-kl.de/|Erasmus Student Network, das internationale Studierende betreut und Events organisiert.||website
+Kaiserslautern|Indian Students Association Kaiserslautern|studium|https://www.uni-kl.de/isak/|Vereinigung indischer Studierender mit Treffen und kulturellen Veranstaltungen.||website
+Kaiserslautern|Kaiserslautern Racing Team KaRaT|tech|http://www.karat-racing.de/|Studentisches Rennteam, das einen Formula Student Rennwagen entwickelt und baut.||website
+Kaiserslautern|Studentische Hochschulreitgruppe Kaiserslautern|tiere|https://www.instagram.com/studentenreiter_kl/?hl=de|Reitgruppe für Studierende mit gemeinsamen Reitstunden und Ausritten.||instagram
+Kaiserslautern|Nepalese Student Association SAKAR|studium|https://www.facebook.com/RPTUnepalese|Verein nepalesischer Studierender an der RPTU für Austausch und Kulturabende.||facebook
+Kaiserslautern|Debattierclub debatING|lernen|http://www.uni-kl.de/hochschulgruppen/debating/|Hochschulgruppe, die Debattieren trainiert und an Turnieren teilnimmt.||website
+Kaiserslautern|Unix AG Kaiserslautern|tech|https://www.unix-ag.uni-kl.de|Studentische Arbeitsgemeinschaft rund um Unix, Linux und Rechnernetze.||website
+Kaiserslautern|VWI Hochschulgruppe Kaiserslautern|studium|http://www.vwi-kl.de/|Hochschulgruppe für Wirtschaftsingenieure mit Vorträgen und Exkursionen.||website
+Kaiserslautern|Ingenieure ohne Grenzen Regionalgruppe Kaiserslautern|engagement|https://www.ingenieure-ohne-grenzen.org/de/mitmachen/regionalgruppe-kaiserslautern|Ehrenamtliche Ingenieure und Studierende, die Entwicklungsprojekte im Ausland unterstützen.||website
+Kaiserslautern|iGEM RPTU|tech|http://www.uni-kl.de/hochschulgruppen/iGEM|Studentisches Team für synthetische Biologie, das am iGEM Wettbewerb teilnimmt.||website
+Kaiserslautern|Evangelische Studierendengemeinde ESG Kaiserslautern|leute|https://www.uni-kl.de/ESG/|Studierendengemeinde mit Treffen, Gesprächen und gemeinsamen Unternehmungen.||website
+Kaiserslautern|Katholische Hochschulgemeinde Kaiserslautern|leute|http://www.khg-kl.de/|Hochschulgemeinde mit offenen Treffen und Angeboten für Studierende.||website
+Kaiserslautern|IntClub RPTU|sprachen|https://rptu.de/en/international/about-us/intclub|Club für internationale und deutsche Studierende mit Länderabenden und Ausflügen.||website
+Kaiserslautern|Theatergruppe RPTU|kunst|https://rptu.de/veranstaltungen-gruppen-und-ags/theatergruppe|Laientheatergruppe der Hochschule, die Stücke einstudiert und aufführt.||website
+Kaiserslautern|Klassisches Orchester der TU Kaiserslautern|musik|https://www.uni-kl.de/orchester/|Hochschulorchester mit rund 40 Mitgliedern, neue Spielerinnen und Spieler sind willkommen.|Dienstags 18:30 Uhr|website
+Kaiserslautern|SOKL Sinfonieorchester des Landkreises Kaiserslautern|musik|https://sokl.de/|Sinfonieorchester mit über 60 Laienmusikern aus der Region.|Freitags 19 Uhr|website
+Kaiserslautern|Kolpingblasorchester Kaiserslautern 1912|musik|https://kulturland.rlp.de/datenbanken/einrichtungen/einrichtung/kolpingblasorchester-kaiserslautern-1912-ev|Traditionsreiches Blasorchester der Stadt.||website
+Kaiserslautern|Rheinland-Pfalz International Choir|musik|https://www.sing-rpic.de/|Internationaler gemischter Chor mit buntem Repertoire, neue Sänger sind willkommen.|Dienstags 19 Uhr|website
+Kaiserslautern|Schubertchor Kaiserslautern|musik|https://schubertchor-kaiserslautern.de/|Gemischter Chor mit über 35 Stimmen, Einstieg mit und ohne Chorerfahrung möglich.||website
+Kaiserslautern|KaRoTa Spieletreff|spiele|https://karota.de/spieletreff/|Offener Spieleabend mit Brettspielen, Rollenspiel und Tabletop, ohne Anmeldung.|Freitags 20 Uhr|website
+Kaiserslautern|lauterjungs und mädels|queer|https://lauterjungs.de/|Verein für queere Menschen mit Jugendcafé, Trans Treff, Spieletreff und Ü40 Abend.||website
+Kaiserslautern|Rosa Teufel|queer|http://www.rosateufel.de|Schwul-queere Gruppe mit Stammtisch und einer Fußballgruppe.|Donnerstags Stammtisch|website
+Kaiserslautern|Queer Devils|queer|https://queer-devils.org/|Queerer Fanclub des 1. FC Kaiserslautern, der sich gegen Diskriminierung im Fußball einsetzt.||website
+Kaiserslautern|Queerulant*innen|queer|https://www.instagram.com/queerulantinnen/|Queerfeministischer Stammtisch zu Feminismus, Geschlecht und Politik.|Jeden 2. Donnerstag im Monat|instagram
+Kaiserslautern|Queeres Zentrum Kaiserslautern|queer|https://www.instagram.com/qzkl_ev/|Verein, der einen queeren Treffpunkt und Veranstaltungen in der Stadt aufbaut.||instagram
+Kaiserslautern|AStA Referat LGBTIQ|queer|https://www.asta.uni-kl.de/queer|Anlaufstelle für queere Studierende mit Aktionstagen und offenen Treffen.||website
+Kaiserslautern|BUND Kreisgruppe Kaiserslautern|outdoor|https://kaiserslautern.bund.net/termine-und-veranstaltungen|Naturschutzgruppe mit Baumprojekten, Obstwiesenpflege und offenen Aktionstagen.||website
+Kaiserslautern|KlimaLautern|engagement|https://klimalautern.de/|Klimagruppe mit Arbeitsgruppen zu Mobilität, Stadtgrün und Bildung.|Jeden 2. Montag im Monat, 18 Uhr|website
+Kaiserslautern|foodsharing Kaiserslautern|engagement|https://foodsharing-staedte.org/de/stadt/kaiserslautern|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen sie weiter.||website
+Kaiserslautern|Freiwilligen Agentur Kaiserslautern|engagement|https://www.kaiserslautern.de/sozial_leben_wohnen/soziales_und_gesellschaft/freiwilligenagentur/index.html.de|Vermittelt Interessierte in passende ehrenamtliche Aufgaben in der Stadt.||website
+Kaiserslautern|Mehrgenerationenhaus Kaiserslautern|familie|https://www.mghkl.de/seite/152131/wir-%C3%BCber-uns.html|Offener Treffpunkt für Jung und Alt mit Gruppen, Frühstück und Begegnungsangeboten.||website
+Kaiserslautern|BdP Stamm Goten Kaiserslautern|leute|https://pfadfinder-kl.de/ueber-uns/|Pfadfinderstamm mit Gruppen für Kinder und Jugendliche, Zeltlagern und Fahrten.|Wöchentliche Gruppenstunden|website
+Kaiserslautern|Stadtjugendring Kaiserslautern|familie|https://www.sjr-kl.de/gruppenstunden/|Dachverband mit Übersicht der Jugendgruppen von Pfadfindern bis Jugendfeuerwehr.||website
+Kaiserslautern|Jugendrotkreuz Kaiserslautern|engagement|http://kreisjugendring-kaiserslautern.de/uebersicht/mitglieder/jrk-jugendrotkreuz/|Jugendgruppen lernen Erste Hilfe und engagieren sich sozial.|Freitags und donnerstags|website
+Kaiserslautern|BDKJ Kaiserslautern|familie|http://kreisjugendring-kaiserslautern.de/uebersicht/mitglieder/bdkj-bund-der-deutschen-katholischen-jugend/|Katholischer Jugenddachverband mit verschiedenen Jugendgruppen.||website
+Kaiserslautern|Toastmasters Kaiserslautern|lernen|http://district59.eu/clubdata.php?c=367|Englischsprachiger Club zum Üben von Reden und Präsentieren.||website

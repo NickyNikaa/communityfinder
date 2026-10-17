@@ -1,0 +1,56 @@
+Rostock|E-Sport Bund Rostock|gaming|https://www.instagram.com/esportbundrostock_official/|Hochschulgruppe, die Turniere und Treffen für Gelegenheitsspieler und ambitionierte E-Sportler organisiert und eine Community aufbaut.||instagram
+Rostock|Gewerkschaftliche Hochschulgruppe Rostock|studium|https://www.instagram.com/gewerkschaftliche_hsg_hro/|Studierende, die gewerkschaftliche Themen an die Uni bringen und Aktive miteinander vernetzen.||instagram
+Rostock|Law Clinic Rostock|studium|https://www.lawclinicrostock.org/|Studentischer Verein, der kostenlose Rechtsberatung anbietet, vor allem für Geflüchtete sowie bei Arbeits- und Mietrecht.||website
+Rostock|NAJU Rostock|outdoor|https://www.nabu-mittleres-mecklenburg.de/naju/|Naturschutzjugend des NABU mit Aktionen zu Natur und Umwelt, offen für Studierende aller Fächer.|Monatliche Treffen|website
+Rostock|STUB Rostock|studium|https://stub-rostock.de/|Gemeinnützige studentische Unternehmensberatung seit 1993, in der Mitglieder Praxiserfahrung in Beratungsprojekten sammeln.||website
+Rostock|Kritische Medizin Rostock|studium|https://fachschaft.med.uni-rostock.de/projekte/kritische-medizin/|Medizinstudierende, die in Workshops und Vorträgen Themen wie Rassismus, Gender und Schwangerschaftsabbruch aufgreifen, die im Studium zu kurz kommen.||website
+Rostock|Schauvorlesung der Physik|studium|https://www.physik.uni-rostock.de/veranstaltungen-aktivitaeten/fuer-alle/die-schauvorlesung/|Überwiegend studentische Theatergruppe, die Physik und Chemie mit Experimenten und Bühnenstücken anschaulich erklärt.||website
+Rostock|Coast Connects|leute|https://www.instagram.com/coast.connects|Studentisches Netzwerk mit Spieleabenden, Picknicks, Sportturnieren und Clubabenden, um Leute aus verschiedenen Fächern zusammenzubringen.||instagram
+Rostock|Naturfreunde Region Rostock|outdoor|https://stadtgestalten.org/Gruppe_Naturfreunde_Region_Rostock/|Sozial-ökologischer Verband mit Wanderungen, Naturschutz und Kultur; es gibt einen regelmäßigen Stammtisch.|Stammtisch am letzten Mittwoch im Monat, 18 Uhr|website
+Rostock|Opennet Initiative|tech|https://stadtgestalten.org/opennet/|Verein, der in Rostock und Umgebung ein freies Funknetz aufbaut und sich zu Netzwerktechnik austauscht.|Montags, online und vor Ort|website
+Rostock|Solidarische Landwirtschaft Rostock|essen|https://stadtgestalten.org/bunte-hoefe/|Gemeinschaft, in der Mitglieder Ernte und Risiko eines Hofes teilen und bei Mitmachaktionen helfen.||website
+Rostock|Amnesty International Gruppe Rostock|engagement|https://stadtgestalten.org/amnesty-international-gruppe-rostock/|Initiative zum Aufbau einer örtlichen Amnesty-Gruppe für Menschenrechtsarbeit.||website
+Rostock|Arbeitskreis Wohnprojekte|engagement|https://stadtgestalten.org/wohnprojekte/|Arbeitskreis, der gemeinschaftliche Wohnformen in Rostock voranbringt.||website
+Rostock|Initiative Volkshaus Rostock|engagement|https://stadtgestalten.org/initiative-volkshaus-rostock/|Initiative, die historische Orte der Rostocker Freiheits- und Demokratiegeschichte bewahren will.||website
+Rostock|Ökohaus Bildungsprojekt|engagement|https://stadtgestalten.org/oekohaus-bildung/|Workshops und Bildungsangebote zu nachhaltigem Leben und globaler Gerechtigkeit.||website
+Rostock|Fairtrade-Stadt Rostock|engagement|https://stadtgestalten.org/fairtradestadt_rostock/|Engagierte, die fairen Handel und Nachhaltigkeit in der Stadt voranbringen.||website
+Rostock|Ernährungsrat Rostock|essen|https://stadtgestalten.org/ernaehrungsrat-rostock/|Netzwerk, das sich für eine nachhaltigere Lebensmittelversorgung der Stadt einsetzt.||website
+Rostock|Radio LOHRO|musik|https://stadtgestalten.org/lohro/|Freies Lokalradio, bei dem neue Mitmachende und Musik willkommen sind.||website
+Rostock|Zuhörplatz Rostock|leute|https://stadtgestalten.org/zuhoerplatz-rostock/|Offenes Gesprächsangebot, bei dem man einfach ins Gespräch kommt und zuhört.||website
+Rostock|Brett- und Rollenspiel Rostock|spiele|https://stadtgestalten.org/brett-und-rollenspiel/|Gruppe für Brett- und Rollenspiele mit Stammtisch, LARP-Abenden, Discord und der Sieben Türme Convention.|Rollenspieler-Stammtisch jeden 1. Mittwoch im Monat|website
+Rostock|Gewaltfreie Kommunikation Übungsgruppe|wellbeing|https://stadtgestalten.org/gfk/|Monatliche Übungsgruppe für Einsteiger in gewaltfreie Kommunikation.|Jeden 2. Montag im Monat|website
+Rostock|Natur und Kultur-Flächen bewahren|engagement|https://stadtgestalten.org/natur-und-kultur-flaechen-bewahren/|Initiative zum Schutz von Grün- und Erholungsflächen in der Innenstadt, unter anderem mit Baumkartierung.||website
+Rostock|Rostocker Plauderspaziergänge|leute|https://stadtgestalten.org/rostocker-plauderspaziergaenge-1/|Entspannte Spaziergänge, bei denen Nachbarn über ihren Stadtteil und Alltag ins Gespräch kommen.||website
+Rostock|Fête de la Musique Rostock|musik|https://stadtgestalten.org/fetehro/|Organisationsteam des kostenlosen Open-Air-Musikfestivals am 21. Juni.|Einmal jährlich am 21. Juni|website
+Rostock|Frauenkreis Rostock|frauen|https://stadtgestalten.org/frauenkreis-rostock/|Gesprächskreis für Frauen, Anmeldung per E-Mail.||website
+Rostock|Achtsamer Frauenkreis|frauen|https://stadtgestalten.org/achtsamer-frauenkreis-1/|Frauenkreis mit achtsamem Austausch in der Gruppe.||website
+Rostock|BDP MV|engagement|https://stadtgestalten.org/bdp-mv/|Unabhängiger Pfadfinder-Jugendverband mit Workshops, Festivals und selbstverwalteter Jugendarbeit in Mecklenburg-Vorpommern.||website
+Rostock|Bunt statt braun|engagement|https://stadtgestalten.org/bunt-statt-braun/|Bürgerinitiative gegen Rechtsextremismus und für ein vielfältiges Rostock.||website
+Rostock|Look Out Sirs e.V.|spiele|https://lookoutsirs.de/warhammer-tabletop-rostock/|Tabletop-Verein für Warhammer und ähnliche Spiele mit Spielterminen mindestens monatlich, abgestimmt über Discord.|Mindestens monatlich, Termine per Discord|website
+Rostock|Royal Rangers Rostock|outdoor|https://pfadfinder-rostock.de/|Christliche Pfadfindergruppe für alle ab 6 Jahren; einfach vorbeikommen.|Freitags 16:30 bis 18:30 Uhr|website
+Rostock|PopChorn|musik|https://popchornrostock.de/|Pop- und Rockchor mit etwa 30 Stimmen, Neue ohne Vorkenntnisse sind willkommen.|Donnerstags 19:30 Uhr|website
+Rostock|C(h)or Musica Rostock|musik|https://cor-musica.de/mitsingen|Freizeitchor an der Musikhochschule, besonders Tenöre und Bässe gesucht, Schnupperprobe möglich.|Montags 19 Uhr|website
+Rostock|vocal collegium rostock|musik|https://www.vocal-collegium-rostock.de/|Gemischter Chor mit über 90 aktiven Mitgliedern und breitem Repertoire; Tenöre und Bässe gesucht.|Dienstags 19 Uhr|website
+Rostock|Freies Studentisches Orchester Rostock|musik|https://www.fsor.de/MitspielerGesucht|Studentisches Orchester, in dem auch Beschäftigte und andere Musikfreunde nach kurzem Probespiel mitspielen können.|Montags 19:30 Uhr|website
+Rostock|Rotaract Club Rostock|engagement|https://rostock.rotaract.de/|Club junger Erwachsener, die lernen, Gutes tun und gemeinsam feiern wollen.|Wöchentlich, ab Oktober donnerstags 18:30 Uhr|website
+Rostock|Schachclub SC HRO|spiele|https://www.sc-hro.de/|Schachverein mit Training für Anfänger und Fortgeschrittene; Gäste sind willkommen.||website
+Rostock|Börgerhus Groß Klein|leute|https://boergerhus.de/|Stadtteil- und Begegnungszentrum der AWO mit offenem Treff, Café, Mittagstisch und Veranstaltungen für alle Altersgruppen.|Montags bis donnerstags 10 bis 18 Uhr|website
+Rostock|CSD Rostock e.V.|queer|https://www.csd-hro.de/|Verein hinter dem Christopher Street Day und den HanseQueer-Kulturwochen in Rostock.||website
+Rostock|rat+tat Rostock|queer|https://ratundtat-rostock.de/gruppenuebersicht/|Verein für geschlechtliche und sexuelle Vielfalt mit verschiedenen Gruppenangeboten.||website
+Rostock|Endzonis Ultimate Frisbee|sport|https://www.endzonis.de/|Ultimate-Frisbee-Verein in Rostock mit Training für Einsteiger und Erfahrene.||website
+Rostock|Swing Connection Rostock|tanz|https://www.swing-connection-rostock.de/|Verein für Swingtanz mit Social Dances, Kursen und dem Tanzfestival Aus der Reihe tanzen.||website
+Rostock|Rostocker Kanu-Club|sport|https://www.rostocker-kanu-club.de/|Kanuverein mit Paddeln, Drachenbootrennen und Bootsverleih auf dem Vereinsgelände.||website
+Rostock|Kanufreunde Rostocker Greif|sport|https://www.kanufreunde.de/|Verein für Kanusport und gemeinsames Paddeln in und um Rostock.||website
+Rostock|Rostocker Yachtclub|sport|https://www.royc.de/|Segelverein in Rostock mit Segelangeboten und Vereinsleben am Wasser.||website
+Rostock|Rudern in Rostock|sport|https://ruderninrostock.de/|Übersichtsseite zum Rudersport in Rostock mit Kontakten zu den Rudervereinen.||website
+Rostock|Rostock Griffins|sport|https://www.rostock-sport.de/vereine/rostock-griffins/|American-Football-Verein, der in der GFL2 Nord spielt.||website
+Rostock|Rostocker Nasenbären|sport|https://www.rostock-sport.de/vereine/rostocker-nasenbaeren/|Inline-Skaterhockey-Verein mit Spielbetrieb in der Regionalliga Ost.||website
+Rostock|RSC 92 Rostocker Segelverein Citybootshafen|sport|https://www.rostock-sport.de/vereine/rsc-92-rostock/|Segelverein mit Jugend- und Regattasegeln.||website
+Rostock|Post-Sportverein Rostock|sport|https://www.post-sv-rostock.de/|Mehrspartenverein mit Breitensportangeboten in Rostock.||website
+Rostock|SV Eintracht Rostock|sport|https://www.eintracht-rostock.de/|Sportverein mit mehreren Abteilungen für Freizeit- und Wettkampfsport.||website
+Rostock|Verband der Gartenfreunde Hansestadt Rostock|outdoor|https://www.gartenfreunde-hro.de/|Dachverband der Rostocker Kleingartenvereine, Anlaufstelle für alle, die einen Garten pachten möchten.||website
+Rostock|Kleingartenverein Luftwarte|outdoor|https://www.kgv-luftwarte.com/|Kleingartenverein in Rostock mit gemeinsamem Vereinsleben.||website
+Rostock|Kleingartenverein Unkel Bräsig|outdoor|https://www.unkel-braesig.de/|Kleingartenverein mit Gartengemeinschaft und Vereinsfesten.||website
+Rostock|Kleingartenverein Hellberg|outdoor|https://hellbergweb.wordpress.com/|Kleingartenverein in Rostock mit Neuigkeiten und Terminen für Mitglieder.||website
+Rostock|Mehrgenerationenhaus IN VIA Rostock|familie|https://invia-rostock.de/mehrgenerationenhaus/|Begegnungshaus mit offenen Angeboten für Familien und Generationen, darunter eine Krabbelgruppe.||website
+Rostock|Kolping Begegnungszentrum Rostock|familie|https://www.kolping-mv.de/rostock/begegnungszentrum/familien/|Begegnungszentrum mit Angeboten für Familien und gemeinsamen Treffen.||website
