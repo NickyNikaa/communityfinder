@@ -98,3 +98,5 @@ Salzgitter
 Siegen
 Moers
 Kaiserslautern
+
+Hinweis: Vor jeder Recherche zusaetzlich data/ext/LEARNINGS.md lesen (ergiebige Quellen, Regeln, Fallstricke aus frueheren Wellen).

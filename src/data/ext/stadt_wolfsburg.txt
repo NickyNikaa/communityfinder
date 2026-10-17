@@ -1,0 +1,44 @@
+Wolfsburg|CVJM Wolfsburg e.V.|engagement|https://www.cvjm-wolfsburg.de|Christlicher Verein junger Menschen mit Weltdienstgruppe, die unter anderem bei Spendenradtouren hilft.|Treffen alle 3 bis 6 Wochen|website
+Wolfsburg|Kindernothilfe Förderverein Wolfsburg e.V.|engagement|https://www.kindernothilfe.de/wolfsburg|Ehrenamtliche organisieren Basare, Infostände, Lesungen und Spielturniere zugunsten von Kindern in Not.|Planungstreffen alle 6 Wochen|website
+Wolfsburg|Plan International Aktionsgruppe Wolfsburg|engagement|https://wolfsburg.plan-aktionsgruppen.de|Aktionsgruppe, die bei Veranstaltungen Infostände betreut und das Patenschaftsmodell vorstellt.||website
+Wolfsburg|Wasser für Kenia e.V.|engagement|https://www.wasser-fuer-kenia.de|Kleiner Verein, der Infoabende gestaltet, die Website pflegt und Kontakt zu Spendern hält.|Jeden 2. Dienstag im Monat, 17 Uhr|website
+Wolfsburg|Förderverein des Klinikum Wolfsburg e.V.|engagement|https://www.foerderverein-klinikum-wolfsburg.de|Engagierte richten Benefizkonzerte, Tombolas, Vorträge und Basare für das Klinikum aus.|Ein bis zwei Mal im Monat nach Veranstaltung|website
+Wolfsburg|Netzwerk Wolfsburg e.V.|wellbeing|https://www.netzwerk-wolfsburg-ev.de|Verein mit Selbsthilfegruppen und Veranstaltungsplanung.|Selbsthilfegruppen alle 14 Tage, 2 Stunden|website
+Wolfsburg|Trau Dich Selbsthilfegruppe|wellbeing|https://www.selbsthilfe-psyche.de|Selbsthilfegruppe für Menschen mit psychischen Erkrankungen mit Austausch, Lesungen, Vorträgen und Filmabenden.|Gruppentreffen alle 14 Tage|website
+Wolfsburg|Suchtkrankenhilfe für Betroffene und Angehörige e.V.|wellbeing|https://www.suchtkrankenhilfe-fuer-betroffene-und-angehoerige.de|Gruppen für Suchtbetroffene und Angehörige sowie gemeinsame Freizeitaktivitäten.||website
+Wolfsburg|THW Ortsverband Wolfsburg|engagement|https://www.thw-wolfsburg.de|Technische Ausbildung und Übungsdienst in der örtlichen Einheit des Technischen Hilfswerks.|Mittwochs ab 17 Uhr|website
+Wolfsburg|DLRG Ortsgruppe Vorsfelde e.V.|engagement|https://vorsfelde.dlrg.de|Schwimmunterricht, Wasserrettung, Sanitätsdienst und Katastrophenschutz.|Geschäftsstelle mittwochs 16 bis 19 Uhr|website
+Wolfsburg|DLRG Ortsgruppe Wolfsburg e.V.|engagement|https://wolfsburg.dlrg.de|Wasserrettung, Schwimmtraining, Jugendarbeit und Sicherheitsdienst bei Veranstaltungen.|Mehrmals pro Woche und am Wochenende|website
+Wolfsburg|DRK Kreisverband Wolfsburg e.V.|engagement|https://www.drk-wob.de|Rotkreuz-Dienste mit Rettung, sozialen Angeboten, Jugendrotkreuz und Blutspende.||website
+Wolfsburg|Freiwillige Feuerwehr Wolfsburg|engagement|https://www.feuerwehr-wolfsburg.de|Ehrenamtliche Feuerwehr mit 20 Ortswehren für Einsatz, Training und Stadtteilfeste.||website
+Wolfsburg|Malteser Hilfsdienst Wolfsburg|engagement|https://www.malteser-wolfsburg.de|Besuchsdienste, Rettungsdienst, Erste-Hilfe-Kurse und Katastrophenschutz.||website
+Wolfsburg|Flüchtlingshilfe Wolfsburg e.V.|engagement|https://www.fluechtlingshilfe-wolfsburg.de|Patenschaften, Sprachkursbegleitung und Begleitung zu Ämtern und Ärzten für Geflüchtete.|Mitgliedertreffen am 1. Mittwoch im Monat|website
+Wolfsburg|be your own hero e.V.|engagement|https://www.beyourownhero-ev.de|Verein, der mit Teamarbeit und Aktionen Mitglieder und Förderer gewinnt.|Teamtreffen monatlich|website
+Wolfsburg|brotZeit e.V.|engagement|https://www.brotzeitfuerkinder.com|Freiwillige bereiten vor dem Unterricht Frühstücksbuffets an Schulen vor.|Morgens ca. 6:45 bis 8:30 Uhr|website
+Wolfsburg|Bürgerstiftung Wolfsburg Lesenetzwerk|engagement|https://www.buergerstiftung-wolfsburg.de|Ehrenamtliche lesen in Kitagruppen vor oder helfen einzelnen Schulkindern beim Lesen.|Wöchentlich 30 bis 60 Minuten|website
+Wolfsburg|Familienservice Wolfsburg e.V.|familie|https://www.familienservice-wolfsburg.de|Verein, der sich für Familien einsetzt, vernetzt und Veranstaltungen unterstützt.||website
+Wolfsburg|Kinder- und Jugendschutz Wolfsburg e.V.|familie|https://www.kjs-wolfsburg.de|Patenschaften, Hausaufgabenhilfe und Großelternprogramm für Kinder und Jugendliche.||website
+Wolfsburg|Stadtjugendring Wolfsburg e.V.|engagement|https://www.stjr.de|Zusammenschluss der Jugendverbände mit Aktionsteams und Arbeitskreisen.||website
+Wolfsburg|TABULA e.V.|engagement|https://www.tabula-wolfsburg.com|Bildungspaten begleiten ein bis drei Kinder in Schule, Kita und Freizeit.|Ca. 1 bis 4 Stunden pro Woche|website
+Wolfsburg|CREARTE e.V. Kunstverein|kunst|https://www.crearte-wolfsburg.de|Kunstverein mit eigener Galerie, in der Mitglieder Aufsicht, Website und Social Media betreuen.|Galerie mittwochs und donnerstags 14 bis 17 Uhr, sonntags 11 bis 18 Uhr|website
+Wolfsburg|Freundeskreis des Kunstmuseum Wolfsburg e.V.|kunst|https://freundeskreis.kunstmuseum.de/mitglied-werden/|Förderverein für Kunstinteressierte rund um das Kunstmuseum.||website
+Wolfsburg|Internationaler Freundeskreis Wolfsburg e.V.|leute|https://www.ifk-wolfsburg.de|Betreut Gäste der Stadt und organisiert Konzerte, Vorträge und Bürgerreisen.|Etwa monatlich|website
+Wolfsburg|Jazz-Freunde Wolfsburg e.V.|musik|https://www.jazzfreunde-wolfsburg.de|Jazzverein mit Konzerten, Vereinszeitung und Barteam.|Mindestens monatlich|website
+Wolfsburg|Junge Kunst e.V.|kunst|https://www.junge-kunst-wolfsburg.de|Ausstellungsverein für junge Kunst, Helfer bauen Ausstellungen mit auf.|Während Ausstellungen mittwochs bis freitags 11 bis 16 Uhr, am Wochenende 13 bis 17 Uhr|website
+Wolfsburg|Kulturverein Zugabe e.V. Wolfsburg-Vorsfelde|kunst|https://www.kulturverein-zugabe.de|Organisiert Comedy, Kabarett, Konzerte, Vorträge und Fahrten in Vorsfelde.|Zwei bis drei Mal im Monat|website
+Wolfsburg|Maritimer Chor Wolfsburg e.V.|musik|https://www.maritimer-chor-wolfsburg.de|Chor, der Shanties und Seemannslieder singt und öffentlich auftritt.|Mittwochs 18 bis 20 Uhr|website
+Wolfsburg|Verein Heiligendorfer Kultur- und Brauchtumspflege e.V.|kunst|https://www.kulturverein-heiligendorf.de|Kulturveranstaltungen, Ortsarchiv, Kräuter- und Bibelgarten und Ferienangebote für Kinder.||website
+Wolfsburg|Vogelfreunde Wolfsburg und Umgebung e.V.|tiere|https://www.vogelfreunde-wolfsburg.de|Verein für Vogelzucht mit jährlicher Ausstellung.|Monatliche Treffen|website
+Wolfsburg|Wolfsburger Chorgemeinschaft e.V.|musik|https://www.wolfsburger-chorgemeinschaft.info|Zusammenschluss von Chören, der gemeinsame Konzerte organisiert.|Etwa monatlich|website
+Wolfsburg|Aids-Hilfe Wolfsburg e.V.|queer|https://www.aidshilfe-wolfsburg.de|Prävention, Tests, Infostände und eine queere Jugendgruppe.|Test mittwochs 15 bis 18 Uhr|website
+Wolfsburg|BIT e.V. Beirat für Inklusion und Teilhabe|engagement|https://www.bit-wolfsburg.de|Verein, der Aktionen und Veranstaltungen für Menschen mit Behinderung organisiert.||website
+Wolfsburg|DRK Ortsverein Fallersleben e.V.|engagement|https://www.drk-fallersleben.de|Seniorenbetreuung, Blutspende und Mithilfe bei Stadtteilfesten.|Dienstags 9 bis 11 Uhr|website
+Wolfsburg|DRK Ortsverein Wolfsburg-Mitte e.V.|engagement|https://www.drk-wolfsburg-mitte.de|Kleiderladen, Blutspende und Jugendrotkreuz.||website
+Wolfsburg|DRK Ortsverein Hasenwinkel e.V.|engagement|https://www.drk-hasenwinkel.de|Blutspende, Veranstaltungen, Bewirtung und Vortragsreihe.||website
+Wolfsburg|Deutsch/Ghanaischer Freundschaftsverein e.V.|engagement|https://www.deutschghanafreundschaftsverein.de|Unterstützt Schulprojekte in Ghana und organisiert Vorträge und Aktionen in Wolfsburg.||website
+Wolfsburg|Schachclub Wolfsburg e.V.|spiele|https://schachwolfsburg.com/|Schachverein mit offenem Vereinsabend.|Mittwochs 18 bis 21 Uhr|website
+Wolfsburg|Reit- und Fahrverein Wolfsburg e.V.|sport|https://www.ruf-wolfsburg.de/|Reitverein mit Unterricht, Ponyclub und Schnupperkursen.||website
+Wolfsburg|Supporters Wolfsburg e.V.|leute|https://supporters-wolfsburg.de/mitgliedschaft/|Dachverband der VfL-Fans mit Fanfahrten, Arbeitskreisen und Mitgliederfeiern.||website
+Wolfsburg|DAS WEST Haus der Begegnung und Vielfalt|leute|https://www.wolfsburg.de/daswest|Stadtteiltreff am Laagberg, in dem Ehrenamtliche Angebote gestalten und eigene Ideen einbringen.||website
+Wolfsburg|Mehrgenerationenhaus Wolfsburg|familie|https://www.wolfsburg.de/en-us/leben/jugend/mehrgenerationenhaus|Offener Tagestreff für alle Altersgruppen mit Kursen, Gruppen, Projekten und Café.||website
+Wolfsburg|Förderverein Stadtmuseum Schloss Wolfsburg e.V.|kunst|https://www.wolfsburg.de/stadtmuseum|Förderverein mit Benefizveranstaltungen und Mithilfe bei Sammlung und Ausstellungen.||website

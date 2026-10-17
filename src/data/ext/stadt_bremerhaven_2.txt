@@ -1,0 +1,43 @@
+Bremerhaven|Bridgefreunde Sail-City Bremerhaven e.V.|spiele|https://www.bridgefreunde-sailcity.de/|Bridgeverein mit regelmaessigen Spielabenden und einem Donnerstagsturnier, Gaeste sind ausdruecklich willkommen.||website
+Bremerhaven|Tabletop Bremerhaven|spiele|https://www.tabletop-bremerhaven.de/|Forum fuer Tabletop, Brettspiele und Rollenspiele in Bremerhaven, um Mitspieler und Runden zu finden.||forum
+Bremerhaven|Sidequest Bremerhaven|spiele|https://www.tabletopturniere.de/club/sidequest-bremerhaven|Tabletop-Gruppe aus Bremerhaven, die im Turnierportal als Gaming-Club gelistet ist.||sonstige
+Bremerhaven|Schachfreunde Leherheide von 1950|spiele|https://www.schach-bremen.de/vereine/leherheide.html|Schachverein im Stadtteil Leherheide mit offenem Training.|Mittwochs 18 bis 21 Uhr|website
+Bremerhaven|Schiffahrts-Compagnie Bremerhaven e.V.|leute|https://www.schiffahrts-compagnie.de/start/|Verein, der historische Wasserfahrzeuge wie den Dampfeisbrecher Wal erhaelt und betreibt; neue Mitglieder sind willkommen.||website
+Bremerhaven|Schiffergilde Bremerhaven e.V.|leute|https://www.schiffergilde.de/verein/|Maritimer Verein in Bremerhaven, naehere Angaben zu Treffen stehen auf der Vereinsseite.||website
+Bremerhaven|Selbsthilfe Bremerhavener Topf e.V.|engagement|https://selbsthilfe-bremerhaven.de/|Verein rund um Selbsthilfe in Bremerhaven, Angebote und Kontakt stehen auf der Startseite.||website
+Bremerhaven|ASV Bremerhaven-Unterweser e.V.|outdoor|https://www.asv-bremerhaven.de/|Angelsportverein von 1920 mit ueber 1000 Mitgliedern, eigenen Gewaessern, Jugendgruppe, Arbeitsdiensten und gemeinsamen Angeltagen.||website
+Bremerhaven|DJK Karminia Bremerhaven|sport|https://djkarminia.de/|Sportverein in Bremerhaven, die Abteilungen und Termine stehen auf der Vereinsseite.||website
+Bremerhaven|Kneipp Verein Bremerhaven|wellbeing|http://www.kneipp-verein-bremerhaven.de/|Ortsverein fuer Gesundheit nach Kneipp mit Gruppenangeboten, Details auf der Vereinsseite.||website
+Bremerhaven|OSC Bremerhaven|sport|https://osc-bremerhaven.de/|Grosser Sportverein mit vielen Abteilungen, darunter Badminton, zum Mitmachen fuer Erwachsene und Kinder.||website
+Bremerhaven|SFL Bremerhaven|sport|https://www.sfl-bremerhaven.de/|Sportverein aus Leherheide mit Abteilungen wie Handball, Badminton und Fitness.||website
+Bremerhaven|TSV Wulsdorf|sport|https://www.tsv-wulsdorf.de/abteilungen/|Turn- und Sportverein im Stadtteil Wulsdorf mit mehreren Abteilungen, unter anderem Volleyball.||website
+Bremerhaven|Volleyball Bremerhaven-Geestemuender TV|sport|https://www.volleyballbremerhaven.de/?page=ueberuns|Volleyballabteilung des Geestemuender TV, seit 1977 aktiv, Vereinsgeschichte und Teams auf der Seite.||website
+Bremerhaven|BdP Stamm Rainbow Bremerhaven|outdoor|https://bdp-stamm-rainbow.de/|Pfadfinderstamm im Bund der Pfadfinderinnen und Pfadfinder mit Gruppenstunden und Fahrten.||website
+Bremerhaven|Bremerhavener Pfadfinderschaft e.V.|outdoor|http://www.bremerhavener-pfadfinderschaft.de/|Pfadfinderverein in Bremerhaven fuer Kinder und Jugendliche mit Gruppen und Lagern.||website
+Bremerhaven|Pfadfinder Stamm Goten Bremerhaven|outdoor|https://www.facebook.com/stamm.goten.bremerhaven|Pfadfinderstamm in Bremerhaven, aktuelle Treffen werden auf der Facebook-Seite angekuendigt.||facebook
+Bremerhaven|Fotogruppe CREATIV Bremerhaven|foto|https://www.bremerhaven.de/de/freizeit-kultur/stadtkultur/kultureinrichtungen/fotogruppe-creativ-bremerhaven.31385.html|Fotogruppe, die im Kulturverzeichnis der Stadt gefuehrt wird, fuer gemeinsames Fotografieren und Austausch.||website
+Bremerhaven|Blasorchester Lehe|musik|https://www.bremerhaven.de/de/freizeit-kultur/stadtkultur/kultureinrichtungen/blasorchester-lehe.31091.html|Laienorchester im Stadtteil Lehe, im Kulturverzeichnis der Stadt aufgefuehrt.||website
+Bremerhaven|Musikverein Bremerhaven|musik|https://www.bremerhaven.de/de/freizeit-kultur/stadtkultur/kultureinrichtungen/musikverein-bremerhaven.31039.html|Musikverein, der im Kulturverzeichnis der Stadt steht und gemeinsames Musizieren pflegt.||website
+Bremerhaven|instant impro Improvisationstheater|kunst|https://www.bremerhaven.de/de/freizeit-kultur/stadtkultur/kultureinrichtungen/instant-impro-improvisationstheater-bremerhaven.32029.html|Improtheatergruppe aus Bremerhaven, die spontane Szenen auf der Buehne spielt.||website
+Bremerhaven|Chorvereinigung Concordia Bremerhaven|musik|https://www.bremerhaven.de/de/freizeit-kultur/stadtkultur/kultureinrichtungen/chorvereinigung-concordia-bremerhaven.30678.html|Traditionsreiche Chorvereinigung, im Kulturverzeichnis der Stadt gelistet.||website
+Bremerhaven|Shanty-Chor Bremerhaven|musik|https://www.shanty-chor-bremerhaven.de/%C3%BCber-uns/|Maennerchor, der Seemannslieder und Shanties singt und auftritt.||website
+Bremerhaven|Bach-Chor Bremerhaven|musik|https://www.kirche-bremen.de/bremerhaven/kultur-musik/bach-chor-bremerhaven/|Kirchenchor, der grosse geistliche Chorwerke einstudiert und auffuehrt.||website
+Bremerhaven|ADFC Bremerhaven|mobil|https://bremerhaven.adfc.de/|Ortsgruppe des Fahrradclubs mit Radtouren, Verkehrspolitik und Aktiventreffen.||website
+Bremerhaven|Wild und Frei Katzenhilfe|tiere|https://wildundfrei-katzenhilfe.de/|Ehrenamtliche Hilfe fuer wild lebende Katzen, Mitmachen als Helfer ist moeglich.||website
+Bremerhaven|Kitten in Not e.V.|tiere|https://kitten-in-not.de/|Tierschutzverein in Bremerhaven, der Katzen in Not hilft und Unterstuetzer sucht.||website
+Bremerhaven|Tierschutz Bremerhaven e.V.|tiere|https://www.tierschutz-bremerhaven.eu/en/|Tierschutzverein mit Tierheim, bei dem man ehrenamtlich helfen oder Patenschaften uebernehmen kann.||website
+Bremerhaven|Queerhaven e.V.|queer|https://queerhaven.de/|Junge Initiative, die queeres Leben in Bremerhaven sichtbarer macht und den CSD Bremerhaven traegt.||website
+Bremerhaven|CSD Bremerhaven|queer|https://www.facebook.com/csdbremerhaven/|Organisationsteam des Christopher Street Day in Bremerhaven, offen fuer Mithelfende.||facebook
+Bremerhaven|Prism Queer Youth Group Bremerhaven|queer|https://www.welcometobremerhaven.de/en/angebot/prism-queer-youth-group-stadtjugendring-bremerhaven/|Queere Jugendgruppe beim Stadtjugendring Bremerhaven.||website
+Bremerhaven|Stadtjugendring Bremerhaven|engagement|https://sjr-bremerhaven.de/|Zusammenschluss der Jugendverbaende der Stadt mit Mitgliedschaft, Jugendverbandsbus und Bildungsangeboten.||website
+Bremerhaven|Bremerhavener Ruderverein von 1889|sport|https://www.rudern.de/service/vereine/bremerhavener-ruderverein-von-1889-ev|Ruderverein an der Weser, im Verbandsverzeichnis des Deutschen Ruderverbands gelistet.||website
+Bremerhaven|Kanu-Verein Unterweser e.V.|sport|https://www.bremerhaven.de/de/freizeit-kultur/sport/sportplaetze-anlagen/kanu-verein-unterweser-e-v.31861.html|Kanuverein mit Anlage in Bremerhaven, im Sportstaettenverzeichnis der Stadt gefuehrt.||website
+Bremerhaven|Kanu Club Bremerhaven e.V.|sport|https://4-paddlers.com/kanuverein/Kanu_Club_Bremerhaven_e_V-1000886.html|Kanuclub in Bremerhaven, im Kanuverzeichnis mit Kontaktdaten gelistet.||website
+Bremerhaven|Weser Yacht Club Bremerhaven|sport|https://www.facebook.com/WeserYachtClub/|Segelverein an der Weser, aktuelle Meldungen stehen auf der Facebook-Seite.||facebook
+Bremerhaven|AStA Bremerhaven Fachschaften|studium|https://www.astaonline.de/gremien/stugen|Studierendenvertretung der Hochschule Bremerhaven mit den Studiengangsvertretungen und Fachschaften.||website
+Bremerhaven|Sprach-Cafe der Stadtbibliothek Bremerhaven|sprachen|https://freundeskreis-stadtbibliothek-bremerhaven.de/2024/01/08/sprachcafe-andere-leute-treffen-und-deutsch-sprechen/|Offenes Treffen des Freundeskreises der Stadtbibliothek, um Leute kennenzulernen und Deutsch zu sprechen.||website
+Bremerhaven|Wohnprojekt Goethe43 Bremerhaven|leute|https://wohnprojekt-bremerhaven.de/wir-ueber-uns/|Gemeinschaftliches Wohnprojekt in Bremerhaven, die Seite stellt die Gruppe vor.||website
+Bremerhaven|Kleingaertnerverein Bremerhaven-Lehe e.V.|outdoor|https://kleingartenverein-bremerhaven-lehe.de/|Kleingartenverein in Lehe, Interessenten finden dort Infos zu freien Gaerten.||website
+Bremerhaven|Gemeinnuetziger Schrebergartenverein Bremerhaven e.V.|outdoor|https://unser-kgv-online.de/kleingarten-finder/bremerhaven/gemeinnuetziger-schrebergartenverein-bremerhaven-e-v/|Schrebergartenverein, im Kleingarten-Finder des Landesverbands gelistet.||website
+Bremerhaven|NABU Bremerhaven-Wesermuende e.V.|outdoor|https://nabu-bremerhaven.de/mitmachen.html|Naturschutzgruppe mit Mitmachangeboten fuer Interessierte.||website
+Bremerhaven|foodsharing Bremerhaven|essen|https://www.instagram.com/foodsharing.bremerhaven/|Gruppe, die Lebensmittel rettet und ueber Fairteiler weitergibt.||instagram

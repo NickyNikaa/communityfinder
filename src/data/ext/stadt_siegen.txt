@@ -1,0 +1,47 @@
+Siegen|VWI Hochschulgruppe Siegen|studium|https://vwi-siegen.de/|Studentische Vernetzung für technisch-wirtschaftliche Studiengänge mit Firmenbesuchen, Messen und Exkursionen.||website
+Siegen|Study & Consult e.V.|business|https://www.instagram.com/studyandconsultev/|Studentische Unternehmensberatung, in der Studierende reale Beratungsprojekte bearbeiten und Workshops besuchen.||instagram
+Siegen|ESN Siegen|studium|https://siegen.esn-germany.de/|Erasmus Student Network, das internationale Studierende betreut und Ausflüge, Partys und Events für alle organisiert.||website
+Siegen|KunstWertSchätzen|kunst|https://kultursiegen.de/termine-tickets/kunstwertschaetzen/|Studentische Initiative mit kostenlosen Kreativabenden aus Musik, Literatur, Tanz, Improtheater und offener Bühne.||website
+Siegen|Panoptikum Unikino|kunst|https://www.facebook.com/panoptikum.daskino/|Studentisches Kino mit Filmvorführungen zu kleinem Preis im Blauen Hörsaal.|Meist donnerstags abends|facebook
+Siegen|MUN Siegen|studium|https://www.mun-siegen.de/|Gruppe, die Sitzungen der Vereinten Nationen als Planspiel nachstellt und Debattieren übt.||website
+Siegen|Speeding Scientists Siegen|tech|https://www.s3racing.de/|Rennteam aus allen Fakultäten, das jedes Jahr einen Formel-Rennwagen baut und bei Wettbewerben antritt.||website
+Siegen|Radius 92.1|kunst|https://radius921.de/|Campusradio von Studierenden mit Hochschulthemen und Musik, bei dem man in der Redaktion mitmachen kann.||website
+Siegen|LiteraListen|kunst|http://literalisten.de/|Online-Studierendenzeitung der Universität Siegen mit Beiträgen zu Literatur und Uni-Leben.||website
+Siegen|Filmwerkstatt Uni Siegen|kunst|https://www.facebook.com/FiWe.Uni.Siegen|Austausch über Film, Hilfe bei eigenen Filmprojekten und Vernetzung von Filmbegeisterten.||facebook
+Siegen|CampusTV Siegen|kunst|https://www.instagram.com/campustv/|Studentisches Fernsehen mit Redaktion, Kamera, Schnitt und Moderation, auch ohne Vorkenntnisse.|Montags 18 Uhr (Redaktionssitzung)|instagram
+Siegen|eLab Siegen|tech|https://www.elab-siegen.de|Elektroniklabor zum Löten, Messen und Basteln mit eigenen Arbeitsplätzen.||website
+Siegen|Spieleinitiative USK57|spiele|https://linktr.ee/usk57siegen|Spieleabende, Vorträge zur Spielekultur und Events rund um Games.|Spieleabend alle zwei Wochen|sonstige
+Siegen|Muslimische Hochschulgruppe Siegen|studium|https://www.facebook.com/MHG.Siegen|Studentische Gruppe für muslimische Studierende mit gemeinsamen Aktivitäten und Austausch.||facebook
+Siegen|Katholische Hochschulgemeinde Siegen|studium|https://www.khg-siegen.de/Veranstaltungen/|Treffpunkt für Studierende mit Veranstaltungen und Gesprächen, offen auch für Nichtgläubige.||website
+Siegen|Evangelische Studierendengemeinde Siegen|studium|https://esg.kirchenkreis-siegen.de/|Gemeinde für Studierende mit Gesprächsrunden und Aktionen, offen für alle.||website
+Siegen|uniChor Siegen|musik|https://www.uni-siegen.de/en/unichoir|Chor mit überwiegend a cappella Werken von Barock bis heute, offen auch für Externe.|Mittwochs 18 Uhr|website
+Siegen|Sprachcafé und Tandem Uni Siegen|sprachen|https://www.uni-siegen.de/sprachenzentrum|Sprachcafé und Tandempartner zum gegenseitigen Sprachenlernen.||website
+Siegen|Bluebox Siegen|leute|http://www.bluebox-siegen.de/|Treff für junge Leute mit Aktionen wie Flohmärkten.||website
+Siegen|Angry Dice e.V.|spiele|https://angrydice.de/index.php?start=25|Verein für Poker, Skat, Würfel- und Brettspiele mit Turnieren, Liga und geselligen Abenden.|Turniere meist samstags 18 Uhr|website
+Siegen|MTB Siegerland e.V.|outdoor|https://mtbsiegerland.de/cms/|Mountainbike-Verein, der den Flowtrail Siegen betreibt und Bike Treffs, Stammtische und Kids on Bikes anbietet.|Stammtisch jeden 1. Donnerstag im Monat|website
+Siegen|SGV Bezirk Siegerland|outdoor|https://www.sgv-siegerland.de/|Wanderverein mit Abteilungen im Siegerland für Wandern, Radwandern und Nordic Walking.||website
+Siegen|SGV Abteilung Siegen|outdoor|https://www.siegen-sgv.de/|Ortsabteilung des Sauerländischen Gebirgsvereins mit Wanderungen rund um Siegen.||website
+Siegen|Paper Adventures Siegen|spiele|https://paperadventures.de/paper-adventures-siegen/|Rollenspielverein mit offenen Spieletreffs für Pen and Paper, Tabletop und Larp.||website
+Siegen|Siegerland BattleTech Stammtisch|spiele|https://www.tabletoptournaments.net/hu/club/Siegerland-Battletech-Stammtisch/tabletops|Stammtisch für BattleTech Tabletop Spieler im Siegerland.||sonstige
+Siegen|Colour Siegen|queer|https://www.queere-jugend-nrw.de/english/projekte/colour-siegen|Queerer Jugendtreff für junge Leute bis 27 mit Kochen, Filmabenden, Ausflügen und Beratung.|Freitags ab 20 Uhr|website
+Siegen|Puzzles Gemeinsam bunt|queer|https://www.queere-jugend-nrw.de/english/projekte/puzzles-gemeinsam-bunt|Offener Jugendtreff für queere Jugendliche von 14 bis 24 mit Kochen, Quatschen und Beratung.|Dienstags, mittwochs, freitags 16 bis 20 Uhr|website
+Siegen|SCHLAU Siegen|queer|https://siegen.schlau.nrw/konzept/|Ehrenamtliches Team, das Workshops zu sexueller und geschlechtlicher Vielfalt für Schulen und Jugendgruppen gibt.||website
+Siegen|andersROOM|queer|https://andersroom.de/|Queeres Zentrum in Siegen mit Jugendarbeit, Beratung und Treffs.||website
+Siegen|Schwule Initiative Siegen e.V.|queer|https://www.siwikultur.de/khb/10/1/1161.htm|Verein für schwule Männer in Siegen mit Treffen, Austausch und Veranstaltungen.||website
+Siegen|NABU Ortsgruppe Siegen|engagement|https://www.nabu-siwi.de/wir-im-nabu/ortsgruppe-siegen/|Naturschutzgruppe mit Vorträgen, Austausch und praktischem Naturschutz auf der Trupbacher Heide.|Jeden 4. Mittwoch im Monat, 19 Uhr|website
+Siegen|NABU Kindergruppe Siegen|familie|https://www.nabu-siwi.de/kindergruppe-siegen/|Naturgruppe für Kinder von 7 bis 12 mit Exkursionen und Spielen im Freien.||website
+Siegen|BUND Kreisgruppe Siegen-Wittgenstein|engagement|https://www.bund-siegen-wittgenstein.de/|Umwelt- und Naturschutzgruppe, bei der man sich für lokale Projekte engagieren kann.||website
+Siegen|Fotokreis Siegen e.V.|foto|https://fotokreis-siegen.de/|Verein für Hobbyfotografen mit Themenabenden, Wettbewerben und Ausstellungen, Gäste sind willkommen.|Freitags 20 Uhr|website
+Siegen|Foodsharing Siegen|engagement|https://www.lebensmittelteilen.de/blogposts/foodsharing-siegen|Gruppe, die Lebensmittel rettet, über Fairteiler verteilt und Kochabende veranstaltet.||website
+Siegen|Siegener Tafel e.V.|engagement|https://www.siegener-tafel.de/|Verein, der Lebensmittel an Bedürftige verteilt und Ehrenamtliche sucht.||website
+Siegen|Collegium Musicum Siegen e.V.|musik|https://www.collegium-musicum-siegen.de/|Philharmonisches Liebhaberorchester für musizierende Laien.||website
+Siegen|Bach-Orchester Siegen|musik|https://www.siwikultur.de/khb/2/3/2214.htm|Kammerorchester aus Siegen.||website
+Siegen|Siegener Blasorchester von 1926 e.V.|musik|https://www.siwikultur.de/khb/2/3/317.htm|Traditionsreiches Blasorchester für Instrumentalisten aus Siegen.||website
+Siegen|Siegener Gamelanorchester|musik|https://www.siwikultur.de/khb/2/3/812.htm|Ensemble, das auf indonesischen Gamelan-Instrumenten spielt.||website
+Siegen|Camerata Instrumentale Siegen|musik|https://www.siwikultur.de/khb/2/3/2550.htm|Kammerorchester und Kammermusikensemble, auch in sinfonischer Besetzung.||website
+Siegen|Siegener Salonorchester e.V.|musik|https://www.siwikultur.de/khb/2/3/8.htm|Salonorchester für unterhaltsame, klassische Salonmusik.||website
+Siegen|Theatergruppe TheatraPack Siegen|kunst|https://www.siwikultur.de/khb/4/2/2050.htm|Theatergruppe mit Theater und Comedy aus Siegen.||website
+Siegen|TSG Siegen 1846 e.V.|sport|https://tsg-siegen.de/|Turn- und Sportverein mit vielen Abteilungen, darunter Badminton.||website
+Siegen|TSV Siegen e.V.|sport|http://www.tsv-siegen.de/|Sportverein mit Mannschaften unter anderem im Tischtennis.||website
+Siegen|ASV Siegen|sport|https://www.asv-siegen.de/siegen-zwerge|Sportverein mit Angeboten auch für Kinder.||website
+Siegen|GW Siegen Tischtennis|sport|https://gw-siegen.de/tischtennis/|Tischtennisabteilung des Vereins GW Siegen.||website

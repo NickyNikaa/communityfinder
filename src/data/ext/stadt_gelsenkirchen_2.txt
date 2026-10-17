@@ -1,0 +1,35 @@
+Gelsenkirchen|Gelsenkirchener Tafel e.V.|engagement|http://www.tafel-ge.de/startseite/|Verein, der überschüssige Lebensmittel an Menschen mit wenig Geld weitergibt und dafür Helfende sucht.||website
+Gelsenkirchen|Tierschutzverein für Gelsenkirchen und Umgebung e.V. 1880|tiere|http://tierheim-gelsenkirchen.de/|Betreibt das Tierheim und eine Jugendtierschutzgruppe; Mitmachen läuft über Nachfrage beim Tierheim.||website
+Gelsenkirchen|Deutscher Kinderschutzbund Ortsverband Gelsenkirchen|engagement|http://www.kinderschutzbund-gelsenkirchen.de/|Ortsverband, der sich für Kinderrechte einsetzt und Ehrenamtliche in seine Projekte einbindet.||website
+Gelsenkirchen|Bauverein Falkenjugend / SJD Die Falken Gelsenkirchen|engagement|http://www.falken-gelsenkirchen.de/bauverein|Trägt offene Jugendhäuser mit Spielen, Kicker und Ferienprogramm; die Falkengruppen treffen sich in diesen Häusern.||website
+Gelsenkirchen|Elisabeth Käsemann FamilienNetzwerk e.V.|familie|https://www.elisabeth-kaesemann-familiennetzwerk.de/|Familiennetzwerk mit Angeboten für Eltern und Kinder im Stadtteil.||website
+Gelsenkirchen|THW Ortsverband Gelsenkirchen|engagement|http://ov-gelsenkirchen.thw.de/|Ortsverband des Technischen Hilfswerks mit ehrenamtlichem Einsatzdienst und eigener Jugendgruppe.||website
+Gelsenkirchen|Mentor Die Leselernhelfer Gelsenkirchen e.V.|engagement|http://www.mentor-gelsenkirchen.de/|Ehrenamtliche begleiten Kinder und Jugendliche beim Lesen und Sprechen; Einstieg über einen Einführungsworkshop.|Workshop zum Einstieg nach Anmeldung, Geschäftsstelle Schalker Straße|website
+Gelsenkirchen|KulturPott.Ruhr e.V.|engagement|http://kulturpott.ruhr/|Ehrenamtlicher Verein, der Menschen mit kleinem Einkommen kostenlose Kulturtickets im Ruhrgebiet vermittelt.||website
+Gelsenkirchen|Schalker Fan-Club Verband e.V.|leute|http://www.sfcv.de/startseite.html|Dachverband der Schalke-Fanclubs mit Bezirksversammlungen, Fahrten und Hilfe bei Clubgründungen.||website
+Gelsenkirchen|Jugendring Gelsenkirchen e.V.|engagement|https://www.jugendring-gelsenkirchen.de/|Zusammenschluss von rund 28 Jugendverbänden der Stadt, guter Einstieg in die Jugendarbeit vor Ort.||website
+Gelsenkirchen|Ehrenamtsagentur Gelsenkirchen e.V.|engagement|https://ehrenamt.gelsenkirchen.de/|Vermittelt Freiwillige in Engagement-Angebote und berät zu Ehrenamt, Projekten und Förderung.||website
+Gelsenkirchen|Musikverein Gelsenkirchen|musik|https://www.musikverein-gelsenkirchen.de/|Chor, der Neue zum Probesingen willkommen heißt und auf ein Adventskonzert hinarbeitet.||website
+Gelsenkirchen|Gospelchor St. Barbara|musik|https://www.urbanusmusik.de/choere/gospelchor_sb|Gospelchor der Pfarrei in Buer-Erle, offen für alle Singbegeisterten.|Dienstags 20 Uhr|website
+Gelsenkirchen|Fotoclub Gelsenkirchen|foto|http://www.fotoclub-gelsenkirchen.de/|Vereinigung von Hobbyfotografen aus der Stadt, die Bilder zeigt und bespricht.||website
+Gelsenkirchen|GEspielt|spiele|https://www.gespielt.org/|Offene Brettspielgruppe für alle Altersgruppen mit Spieleabenden und Commander-Partys.|Spieleabend freitags 17 Uhr, Ahstraße 12|website
+Gelsenkirchen|SGV Gelsenkirchen|outdoor|https://sgv-gelsenkirchen.de/stammtisch|Ortsgruppe des Sauerländischen Gebirgsvereins mit Wanderprogramm und Radtouren.|Jeden 3. Donnerstag im Monat, 17 Uhr, AWO Begegnungszentrum Grenzstraße|website
+Gelsenkirchen|Schwuler Stammtisch Gelsenkirchen|queer|https://www.selbsthilfenetz.de/suchen-und-finden/selbsthilfegruppe-finden/details/41905-schwuler-stammtisch-gelsenkirchen|Seit 2007 bestehender Stammtisch für Männer mit gemeinsamem Essen, Spielen, Filmabenden und Gesprächen.|Jeden 1. Samstag im Monat, 19:30 Uhr, Zentrum Together|sonstige
+Gelsenkirchen|LGBTQIA+ Hochschulgruppe Westfälische Hochschule|queer|https://instagram.com/lgbtqia.wh?igshid=YmMyMTA2M2Y=|Von Studierenden gegründete Gruppe für queere Studierende der Westfälischen Hochschule.||instagram
+Gelsenkirchen|AStA Westfälische Hochschule|studium|https://www.asta-wh.de/|Studierendenvertretung mit Beratung, Hochschulgruppen und Angeboten wie Fitnesskeller und Wohnungsbörse.||website
+Gelsenkirchen|DPSG Bezirk Gelsenkirchen|outdoor|https://dpsg-gelsenkirchen.de/|Bezirk der katholischen Pfadfinder mit 13 Stämmen in den Stadtteilen.||website
+Gelsenkirchen|DPSG Stamm Rochus Spiecker|outdoor|https://www.scoutnet.de/gruppen/pfadfindergruppe-suchen/422|Pfadfinderstamm im Stadtteil Haverkamp mit Gruppenstunden und Fahrten.||sonstige
+Gelsenkirchen|DPSG Stamm Albino Luciani|outdoor|https://www.scoutnet.de/gruppen/pfadfindergruppe-suchen/2456|Pfadfinderstamm im Stadtteil Horst mit Gruppenstunden und Lagern.||sonstige
+Gelsenkirchen|DPSG Stamm Elisabeth von Thüringen|outdoor|https://www.scoutnet.de/gruppen/pfadfindergruppe-suchen/2149|Pfadfinderstamm im Stadtteil Heßler mit Gruppenstunden und Fahrten.||sonstige
+Gelsenkirchen|DPSG Stamm Don Bosco Buer|outdoor|http://donbosco-buer.de/|Pfadfinderstamm in Buer mit eigener Website, Gruppenstunden und Freizeiten.||website
+Gelsenkirchen|Blinden- und Sehbehindertenverein Westfalen Regionalverein Gelsenkirchen|leute|https://www.bsvw.org/gelsenkirchen/|Regionalverein für blinde und sehbehinderte Menschen mit Treffen und Austausch.||website
+Gelsenkirchen|ADFC Gelsenkirchen|mobil|https://gelsenkirchen.adfc.de/|Radfahrverband vor Ort mit öffentlichen Radtouren, Stadtradeln-Team und Aktionen für bessere Radwege.||website
+Gelsenkirchen|NABU Gelsenkirchen|outdoor|https://nabu-gelsenkirchen.de/|Naturschutzgruppe seit 2004, die Lebensräume auf Halden und Brachen schützt und offene Treffen mit Vorträgen veranstaltet.|Donnerstags 19 Uhr, Alfred-Zingler-Haus|website
+Gelsenkirchen|SV Horst-Emscher 31 Schach|spiele|https://www.schachverein-horst-emscher-31.de/|Schachverein mit Vereinsheim, Zuschauer und neue Spieler sind willkommen.|Dienstags und freitags 16:30 Uhr, Haus Nolte|website
+Gelsenkirchen|Schachabteilung Königsspringer|spiele|http://koenigsspringer.de/|Schachabteilung in Hassel mit Training und Mannschaftsspielbetrieb.||website
+Gelsenkirchen|Schachfreunde Buer 21/74|spiele|http://schachfreunde-buer.de/|Schachverein in Buer mit eigener Website und Spielbetrieb.||website
+Gelsenkirchen|Gelsenkirchener Kanu-Club e.V.|sport|https://www.gelsenkanu.de/|Kanuverein mit Training, Touren, Kanupolo und Drachenboot; einmal im Jahr Tag der offenen Tür mit Probetraining.||website
+Gelsenkirchen|Gelsenkirchener Narrenzunft e.V.|leute|https://narrenzunft-ge.de/|Karnevalsverein, der Mitglieder aufnimmt und Veranstaltungen in der Stadt organisiert.||website
+Gelsenkirchen|KG Piccolo 1951 e.V. Gelsenkirchen|leute|https://www.kgpiccolo-gelsenkirchen.de/|Traditionsreiche Karnevalsgesellschaft mit Sitzungen und geselligen Anlässen.||website
+Gelsenkirchen|KG Erler Funken 1930 e.V.|leute|https://erler-funken.de/|Karnevalsgesellschaft aus Erle mit Garde, Sitzungen und Feiern.||website
+Gelsenkirchen|Gelsenkirchener Schloss-Narren e.V.|leute|https://www.schloss-narren.de/|Karnevalsverein, der Sitzungen und Umzüge organisiert.||website
