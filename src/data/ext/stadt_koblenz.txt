@@ -1,0 +1,62 @@
+Koblenz|Rock Chor Koblenz|musik|https://rockchorkoblenz.de/|Gemeinsames Singen von Rock und Pop von den Achtzigern bis heute, offen für Sängerinnen und Sänger jeden Alters.|Mittwochs 19 bis 21 Uhr (1., 3. und 5. Mittwoch im Monat)|website
+Koblenz|Junger Chor Koblenz|musik|https://www.jungerchorkoblenz.de/|Mehrstimmiger A-cappella-Chor für Jugendliche und junge Erwachsene mit Rock und Pop, sucht aktuell neue Stimmen.|Mittwochs 18:30 Uhr, nicht in den Schulferien|website
+Koblenz|Bach Chor Koblenz|musik|https://bach-chor-koblenz.de/|Konzertchor mit Schwerpunkt auf geistlicher Chormusik, neue erfahrene Sängerinnen und Sänger können erst mitproben und dann vorsingen.|Montags 19:10 Uhr|website
+Koblenz|Gospelchor Come 'n' Bless|musik|https://koblenz-mitte.ekir.de/inhalt/gospelchor-koblenz-mitte/|Etwa 50 Singende pflegen Spirituals und Gospels und gestalten Gottesdienste und Konzerte in der Christuskirche mit.|Mittwochs 19:30 Uhr, nicht in den Schulferien|website
+Koblenz|KammerChor Koblenz|musik|https://www.koblenz.de/strukturierte-daten/stadtkultur/kammerchor-koblenz/|Kleiner Chor der Stadt mit anspruchsvollem Konzertprogramm, Eintrag im Kulturverzeichnis der Stadt.||website
+Koblenz|Collegium Vocale Koblenz|musik|https://www.koblenz.de/strukturierte-daten/stadtkultur/collegium-vocale/|Vokalensemble aus Koblenz, im städtischen Kulturverzeichnis mit Kontaktdaten aufgeführt.||website
+Koblenz|Kinder- und Jugendchor Die Kolibris|musik|https://www.die-kolibris.de/|Chor für Kinder und Jugendliche, der gemeinsam singt und regelmäßig auftritt.||website
+Koblenz|Konzertorchester Koblenz|musik|https://www.koblenz.de/strukturierte-daten/stadtkultur/konzertorchester-koblenz/|Laienorchester der Postkapelle, das Konzertliteratur für Blasorchester spielt.||website
+Koblenz|MGV 1865 Kesselheim|musik|https://www.koblenz.de/strukturierte-daten/vereine/mgv-1865-kesselheim/|Traditioneller Männergesangverein im Stadtteil Kesselheim.||website
+Koblenz|Foto-Club Koblenz|foto|https://foto-club-koblenz.com/|Fotoclub mit Clubabenden, Monatsthemen, Wettbewerben und Ausstellungen, zum Beispiel zur Museumsnacht.||website
+Koblenz|Fototreff Koblenz im Post-SV|foto|https://www.post-sv-koblenz.de/fototreff-koblenz/|Fotogruppe, die Bilder bespricht, Tipps zur Aufnahme und Bearbeitung austauscht und gemeinsam fotografieren geht.|Mittwochs Clubabend im Vereinsheim Oberwerth|website
+Koblenz|Seepfadfinder Koblenz|outdoor|https://www.seepfadfinder-koblenz.de/|Pfadfinderstamm der DPSG am Gülser Bootshafen mit Zeltlagern, Wanderungen und Jugendarbeit in Altersstufen.||website
+Koblenz|Schwule Jugend Koblenz|queer|https://www.schwulejugend.de/sjk/|Freitagstreff für junge schwule und bi Männer bis etwa 27 Jahre zum Kennenlernen und Quatschen.|Fast jeden Freitag ab 19:30 Uhr, Rizzastraße 14|website
+Koblenz|Regenbogenfamilien Treffen queer-mittelrhein|queer|https://queer-mittelrhein.de/regenbogenfamilien|Treffen für queere Familien und Eltern zum Austausch mit Kindern in der Region Mittelrhein.||website
+Koblenz|queer-mittelrhein Selbsthilfegruppe TIX|queer|https://www.queer-mittelrhein.de|Selbsthilfegruppe für inter und trans Personen in der Aidshilfe Koblenz.|Jeden 1. Mittwoch im Monat, 19 Uhr|website
+Koblenz|Schwul-lesbische Treffen in und um Koblenz|queer|https://www.facebook.com/groups/554680226810594|Queerer Stammtisch, über eine Facebook-Gruppe organisiert.|Alle zwei Wochen mittwochs|facebook
+Koblenz|Koblenzer Narrenbunt 2007|queer|http://www.narrenbunt.de|Karnevalsverein für Schwule, Lesben und Freunde.||website
+Koblenz|NABU Koblenz und Umgebung|outdoor|https://www.nabu-koblenz-umgebung.de/|Naturschutzgruppe mit Müllsammeln, Igelschutz, Nistkästen, Exkursionen, Stammtisch und Jugendgruppe NAJU.|Stammtisch mehrmals im Jahr, abends|website
+Koblenz|BUND Kreisgruppe Koblenz|engagement|https://koblenz.bund-rlp.de/|Umweltverband mit offener Kreisgruppe und einer Ornithologie-Fachgruppe, die Ausflüge anbietet.||website
+Koblenz|foodsharing Koblenz|engagement|https://foodsharing.de/region/koblenz|Gruppe, die überschüssige Lebensmittel rettet und kostenlos weitergibt.||website
+Koblenz|Klimabündnis Koblenz|engagement|https://xn--klimabndnis-koblenz-bbc.de/Aktionen/|Zusammenschluss von über 27 Gruppen mit Klimatagen, Demos, Vorträgen und Waldexkursionen.||website
+Koblenz|Soziales Netzwerk Koblenz (SNK)|leute|https://s-n-k.org/|Begegnungsort mit Café Oase, Sprachstammtisch, Flüchtlingshilfe und Musik, viel getragen von Freiwilligen.|Café Oase samstags 13 bis 15 Uhr, Sprachstammtisch montags 18:15 Uhr|website
+Koblenz|Eifelverein Koblenz|outdoor|https://www.koblenz.de/strukturierte-daten/vereine/eifelverein-koblenz-e-v/|Ortsgruppe des Wandervereins, die gemeinsame Wanderungen unternimmt.||website
+Koblenz|Koblenzer Gästeführer|leute|https://www.koblenz.de/strukturierte-daten/vereine/koblenzer-gaestefuehrer-e-v/|Verein ehrenamtlich und beruflich aktiver Stadtführerinnen und Stadtführer.||website
+Koblenz|Heimatfreunde Horchheim|leute|https://www.koblenz.de/strukturierte-daten/vereine/heimatfreunde-horchheim-e-v/|Heimatverein im Stadtteil Horchheim, der Geschichte und Brauchtum pflegt.||website
+Koblenz|Indian Association Koblenz|leute|https://www.koblenz.de/strukturierte-daten/vereine/indian-association-koblenz-e-v/|Verein für Menschen mit Bezug zu Indien, mit Kulturfesten und Austausch.||website
+Koblenz|KKV Koblenz|leute|https://www.koblenz.de/strukturierte-daten/vereine/kkv-koblenz-e-v/|Katholischer Verband für Kaufleute und Führungskräfte mit Vorträgen und geselligen Treffen.||website
+Koblenz|TSC Rheinfeuer Koblenz|tanz|https://www.koblenz.de/strukturierte-daten/vereine/tsc-rheinfeuer-koblenz-e-v/|Tanzsportclub in Koblenz.||website
+Koblenz|Redoute Tanz- und Gesellschaftsclub|tanz|http://www.tgc-redoute.de|Tanzsportverein mit Gesellschaftstanz.||website
+Koblenz|Katholischer Leseverein Koblenz|leute|https://akk-koblenz.de/verein/katholischer-leseverein-koblenz-e-v/|Traditionsverein, der im Koblenzer Karneval mitwirkt.||website
+Koblenz|Alt-Herren-Corps 1936|leute|https://akk-koblenz.de/verein/alt-herren-corps-1936-e-v/|Karnevalsverein im Dachverband der Koblenzer Karnevalsvereine.||website
+Koblenz|Große Koblenzer Karnevalsgesellschaft 1847|leute|https://akk-koblenz.de/verein/grosse-koblenzer-karnevalsgesellschaft-gegr-1847-e-v/|Eine der ältesten Koblenzer Karnevalsgesellschaften.||website
+Koblenz|Gülser Husaren|leute|https://akk-koblenz.de/verein/guelser-husaren-e-v/|Karnevalsverein im Stadtteil Güls.||website
+Koblenz|Horchheimer Carneval Verein 1952|leute|https://akk-koblenz.de/verein/horchheimer-carneval-verein-gegr-1952-e-v/|Karnevalsverein im Stadtteil Horchheim.||website
+Koblenz|Koblenzer Carnevals-Club KCC|leute|https://akk-koblenz.de/verein/koblenzer-carnevals-club-e-v/|Karnevalsclub mit Sitzungen und Umzugsbeteiligung.||website
+Koblenz|KG Rheinfreunde 1845 Neuendorf|leute|https://akk-koblenz.de/verein/kg-rheinfreunde-1845-e-v-koblenz-neuendorf/|Karnevalsgesellschaft im Stadtteil Neuendorf.||website
+Koblenz|Lützeler Carnevals Verein 1974|leute|https://akk-koblenz.de/verein/luetzeler-carnevals-verein-1974-e-v/|Karnevalsverein im Stadtteil Lützel.||website
+Koblenz|Möhnenclub Gülser Seemöwen|frauen|https://akk-koblenz.de/verein/moehnenclub-guelser-seemoewen-e-v/|Karnevalistischer Frauenclub in Güls.||website
+Koblenz|Narrenzunft Grün Gelb Karthause 1950|leute|https://akk-koblenz.de/verein/narrenzunft-gruen-gelb-karthause-1950-e-v/|Karnevalszunft auf der Karthause.||website
+Koblenz|Cheerleaders Goldgrube|tanz|https://akk-koblenz.de/verein/cheerleaders-goldgrube-e-v/|Cheerleading-Gruppe, die bei Karnevalsveranstaltungen auftritt.||website
+Koblenz|Schachverein 03/25 Koblenz|spiele|http://www.svkoblenz.de/|Schachverein der Stadt.||website
+Koblenz|Modellfluggruppe Koblenz|spiele|http://www.mfg-koblenz.de|Verein für Modellflug.||website
+Koblenz|Aero-Club Koblenz|outdoor|http://www.aeroclub-koblenz.de|Luftsportverein in Koblenz.||website
+Koblenz|Koblenzer Ruderclub Rhenania|sport|http://www.krc-rhenania.de|Ruderverein auf Rhein und Mosel.||website
+Koblenz|Segelkameradschaft Koblenz|sport|https://www.skk-ev.de|Segelverein in Koblenz.||website
+Koblenz|Yacht-Club Rhein-Mosel Koblenz|sport|http://www.ycrm.de|Segelverein am Zusammenfluss von Rhein und Mosel.||website
+Koblenz|TTC Olympia Koblenz|sport|http://www.ttc-olympia.de|Tischtennisverein.||website
+Koblenz|Schängel-Squash-Club Koblenz|sport|http://www.schaengel-squash.de|Squashverein.||website
+Koblenz|SRL Triathlon Koblenz|sport|http://www.srl-triathlon-koblenz.de|Triathlonverein mit Schwimmen, Radfahren und Laufen.||website
+Koblenz|Tauchsportclub Koblenz|sport|http://www.tauchsportclub-koblenz.de|Tauchverein.||website
+Koblenz|Wasser-Ski-Club Koblenz|sport|http://www.wasserskiclub-koblenz.de|Wasserskiverein.||website
+Koblenz|Bowling Sport Verein Koblenz|sport|http://www.bsvkoblenz.net|Bowlingverein.||website
+Koblenz|Meddy's Lauf und Walking-Treff Koblenz|sport|https://www.meddys-lwt.de|Lauf- und Walkingtreff als Verein.||website
+Koblenz|Gülser-Mosel-Skater|sport|http://www.mosel-skater.de|Skaterverein in Güls.||website
+Koblenz|Rollstuhlsportgemeinschaft Koblenz|sport|http://www.rsg-koblenz.de|Sportgemeinschaft für Rollstuhlsport.||website
+Koblenz|Koblenzer Schwimmverein 03|sport|http://ksv03.home.ktk.de|Schwimmverein.||website
+Koblenz|BBC Horchheim|sport|http://bbc-horchheim.de|Verein für Basketball und Laufen in Horchheim.||website
+Koblenz|Kneipp-Verein Koblenz|wellbeing|http://www.kneipp-verein-koblenz.de|Verein für Gesundheitsangebote nach Kneipp.||website
+Koblenz|Freizeitsportgemeinschaft Bisholder|sport|http://www.fzg-bisholder.de|Freizeitsport im Stadtteil Bisholder.||website
+Koblenz|Familien-Sportgemeinschaft Koblenz-Bad Ems|sport|http://www.fsg-koblenz-badems.de|Sportgemeinschaft für Familien.||website
+Koblenz|Karate Dojo Koblenz-Lahnstein|sport|http://www.karate-dojo-koblenz-lahnstein.de|Karateverein.||website
+Koblenz|TC Oberwerth Koblenz|sport|http://www.tc-oberwerth.de|Tennisverein.||website

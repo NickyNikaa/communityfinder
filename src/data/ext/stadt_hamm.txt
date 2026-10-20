@@ -1,0 +1,56 @@
+Hamm|Queertopia Hamm e.V.|queer|https://queertopiahamm.wordpress.com/|Verein für schwule, lesbische, trans Menschen und Regenbogenfamilien in Hamm mit offenem Stammtisch zum Kennenlernen und einer Party im Kulturrevier Radbod.|Stammtisch regelmäßig, Party alle drei Monate|website
+Hamm|Konzertchor des Musikverein Hamm|musik|https://www.musikverein-stadt-hamm.de/mitmachen-beim-chor/|Gemischter Konzertchor mit rund 60 Aktiven, der zweimal im Jahr große Werke mit Orchester und Solisten aufführt und neue Sängerinnen und Sänger aufnimmt.||website
+Hamm|Collegium musicum Musikverein Hamm|musik|https://www.musikverein-stadt-hamm.de/orchester/|Instrumentales Ensemble des Musikvereins, das Barock bis Moderne spielt und im Sommer Konzerte im Kurpark gibt.||website
+Hamm|Blasmusik Hamm|musik|https://www.blasmusik-hamm.de/orchester|Sinfonisches Blasorchester mit rund 50 Mitgliedern, 2010 gegründet und als Verein organisiert.||website
+Hamm|Kantorei Kirchenmusik Hamm|musik|https://www.kirchenmusik-hamm.de/ensembles/kantorei|Kirchenchor der Kirchenmusik Hamm, der geistliche Chormusik probt und aufführt.||website
+Hamm|Mach's Maul auf|musik|https://www.machs-maul-auf.com/|Chor aus Hamm, der sich über seine Website vorstellt und Interessierten Kontakt anbietet.||website
+Hamm|Jazzchor Out of Tune|musik|https://www.out-of-tune.de/|Jazzchor aus Hamm, der moderne Chorarrangements einstudiert und auftritt.||website
+Hamm|Popkantorat Kirchenkreis Hamm|musik|https://www.kirchenkreis-hamm.de/arbeitsbereiche/popkantorat|Pop und Gospel Chorarbeit des Kirchenkreises mit Projekten zum Mitsingen.||website
+Hamm|Fotogruppe Hamm Herringen|foto|http://www.fotogruppe-hamm-herringen.de/|Gruppe von Hobbyfotografen aus Herringen, die sich austauschen und gemeinsam Bilder zeigen.||website
+Hamm|Offener Spieletreff Stadtteilzentrum Hamm Westen|spiele|https://brettspielfreunde.net/venues/stadtteilzentrum-hamm-westen-offener-spieletreff|Offener Brettspieltreff im Stadtteilzentrum Hamm Westen, getragen vom Katholischen Sozialdienst.||website
+Hamm|Mehrgenerationenhaus Hamm der Outlaw gGmbH|familie|https://www.outlaw-ggmbh.de/standort/hamm|Mehrgenerationenhaus als Treffpunkt für Jung und Alt mit offenen Angeboten im Stadtteil.||website
+Hamm|Stadtteilzentrum Hamm Westen|leute|https://www.hamm-westen.de/stadtteilzentrum|Nachbarschaftlicher Treffpunkt im Hammer Westen mit Angeboten für Menschen aus dem Viertel.||website
+Hamm|Stadtteilzentrum und Mehrgenerationenhaus Hammer Mitte|leute|https://www.hammer-mitte.de/stadtteilzentrum-und-mgh|Stadtteilzentrum mit Mehrgenerationenhaus in Hamm Mitte, offen für Nachbarschaft, Familien und Ehrenamt.||website
+Hamm|NABU Hamm|outdoor|https://www.nabu-hamm.de/|Naturschutzgruppe mit Exkursionen, Veranstaltungen und Mitmachaktionen rund um Natur in und um Hamm.||website
+Hamm|ADFC Kreisverband Hamm|mobil|https://hamm.adfc.de/|Fahrradclub mit gemeinsamen Touren und Einsatz für bessere Radwege in Hamm.||website
+Hamm|Rotaract Club Hamm|engagement|https://hamm.rotaract.de/|Club junger Erwachsener, der Freundschaft pflegt und soziale Projekte vor Ort organisiert.||website
+Hamm|Bürgergemeinschaft Weetfelder Landschaft|engagement|https://www.bgweetfeld.de/|Bürgerinitiative, die sich für den Erhalt der Weetfelder Landschaft einsetzt.||website
+Hamm|Bürgerinitiative StoppT A445|engagement|https://stoppt-a445.de/|Initiative gegen den geplanten Autobahnbau A445 mit Informationen und Aktionen.||website
+Hamm|Energiestammtisch Hamm|tech|https://klimabuendnis-hamm.de/akteure/energiestammtisch-hamm/|Gesprächsrunde zu Energiewende und erneuerbaren Energien in Hamm, Teil des Klimabündnisses.||website
+Hamm|FUgE Forum für Umwelt und gerechte Entwicklung|engagement|https://fuge-hamm.org/|Verein für Umwelt, Eine Welt und Nachhaltigkeit, der Veranstaltungen und Gruppen wie Foodsharing unterstützt.||website
+Hamm|Imkerverein Hamm|tiere|https://imkerverein-hamm.de/|Verein für Imkerinnen und Imker in Hamm zum Austausch rund um Bienenhaltung.||website
+Hamm|NaturFreunde Hamm Werries|outdoor|https://www.naturfreunde.de/ortsgruppe/ortsgruppe-hamm-werries|Ortsgruppe der NaturFreunde mit Natur, Wander und Gemeinschaftsangeboten.||website
+Hamm|VCD Ortsgruppe Hamm|mobil|https://nrw.vcd.org/der-vcd-in-nrw/hamm/page|Ortsgruppe des Verkehrsclubs für umweltfreundliche Mobilität in Hamm.||website
+Hamm|Foodsharing Hamm|engagement|https://beta.foodsharing.de/region/hamm-beckum.westfalen|Region der Foodsharing Initiative, die gerettete Lebensmittel verteilt und neue Helfende sucht.||website
+Hamm|Tauschring Hamm|leute|https://www.tauschring-hamm.eu/|Tauschring, in dem Mitglieder Dienste und Fähigkeiten ohne Geld untereinander tauschen.||website
+Hamm|Tierschutzverein Hamm und Umgebung|tiere|https://www.tierheim-hamm.eu/tierschutzverein/mitglied-werden/|Verein hinter dem Tierheim Hamm, bei dem man als Mitglied oder Helfer mitmachen kann.||website
+Hamm|Tiertafel Hamm|tiere|https://www.tiertafelhammev.de/|Ehrenamtlicher Verein, der Halter mit wenig Geld mit Futter und Hilfe für ihre Tiere unterstützt.||website
+Hamm|AStA Hochschule Hamm Lippstadt|studium|https://asta.hshl.de/?lang=en|Studierendenvertretung der Hochschule mit Veranstaltungen und Beratung für Studierende.||website
+Hamm|Theater Suppentopf e.V.|kunst|https://www.theater-suppentopf.de/|Inklusive Theatergruppe in Hamm, in der Menschen mit und ohne Behinderung zusammen spielen.||website
+Hamm|Schachvereinigung Hamm|spiele|http://www.schachvereinigung-hamm.de/Retrospektive/vereinslokale.php|Schachverein aus dem Zusammenschluss von SV Hamm 1911 und SV Werries 1927 mit Spielabenden.||website
+Hamm|Schachgemeinschaft Caissa Hamm 1981|spiele|http://www.caissahamm.de|Schachverein in Hamm für Spielerinnen und Spieler verschiedener Stärke.||website
+Hamm|Schachverein Königsspringer Hamm|spiele|https://schach.in/schachverein-koenigsspringer.hamm/|Schachverein in Hamm mit Vereinsseite im Schachportal.||website
+Hamm|Pfadfinder Stamm Hamm Süden|leute|https://www.scoutnet.de/gruppen/pfadfindergruppe-suchen/97|Pfadfindergruppe im Süden von Hamm, gelistet im Scoutnet.||website
+Hamm|DPSG Stamm Hamm Berge|leute|https://www.facebook.com/dpsghammberge/|Pfadfinderstamm der DPSG im Hammer Stadtteil Berge mit Gruppenstunden und Freizeiten.||facebook
+Hamm|Internationaler Club Hamm|leute|https://www.hammwiki.info/wiki/Internationaler_Club_Hamm|Club für Begegnung von Menschen verschiedener Herkunft in Hamm.||website
+Hamm|English Circle Hamm|sprachen|https://www.hammwiki.info/wiki/English_Circle_Hamm|Gesprächskreis zum Englischsprechen in Hamm.||website
+Hamm|Jazzclub Hamm e.V.|musik|https://www.hammwiki.info/wiki/Jazzclub_Hamm_e.V.|Verein für Jazzfans, der Konzerte in Hamm organisiert.||website
+Hamm|Hammer Geschichtsverein e.V.|lernen|https://www.hammwiki.info/wiki/Hammer_Geschichtsverein_e.V.|Verein für Interessierte an der Stadtgeschichte von Hamm.||website
+Hamm|Deutscher Amateur Radio Club Hamm|tech|https://www.hammwiki.info/wiki/Deutscher_Amateur_Radio-Club_e.V.|Ortsverband für Funkamateure in Hamm.||website
+Hamm|Modellflugclub Immelmann e.V.|outdoor|https://www.hammwiki.info/wiki/Modellflugclub_Immelmann_e.V.|Club für Modellflug als gemeinsames Hobby.||website
+Hamm|Kulturwerkstatt Oberonstraße e.V.|kunst|https://www.hammwiki.info/wiki/Kulturwerkstatt_Oberonstra%C3%9Fe_e.V.|Kulturverein mit Werkstatt für kreative Angebote im Stadtteil.||website
+Hamm|Frauenchor 1985 Hamm e.V.|musik|https://www.hammwiki.info/wiki/Frauenchor_1985_Hamm_e.V.|Chor für Frauen in Hamm.||website
+Hamm|DLRG Ortsgruppe Hamm|engagement|https://og-hamm.dlrg.de/|Ehrenamtliche Wasserrettung und Schwimmausbildung in Hamm.||website
+Hamm|Tanzsportgemeinschaft Hamm|tanz|http://www.tanzen-hamm.de|Tanzsportverein in Hamm für Paartanz.||website
+Hamm|Walking Club Hamm|outdoor|http://www.walkingclub-hamm.de|Verein für gemeinsames Walking und Bewegung an der frischen Luft.||website
+Hamm|Ruderclub Hamm von 1890|sport|http://www.ruderclubhamm.de|Traditionsreicher Ruderverein in Hamm.||website
+Hamm|Kanu Ring Hamm|sport|http://www.kr-hamm.de|Kanuverein in Hamm.||website
+Hamm|Kanu Verein Werries 1936|sport|https://www.kanuverein-werries.de/|Kanuverein im Stadtteil Werries.||website
+Hamm|Yacht Club Hamm|sport|http://www.yachtclub-hamm.de|Segelverein in Hamm.||website
+Hamm|TRI AS Hamm|sport|http://www.tri-as-hamm.de|Triathlonverein in Hamm.||website
+Hamm|Radclub Amor Hamm 1998|sport|http://www.rc-amor-hamm.de|Radsportverein in Hamm.||website
+Hamm|Badminton Club Herringen 1971|sport|http://www.bcherringen.de|Badmintonverein im Stadtteil Herringen.||website
+Hamm|Tischtennisclub Pelkum|sport|http://www.ttc-pelkum.de|Tischtennisverein in Pelkum.||website
+Hamm|Tischtennisclub Grün Weiß Bad Hamm 1957|sport|http://www.ttcgwbadhamm.de|Tischtennisverein in Bad Hamm.||website
+Hamm|Bogen Sport Verein Hamm|sport|http://www.bsv-hamm.net|Verein für Bogenschießen in Hamm.||website
+Hamm|Deutscher Unterwasser Club Hamm|outdoor|http://www.duc-hamm.de|Tauchverein in Hamm.||website

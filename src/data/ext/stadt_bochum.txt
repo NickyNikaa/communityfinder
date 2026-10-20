@@ -1,0 +1,65 @@
+Bochum|Vereint Bochum e.V.|leute|https://www.engagiert-in-nrw.de/anerkennung/engagementpreis-nrw/vereint-bochum-e-v-aus-einsamkeit-wird-gemeinschaft|Ehrenamtlicher Verein gegen Einsamkeit mit gemeinsamen Spaziergängen, Fotorunden und Gesprächskreisen quer durch die Stadt.|Spaziergänge und Gesprächsrunden im Wechsel alle zwei Wochen|website
+Bochum|AIESEC Bochum|studium|https://www.aiesec.de/bochum/|Studentische Gruppe für internationale Praktika und Freiwilligenprojekte im Ausland.||website
+Bochum|Akademischer Börsenverein Bochum e.V.|studium|http://abbev.org/|Gemeinnütziger Verein von Studierenden der RUB und umliegender Hochschulen.||website
+Bochum|Amnesty International Bochum|engagement|https://www.wiki.amnesty-bochum.de/|Lokale Gruppe der Menschenrechtsorganisation mit Aktionen und Treffen vor Ort.||website
+Bochum|Bochum Toastmasters|business|https://www.bochum-toastmasters.de/|Club zum Üben von Rede und Präsentation in lockerer Runde mit gegenseitigem Feedback.||website
+Bochum|Bonding Bochum|studium|https://bochum.bonding.de/|Studentische Initiative, die Kontakte zwischen Studierenden und Unternehmen knüpft.||website
+Bochum|CT das Radio|musik|https://www.radioct.de/|Campusradio in Bochum, bei dem man als Redakteurin oder Moderator mitmachen kann.||website
+Bochum|Erasmus Student Network Bochum|studium|https://www.bochum.esn-germany.de/|Lokale ESN-Gruppe, die internationale Studierende betreut und Ausflüge und Partys organisiert.||website
+Bochum|Ehrenamtsagentur Bochum|engagement|https://www.ehrenamt-bochum.de|Vermittelt Interessierte an Freiwilligenprojekte in der ganzen Stadt.||website
+Bochum|IAESTE Bochum|studium|https://www.iaeste-bochum.de/|Lokalkomitee für den Austausch von Fachpraktika im Ausland.||website
+Bochum|Ingenieure ohne Grenzen Regionalgruppe Bochum|engagement|https://www.ingenieure-ohne-grenzen.org/de/mitmachen/regionalgruppe-bochum|Regionalgruppe, die technische Hilfsprojekte für Gemeinden im Ausland begleitet.||website
+Bochum|Leo-Club Bochum-Ruhr|engagement|https://www.leo-clubs.de/clubs/bochum-ruhr/start/|Jugendclub des Lions-Netzwerks, der Spendenaktionen und gemeinsame Freizeit verbindet.||website
+Bochum|Medizinische Flüchtlingshilfe Bochum e.V.|engagement|https://www.mfh-bochum.de/|Verein zur medizinischen Versorgung von Geflüchteten, offen für Engagierte.||website
+Bochum|Nightline Bochum|studium|https://www.nightline-bochum.de|Anonymes Zuhörtelefon von Studierenden für Studierende.||website
+Bochum|Refugee Law Clinic Bochum|engagement|https://rlc-bochum.de|Studierende beraten Geflüchtete unter Anleitung rechtlich.||website
+Bochum|ROCK YOUR LIFE! Bochum e.V.|engagement|https://bochum.rockyourlife.de/|Studierende begleiten Jugendliche als Mentorinnen und Mentoren beim Übergang in Beruf und Ausbildung.||website
+Bochum|RUB Motorsport|tech|https://www.rubmotorsport.de|Studierendenteam, das einen eigenen Rennwagen für die Formula Student baut.||website
+Bochum|Schachclub an der RUB 1969 e.V.|spiele|https://www.unischach.de/|Schachclub rund um die Ruhr-Universität für Anfänger und Fortgeschrittene.||website
+Bochum|SIRUB Segelsport|sport|https://www.sirub.com/|Segelgruppe der Ruhr-Universität für Studierende und Hochschulangehörige.||website
+Bochum|Studienkreis Film|kunst|https://www.skf-kino.de/|Studentisches Kino, das Filme zeigt und das Programm selbst zusammenstellt.||website
+Bochum|Studigarten|outdoor|https://rub-studigarten.jimdosite.com|Gemeinschaftsgarten von Studierenden auf dem Campus.||website
+Bochum|TAFEL Bochum und Wattenscheid e.V.|engagement|https://www.tafel-bochum-wattenscheid.de/|Verteilt gerettete Lebensmittel an Bedürftige, Helfende sind gesucht.||website
+Bochum|The Radio.cc|musik|https://www.theradio.cc/bewirb-dich/|Offenes Webradio, bei dem man eigene Sendungen machen kann.||website
+Bochum|Treibgut Literaturinitiative|kunst|https://treibgutliteratur.wordpress.com|Literaturinitiative von Studierenden mit Lesungen und eigenen Texten.||website
+Bochum|You-Manity Bochum e.V.|engagement|https://www.bochum.you-manity.org/|Lokale Jugendgruppe für ehrenamtliche Projekte und soziale Aktionen.||website
+Bochum|ENACTUS Bochum|studium|https://enactus-bochum.de|Studierende entwickeln soziale Unternehmensprojekte.||website
+Bochum|LGBTIQ* Queer an der RUB|queer|https://studium.ruhr-uni-bochum.de/de/lgbtiq-queer-der-rub-fuer-alle-rub-angehoerigen|Austauschgruppe für queere Angehörige der Ruhr-Universität.||website
+Bochum|ADFC Bochum|mobil|https://bochum.adfc.de/adfc-bochum|Fahrradclub mit Radtouren und Einsatz für bessere Radwege.||website
+Bochum|VCD Bochum|mobil|https://nrw.vcd.org/der-vcd-in-nrw/bochum-gelsenkirchen-herne/kontakt/page|Verkehrsclub für nachhaltige Mobilität in Bochum, Gelsenkirchen und Herne.||website
+Bochum|NABU Bochum|outdoor|https://www.nabu-bochum.de/|Naturschutzgruppe mit Pflegeeinsätzen, Exkursionen und Vogelkunde.||website
+Bochum|BUND Bochum|engagement|https://www.bund-bochum.de/|Ortsgruppe des Umweltverbands mit Aktionen für Natur und Klima.||website
+Bochum|Arbeitskreis Umweltschutz Bochum AKU|engagement|https://www.aku-bochum.de/|Umweltschutzverein mit Projekten in der Stadt.||website
+Bochum|Bochumer Botanischer Verein|outdoor|https://www.botanik-bochum.de/|Verein für Pflanzenkunde mit Exkursionen und Vorträgen.||website
+Bochum|Extinction Rebellion Bochum|engagement|https://extinctionrebellion.de/og/bochum/|Ortsgruppe der Klimaprotestbewegung mit offenen Treffen.||website
+Bochum|Scientists for Future Bochum|engagement|https://s4f-bo.de/|Zusammenschluss von Forschenden, die Klimaschutz fachlich unterstützen.||website
+Bochum|Radwende Bochum|mobil|https://www.radwende-bochum.de/|Bündnis mehrerer Verbände und Initiativen für mehr Radverkehr in der Stadt.||website
+Bochum|Solidarische Landwirtschaft Bochum|essen|https://solawi-bochum.de/|Gemeinschaft, die gemeinsam einen Hof trägt und Gemüse bezieht.||website
+Bochum|EssBO Ernährungsrat Bochum|essen|https://ernaehrungsrat-bochum.de/|Netzwerk für regionale und nachhaltige Ernährung mit der Essbaren Stadt.||website
+Bochum|Leihladen Bochum|engagement|https://www.leihladen-bochum.de/|Verleih von Werkzeug, Spielen und Haushaltsgeräten statt Kaufen, getragen von Engagierten.||website
+Bochum|Foodsharing Bochum|essen|https://www.facebook.com/foodsharingbo|Gruppe, die übrige Lebensmittel rettet und kostenlos weitergibt.||facebook
+Bochum|Alsengarten|outdoor|http://alsenstrasse.com/der-alsengarten/|Gemeinschaftsgarten an der Alsenstraße zum gemeinsamen Gärtnern.||website
+Bochum|Naturfreunde Langendreer|outdoor|http://www.naturfreunde-langendreer.de|Ortsgruppe mit Wanderungen und einem Gartenprojekt im Volksgarten.||website
+Bochum|SGV Hordel-Bochum|outdoor|https://sgv-hordel-bochum.de/|Wanderverein im Sauerländischen Gebirgsverein mit Touren im Ruhrgebiet.||website
+Bochum|QueerMarsch Wandergruppe Bochum|queer|https://queermarsch.lernzuflucht.de/wandergruppe-bochum/|Queere Wandergruppe in Bochum.||website
+Bochum|Rosa Strippe e.V. Café freiRAUM|queer|https://schwulissimo.de/region/nordrhein-westfalen/rosa-strippe-ev-cafe-freiraum|Offenes Café der queeren Beratungsstelle als Treffpunkt für Austausch und Kontakte.||website
+Bochum|Senlima Offener Treff|queer|https://schwulissimo.de/region/nordrhein-westfalen/bochum-senlima-offener-treff|Offener Treff für schwule und bisexuelle Männer in Bochum.||website
+Bochum|Rotaract Club Bochum|leute|https://bochum.rotaract.de/ueber-uns/|Service Club für junge Erwachsene mit sozialen Projekten und Geselligkeit.||website
+Bochum|Philharmonischer Chor Bochum|musik|https://www.bochumer-symphoniker.de/bochumer-symphoniker/philharmonischer-chor-bochum|Großer Konzertchor, der gemeinsam mit den Symphonikern auftritt.||website
+Bochum|Chor en route e.V.|musik|https://chor-en-route.de/|Chor mit eigenem Verein für gemeinsames Singen.||website
+Bochum|Chorken|musik|https://www.chorken.de/|Chor für junge Erwachsene in Bochum.||website
+Bochum|Polizeichor Bochum e.V.|musik|https://www.polizeichor-bochum.de/|Traditionsreicher Männerchor mit regelmäßigen Auftritten.||website
+Bochum|Sinfonisches Blasorchester der RUB|musik|https://www.ruhr-uni-bochum.de/sbrbochum/|Blasorchester der Ruhr-Universität für Studierende und Interessierte.||website
+Bochum|Projekt.Orchester Bochum|musik|https://projektorchesterbochum.de/|Orchester, das in wechselnden Projekten Konzerte erarbeitet.||website
+Bochum|Bochumer Schachverein 02|spiele|https://bochumersv02.de/|Schachverein mit Mannschafts- und Freizeitspiel.||website
+Bochum|SV Linden Dahlhausen 1922|spiele|https://svlinden.de/|Schachclub im Stadtteil Linden und Dahlhausen.||website
+Bochum|Spielekreis Dice and Mystics|spiele|https://www.stengelbertbochum.de/gruppen-verbaende/spielekreis-dice-mystics-1|Spieletreff der Gemeinde St. Engelbert in Dahlhausen für Brett und Rollenspiele.||website
+Bochum|DPSG Stamm Geschwister Scholl Hiltrop|outdoor|https://www.dpsg-hiltrop.de/pfadfinder/|Pfadfinderstamm mit Gruppenstunden für Kinder und Jugendliche.||website
+Bochum|DPSG Altenbochum|outdoor|https://dpsg-altenbochum.de/|Pfadfinderstamm im Stadtteil Altenbochum.||website
+Bochum|DPSG Bochum-Harpen|outdoor|https://dpsg-bochum-harpen.de/unser-stamm/|Pfadfinderstamm in Harpen mit Altersstufen von klein bis groß.||website
+Bochum|Hobby-Abteilung Badminton VfL Bochum|sport|http://vflbochum-badminton.de/hobby/|Hobbygruppe zum freien Badmintonspielen ohne Ligadruck.||website
+Bochum|Badminton Hobbymannschaft Turngemeinde Bochum 1884|sport|https://www.turngemeinde-bochum.de/sportangebote-a-z/badminton/badminton-hobbymannschaft/|Hobbyrunde für Badminton in der Turngemeinde.||website
+Bochum|Hobby Mixed Volleyball Bojutsu|sport|https://www.bojutsu.de/volleyball|Gemischte Hobby Volleyballgruppe.||website
+Bochum|Sprachcafé Alsenwohnzimmer IFAK|sprachen|https://ifak-bochum.de/sprachcafe/|Offenes Sprachcafé zum Deutschüben bei Kaffee.|Montags 18 Uhr, Alsenstraße 27|website
+Bochum|Kindercafé Mama Mia Kinderschutzbund|familie|https://kinderschutzbund-bochum.de/angebote/kindercafe-mama-mia/|Café zum Austausch für Eltern, während die Kinder spielen.||website
+Bochum|Fotoclub Bochum Hamme Aktiv|foto|https://www.facebook.com/AktivFotografie/|Fotogruppe im Stadtteil Hamme.||facebook
