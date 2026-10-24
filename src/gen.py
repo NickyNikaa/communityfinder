@@ -95,6 +95,7 @@ def layout(key,path,title,desc,body,extra_head='',noindex=False,jsonld=None):
 <script src="/assets/config.js"></script>
 <script src="/assets/app.js" defer></script>
 <script src="/assets/deco.js" defer></script>
+<script src="/assets/events.js" defer></script>
 <script src="/assets/consent.js" defer></script>
 </body>
 </html>
