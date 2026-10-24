@@ -17,6 +17,10 @@ function ics(e){var d=pd(e.d),ds,de;
  function q(s){return String(s).replace(/([,;\\])/g,"\\$1").replace(/\n/g,"\\n");}
  return ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//FindeDeineLeute.de//DE","BEGIN:VEVENT","UID:"+e.c+"-"+e.d+"-"+e.t+"@findedeineleute.de","DTSTAMP:"+ymd(new Date())+"T000000Z",ds,de,"SUMMARY:"+q(e.cn+": "+e.n),"DESCRIPTION:"+q((e.x?e.x+". ":"")+"Bitte vorab bei der Community prüfen. "+e.l),"LOCATION:"+q(e.city+(e.o?", "+e.o:"")),"URL:"+e.l,"END:VEVENT","END:VCALENDAR"].join("\r\n");}
 function dl(e){var b=new Blob([ics(e)],{type:"text/calendar;charset=utf-8"}),u=URL.createObjectURL(b),a=document.createElement("a");a.href=u;a.download=(e.cn+"_"+e.d).replace(/[^\w\-]+/g,"_")+".ics";document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(u);a.remove();},500);}
+function gcal(e){var d=pd(e.d),dt;
+ if(e.t){var h=+e.t.slice(0,2),m=e.t.slice(3);dt=ymd(d)+"T"+p2(h)+m+"00/"+ymd(d)+"T"+p2((h+1)%24)+m+"00";}
+ else{var n=new Date(d.getFullYear(),d.getMonth(),d.getDate()+1);dt=ymd(d)+"/"+ymd(n);}
+ return "https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent(e.cn+": "+e.n)+"&dates="+dt+"&ctz=Europe/Berlin&details="+encodeURIComponent((e.x?e.x+". ":"")+"Bitte vorab bei der Community prüfen. "+e.l)+"&location="+encodeURIComponent(e.city+(e.o?", "+e.o:""));}
 function dayLabel(d,today){var diff=Math.round((d-today)/864e5);return {t:DOW[d.getDay()]+", "+d.getDate()+". "+MON[d.getMonth()],today:diff===0,tom:diff===1};}
 function listHtml(list,today,showCity,store){
  if(!list.length)return '<p class="note">Aktuell sind hier keine anstehenden Events eingetragen.</p>';
@@ -25,7 +29,7 @@ function listHtml(list,today,showCity,store){
  return days.map(function(g){var lb=dayLabel(pd(g.d),today);
   return '<div class="cal-day"><h3 style="font-size:1.05rem;margin:18px 0 8px">'+lb.t+(lb.today?' <span class="today">Heute</span>':lb.tom?' <span class="today">Morgen</span>':'')+'</h3>'+
   g.l.map(function(e){store.push(e);var i=store.length-1;
-   return '<div class="cal-item"><time>'+esc(e.t)+'</time><div><div class="nm">'+esc(e.n)+'<span class="evtag'+(e.k==="run"?' run':'')+'">'+(e.k==="run"?'Regelmäßiger Run':'Event')+'</span></div><div class="sb">'+esc(e.cn)+(showCity?' · '+esc(e.city):'')+(e.o?' · '+esc(e.o):'')+(e.x?' · '+esc(e.x):'')+'</div></div><div class="cal-actions"><a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="'+esc(e.l)+'">Zur Community</a><button type="button" class="btn ghost sm" data-evics="'+i+'">In Kalender</button></div></div>';}).join('')+'</div>';}).join('');
+   return '<div class="cal-item"><time>'+esc(e.t)+'</time><div><div class="nm">'+esc(e.n)+'<span class="evtag'+(e.k==="run"?' run':'')+'">'+(e.k==="run"?'Regelmäßiger Run':'Event')+'</span></div><div class="sb">'+esc(e.cn)+(showCity?' · '+esc(e.city):'')+(e.o?' · '+esc(e.o):'')+(e.x?' · '+esc(e.x):'')+'</div></div><div class="cal-actions"><a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="'+esc(e.l)+'">Zur Community</a><button type="button" class="btn ghost sm" data-evg="'+i+'">Google Kalender</button><button type="button" class="btn ghost sm" data-evics="'+i+'">Apple/Outlook</button></div></div>';}).join('')+'</div>';}).join('');
 }
 function top(all,today,slug){
  var cnt={},meta={},lim=new Date(today.getFullYear(),today.getMonth(),today.getDate()-30);
@@ -55,7 +59,7 @@ ready(function(){
   if(cb){cb.parentNode.insertBefore(box,cb);var sel=document.getElementById("calCity");if(sel)sel.addEventListener("change",render);}
   else{var a=wb||sec;a.parentNode.insertBefore(box,a);}
   render();
-  document.addEventListener("click",function(ev){var b=ev.target.closest("[data-evics]");if(!b)return;var e=store[+b.getAttribute("data-evics")];if(e)dl(e);});
+  document.addEventListener("click",function(ev){var g=ev.target.closest("[data-evg]");if(g){var ge=store[+g.getAttribute("data-evg")];if(ge)window.open(gcal(ge),"_blank","noopener");return;}var b=ev.target.closest("[data-evics]");if(!b)return;var e=store[+b.getAttribute("data-evics")];if(e)dl(e);});
  }).catch(function(){});
 });
 })();
