@@ -617,3 +617,5 @@ nav.main .btn{margin-left:0}
 .consent .btn.ghost{background:#fff;color:var(--ink);border-color:var(--line)}
 .consent details.consent-set{border:0;background:none;padding:0;box-shadow:none;border-radius:0}
 .consent details.consent-set summary{padding:0}
+.chip.topic{background:linear-gradient(90deg,rgba(214,51,108,.12),rgba(143,211,244,.35));border-color:rgba(167,124,240,.45);font-weight:600}
+.chip.topic[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
