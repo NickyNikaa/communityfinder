@@ -253,7 +253,7 @@
    "ok": "2026-10-24"
   },
   "http://tsv-hallendorf.de/Startseite": {
-   "fails": 2
+   "fails": 3
   },
   "http://ultimate-nuernberg.de": {
    "fails": 0,
@@ -2502,12 +2502,12 @@
   },
   "https://discord.com/invite/deutsch-lernen-729327061814083634": {
    "fails": 0,
-   "members": 32853,
+   "members": 32856,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/deutsch-lernen-und-debatten-773685835462606868": {
    "fails": 0,
-   "members": 20796,
+   "members": 20798,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/esportscologne": {
@@ -2517,7 +2517,7 @@
   },
   "https://discord.com/invite/gP3mFH3": {
    "fails": 0,
-   "members": 1757,
+   "members": 1758,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/gaming-deutschland-867915973150253066": {
@@ -2527,12 +2527,12 @@
   },
   "https://discord.com/invite/german": {
    "fails": 0,
-   "members": 247070,
+   "members": 247074,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/germangamingspace": {
    "fails": 0,
-   "members": 9316,
+   "members": 9315,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/hellocoding-de-530141674463035402": {
@@ -2572,7 +2572,7 @@
   },
   "https://discord.com/invite/studying-in-germany-1223306372284813352": {
    "fails": 0,
-   "members": 5106,
+   "members": 5108,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/u2t2UXV": {
@@ -4266,7 +4266,7 @@
    "ok": "2026-10-24"
   },
   "https://rptu.de/veranstaltungen-gruppen-und-ags/theatergruppe": {
-   "fails": 2
+   "fails": 3
   },
   "https://rsv-adler1914.de/category/gesundheitssport-kurse/badminton-tischtennis/": {
    "fails": 0,
@@ -6650,7 +6650,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.hc-salzgitter.de": {},
+  "https://www.hc-salzgitter.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.hei-muenchen.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -10416,10 +10419,10 @@
    "ok": "2026-10-24"
   },
   "https://www.uni-kl.de/ESG/": {
-   "fails": 2
+   "fails": 3
   },
   "https://www.uni-kl.de/isak/": {
-   "fails": 2
+   "fails": 3
   },
   "https://www.uni-kl.de/orchester/": {
    "fails": 0,
@@ -10689,9 +10692,9 @@
   }
  },
  "stats": {
-  "dead": 59,
-  "ok": 2390,
+  "dead": 4,
+  "ok": 2393,
   "skip": 347,
-  "unknown": 387
+  "unknown": 380
  }
 }
