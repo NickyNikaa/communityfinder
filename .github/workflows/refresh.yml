@@ -27,7 +27,7 @@ jobs:
         run: |
           python src/build.py
           OUT=$GITHUB_WORKSPACE/dist python src/gen.py
-          rsync -a --delete --exclude '.git' --exclude 'src' --exclude '.github' --exclude 'dist' --exclude 'refresh-report.txt' dist/ ./
+          rsync -a --delete --exclude 'google*.html' --exclude '.git' --exclude 'src' --exclude '.github' --exclude 'dist' --exclude 'refresh-report.txt' dist/ ./
           rm -rf dist
       - name: Änderungen speichern
         run: |
