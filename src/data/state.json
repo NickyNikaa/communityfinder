@@ -183,7 +183,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://pcfmuelheim.ruhr/": {},
+  "http://pcfmuelheim.ruhr/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://rcsturmvogelmh.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -2452,17 +2455,17 @@
   },
   "https://discord.com/invite/SYVQuAdAmW": {
    "fails": 0,
-   "members": 1925,
+   "members": 1924,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/TFjTcXq": {
    "fails": 0,
-   "members": 1998,
+   "members": 1997,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/UwA2eSZVB4": {
    "fails": 0,
-   "members": 1297,
+   "members": 1296,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/VAZzMHdGZm": {
@@ -2497,12 +2500,12 @@
   },
   "https://discord.com/invite/baltic-esports-kiel-505341874995855365": {
    "fails": 0,
-   "members": 1476,
+   "members": 1475,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/deutsch-lernen-729327061814083634": {
    "fails": 0,
-   "members": 32856,
+   "members": 32859,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/deutsch-lernen-und-debatten-773685835462606868": {
@@ -2512,7 +2515,7 @@
   },
   "https://discord.com/invite/esportscologne": {
    "fails": 0,
-   "members": 558,
+   "members": 557,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/gP3mFH3": {
@@ -2522,17 +2525,17 @@
   },
   "https://discord.com/invite/gaming-deutschland-867915973150253066": {
    "fails": 0,
-   "members": 6021,
+   "members": 6023,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/german": {
    "fails": 0,
-   "members": 247074,
+   "members": 247080,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/germangamingspace": {
    "fails": 0,
-   "members": 9315,
+   "members": 9317,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/hellocoding-de-530141674463035402": {
@@ -2542,7 +2545,7 @@
   },
   "https://discord.com/invite/kit-sc-esports-257127995410612224": {
    "fails": 0,
-   "members": 2084,
+   "members": 2083,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/p6DKQPQSah": {
@@ -2562,7 +2565,7 @@
   },
   "https://discord.com/invite/st": {
    "fails": 0,
-   "members": 5079,
+   "members": 5080,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/studium-1108394658809249845": {
@@ -2572,7 +2575,7 @@
   },
   "https://discord.com/invite/studying-in-germany-1223306372284813352": {
    "fails": 0,
-   "members": 5108,
+   "members": 5107,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/u2t2UXV": {
@@ -2865,12 +2868,12 @@
   },
   "https://discord.gg/dd5c": {
    "fails": 0,
-   "members": 14114,
+   "members": 14115,
    "ok": "2026-10-24"
   },
   "https://discord.gg/esug-384481186346696705": {
    "fails": 0,
-   "members": 1871,
+   "members": 1872,
    "ok": "2026-10-24"
   },
   "https://discord.me/deinkikompass": {},
@@ -5115,7 +5118,7 @@
   },
   "https://t.me/fffberlin": {
    "fails": 0,
-   "members": 2635,
+   "members": 2636,
    "ok": "2026-10-24"
   },
   "https://t.me/jobinberlin": {
@@ -6128,7 +6131,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.drk-hasenwinkel.de": {},
+  "https://www.drk-hasenwinkel.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.drk-krefeld.de/angebote/engagement/jugendrotkreuz.html": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -9505,7 +9511,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.spielefreunde-muenchen.de/": {},
+  "https://www.spielefreunde-muenchen.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.spielwerkstatt.org/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -10692,9 +10701,9 @@
   }
  },
  "stats": {
-  "dead": 4,
-  "ok": 2393,
+  "dead": 0,
+  "ok": 2376,
   "skip": 347,
-  "unknown": 380
+  "unknown": 397
  }
 }

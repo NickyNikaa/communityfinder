@@ -1,7 +1,2 @@
-Links: 3124
-{'ok': 2393, 'dead': 4, 'unknown': 380, 'skip': 347}
-Nicht mehr erreichbar (Fehler in Folge):
-  3 http://tsv-hallendorf.de/Startseite
-  3 https://rptu.de/veranstaltungen-gruppen-und-ags/theatergruppe
-  3 https://www.uni-kl.de/ESG/
-  3 https://www.uni-kl.de/isak/
+Links: 3120
+{'ok': 2376, 'dead': 0, 'unknown': 397, 'skip': 347}
