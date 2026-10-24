@@ -5,7 +5,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://abbev.org/": {},
+  "http://abbev.org/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://abenteuer-aufwind.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -76,7 +79,7 @@
    "ok": "2026-10-24"
   },
   "http://gemeinsinnschafftgarten.de/die-gaerten": {
-   "fails": 2
+   "fails": 3
   },
   "http://gospelchor-reutlingen.de/?page_id=568": {
    "fails": 0,
@@ -231,7 +234,7 @@
    "ok": "2026-10-24"
   },
   "http://tbs-herne.de/cms": {
-   "fails": 1
+   "fails": 2
   },
   "http://tc-fdg-herne.de": {
    "fails": 0,
@@ -250,7 +253,7 @@
    "ok": "2026-10-24"
   },
   "http://tsv-hallendorf.de/Startseite": {
-   "fails": 1
+   "fails": 2
   },
   "http://ultimate-nuernberg.de": {
    "fails": 0,
@@ -289,7 +292,7 @@
    "ok": "2026-10-24"
   },
   "http://www.agsbbottrop.de/jugendcaf/jugendcaf.html": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.aig-waldsee.de": {},
   "http://www.aikido-in-fuerth.de/": {},
@@ -365,8 +368,14 @@
    "ok": "2026-10-24"
   },
   "http://www.bottrop.de/soziales/zuwanderung/atlas/einrichtungen/1413.php": {},
-  "http://www.bottroper-sportbund.de/": {},
-  "http://www.bottroper-sportbund.de/sportjugend/": {},
+  "http://www.bottroper-sportbund.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
+  "http://www.bottroper-sportbund.de/sportjugend/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://www.boule-reutlingen.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -380,7 +389,7 @@
    "ok": "2026-10-24"
   },
   "http://www.boxclubheros-salzgitter.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.bpw-bremen.de": {
    "fails": 0,
@@ -482,7 +491,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://www.cityscouts.org/scoutpress/": {},
+  "http://www.cityscouts.org/scoutpress/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://www.clublatino.de/salsa-veranstaltungen-muenchen/salsa-portal-muenchen-startseite/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -638,7 +650,7 @@
   "http://www.fencing-muelheim.de/": {},
   "http://www.fev-fuerth.de/": {},
   "http://www.ffcbergischgladbach.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.fibev.de": {
    "fails": 0,
@@ -646,7 +658,7 @@
   },
   "http://www.fighting-rheinisch.de": {},
   "http://www.flacke.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.fmsc-reutlingen.de": {
    "fails": 0,
@@ -700,7 +712,7 @@
    "ok": "2026-10-24"
   },
   "http://www.fussball-muelheim.de/schiris.html": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.fzg-bisholder.de": {},
   "http://www.gangpferdefreunde-wiehbachtal.de": {
@@ -708,7 +720,7 @@
    "ok": "2026-10-24"
   },
   "http://www.gartenbauverein.com": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.gea-muc.de/": {
    "fails": 0,
@@ -725,7 +737,7 @@
   },
   "http://www.geschichtsverein-fuerth.de/": {},
   "http://www.gesfa.de/index.php/de/": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.gojukan.de": {
    "fails": 0,
@@ -814,7 +826,7 @@
    "ok": "2026-10-24"
   },
   "http://www.kanu-gilde.de/": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.kanuclub-fuerth.de/": {
    "fails": 0,
@@ -1115,7 +1127,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://www.neusser-scheibenschuetzen.de": {},
+  "http://www.neusser-scheibenschuetzen.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://www.neusser-sv.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -1133,7 +1148,7 @@
    "ok": "2026-10-24"
   },
   "http://www.neussrebels.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.nmsc.de": {
    "fails": 0,
@@ -1182,7 +1197,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://www.paddlergilde-kl.de/": {},
+  "http://www.paddlergilde-kl.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://www.pclll.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -1216,7 +1234,7 @@
    "ok": "2026-10-24"
   },
   "http://www.rc-amor-hamm.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.rc-titan-leverkusen.de": {
    "fails": 0,
@@ -1290,7 +1308,7 @@
    "ok": "2026-10-24"
   },
   "http://www.rv-mkh.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.salzgitter-lebenstedt.dlrg.de": {},
   "http://www.salzgitter-thiede.dlrg.de": {},
@@ -1333,7 +1351,7 @@
    "ok": "2026-10-24"
   },
   "http://www.schachvereinigung-hamm.de/Retrospektive/vereinslokale.php": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.schachvereinigung-salzgitter.de": {
    "fails": 0,
@@ -1410,7 +1428,7 @@
    "ok": "2026-10-24"
   },
   "http://www.skc-moers.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.skiclub-bergischgladbach.de": {
    "fails": 0,
@@ -1511,7 +1529,7 @@
    "ok": "2026-10-24"
   },
   "http://www.svschwafheim.de": {
-   "fails": 1
+   "fails": 2
   },
   "http://www.svwanne11.de": {
    "fails": 0,
@@ -1612,7 +1630,7 @@
   },
   "http://www.tkv-bg.de": {},
   "http://www.toytowngermany.com/munich": {
-   "fails": 2
+   "fails": 3
   },
   "http://www.trachtenverein-stadeln.de/": {},
   "http://www.treffhaste.de/": {
@@ -1820,7 +1838,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "http://www.wasserwacht-neuss.de": {},
+  "http://www.wasserwacht-neuss.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "http://www.wildcats-cheerleader.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -1867,7 +1888,7 @@
    "ok": "2026-10-24"
   },
   "https://ai.hamburg/de/en": {
-   "fails": 1
+   "fails": 2
   },
   "https://aiesec.de/": {
    "fails": 0,
@@ -1878,10 +1899,10 @@
    "ok": "2026-10-24"
   },
   "https://aiesec.de/heidelberg": {
-   "fails": 2
+   "fails": 3
   },
   "https://aiesec.de/jena/": {
-   "fails": 1
+   "fails": 2
   },
   "https://akk-koblenz.de/verein/alt-herren-corps-1936-e-v/": {
    "fails": 0,
@@ -2030,7 +2051,7 @@
    "ok": "2026-10-24"
   },
   "https://bochum.adfc.de/adfc-bochum": {
-   "fails": 1
+   "fails": 2
   },
   "https://bochum.bonding.de/": {
    "fails": 0,
@@ -2341,7 +2362,7 @@
    "ok": "2026-10-24"
   },
   "https://cp-dreieich.de/unsere-staemme/wildcats-offenbach/": {
-   "fails": 1
+   "fails": 2
   },
   "https://criticalmass.de/": {
    "fails": 0,
@@ -2443,7 +2464,7 @@
   },
   "https://discord.com/invite/VAZzMHdGZm": {
    "fails": 0,
-   "members": 726,
+   "members": 727,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/WG3sw5HNH6": {
@@ -2453,7 +2474,7 @@
   },
   "https://discord.com/invite/YWMYKjBJkX": {
    "fails": 0,
-   "members": 369,
+   "members": 370,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/aktien": {
@@ -2463,12 +2484,12 @@
   },
   "https://discord.com/invite/animegamingcafe": {
    "fails": 0,
-   "members": 23416,
+   "members": 23420,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/azgeda": {
    "fails": 0,
-   "members": 4274,
+   "members": 4273,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/baltic-esports-kiel-505341874995855365": {
@@ -2478,7 +2499,7 @@
   },
   "https://discord.com/invite/deutsch-lernen-729327061814083634": {
    "fails": 0,
-   "members": 32849,
+   "members": 32852,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/deutsch-lernen-und-debatten-773685835462606868": {
@@ -2498,17 +2519,17 @@
   },
   "https://discord.com/invite/gaming-deutschland-867915973150253066": {
    "fails": 0,
-   "members": 6018,
+   "members": 6020,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/german": {
    "fails": 0,
-   "members": 247050,
+   "members": 247066,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/germangamingspace": {
    "fails": 0,
-   "members": 9310,
+   "members": 9315,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/hellocoding-de-530141674463035402": {
@@ -2518,7 +2539,7 @@
   },
   "https://discord.com/invite/kit-sc-esports-257127995410612224": {
    "fails": 0,
-   "members": 2083,
+   "members": 2084,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/p6DKQPQSah": {
@@ -2533,12 +2554,12 @@
   },
   "https://discord.com/invite/sachsen": {
    "fails": 0,
-   "members": 1748,
+   "members": 1750,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/st": {
    "fails": 0,
-   "members": 5083,
+   "members": 5079,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/studium-1108394658809249845": {
@@ -2548,12 +2569,12 @@
   },
   "https://discord.com/invite/studying-in-germany-1223306372284813352": {
    "fails": 0,
-   "members": 5104,
+   "members": 5106,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/u2t2UXV": {
    "fails": 0,
-   "members": 2620,
+   "members": 2622,
    "ok": "2026-10-24"
   },
   "https://discord.com/invite/uWZfTnXgUP": {
@@ -2841,7 +2862,7 @@
   },
   "https://discord.gg/dd5c": {
    "fails": 0,
-   "members": 14109,
+   "members": 14114,
    "ok": "2026-10-24"
   },
   "https://discord.gg/esug-384481186346696705": {
@@ -2909,7 +2930,7 @@
    "ok": "2026-10-24"
   },
   "https://duisburg.deutschland-summt.de/die-initiative-duisburg.html": {
-   "fails": 1
+   "fails": 2
   },
   "https://duisburg.gay-web.info/gruppen/cafe-regenbogen": {
    "fails": 0,
@@ -3199,7 +3220,7 @@
    "ok": "2026-10-24"
   },
   "https://fzof.de/Veranstaltung/repair-cafe-reparaturtreff-im-w58/": {
-   "fails": 2
+   "fails": 3
   },
   "https://fzof.de/veranstaltungen/": {
    "fails": 0,
@@ -3218,7 +3239,7 @@
    "ok": "2026-10-24"
   },
   "https://gdg.community.dev/gdg-on-campus-technical-university-berlin-berlin-germany": {
-   "fails": 2
+   "fails": 3
   },
   "https://gelsenkirchen.adfc.de/": {
    "fails": 0,
@@ -3238,7 +3259,7 @@
    "ok": "2026-10-24"
   },
   "https://ggtactics.wordpress.com/": {
-   "fails": 1
+   "fails": 2
   },
   "https://gl.dlrg.de": {
    "fails": 0,
@@ -3288,7 +3309,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://gw-siegen.de/tischtennis/": {},
+  "https://gw-siegen.de/tischtennis/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://hagen.dlrg.de/mitmachen/jugend/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -3362,7 +3386,7 @@
    "ok": "2026-10-24"
   },
   "https://hausderjugend-os.de/kurse_gruppen/friends-of-dorothy-34/": {
-   "fails": 1
+   "fails": 2
   },
   "https://heidelberg.ai/": {
    "fails": 0,
@@ -3415,7 +3439,7 @@
   },
   "https://infinity-mannheim.de/": {
    "fails": 0,
-   "ok": "2026-10-15"
+   "ok": "2026-10-24"
   },
   "https://initiative.mi.hs-heilbronn.de/": {},
   "https://instagram.com/lgbtqia.wh?igshid=YmMyMTA2M2Y=": {},
@@ -3464,7 +3488,7 @@
    "ok": "2026-10-24"
   },
   "https://karota.de/spieletreff/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kassel.ccc.de": {
    "fails": 0,
@@ -3484,37 +3508,37 @@
   },
   "https://kernscheid.de/": {},
   "https://kew-halle.de/ak-oekologie-und-nachhaltigkeit-2/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/arbeiterkind/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/echo-halle-saale/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/feministisches-buendnis-8-maerz-halle-2/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/fio-halle/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/garten-fuer-alle-oekologisch-gemeinschaftlich/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/gesundheitskollektiv-halle-e-v/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/halle-postkolonial/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/nachhalltig-2/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/rosa-rolling-safespace-e-v-2/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kew-halle.de/sissi/": {
-   "fails": 1
+   "fails": 2
   },
   "https://kgv-rheydt-guedderath.de/wordpress/": {
    "fails": 0,
@@ -3597,7 +3621,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://kvgartenfreunde-mg.de/": {},
+  "https://kvgartenfreunde-mg.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://lauterjungs.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -3646,7 +3673,7 @@
    "ok": "2026-10-24"
   },
   "https://lu.ma/l5qv2lts": {
-   "fails": 1
+   "fails": 2
   },
   "https://luebeck.parentsforfuture.de": {
    "fails": 0,
@@ -3780,7 +3807,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://mgc-wanne.de": {},
+  "https://mgc-wanne.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://mh3.beer/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -3790,14 +3820,14 @@
    "ok": "2026-10-24"
   },
   "https://mirjamgemeinde-offenbach.ekhn.de/angebote/paula-feuer": {
-   "fails": 1
+   "fails": 2
   },
   "https://moenchengladbach.rotaract.de/": {
    "fails": 0,
    "ok": "2026-10-24"
   },
   "https://moers.de/system/files/2024-09/Sportinfo%202024%20gesamt.pdf": {
-   "fails": 1
+   "fails": 2
   },
   "https://mrfc.de/": {
    "fails": 0,
@@ -4166,7 +4196,7 @@
    "ok": "2026-10-24"
   },
   "https://ratundtat-rostock.de/gruppenuebersicht/": {
-   "fails": 1
+   "fails": 2
   },
   "https://rebrand.ly/FFFfreiburg": {
    "fails": 0,
@@ -4233,7 +4263,7 @@
    "ok": "2026-10-24"
   },
   "https://rptu.de/veranstaltungen-gruppen-und-ags/theatergruppe": {
-   "fails": 1
+   "fails": 2
   },
   "https://rsv-adler1914.de/category/gesundheitssport-kurse/badminton-tischtennis/": {
    "fails": 0,
@@ -4376,7 +4406,7 @@
    "ok": "2026-10-24"
   },
   "https://silentbook.club/blogs/events/hamburg-germany-denktraume-silent-book-club": {
-   "fails": 2
+   "fails": 3
   },
   "https://silentbook.club/pages/sbc-virtual-meetups": {
    "fails": 0,
@@ -5077,17 +5107,17 @@
   },
   "https://t.me/chatandspeakgerman": {
    "fails": 0,
-   "members": 13647,
+   "members": 13648,
    "ok": "2026-10-24"
   },
   "https://t.me/fffberlin": {
    "fails": 0,
-   "members": 2636,
+   "members": 2635,
    "ok": "2026-10-24"
   },
   "https://t.me/jobinberlin": {
    "fails": 0,
-   "members": 512,
+   "members": 513,
    "ok": "2026-10-24"
   },
   "https://t.me/munichexpats": {
@@ -5096,7 +5126,7 @@
    "ok": "2026-10-24"
   },
   "https://t.me/s/gute_partie?before=1314": {
-   "fails": 2
+   "fails": 3
   },
   "https://tabletoptreff-hannover.de/": {
    "fails": 0,
@@ -5164,7 +5194,7 @@
    "ok": "2026-10-24"
   },
   "https://treibgutliteratur.wordpress.com": {
-   "fails": 1
+   "fails": 2
   },
   "https://trier.feg.de/minimenschen/": {
    "fails": 0,
@@ -5293,7 +5323,7 @@
   },
   "https://warmeswiesbaden.de/": {
    "fails": 0,
-   "ok": "2026-10-15"
+   "ok": "2026-10-24"
   },
   "https://web2.cylex.de/firma-home/pfadfinder-weeg-e-v--6293118.html": {},
   "https://wechange.de/project/parents-for-future-bonn": {
@@ -5449,7 +5479,7 @@
    "ok": "2026-10-24"
   },
   "https://www.aeroclub-nrw.de/flugplatz/ballon-club-muelheim-an-der-ruhr-1979-e-v/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.afrikagospel.de/": {
    "fails": 0,
@@ -5469,14 +5499,14 @@
    "ok": "2026-10-24"
   },
   "https://www.aidshilfe-wiesbaden.de/transalive/": {
-   "fails": 2
+   "fails": 3
   },
   "https://www.aidshilfe-wolfsburg.de": {
    "fails": 0,
    "ok": "2026-10-24"
   },
   "https://www.aiesec.de/bochum/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.aisafety.berlin/": {
    "fails": 0,
@@ -5636,7 +5666,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.bezirksjugendring-mittelfranken.de": {},
+  "https://www.bezirksjugendring-mittelfranken.de": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.bgbc1926.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -5655,7 +5688,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.blasmusik-hamm.de/orchester": {},
+  "https://www.blasmusik-hamm.de/orchester": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.blau-weiss-hand.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -5746,7 +5782,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.bottroper-sportbund.de/fileadmin/co_system/bottrop/media/SPORTANGEBOTE_UNSERER_VEREINE.pdf": {},
+  "https://www.bottroper-sportbund.de/fileadmin/co_system/bottrop/media/SPORTANGEBOTE_UNSERER_VEREINE.pdf": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.bpw-karlsruhe.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -5769,7 +5808,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.bridge-fuer-alle.de/": {},
+  "https://www.bridge-fuer-alle.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.bridgefreunde-sailcity.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -5860,7 +5902,7 @@
    "ok": "2026-10-24"
   },
   "https://www.ccn50plus.de/ccnweb5/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.cdbf.de": {
    "fails": 0,
@@ -5871,7 +5913,7 @@
    "ok": "2026-10-24"
   },
   "https://www.chaostal.de/category/meeting": {
-   "fails": 2
+   "fails": 3
   },
   "https://www.chorken.de/": {
    "fails": 0,
@@ -6004,7 +6046,7 @@
    "ok": "2026-10-24"
   },
   "https://www.dasoertliche.de/Themen/Turnverein-1896-e-V-Ludwigshafen-am-Rhein-Maudach-Riedstr": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.dasoertliche.de/Themen/Verein-der-Hundefreunde-Ludwigshafen-1903-e-V-Ludwigshafen-am-Rhein-Oggersheim-Speyerer-Str": {
    "fails": 0,
@@ -6059,7 +6101,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.dpsg-inrath.de/": {},
+  "https://www.dpsg-inrath.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.dpsg-sms.de": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -6278,7 +6323,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.foodsharing-krefeld.de/": {},
+  "https://www.foodsharing-krefeld.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.foodsharing-staedte.org/de/stadt/moenchengladbach": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -6342,10 +6390,10 @@
    "ok": "2026-10-24"
   },
   "https://www.fwv-nuernberg.de/verein/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.games-bavaria.com/die-gamerei/": {
-   "fails": 1,
+   "fails": 2,
    "ok": "2026-10-15"
   },
   "https://www.ganey-tikva-verein.de": {
@@ -6520,7 +6568,7 @@
    "ok": "2026-10-24"
   },
   "https://www.guterstart.nrw.de/fhiangebot/details/id/103569": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.guterstart.nrw.de/fhiangebot/exportpdf/id/103287": {
    "fails": 0,
@@ -7199,7 +7247,7 @@
    "ok": "2026-10-24"
   },
   "https://www.ksp-hagen.de": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.ksv-salzgitter-ringen.de": {},
   "https://www.kulturfabrik-krefeld.de": {
@@ -7265,17 +7313,17 @@
    "ok": "2026-10-24"
   },
   "https://www.leo-clubs.de/clubs/bochum-ruhr/start/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.lern-fair.de/": {
    "fails": 0,
    "ok": "2026-10-24"
   },
   "https://www.leverkusen.de/verzeichnisse/adressverzeichnis/Sauerlaendischer_Gebirgsverein__Abt.-Opladen_von_1937_e.V..php": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.leverkusen.de/verzeichnisse/ehrenamtsdatenbank/Verkehrs-_und_Verschoenerungsverein_Opladen_e._V..php": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.levschach1919.de": {
    "fails": 0,
@@ -7299,7 +7347,7 @@
    "ok": "2026-10-24"
   },
   "https://www.lokalkompass.de/oberhausen/c-vereine-ehrenamt/repair-caf-oberhausen_a875849": {
-   "fails": 2
+   "fails": 3
   },
   "https://www.lost-in-perfection.de/?srsltid=AfmBOoqPDe4BMKAQVvR-WkxTu_DLsgb1jaNxsUBIEpyUzWScql4gy_Di": {
    "fails": 0,
@@ -8069,7 +8117,7 @@
    "ok": "2026-10-24"
   },
   "https://www.mtp.org/geschaeftsstelle/nuernberg/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.mtv-immendorf.de": {
    "fails": 0,
@@ -8240,7 +8288,7 @@
    "ok": "2026-10-24"
   },
   "https://www.nordwestgemeinde.de/Angebote/Projektchor": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.noris-tarrasch.de/": {
    "fails": 0,
@@ -9222,7 +9270,7 @@
    "ok": "2026-10-24"
   },
   "https://www.salzgitter.de/veranstaltungskalender/extern/buergersingen.php?loc=en": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.sc-hro.de/": {},
   "https://www.scdelphin-salzgitter.de": {
@@ -9863,7 +9911,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.swing-connection-rostock.de/": {},
+  "https://www.swing-connection-rostock.de/": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.tabletop-bremerhaven.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -9934,7 +9985,7 @@
    "ok": "2026-10-24"
   },
   "https://www.tedxhhn.com/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.tennisverein-fuerth.de/": {
    "fails": 0,
@@ -9974,10 +10025,10 @@
   },
   "https://www.thelocal.de/": {
    "fails": 0,
-   "ok": "2026-10-15"
+   "ok": "2026-10-24"
   },
   "https://www.theradio.cc/bewirb-dich/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.thesis.de/": {
    "fails": 0,
@@ -10343,7 +10394,7 @@
   },
   "https://www.tvl-bremerhaven.de": {},
   "https://www.tvoberhausen.de/abteilungen/leichtathletik-lauftreff-walking/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.tvwanne1885.de": {
    "fails": 0,
@@ -10362,10 +10413,10 @@
    "ok": "2026-10-24"
   },
   "https://www.uni-kl.de/ESG/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.uni-kl.de/isak/": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.uni-kl.de/orchester/": {
    "fails": 0,
@@ -10380,7 +10431,7 @@
    "ok": "2026-10-24"
   },
   "https://www.uni-trier.de/studium/leben/kultur/collegium-musicum-1/start": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.unicef.de/mitmachen/ehrenamtlich-aktiv/-/arbeitsgruppe-heilbronn": {
    "fails": 0,
@@ -10410,7 +10461,10 @@
    "fails": 0,
    "ok": "2026-10-24"
   },
-  "https://www.vdi.de/netzwerke-community/bezirksvereine/niederrheinischer-bezirksverein-ev/bezirksgruppe-krefeld": {},
+  "https://www.vdi.de/netzwerke-community/bezirksvereine/niederrheinischer-bezirksverein-ev/bezirksgruppe-krefeld": {
+   "fails": 0,
+   "ok": "2026-10-24"
+  },
   "https://www.vdubv.de/": {
    "fails": 0,
    "ok": "2026-10-24"
@@ -10466,7 +10520,7 @@
    "ok": "2026-10-24"
   },
   "https://www.volleyballbremerhaven.de/?page=ueberuns": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.vwi-pforzheim.de": {
    "fails": 0,
@@ -10486,7 +10540,7 @@
    "ok": "2026-10-24"
   },
   "https://www.weidenschloss-ev.de": {
-   "fails": 1
+   "fails": 2
   },
   "https://www.welcomedinneroberhausen.de/": {
    "fails": 0,
@@ -10633,8 +10687,8 @@
  },
  "stats": {
   "dead": 73,
-  "ok": 2410,
+  "ok": 2402,
   "skip": 347,
-  "unknown": 363
+  "unknown": 371
  }
 }
