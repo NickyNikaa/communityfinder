@@ -170,7 +170,7 @@ chips='<a class="chip topic" href="/ki/">KI &amp; AI <i>%d</i></a>'%_kin+''.join
 rg=''.join('<article class="card"><div class="tag"><span>Ratgeber</span></div><h3><a href="/ratgeber/%s/">%s</a></h3><p class="d">%s</p></article>'%(a['slug'],E(a['title']),E(a['desc'])) for a in ARTICLES[:4])
 onchips=''.join('<a class="chip" href="/online/?plattform=%s">%s <i>%d</i></a>'%(k,PLAT[k],n) for k,n in collections.Counter(e.get('p') for e in onl_all).most_common() if k in PLAT)
 start=f'''<div class="hero"><div class="blobs" aria-hidden="true"><i></i><i></i><i></i></div>
-<a class="badge" href="/entdecken/"><span class="live" aria-hidden="true"></span><b data-count="{N}">{format(N,',').replace(',','.')}</b> Communities in {len(cities)} Städten<span class="hm"> und online</span></a>
+<a class="badge" href="/entdecken/"><span class="live" aria-hidden="true"></span><b data-count="{N}">{format(N,',').replace(',','.')}</b> <span>Communities in {len(cities)} Städten<span class="hm"> und online</span></span></a>
 <h1>Finde Menschen, die deine <em>Leidenschaft</em> teilen.</h1>
 <p class="lead">Das Verzeichnis für Communities in allen deutschen Großstädten und online. Ob Run Club, Hackerspace oder Gartennetzwerk: Such dir aus, wo du dazugehören willst.</p>
 <form class="search" action="/entdecken/" method="get" role="search">
