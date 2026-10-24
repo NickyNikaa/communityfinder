@@ -248,6 +248,12 @@ function icsFor(it,sc){var first=null,t0=new Date();t0=new Date(t0.getFullYear()
   function e2(s){return String(s).replace(/([,;\\])/g,'\\$1').replace(/\n/g,'\\n')}
   var L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//FindeDeineLeute.de//DE','CALSCALE:GREGORIAN','BEGIN:VEVENT','UID:'+it.k+'-'+sc.d+'-'+sc.t+'@findedeineleute.de','DTSTAMP:'+ymd(new Date())+'T000000Z',ds,de,'RRULE:'+rule,'SUMMARY:'+e2(it.n),'DESCRIPTION:'+e2('Zeiten laut Verzeichnis: '+it.w+'. Bitte vorab bei der Community prüfen. '+(it.l||'https://findedeineleute.de/')),it.l?'URL:'+it.l:'','END:VEVENT','END:VCALENDAR'].filter(Boolean);
   return L.join('\r\n')}
+function gcalFor(it,sc){var t0=new Date();t0=new Date(t0.getFullYear(),t0.getMonth(),t0.getDate());var first=null;
+  for(var i=0;i<62&&!first;i++){var d=new Date(t0.getFullYear(),t0.getMonth(),t0.getDate()+i);if(matches(sc,d))first=d}
+  if(!first)return null;
+  var rule=sc.o.length?'FREQ=MONTHLY;BYDAY='+sc.o.map(function(n){return n+BYD[sc.d]}).join(','):'FREQ=WEEKLY;BYDAY='+BYD[sc.d];
+  var dt;if(sc.t){var h=+sc.t.slice(0,2),m=sc.t.slice(3);dt=ymd(first)+'T'+p2(h)+m+'00/'+ymd(first)+'T'+p2((h+1)%24)+m+'00'}else{var nx=new Date(first.getFullYear(),first.getMonth(),first.getDate()+1);dt=ymd(first)+'/'+ymd(nx)}
+  return 'https://calendar.google.com/calendar/render?action=TEMPLATE&text='+encodeURIComponent(it.n)+'&dates='+dt+'&ctz=Europe/Berlin&recur='+encodeURIComponent('RRULE:'+rule)+'&details='+encodeURIComponent('Zeiten laut Verzeichnis: '+it.w+'. Bitte vorab bei der Community prüfen. '+(it.l||'https://findedeineleute.de/'))+'&location='+encodeURIComponent(it.t+(it.a?', '+it.a:''))}
 function dlIcs(it,sc){var s=icsFor(it,sc);if(!s)return;var b=new Blob([s],{type:'text/calendar;charset=utf-8'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download=it.n.replace(/[^\w\-]+/g,'_').slice(0,40)+'.ics';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(u);a.remove()},500)}
 var CALIDX=[];
 function calHtml(occ,today,showCity){if(!occ.length)return '<p class="note">In diesem Zeitraum sind keine festen Termine eingetragen.</p>';
@@ -255,8 +261,8 @@ function calHtml(occ,today,showCity){if(!occ.length)return '<p class="note">In d
   return days.map(function(g){var lb=dayLabel(g.d,today);
     return '<div class="cal-day"><h2>'+lb.t+(lb.today?' <span class="today">Heute</span>':lb.tom?' <span class="today">Morgen</span>':'')+'</h2>'+
     g.l.map(function(o){CALIDX.push(o);var i=CALIDX.length-1,it=o.it;
-      return '<div class="cal-item"><time>'+(o.sc.t||'')+'</time><div><div class="nm">'+esc(it.n)+'</div><div class="sb">'+(showCity?esc(it.t)+' · ':'')+esc(it.w)+(it.a?' · '+esc(it.a):'')+'</div></div><div class="cal-actions">'+(it.l?'<a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="'+esc(it.l)+'">Zur Community</a>':'')+'<button type="button" class="btn ghost sm" data-ics="'+i+'">In Kalender</button>'+saveBtn(it)+'</div></div>'}).join('')+'</div>'}).join('')}
-document.addEventListener('click',function(e){var b=e.target.closest('[data-ics]');if(!b)return;var o=CALIDX[+b.getAttribute('data-ics')];if(o){dlIcs(o.it,o.sc);toast('Kalenderdatei geladen')}});
+      return '<div class="cal-item"><time>'+(o.sc.t||'')+'</time><div><div class="nm">'+esc(it.n)+'</div><div class="sb">'+(showCity?esc(it.t)+' · ':'')+esc(it.w)+(it.a?' · '+esc(it.a):'')+'</div></div><div class="cal-actions">'+(it.l?'<a class="btn ghost sm" target="_blank" rel="noopener noreferrer" href="'+esc(it.l)+'">Zur Community</a>':'')+'<button type="button" class="btn ghost sm" data-gcal="'+i+'">Google Kalender</button><button type="button" class="btn ghost sm" data-ics="'+i+'">Apple/Outlook</button>'+saveBtn(it)+'</div></div>'}).join('')+'</div>'}).join('')}
+document.addEventListener('click',function(e){var g=e.target.closest('[data-gcal]');if(g){var go=CALIDX[+g.getAttribute('data-gcal')];if(go){var gu=gcalFor(go.it,go.sc);if(gu)window.open(gu,'_blank','noopener')}return}var b=e.target.closest('[data-ics]');if(!b)return;var o=CALIDX[+b.getAttribute('data-ics')];if(o){dlIcs(o.it,o.sc);toast('Kalenderdatei geladen')}});
 /* Kalender-Seite */
 var cb=$('#calBox');
 if(cb){var CAL=[],RNG=7,SLUGBYCITY={};
