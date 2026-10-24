@@ -154,7 +154,7 @@ def pick(names): return [byname[n] for n in names if n in byname]
 # ---------- START ----------
 onl_all=[e for e in data if e['f']=='online']
 _ak=lambda n:n.lower().replace('ä','a').replace('ö','o').replace('ü','u').replace('ß','ss'); opts=''.join('<option value="%s">%s</option>'%(E(n),E(n)) for n,_ in sorted(cities,key=lambda c:_ak(c[0])))
-stack=''.join('<div class="mini"><div><b>%s</b><span class="s">%s · %s</span></div></div>'%(E(c['n']),E(c['t']),E(CAT[c['c']])) for c in pick(['Hasenheide parkrun','Chaosdorf Düsseldorf','Urban Sketchers Hamburg']))
+stack='<style>.stack a.mini{text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}.stack a.mini:hover,.stack a.mini:focus-visible{transform:translateY(-3px)}.stack a.mini:focus-visible{outline:2px solid #c2185b;outline-offset:2px}</style>'+''.join('<a class="mini" href="%s"><div><b>%s</b><span class="s">%s · %s</span></div></a>'%('/%s/#c%d'%(SLUG[c['t']],c['i']) if c['t'] in SLUG else (c['l'] or '#'),E(c['n']),E(c['t']),E(CAT[c['c']])) for c in pick(['Hasenheide parkrun','Chaosdorf Düsseldorf','Urban Sketchers Hamburg']))
 _f=pick(['Critical Mass Hamburg','Urban Sketchers Köln','Entropia Karlsruhe','Netzwerk Leipziger Gemeinschaftsgärten'])
 _seen={c['c'] for c in _f}
 for _cat in ['musik','tanz','spiele','wellbeing','lernen','foto','essen','leute','queer','outdoor']:
