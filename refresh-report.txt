@@ -1,2 +1,4 @@
 Links: 3120
-{'ok': 2376, 'dead': 0, 'unknown': 397, 'skip': 347}
+{'ok': 2412, 'dead': 1, 'unknown': 360, 'skip': 347}
+Nicht mehr erreichbar (Fehler in Folge):
+  1 https://pfadfinder-rostock.de/
