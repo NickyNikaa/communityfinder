@@ -156,7 +156,7 @@ def pick(names): return [byname[n] for n in names if n in byname]
 # ---------- START ----------
 onl_all=[e for e in data if e['f']=='online']
 _ak=lambda n:n.lower().replace('ä','a').replace('ö','o').replace('ü','u').replace('ß','ss'); opts=''.join('<option value="%s">%s</option>'%(E(n),E(n)) for n,_ in sorted(cities,key=lambda c:_ak(c[0])))
-stack='<style>.stack a.mini{text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}.stack a.mini:hover,.stack a.mini:focus-visible{transform:translateY(-3px)}.stack a.mini:focus-visible{outline:2px solid #c2185b;outline-offset:2px}</style>'+''.join('<a class="mini" href="%s"><div><b>%s</b><span class="s">%s · %s</span></div></a>'%('/%s/#c%d'%(SLUG[c['t']],c['i']) if c['t'] in SLUG else (c['l'] or '#'),E(c['n']),E(c['t']),E(CAT[c['c']])) for c in pick(['Hasenheide parkrun','Chaosdorf Düsseldorf','Urban Sketchers Hamburg']))
+stack='<style>.sfilt{grid-column:1;display:flex;flex-wrap:wrap;gap:8px;align-items:center}.sfilt .select{grid-column:auto}.onl{position:relative;cursor:pointer}.onl input{position:absolute;opacity:0;pointer-events:none}.onl span{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border:1px solid var(--line);border-radius:999px;background:var(--surface-2);font-size:14px;font-weight:500;transition:.2s}.onl:hover span{border-color:#8b5cf6}.onl input:checked+span{background:var(--grad);color:#fff;border-color:transparent}.onl input:focus-visible+span{outline:2px solid #8b5cf6;outline-offset:2px}.onl i.live{margin:0}.stack a.mini{text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}.stack a.mini:hover,.stack a.mini:focus-visible{transform:translateY(-3px)}.stack a.mini:focus-visible{outline:2px solid #c2185b;outline-offset:2px}</style>'+''.join('<a class="mini" href="%s"><div><b>%s</b><span class="s">%s · %s</span></div></a>'%('/%s/#c%d'%(SLUG[c['t']],c['i']) if c['t'] in SLUG else (c['l'] or '#'),E(c['n']),E(c['t']),E(CAT[c['c']])) for c in pick(['Hasenheide parkrun','Chaosdorf Düsseldorf','Urban Sketchers Hamburg']))
 _f=pick(['Critical Mass Hamburg','Urban Sketchers Köln','Entropia Karlsruhe','Netzwerk Leipziger Gemeinschaftsgärten'])
 _seen={c['c'] for c in _f}
 for _cat in ['musik','tanz','spiele','wellbeing','lernen','foto','essen','leute','queer','outdoor']:
@@ -178,7 +178,7 @@ start=f'''<div class="hero"><div class="blobs" aria-hidden="true"><i></i><i></i>
 <p class="lead">Das Verzeichnis für Communities in allen deutschen Großstädten und online. Ob Run Club, Hackerspace oder Gartennetzwerk: Such dir aus, wo du dazugehören willst.</p>
 <form class="search" action="/entdecken/" method="get" role="search">
 <input name="q" type="search" placeholder="Wonach suchst du? z. B. Laufen" aria-label="Community suchen">
-<select name="stadt" class="select" aria-label="Stadt wählen"><option value="">Alle Städte</option>{opts}</select>
+<div class="sfilt"><select name="stadt" class="select" aria-label="Stadt auswählen"><option value="">Stadt auswählen</option>{opts}</select><label class="onl"><input type="checkbox" name="format" value="online"><span><i class="live" aria-hidden="true"></i>Online</span></label></div>
 <button class="btn primary" type="submit">Suchen</button>
 </form>
 <div class="chips">{chips}</div>
