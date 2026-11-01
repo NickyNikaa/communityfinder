@@ -1,4 +1,6 @@
 Links: 3120
-{'ok': 2412, 'dead': 1, 'unknown': 360, 'skip': 347}
+{'ok': 2438, 'dead': 3, 'unknown': 332, 'skip': 347}
 Nicht mehr erreichbar (Fehler in Folge):
-  1 https://pfadfinder-rostock.de/
+  1 https://discord.com/servers/deutsch-gym-679258262532653107
+  1 https://discord.com/servers/niedersachsen-bremen-892449657463111751
+  1 https://discord.com/servers/sprich-deutsch-761629996329598977
