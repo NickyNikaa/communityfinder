@@ -270,8 +270,8 @@ Freundschaften brauchen Wochen bis Monate. Rechne nicht damit, nach dem ersten A
 
 Alle Städte findest du in der [Städteübersicht](/staedte/), dort kannst du direkt in deiner Stadt nach Gruppen suchen.'''),
  dict(slug='run-club-finden-und-einsteigen', date='2026-10-14',
-  title='Run Club finden und einsteigen: Das solltest du wissen',
-  desc='Wie funktioniert ein Run Club, brauche ich Vorkenntnisse und was kostet das? Antworten auf die häufigsten Einsteigerfragen.',
+  title='Was ist ein Run Club? Einstieg, Kosten und Clubs in deiner Stadt',
+  desc='Was ein Run Club ist, ob du schnell sein musst und was er kostet. Mit Links zu den Run Clubs in Düsseldorf, Dortmund, Frankfurt, Nürnberg und weiteren Städten.',
   lead='Run Clubs sind in vielen Städten ein beliebter Treffpunkt: gemeinsam laufen, danach Kaffee trinken. Die gute Nachricht: Du musst dafür nicht schnell sein.',
   body='''## Was ist ein Run Club?
 
@@ -296,6 +296,10 @@ Bequeme Sportkleidung und eingelaufene Schuhe reichen. Je nach Jahreszeit brauch
 ## Wie läuft der erste Besuch ab?
 
 Komm ein paar Minuten früher, sag, dass du neu bist, und frag nach der Strecke. Meist wird dir jemand zugeteilt, der dich begleitet. Nach dem Lauf bleibt Zeit zum Austausch, und genau dort entstehen die Kontakte.
+
+## Run Clubs in deiner Stadt
+
+In diesen Städten haben wir besonders viele Laufgruppen gesammelt: [Berlin](/berlin/run-clubs/), [Hamburg](/hamburg/run-clubs/), [Köln](/koeln/run-clubs/), [Düsseldorf](/duesseldorf/run-clubs/), [Frankfurt am Main](/frankfurt-am-main/run-clubs/), [Nürnberg](/nuernberg/run-clubs/) und [Dortmund](/dortmund/run-clubs/). Weitere Städte findest du in der [Städteübersicht](/staedte/).
 
 ## Was, wenn es mir nicht gefällt?
 
@@ -527,4 +531,31 @@ Schreib einer konkreten Person und schlage ein Datum vor. Tritt einer Gruppe bei
 Fang mit einer Verabredung pro Woche an. Das ist wenig, und doch verändert es mit der Zeit, wen du regelmäßig siehst. Passende Gruppen findest du im [Verzeichnis](/entdecken/). Mehr zu Hintergründen und Studien: [Einsamkeit in Deutschland](/ratgeber/einsamkeit-in-deutschland-zahlen-und-ursachen/) und [Podcasts, Studien und Quellen](/ratgeber/einsamkeit-podcasts-studien-quellen/).
 
 Wenn dich Einsamkeit stark belastet, hilft die Telefonseelsorge kostenlos und anonym unter 0800 111 0 111.'''),
+ dict(slug='wandergruppen-finden', date='2026-11-02',
+  title='Wandergruppen finden: So wanderst du gemeinsam statt allein',
+  desc='Wie du eine Wandergruppe in deiner Nähe findest, worin sich Wandervereine und lockere Wandergruppen unterscheiden und worauf du beim ersten Mal achten solltest.',
+  lead='Gemeinsam wandern ist ein leichter Einstieg ins Kennenlernen: Man läuft nebeneinander, hat Zeit zum Reden und ein gemeinsames Ziel. Hier erfährst du, wo du Gruppen findest und wie der erste Ausflug gelingt.',
+  body='''## Wandergruppe, Wanderverein oder Wanderclub?
+
+Wandervereine sind klassische Vereine, oft mit Mitgliedsbeitrag, festem Wanderprogramm und langer Tradition. Daneben gibt es lockere Wandergruppen und Wanderclubs, die sich über Instagram, Meetup oder Messenger-Gruppen verabreden und meist ohne Mitgliedschaft auskommen. Welche Form besser zu dir passt, erklärt der Beitrag [Verein oder lockere Gruppe](/ratgeber/verein-oder-lockere-gruppe/).
+
+## Wo finde ich Wandergruppen in meiner Nähe?
+
+Der einfachste Weg führt über die Städteseiten: Wähle deine Stadt und schau in die Kategorie Outdoor und Natur. Dort stehen Wandergruppen, Radtouren und Naturtreffs mit Treffzeit und Link. Gruppen, die bei Meetup oder in Social-Media-Kanälen aktiv sind, findest du außerdem über die [Suche](/entdecken/?kategorie=outdoor). Wenn in deiner Stadt noch keine Gruppe steht, lohnt der Blick in die [Online-Communities](/online/?kategorie=outdoor), dort verabreden sich oft Menschen aus der Region.
+
+## Muss ich fit sein?
+
+Nein. Viele Gruppen bieten kurze Touren für Einsteiger an und geben Strecke, Dauer und Höhenmeter vorab an. Frag im Zweifel nach der Länge und dem Tempo, dann weißt du, ob die Tour passt.
+
+## Was brauche ich für den ersten Ausflug?
+
+Feste Schuhe, Wetterkleidung und etwas zu trinken reichen für die meisten Touren. Je nach Jahreszeit kommen Mütze, Handschuhe oder Sonnenschutz dazu. Bei längeren Touren sind Proviant und ein geladenes Handy sinnvoll. Die Gruppe sagt dir in der Regel vorab, was du mitbringen sollst.
+
+## Wie lerne ich beim Wandern Leute kennen?
+
+Wechsle unterwegs ab und zu den Platz in der Gruppe, dann kommst du mit mehreren Menschen ins Gespräch. Bleib bei der Einkehr nach der Tour dabei, denn dort entstehen die meisten Kontakte. Mehr Ideen dazu findest du im Beitrag [Allein zum ersten Treffen](/ratgeber/allein-zum-ersten-treffen/).
+
+## Sicherheit und Absprachen
+
+Teile deine Route oder die Gruppenabsprache mit jemandem, informiere dich über Wetter und Wegverhältnisse und geh bei Unsicherheit lieber eine kürzere Runde. Bei Bergtouren solltest du Erfahrung und Ausrüstung vorab mit der Leitung klären.'''),
 ]

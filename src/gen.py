@@ -295,6 +295,12 @@ COMBO={}
 for e in data:
     COMBO.setdefault((e['t'],e['c']),[]).append(e)
 HAS={k for k,v in COMBO.items() if len(v)>=MINCOMBO and k[0] in SLUG}
+MINRUN=8
+RUNC={}
+for e in data:
+    if e['t'] in SLUG and ('run club' in e['g'] or 'parkrun' in e['g']):
+        RUNC.setdefault(e['t'],[]).append(e)
+RUNC={k:sorted(v,key=lambda e:(-e['q'],e['n'].lower())) for k,v in RUNC.items() if len(v)>=MINRUN}
 for city,slug in cities:
     items=sorted(by_city[city],key=lambda e:(-e['q'],e['n'].lower()))
     cats=collections.OrderedDict()
@@ -311,6 +317,8 @@ for city,slug in cities:
                 e['i'],E(e['n']),('<div class="sub">%s</div>'%E(sub)) if sub else '',E(e['x']),
                 ('<a class="btn ghost sm" href="%s" target="_blank" rel="noopener noreferrer" aria-label="%s: Zur Community">Zur Community</a>'%(E(e['l']),E(e['n']))) if e['l'] else '',savebtn(e))
         more=('<p class="note" style="margin:-8px 0 18px"><a href="/%s/%s/">Alle %d Gruppen für %s in %s ansehen</a></p>'%(slug,cid,len(l),E(CATINFO[cid][0]),E(city))) if (city,cid) in HAS else ''
+        if cid=='sport' and city in RUNC:
+            more+='<p class="note" style="margin:-8px 0 18px"><a href="/%s/run-clubs/">Alle %d Run Clubs in %s</a></p>'%(slug,len(RUNC[city]),E(city))
         secs+='<section class="csec" id="k-%s"><h2>%s</h2>%s<ul class="rows">%s</ul></section>'%(cid,E(CAT[cid]),more,rows)
     intro=city_intro(city,items)
     _wk=CAL_BY_CITY.get(city,[])
@@ -363,6 +371,7 @@ for city,slug in cities:
         faq=''.join('<details><summary>%s</summary><p>%s</p></details>'%(E(q),E(a)) for q,a in qa)
         otherc=[c for c,_ in CATS if c!=cid and (city,c) in HAS]
         rel=''.join('<a class="chip" href="/%s/%s/">%s</a>'%(slug,c,E(CATINFO[c][0])) for c in otherc)
+        if cid=='sport' and city in RUNC: rel='<a class="chip" href="/%s/run-clubs/">Run Clubs in %s</a>'%(slug,E(city))+rel
         oc=[(cn,cs) for cn,cs in cities if cn!=city and (cn,cid) in HAS][:12]
         ocg=''.join('<a class="cityb" href="/%s/%s/"><span>%s</span><i>%d</i></a>'%(cs,cid,E(cn),len(COMBO[(cn,cid)])) for cn,cs in oc)
         body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/staedte/">Städte</a><span>/</span><a href="/{slug}/">{E(city)}</a><span>/</span><span>{E(label)}</span></nav>
@@ -380,6 +389,47 @@ for city,slug in cities:
         path=f'/{slug}/{cid}/'
         w(f'{slug}/{cid}/index.html',layout('staedte',path,f'{label} in {city}: {n} Gruppen und Communities | FindeDeineLeute.de',desc,body,jsonld=ld))
         combo_pages.append(path)
+
+# ---------- STADT x RUN CLUBS ----------
+runclub_pages=[]
+RUNQA_FAST=('Muss ich schnell sein, um bei einem Run Club mitzulaufen?','Nein. Viele Run Clubs laufen in mehreren Gruppen mit unterschiedlichem Tempo, und niemand wird zurückgelassen. Schreib vorab kurz, welches Tempo du läufst, dann weißt du, welche Gruppe passt.')
+RUNQA_COST=('Was kostet ein Run Club?','Viele Run Clubs sind kostenlos, einige finanzieren sich über Sponsoren oder bitten um freiwillige Beiträge. Die parkrun-Läufe am Samstagmorgen sind ebenfalls kostenlos, du registrierst dich dafür einmal vorab.')
+for city,slug in cities:
+    if city not in RUNC: continue
+    l=RUNC[city]; n=len(l)
+    pk=[e for e in l if 'parkrun' in e['n'].lower()]
+    clubs=[e for e in l if e not in pk]
+    names=[e['n'] for e in clubs[:4]]
+    p1=f'In {city} gibt es aktuell {n} Run Clubs und Laufgruppen im Verzeichnis, darunter {join_de(names)}.'
+    p2='Ein Run Club ist eine Laufgruppe, die sich regelmäßig zu festen Zeiten trifft, meist ohne Mitgliedschaft und oft mit gemeinsamem Ausklang im Café. Du musst weder schnell noch fit sein, die meisten Gruppen heißen Einsteiger ausdrücklich willkommen.'
+    extra=[]
+    if pk: extra.append(E(f'Kostenlos und jede Woche dabei sein kannst du bei {join_de([e["n"] for e in pk])}.'))
+    pcnt=collections.Counter(e.get('p') for e in l if e.get('p'))
+    plats=[PLAT[k] for k,_ in pcnt.most_common(3) if k in PLAT and k!='website'][:2]
+    if plats: extra.append(E(f'Die Termine stehen meist auf {join_de(plats)}, schau dort kurz vor dem Lauf nach dem aktuellen Treffpunkt.'))
+    rh=[e for e in clubs if e['w'] and len(e['w'])<48][:3]
+    if rh: extra.append(E('Zum Rhythmus: '+' '.join('%s (%s).'%(e['n'],e['w'].rstrip('.')) for e in rh)))
+    extra_html=' '.join(extra)
+    qa=[(f'Welche Run Clubs gibt es in {city}?',f'Im Verzeichnis stehen aktuell {n} Einträge, unter anderem {join_de([e["n"] for e in l[:5]])}. Alle findest du in der Liste auf dieser Seite, die Links prüfen wir alle zwei Wochen.'),RUNQA_FAST,RUNQA_COST,
+        (f'Wie finde ich in {city} den passenden Run Club?','Vergleiche zwei bis drei Gruppen nach Tempo, Treffzeit und Treffpunkt und probiere sie aus. Meist erkennst du schon nach dem ersten Besuch, ob die Stimmung passt.')]
+    faq=''.join('<details><summary>%s</summary><p>%s</p></details>'%(E(q),E(a)) for q,a in qa)
+    oc=[(cn,cs) for cn,cs in cities if cn!=city and cn in RUNC][:12]
+    ocg=''.join('<a class="cityb" href="/%s/run-clubs/"><span>%s</span><i>%d</i></a>'%(cs,E(cn),len(RUNC[cn])) for cn,cs in oc)
+    sp=('<p class="note" style="margin-top:14px"><a href="/%s/sport/">Alle Sport- und Fitnessgruppen in %s</a></p>'%(slug,E(city))) if (city,'sport') in HAS else ''
+    body=f'''<nav class="crumbs" aria-label="Brotkrumen"><a href="/">Start</a><span>/</span><a href="/staedte/">Städte</a><span>/</span><a href="/{slug}/">{E(city)}</a><span>/</span><span>Run Clubs</span></nav>
+<div class="pagehead" style="padding-top:24px"><h1 class="page-title" style="margin-top:0">Run Clubs in {E(city)}</h1><p class="lede">{E(p1)}</p><p class="lede">{E(p2)}</p>{('<p class="lede">%s</p>'%extra_html) if extra_html else ''}</div>
+<section class="csec"><h2>So gelingt der erste Lauf</h2><p class="lede" style="max-width:62ch">Komm ein paar Minuten früher, sag, dass du neu bist, und frag nach Strecke und Tempo. Bequeme Sportkleidung und eingelaufene Schuhe reichen. Alles Wichtige für Einsteiger steht im Ratgeber <a href="/ratgeber/run-club-finden-und-einsteigen/">Was ist ein Run Club?</a></p>{sp}</section>
+<section class="csec"><h2>Alle Run Clubs in {E(city)} ({n})</h2><ul class="rows">{''.join(row_html(e) for e in l)}</ul></section>
+<section class="csec"><h2>Häufige Fragen</h2><div class="faq">{faq}</div></section>
+{('<section class="section" style="border-bottom:0"><div class="section-head"><div><span class="eyebrow">Andere Städte</span><h2>Run Clubs in weiteren Städten</h2></div></div><div class="citygrid">%s</div></section>'%ocg) if ocg else ''}
+<section class="section" style="border-bottom:0;padding-top:0"><div class="band"><div><h2>Dein Run Club fehlt?</h2><p>Trag ihn ein, damit andere ihn finden.</p></div><a class="btn" href="/kontakt/?thema=eintragen">Anfrage senden</a></div></section>'''
+    ld=[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":DOMAIN+"/"},{"@type":"ListItem","position":2,"name":city,"item":f"{DOMAIN}/{slug}/"},{"@type":"ListItem","position":3,"name":"Run Clubs","item":f"{DOMAIN}/{slug}/run-clubs/"}]},
+        {"@context":"https://schema.org","@type":"ItemList","name":f"Run Clubs in {city}","numberOfItems":n,"itemListElement":[{"@type":"ListItem","position":k+1,"name":e['n'],**({"url":e['l']} if e['l'] else {})} for k,e in enumerate(l[:50])]},
+        {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in qa]}]
+    desc=f'{n} Run Clubs in {city}: {", ".join(names[:3])} und mehr. Mit Treffzeiten, Einsteigertipps und Links zu allen Laufgruppen.'
+    path=f'/{slug}/run-clubs/'
+    w(f'{slug}/run-clubs/index.html',layout('staedte',path,f'Run Clubs in {city}: {n} Laufgruppen im Überblick | FindeDeineLeute.de',desc,body,jsonld=ld))
+    runclub_pages.append(path)
 
 # ---------- RATGEBER ----------
 import re as _re
@@ -651,7 +701,7 @@ for e in data:
     pub.append(d)
 w('calendar.json',json.dumps({'updated':LASTRUN or TODAY,'items':CALIT},ensure_ascii=False,separators=(',',':')))
 w('communities.json',json.dumps({"updated":LASTRUN or TODAY,"cities":cities,"items":pub},ensure_ascii=False,separators=(',',':')))
-urls=['/','/entdecken/','/staedte/','/online/','/ki/','/kalender/','/auswertung/','/presse/','/newsletter/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
+urls=['/','/entdecken/','/staedte/','/online/','/ki/','/kalender/','/auswertung/','/presse/','/newsletter/','/ratgeber/']+['/ratgeber/%s/'%a['slug'] for a in ARTICLES]+combo_pages+runclub_pages+aktuell_pages+['/%s/'%s for _,s in cities]+['/ueber-uns/','/kontakt/']
 sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n'%(DOMAIN,u,TODAY) for u in urls)+'</urlset>\n'
 w('sitemap.xml',sm)
 w('robots.txt','User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n'%DOMAIN)
