@@ -1,0 +1,52 @@
+Ulm|BUND Hochschulgruppe Uni Ulm|engagement|https://www.uni-ulm.de/misc/bund-hochschulgruppe/aktuelles/|Studierende engagieren sich für Umwelt- und Naturschutz auf dem Campus und in der Stadt, mit Aktionen und Treffen.||website
+Ulm|IT4Kids Ulm|engagement|https://it-for-kids.org/|Studierende bringen Kindern in Schulen und Projekten spielerisch den Umgang mit Informatik und Technik bei.||website
+Ulm|Medinetz Ulm|engagement|http://www.medinetz-ulm.de/|Studentische Initiative, die Menschen ohne Krankenversicherung oder Papiere den Zugang zu medizinischer Versorgung vermittelt.||website
+Ulm|Hochschulgruppe Nachhaltigkeit Uni Ulm|engagement|http://www.uni-ulm.de/misc/hg-nachhaltigkeit/hsgn/|Studierende und Beschäftigte arbeiten an Nachhaltigkeitsthemen der Universität und planen gemeinsame Aktionen.||website
+Ulm|UNICEF Hochschulgruppe Ulm|engagement|https://www.unicef.de/mitmachen/ehrenamtlich-aktiv/-/hochschulgruppe-ulm|Ehrenamtliche Studierendengruppe, die Kinderrechte mit Aktionen, Veranstaltungen und Spendenprojekten bekannt macht.||website
+Ulm|Effektiver Altruismus Ulm|engagement|https://forum.effectivealtruism.org/groups/agWisidqRr43ASgGD|Lokale Gruppe, die darüber diskutiert, wie man mit Zeit, Geld und Beruf möglichst viel Gutes bewirkt.||forum
+Ulm|Erasmus Ulm + Friends|leute|http://erasmus-ulm.de/|Studentische Gruppe, die internationale Studierende betreut und mit Ausflügen, Partys und Stammtischen zusammenbringt.||website
+Ulm|Hochschulgruppe für Kompetitives Programmieren Ulm|tech|https://cpulm.org|Studierende trainieren gemeinsam Algorithmen und Programmieraufgaben für Wettbewerbe.||website
+Ulm|Universitätssegelclub Ulm|outdoor|http://www.uni-ulm.de/einrichtungen/universitaetssegelclub.html|Segelclub der Universität, in dem Studierende und Beschäftigte gemeinsam auf dem Wasser unterwegs sind.||website
+Ulm|Schach Hochschulgruppe Uni Ulm|spiele|https://schach-hsg-uni-ulm.jimdosite.com/|Schachspielen auf dem Campus, vom lockeren Blitzen bis zu Turnieren, offen für alle Spielstärken.||website
+Ulm|IAESTE Ulm|studium|https://iaeste-ulm.de/|Lokalkomitee, das Auslandspraktika vermittelt und internationale Praktikanten in Ulm betreut.||website
+Ulm|Arbeitskreis Industriekontakte AKIK Ulm|studium|http://akik-ulm.de/|Studentische Initiative, die Kontakte zwischen Studierenden und Unternehmen mit Messen und Vorträgen herstellt.||website
+Ulm|Börsenforum Ulm|business|https://bf-ulm.de/|Hochschulgruppe rund um Börse, Geldanlage und Finanzmärkte mit Vorträgen und Austausch.||website
+Ulm|Studentenmission SMD Ulm|leute|http://hochschul-smd.org/ulm/|Christliche Studierendengruppe mit Bibelkreisen, Gesprächen und gemeinsamen Aktionen an der Hochschule.||website
+Ulm|Evangelische und Katholische Studentengemeinden Ulm|leute|http://www.ulmer-studentengemeinden.de/|Gemeinsame Anlaufstelle für Studierende mit Gottesdiensten, Essen, Gesprächen und Freizeitangeboten.||website
+Ulm|Tandem-Treffen Universität Ulm|sprachen|https://www.uni-ulm.de/io/aktuelles/aktueller-termin/article/tandem-treffen/|Treffen des International Office, bei denen Studierende Sprachpartner finden und gemeinsam Sprachen üben.||website
+Ulm|Universitätschor Ulm|musik|https://www.uni-ulm.de/einrichtungen/choere/unichor/|Großer Chor der Universität für Studierende und Interessierte, Einstieg ist auch nach Semesterstart möglich.|Wöchentlich zur Probe, Wintersemester ab Mitte Oktober|website
+Ulm|Kammerchor der Universität Ulm|musik|https://www.uni-ulm.de/einrichtungen/choere/kammerchor/|Kleinerer Chor der Universität mit anspruchsvollerem Programm für geübte Sängerinnen und Sänger.||website
+Ulm|Popchor Ulm|musik|https://popchor-ulm.de/|Bunt gemischter Chor, der mehrstimmig Popsongs aus mehreren Jahrzehnten singt und neue Stimmen jederzeit willkommen heißt.|Schnupperprobe nach Termin, Proben in Böfingen|website
+Ulm|Chor Levantate Ulm|musik|https://chor-levantate.de/|Gemeinnütziger Chor seit 1984, der etwa zwei Stunden mit Einsingen und mehrstimmigem Singen probt, Gäste können zur Schnupperprobe kommen.||website
+Ulm|Internationaler Jugendchor Ulm Neu-Ulm|musik|https://www.ulminterkulturell.de/internationaler-jugendchor-ulm-neu-ulm/|Chor, der Jugendlichen aus vielen Kulturen gemeinsames Singen und Begegnung ermöglicht.||website
+Ulm|Ulmer Kammerchor|musik|https://www.kultur-in-ulm.de/veranstalter/ulmer-kammerchor-e-v/|Vereinschor, der anspruchsvolle Chormusik erarbeitet und regelmäßig Konzerte in der Region gibt.||website
+Ulm|Sinfonisches Blasorchester Ulm|musik|https://sbu-online.de/|Ambitioniertes Blasorchester, das originale sinfonische Blasmusik in Ulm und Neu-Ulm aufführt.||website
+Ulm|Stadtkapelle Ulm|musik|https://www.stadtkapelle-ulm.de/|Sinfonisches Blasorchester seit 1920 mit rund 60 Musikerinnen und Musikern, Mitspielen ist per Mail anfragbar.||website
+Ulm|Fotoclub Ulm|foto|https://www.fotoclub-ulm.de/|Verein für Hobbyfotografen aller Stilrichtungen mit Clubabenden, Workshops, Fotoexkursionen und Ausstellungen.|Clubabende am Abend, Termine auf der Webseite|website
+Ulm|Cubus Ulm|spiele|https://www.cubus-ulm.de/|Verein für phantastisches Spiel mit Brettspielabenden, Rollenspielrunden und Tabletop in Fort Albeck.|Montags 19 Uhr Brettspiele, mittwochs 19 Uhr kurze Spiele, alle zwei Wochen dienstags 19 Uhr Rollenspiel|website
+Ulm|Taverne zur Schwarzen Laute|spiele|https://zur-schwarzen-laute.de/|Rollenspiel-Community für Ulm und Umgebung mit Discord, Spielgruppensuche und gelegentlichen Treffen und Conventions.||website
+Ulm|ulm gaming Discord|gaming|https://discord.com/invite/GQJQDwq|Öffentlicher Discord-Server für Videospiel-Fans aus Ulm zum Chatten und Zusammenspielen.||discord
+Ulm|SC Weiße Dame Ulm|spiele|https://weisse-dame-ulm.de/|Schachverein in Ulm mit Spielabenden, Mannschaftskämpfen und Terminen für Mitglieder und Interessierte.||website
+Ulm|Frauentreff Ulm|frauen|https://www.frauentreff-ulm.de/|Verein mit vielen Gruppen für Frauen, darunter Frühstück, Stammtisch, Kulturtreff und Sportgruppen.||website
+Ulm|Spielegruppe des Frauentreff Ulm|spiele|https://www.frauentreff-ulm.de/programm-und-gruppen/spielegruppe/|Frauen probieren bekannte und neue Brettspiele aus und dürfen eigene Spiele mitbringen, Treffpunkt ist das Canapé Café.|Gelegentlich freitags ab 17 Uhr|website
+Ulm|Literaturgruppe im Frauentreff Ulm|frauen|https://www.frauentreff-ulm.de/%C3%BCbersicht-der-gruppen/literaturgruppetemplate/|Leserunde für Frauen, die Bücher gemeinsam besprechen.||website
+Ulm|Badminton und Tischtennisgruppe im Frauentreff Ulm|sport|https://www.frauentreff-ulm.de/%C3%BCbersicht-der-gruppen/badminton-und-tischtennisgruppe/|Sportgruppe für Frauen, die gemeinsam Badminton und Tischtennis spielen.||website
+Ulm|Young and Queer Ulm|queer|https://www.facebook.com/youngandqueerulm/|Jugendinitiative für junge queere Menschen in Ulm und Neu-Ulm mit Treffen und Beratung.||facebook
+Ulm|CSD Ulm Neu-Ulm|queer|https://www.csd-ulm.de/Verein/verein-csd-ulm-neu-ulm-e-v.html|Verein, der den Christopher Street Day in Ulm und Neu-Ulm organisiert und für Sichtbarkeit queerer Menschen eintritt.||website
+Ulm|Menschlichkeit Ulm|engagement|https://menschlichkeit-ulm.de/verein/|Verein, der Geflüchtete und Neuzugezogene mit Lerncafé, Sport, Festen und Begleitung beim Ankommen unterstützt.||website
+Ulm|Engagiert in Ulm Freiwilligenagentur|engagement|https://www.engagiert-in-ulm.de/|Freiwilligenagentur, die Interessierte an passende Ehrenämter in Ulm vermittelt.||website
+Ulm|Mehrgenerationenhaus Eichbergtreff|familie|https://www.ulm.de/rathaus/ortsteile-und-sozialr%C3%A4ume/sozialr%C3%A4ume/einrichtungen-und-zentren/quartierstreffs/mehrgenerationenhaus-eichbergtreff|Generationenübergreifender Treffpunkt in Böfingen mit Beratung, Veranstaltungen und Möglichkeiten zum Mitmachen.||website
+Ulm|Café Blau|leute|https://www.ulm.de/rathaus/ortsteile-und-sozialr%C3%A4ume/sozialr%C3%A4ume/einrichtungen-und-zentren/quartierstreffs/cafe-blau|Günstiger Quartierstreff im Dichterviertel mit Mittagstisch und inklusivem Team, offen für alle Nachbarn.||website
+Ulm|Rotaract Club Ulm|business|https://rac-ulm.de/cms/unser-club|Club für 18 bis 35 Jährige mit Vorträgen, Firmenbesuchen, Sozialprojekten und geselligen Abenden.|Alle zwei Wochen|website
+Ulm|Round Table 93 Ulm Neu-Ulm|leute|https://www.facebook.com/roundtable93/|Serviceclub für Männer bis 40 mit Freundschaft, Treffen und sozialen Projekten.||facebook
+Ulm|VfB Ulm Frisbee-Sport|sport|https://www.vfb-ulm.de/sportangebot/frisbee-sport/|Ultimate-Frisbee-Abteilung mit rund 40 Mitgliedern, Ligaspielen und geselligen Abenden, Neue können zum Probetraining kommen.||website
+Ulm|Ulmer Ruderclub Donau|sport|https://www.facebook.com/ulmer.rc/|Ruderverein auf der Donau mit Breiten- und Leistungssport und Bootshaus.||facebook
+Ulm|ADFC Ulm Alb-Donau Neu-Ulm|mobil|https://ulm.adfc.de/|Fahrradclub, der sich für besseren Radverkehr einsetzt und Touren und Aktionen organisiert.||website
+Ulm|NaturFreunde Ortsgruppe Ulm|outdoor|https://www.naturfreunde.de/ortsgruppe/ortsgruppe-ulm|Ortsgruppe mit Wandern, Fotogruppe, Fitness, Familienangeboten und Kindertreff im Spatzennest.|Fitness donnerstags 20:15 Uhr|website
+Ulm|Schwäbischer Albverein Ortsgruppe Ulm Neu-Ulm|outdoor|https://albverein-ul-nu.telebus.de/|Wanderverein mit Tages- und Mehrtagestouren, Walking-Treff, Stammtisch und Hüttendienst.|Walking-Treff dienstags 17 Uhr|website
+Ulm|Kleingärtner Ulm|outdoor|https://kleingaertner-ulm.de/|Großer Kleingartenverein, der Gartenparzellen an Mitglieder verpachtet und Gemeinschaftsarbeit organisiert.||website
+Ulm|Bezirksimkerverein Ulm|tiere|https://www.bne-kompass.de/bildungsangebote/anbieter-innen/veranstalter-bezirks-imkerverein-ulm-e-v/|Verein für Imkerinnen und Imker, der Wissen über Bienenhaltung und Naturbildung weitergibt.||website
+Ulm|Saitenspringer Ulm|tanz|https://www.saitenspringer.de/|Folkloretanzgruppe mit Kreis-, Reihen- und Paartänzen aus aller Welt, eine Gruppe für Einsteiger und eine für Fortgeschrittene.|Montags 19 Uhr und 20:30 Uhr|website
+Ulm|Ulmer Autoren 81|kunst|https://www.ulmer-autoren.de/|Autorenverein mit Werkstattgesprächen, bei denen Texte vorgestellt und besprochen werden.|Meist am ersten Freitag im Monat, 18:30 Uhr|website
+Ulm|DPSG Stamm Ulm-Nord|outdoor|https://www.dpsg-ulm-nord.de/stufen/jungpfadfinder/|Katholischer Pfadfinderstamm mit Gruppenstunden und Zeltlagern für Kinder und Jugendliche.||website
+Ulm|BdP Stamm Weiße Rotte|outdoor|https://weisserotte.bdp-bawue.de/|Pfadfinderstamm im Bund der Pfadfinder mit Gruppen für verschiedene Altersstufen.||website

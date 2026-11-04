@@ -1,0 +1,52 @@
+Saarbrücken|1. BC Bischmisheim|sport|https://bc-bischmisheim.de/|Badmintonverein im Stadtteil Bischmisheim, der auf der Stadtportal-Vereinsliste steht.||website
+Saarbrücken|Bogensport Saarbrücken e.V.|sport|https://www.bogensport-sb.de/|Verein für Bogenschießen in Saarbrücken.||website
+Saarbrücken|Lacrosseverein Saarlax e.V.|sport|http://www.saarlax.de/|Lacrosse-Verein in Saarbrücken für eine eher seltene Mannschaftssportart.||website
+Saarbrücken|Laufgemeinschaft Saarbrücken e. V.|sport|https://www.lag-saarbruecken.de/|Laufverein der Stadt für Freizeit- und Wettkampfläufer.||website
+Saarbrücken|Lauftreff LT Phoenix Dudweiler e.V.|sport|http://www.phoenix-dudweiler.de/|Lauftreff aus dem Stadtteil Dudweiler, der gemeinsam trainiert.||website
+Saarbrücken|Ruder Club Saar (RCS)|sport|https://www.rcsaar.de/?lang=de|Ruderverein auf der Saar mit Breiten- und Leistungssport.||website
+Saarbrücken|Saarbrücker Rudergesellschaft UNDINE|sport|https://www.srg-undine.de/|Traditionsreicher Ruderverein in Saarbrücken.||website
+Saarbrücken|River Bandits Saarbrücken|sport|https://www.riverbandits.de/|Baseball- und Softballclub der Stadt.||website
+Saarbrücken|Stade Sarrois Rugby e.V.|sport|http://www.stade-sarrois.de/|Rugbyverein in Saarbrücken.||website
+Saarbrücken|Saarland Hurricanes|sport|https://www.saarland-hurricanes.com/|American-Football-Verein im Saarland mit Sitz in Saarbrücken.||website
+Saarbrücken|Saar 05 Tischtennis|sport|https://www.saar05-tischtennis.de/|Tischtennisabteilung des Vereins Saar 05.||website
+Saarbrücken|TV Scheidt Volleyball|sport|https://www.tvscheidt.de/|Volleyballabteilung des Turnvereins Scheidt.||website
+Saarbrücken|Drachenflugclub Saar e.V.|outdoor|https://www.dfc-saar.de/index.php/de/|Verein für Drachen- und Gleitschirmfliegen im Saarland.||website
+Saarbrücken|Kanu-Wanderer Saarbrücken e.V.|outdoor|https://www.kanuwanderer.de/verein/aktuelles/|Kanuverein für Paddeltouren und Wanderfahrten.||website
+Saarbrücken|Saarbrücker Kanu-Club|outdoor|https://www.saarbrucker-kanu-club.de/|Kanuclub der Stadt für Freizeit- und Wettkampfpaddler.||website
+Saarbrücken|Mountainbikeverein Saarbrücken e.V.|outdoor|https://mv-sb.de/|Verein für Mountainbiker, die gemeinsam in der Region fahren.||website
+Saarbrücken|Saarwald-Verein Ortsverein Saarbrücken|outdoor|https://saarwald-verein.de/|Wanderverein mit Ortsverein in Saarbrücken.||website
+Saarbrücken|Yacht-Club Saarbrücken e.V.|outdoor|https://www.ycsb.de/|Segelclub in Saarbrücken.||website
+Saarbrücken|Tauchclub Manta Saarbrücken e.V.|outdoor|https://www.tcmanta.de/|Tauchverein für Hobbytaucher.||website
+Saarbrücken|Joyhunters Square Dance Club Saarbrücken e.V.|tanz|https://www.joyhunters.de/|Square-Dance-Club, in dem man in Gruppen nach Ansagen tanzt.||website
+Saarbrücken|SV Saar 05 Tanzsport|tanz|http://saar05-tanzsport.de/|Tanzsportabteilung des Vereins Saar 05.||website
+Saarbrücken|Schachvereinigung Saarbrücken 1970 e.V.|spiele|http://www.schachvereinigung-saarbruecken.de/|Schachverein der Stadt.||website
+Saarbrücken|Spielelagune Saar e.V.|spiele|https://www.spielelagune-saar.de/|Gesellschaftsspieleverein für das ganze Saarland mit vielen offenen Spieletreffs.||website
+Saarbrücken|Spieletreff in der Stadtbibliothek Saarbrücken|spiele|https://www.spielelagune-saar.de/index.php/spieletreffs/727-spieletreff-in-der-stadtbibliothek-saarbruecken|Offener Brettspieletreff der Spielelagune im Lesecafé der Stadtbibliothek am Gustav-Regler-Platz.|Alle zwei Wochen dienstags, 18 Uhr|website
+Saarbrücken|BachChor Saarbrücken|musik|https://www.bachchor-saarbruecken.de/|Konzertchor, der neue Sänger mit Probenerfahrung aufnimmt; Bewerbung per E-Mail mit Stimmlage und musikalischem Hintergrund.|Donnerstags 19:30 Uhr|website
+Saarbrücken|Vokalensemble d'accord|musik|https://www.daccord-sb.de/probe.html|Vokalensemble aus Saarbrücken, das in der Deutschherrnkapelle probt.|Montags 20 Uhr|website
+Saarbrücken|Cantamore|musik|https://cantamore-saar.de/|Vokal-Ensemble seit 2007, das Stücke aus verschiedenen Epochen und Ländern singt.|Donnerstags 20 Uhr|website
+Saarbrücken|Saarländischer Frauenchor|musik|https://xn--saarlndischer-frauenchor-ubc.de/|Frauenchor, der singbegeisterte Frauen sucht; eine Schnupperprobe ist nach Anmeldung möglich.||website
+Saarbrücken|SaaraBande|musik|https://saarabande.de/about/|Gemischter Laienchor, entstanden aus der Fusion eines Frauen- und eines Herrenchors, mit Repertoire von Klassik bis Modern.||website
+Saarbrücken|Stadtkapelle Saarbrücken|musik|https://stadtkapelle.saarbruecken.de/orchester/mitspielen_in_der_stadtkapelle|Amateurorchester der Stadt, das neue Mitspieler mit einer unverbindlichen Schnupperprobe willkommen heißt.|Probe in der Festhalle Güdingen|website
+Saarbrücken|Orchester Saarbrücken (Uni-Orchester)|musik|https://www.unimusik-saarland.de/instrumental/orchester-saarbruecken/|Orchester der Universität des Saarlandes, auch offen für Musiker ohne Uni-Bezug; Anmeldung per E-Mail erbeten.|Mittwochs 19 Uhr|website
+Saarbrücken|BdP Stamm Tscherkessen|leute|https://www.pfarrei-st-johann.de/pfadfinder.html|Pfadfinderstamm mit Kinder-, Jugend- und Rovergruppen von 6 bis 25 Jahren, offen für alle.|Wöchentliche Gruppenstunden im Pfarrheim St. Elisabeth|website
+Saarbrücken|VCP Stamm Römer|leute|https://vcp-roemer.de|Christlicher Pfadfinderstamm auf dem Eschberg mit wöchentlichen Sippenstunden.|Wöchentlich|website
+Saarbrücken|VCP Stamm ScheidterHaufen|leute|https://vcp-scheidterhaufen.de|Pfadfinderstamm in Scheidt mit wöchentlichen Gruppenstunden an der Pfadfinderhütte.|Wöchentlich|website
+Saarbrücken|DLRG Ortsgruppe St. Johann|engagement|https://st-johann.dlrg.de/|Ortsgruppe der Lebensrettungsgesellschaft mit ehrenamtlichem Engagement rund ums Schwimmen und Retten.||website
+Saarbrücken|Tafel Saarbrücken|engagement|https://www.tafel-saarbruecken.de/|Ehrenamtliche verteilen gerettete Lebensmittel an Menschen in Not.||website
+Saarbrücken|Foodsharing Saarbrücken|engagement|https://www.facebook.com/FoodsharingSB|Lokale Gruppe, die Lebensmittel vor dem Wegwerfen rettet und über Fairteiler verteilt.||facebook
+Saarbrücken|Transition Town Saarbrücken|engagement|https://transitionsaarbruecken.de/de/|Lokale Initiative mit Gemeinschaftsprojekten für eine regionale, nachhaltige Wirtschaft.||website
+Saarbrücken|Weltveränderer|engagement|https://weltveraenderer.eu/|Initiative für globale Nachhaltigkeit, vor allem im Stadtteil Malstatt, mit Führungen und Haus der globalen Nachhaltigkeit.||website
+Saarbrücken|NABU Saarbrücken|engagement|https://nabu-saarbruecken.de/nabu-saarbruecken/geschichte|Ortsgruppe des Naturschutzbundes mit Mitmachangeboten für Natur- und Artenschutz.||website
+Saarbrücken|NAJU Saar|engagement|https://naju-saar.de/|Naturschutzjugend mit Kinder- und Jugendgruppen für Naturerlebnis.||website
+Saarbrücken|BUND Saar|engagement|https://www.bund-saar.de/|Umweltverband mit Aktiven zu Natur, Klima und Energie und dem Haus der Umwelt.||website
+Saarbrücken|Saarbrücker Imkerverein|tiere|https://saarbruecker-imkerverein.de/|Imkerverein, der Bienenvölker in der Stadt betreut und einen Bienenlehrpfad pflegt.||website
+Saarbrücken|Tierheim Saarbrücken|tiere|https://tierheim-saarbruecken.de/|Tierschutzverein, der ehrenamtliche Hilfe im Tierheim willkommen heißt; Nachfrage zum Gassigehen per Telefon oder Mail.|Besuch freitags und samstags 14 bis 16 Uhr|website
+Saarbrücken|Essbare Stadt Saarbrücken|engagement|https://saarbrueckendieessbarestadt.wordpress.com/|Initiative, die in der Stadt kleine öffentliche Gärten zum Ernten anlegt.||website
+Saarbrücken|QWir Jugendgruppe des LSVD Saar|queer|https://lsvdsaar.de/jugendgruppe-qwir/|Monatliche Gruppe für queere Jugendliche und junge Erwachsene im LSVD Checkpoint; Anmeldung vorab per Mail.|Einmal im Monat|website
+Saarbrücken|AK Queer an der UdS|queer|https://akqueeruds.de/|Studentischer Arbeitskreis für queere Menschen an der Universität des Saarlandes.||website
+Saarbrücken|Unifilm Saarbrücken|studium|https://asta.uni-saarland.de/unifilm/|Studentische Initiative des AStA, die Filmabende auf dem Campus organisiert.||website
+Saarbrücken|Students@Work|studium|https://asta.uni-saarland.de/studentswork/|Studentische Initiative im Umfeld des AStA der Universität des Saarlandes.||website
+Saarbrücken|ESN Saarbrücken|studium|https://saarbruecken.esn-germany.de/|Lokale Sektion des Erasmus Student Network, die internationale Studierende betreut.||website
+Saarbrücken|Stadtteilbüro Alt-Saarbrücken|leute|https://www.altsb.de/unsere-angebote/|Stadtteilbüro mit Nachbarschaftstreffs wie Café Schniss, Bürger-Treff und Angeboten für junge Familien.||website
+Saarbrücken|Mehrgenerationenhaus Bürgerzentrum Mühlenviertel|familie|https://www.mehrgenerationenhaeuser.de/mehrgenerationenhaeuser/haeuser-in-ihrer-naehe/steckbrief-mehrgenerationenhaus/mgh-buergerzentrum-muehlenviertel|Mehrgenerationenhaus als offener Begegnungsort im Mühlenviertel.||website

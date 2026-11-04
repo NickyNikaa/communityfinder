@@ -1,0 +1,38 @@
+Dresden|Erasmus Student Network TU Dresden|studium|https://esn-dresden.de|Studentische Gruppe, die für internationale Studierende Ausflüge, Stammtische und Kennenlernabende organisiert.||website
+Dresden|AEGEE Dresden|studium|https://www.fomo-dresden.app/en/groups/aegee-dresden-e-v/|Interkulturelles Netzwerk für deutsche und internationale Studierende mit Treffen, Reisen und Austausch.||sonstige
+Dresden|AIESEC in Dresden|studium|https://www.fomo-dresden.app/en/groups/aiesec-in-dresden/|Studentische Organisation für internationalen Austausch, Praktika im Ausland und Freiwilligenprojekte.||sonstige
+Dresden|Universitätschor Dresden|musik|https://www.unichor-dresden.de|Großer Chor der Uni, in dem Studierende und andere Singbegeisterte große Chorwerke einstudieren und aufführen.||website
+Dresden|TU Big Band Dresden|musik|https://tubigband.de|Studentische Big Band, die Jazz, Swing und Pop spielt und regelmäßig Konzerte gibt.||website
+Dresden|Kammerchor Cantabile Dresden|musik|https://cantabile-dresden.de|A-cappella-Kammerchor aus dem Umfeld der Hochschulen mit anspruchsvollem Repertoire.||website
+Dresden|Universitätsorchester Dresden|musik|https://www.fomo-dresden.app/en/groups/universitaetsorchester-dresden/|Sinfonisches Orchester mit über 100 Mitgliedern, das Semesterprogramme erarbeitet und aufführt.||sonstige
+Dresden|DIE BÜHNE e.V.|kunst|https://die-buehne.tu-dresden.de/|Studentisches Amateurtheater der TU Dresden seit 1956, in dem man spielen oder hinter den Kulissen helfen kann.||website
+Dresden|Kino im Kasten|kunst|https://www.kino-im-kasten.de/|Ehrenamtlich betriebenes Studentenkino, das Filme zeigt und dafür Helfende sucht.||website
+Dresden|Folkloretanzensemble Thea Maass|tanz|https://www.fomo-dresden.app/en/groups/folkloretanzensemble-thea-maass-der-tu-dresden/|Studentisches Ensemble für Volkstanz, das bei Auftritten im In- und Ausland tanzt.||sonstige
+Dresden|Studentischer Fotoclub Dresden|foto|https://www.facebook.com/sfcdresden/|Fotogruppe von Studierenden mit Bildbesprechungen sowie Studio und Dunkelkammer.||facebook
+Dresden|404 University Esports Dresden|gaming|https://404-multigaming.de/university-esports/|Hochschulgruppe für E-Sport mit Turnieren und LAN-Treffen.||website
+Dresden|Amateurfunk an der TU Dresden (DL0TUD)|tech|https://dl0tud.tu-dresden.de/|Funkamateure mit eigener Clubstation, die auch bei der Vorbereitung auf die Lizenzprüfung helfen.||website
+Dresden|Rock Your Life! Dresden|engagement|https://www.fomo-dresden.app/en/groups/rock-your-life-dresden-e-v/|Studierende begleiten als Mentoren Jugendliche mit schwierigen Startbedingungen beim Übergang in den Beruf.||sonstige
+Dresden|Medinetz Dresden|engagement|https://www.medinetz-dresden.org|Ehrenamtliches Netzwerk, das anonyme medizinische Hilfe für Geflüchtete und Menschen ohne Papiere vermittelt.||website
+Dresden|Rotaract Club Dresden|engagement|https://www.fomo-dresden.app/en/groups/rotaract-club-dresden/|Service Club für junge Erwachsene mit regelmäßigen Treffen und sozialen Projekten.||sonstige
+Dresden|AG Radical Rainbows|queer|https://www.stura.tu-dresden.de/ag/rar|Queere Studierendengruppe als Anlaufstelle mit regelmäßigem Spieleabend.||website
+Dresden|Traumtänzer e.V.|spiele|https://www.fomo-dresden.app/en/groups/traumtaenzer-e-v/|Studentischer Verein mit mittelalterlichem Thema, Rollenspiel und Veranstaltungen.||sonstige
+Dresden|Schachboxen TU Dresden|sport|https://www.fomo-dresden.app/en/groups/schachboxen/|Hochschulgruppe, die Schach und Boxen im Wechsel kombiniert.||sonstige
+Dresden|Brettspielhelden Dresden|spiele|https://www.facebook.com/BrettspielheldenDresden/|Verein mit großer Spielesammlung und offenen Spieletreffs für Neugierige.|Montags und freitags ab 18:30 Uhr im KNZ Striesen|facebook
+Dresden|Freier Chor Dresden|musik|https://freier-chor-dresden.de/mitsingen/|Chorverein mit Konzerten und Probenwochenenden, Neue können vorab kostenlos schnuppern.|Montags 19:30 Uhr|website
+Dresden|Deutsch-Französischer Chor Dresden|musik|https://www.dfc-dresden.de/|Chor, der Lieder auf Deutsch und Französisch singt und besonders Tenöre, Bässe und Alte sucht.|Montags 18:50 Uhr während der Schulzeit|website
+Dresden|Haydn Orchester Dresden|musik|https://www.haydn-orchester-dresden.de/mitspielen|Laienorchester mit über 60 Musizierenden, das neue Mitspielende aufnimmt.|Montags 19 Uhr außer in den Ferien|website
+Dresden|Bläserkollegium Dresden|musik|https://blaeserkollegium.de/|Verein musikbegeisterter Laien, die in kleinen Kammermusikgruppen für Holz und Blech spielen.|Wöchentlich an der HTW|website
+Dresden|Gerede e.V.|queer|https://gerede-dresden.de/verein/|Queerer Verein mit vielen Gruppen und Treffs, etwa Stammtischen, Spielegruppe, Laufgruppe und Familientreff.||website
+Dresden|Fototreff Dresden e.V.|foto|https://fototreff-dresden.de/|Fotoclub für Anfänger und Fortgeschrittene mit Fototouren, Challenges und Discord.||website
+Dresden|Fotoclub Hellerau|foto|https://www.fotoclub-hellerau.de/|Kleiner Fotoclub in Hellerau, der Einsteiger und Erfahrene zu Bildbesprechungen einlädt.|Einmal im Monat mittwochs oder donnerstags 19 Uhr|website
+Dresden|DPSG Stamm Drachentöter|leute|https://www.dpsg-dresden.de/|Katholischer Pfadfinderstamm in Löbtau mit wöchentlichen Gruppenstunden in vier Altersstufen.||website
+Dresden|VCP Stamm Schwarzkiefer|leute|https://pfadfinderstamm-schwarzkiefer.vcp-sachsen.de/wer-wir-sind/|Ehrenamtlich geführter Pfadfinderstamm in Klotzsche mit Gruppen für Kinder ab 6 Jahren bis Jugendliche.||website
+Dresden|Foodsharing Dresden|engagement|https://foodsharing-dresden.de/mitmachen.php|Freiwillige retten Lebensmittel von Betrieben und verteilen sie über Fairteiler weiter.||website
+Dresden|ehrensache.jetzt Freiwilligenagentur|engagement|https://dresden.ehrensache.jetzt/|Plattform der Bürgerstiftung, die Interessierte an passende Ehrenämter in Dresden vermittelt.||website
+Dresden|Dresdner Nachtskaten|sport|https://ssb-dresden.de/wp-content/uploads/2024/09/Dresdner-Nachtskaten-e.V.pdf|Verein hinter den abendlichen Skate Touren durch die Stadt.||website
+Dresden|Dresdner Wanderer- und Bergsteigerbund|outdoor|https://ssb-dresden.de/wp-content/uploads/2024/09/Dresdner-Wanderer-und-Bergsteiger-Verein-e.V.pdf|Verein für gemeinsame Wanderungen und Bergtouren.||website
+Dresden|Schachverein Dresden-Striesen 1990|spiele|https://ssb-dresden.de/wp-content/uploads/2024/09/Schachverein-Dresden-Striesen-1990-e.V.pdf|Schachverein im Stadtteil Striesen.||website
+Dresden|Förderverein Schach Wolfgang Uhlmann|spiele|https://ssb-dresden.de/wp-content/uploads/2024/09/Foerderverein-Schach-Wolfgang-Uhlmann-e.V.pdf|Verein zur Förderung des Schachspiels in Dresden.||website
+Dresden|Dresdner Ruder Club 1902|sport|https://ssb-dresden.de/wp-content/uploads/2025/06/Dresdner-Ruder-Club-1902-e.-V.pdf|Traditioneller Ruderverein an der Elbe.||website
+Dresden|SV CH Sonnenland Orientierungssport|outdoor|https://ssb-dresden.de/wp-content/uploads/2026/08/SV-CH-Sonnenland-e.V._Orientierungssport.pdf|Sportverein mit Abteilung für Orientierungslauf.||website
+Dresden|Tauchclub Dresden Mitte|sport|https://ssb-dresden.de/wp-content/uploads/2024/09/Tauchclub-Dresden-Mitte-e.V.pdf|Tauchverein für Gerätetauchen.||website

@@ -1,0 +1,42 @@
+Mainz|Mainzer Brett|spiele|https://mainzer-brett.de/|Brettspieltag im Gemeinschaftsraum am Hartenberg, bei dem Neue und Stammspieler gemeinsam Spiele ausprobieren.|Etwa alle drei Monate|website
+Mainz|Spiel mit Ebersheim|spiele|https://www.facebook.com/SPIELMITebersheim/|Offener Spieleabend im Gemeindezentrum Drais-Lerchenberg für alle, die gern Brett- und Kartenspiele spielen.|Jeden zweiten Freitag in ungeraden Kalenderwochen, 19:30 Uhr|facebook
+Mainz|Rollenspielfreunde Klub|spiele|https://magic-seven.de/|Rollenspielgruppe in Mainz mit einem offenen Treff für Pen-and-Paper-Runden und neue Mitspielende.||website
+Mainz|Zeitreisen e.V.|spiele|https://www.zeitreisen-ev.de/|Verein für Tischrollenspiel, Live-Rollenspiel und erlebbare Geschichte mit Workshops und gemeinsamen Projekten.|Dienstags und freitags|website
+Mainz|Bachchor Mainz|musik|http://www.bachchormainz.de/|Großer Konzertchor mit Schwerpunkt auf Bach und Chormusik vom 16. Jahrhundert bis heute.|Donnerstags 19 Uhr, Christuskirche|website
+Mainz|Mainzer Singakademie|musik|http://www.mainzer-singakademie.de/|Chor für große Werke mit Orchester von Barock bis Hochromantik.|Dienstags 19:30 Uhr, Haus der Vereine|website
+Mainz|Mainzer Madrigalchor|musik|http://www.mainzer-madrigalchor.de/|Kammerchor für weltliche mehrstimmige Lieder, vor allem aus Renaissance und Barock.|Dienstags 20 Uhr, Paulusgemeinde|website
+Mainz|Colours of Gospel|musik|http://www.gospel-mainz.info/|Gospelchor, der moderne Gospelstücke in verschiedenen Stilrichtungen singt.|Donnerstags 20 Uhr|website
+Mainz|popCHORn|musik|http://www.popchorn.de/|Sehr großer Pop- und Rockchor mit englischsprachigen Songs und Gospel.|Donnerstags 20 Uhr, Klein-Winternheim|website
+Mainz|Collegium musicum der Universität Mainz|musik|http://www.collegium-musicum.uni-mainz.de/|Universitätschor und Orchester mit Konzerten und Oratorien, offen für Studierende und Interessierte.|Mittwochs 19 bis 22 Uhr in der Vorlesungszeit, Alte Mensa|website
+Mainz|Sinfonietta Mainz|musik|https://www.sinfonietta-mainz.de/orchester/neue-mitspieler|Projektorientiertes Laien-Sinfonieorchester, das mehrmals im Jahr aufführt und neue Mitspielende nach Vorspiel sucht.|Donnerstags|website
+Mainz|Ebersheimer Kammerorchester|musik|https://ebersheimer-kammerorchester.com/|Laienorchester aus Mainz-Ebersheim, das gemeinsam klassische Werke einstudiert.||website
+Mainz|Musical Inc.|kunst|http://www.musicalinc.de|Studentische Musicalgruppe der Uni Mainz, die jedes Jahr im Mai ein Musical auf die Bühne bringt, auch mit Jobs hinter den Kulissen.|Montags von November bis Mai|website
+Mainz|Die Affirmative|kunst|http://www.dieaffirmative.de|Improvisationstheater und Comedy-Gruppe mit offenen Proben für Interessierte.|Offene Proben jeden 3. Sonntag, 15 bis 17 Uhr|website
+Mainz|Medinetz Mainz|engagement|http://www.medinetzmainz.de|Studentische Initiative, die Menschen ohne Papiere oder Krankenversicherung an Ärztinnen und Ärzte vermittelt, die kostenlos behandeln.|Montags 20 Uhr|website
+Mainz|Refugee Law Clinic Mainz|engagement|http://www.rlc.uni-mainz.de|Studierende beraten unter Anleitung von Juristen kostenlos zu Asyl- und Aufenthaltsrecht.|Beratung montags und freitags nach Termin|website
+Mainz|Sprachcafé des Studierendenwerks Mainz|sprachen|https://www.studierendenwerk-mainz.de/en/freetime/sprachcafe|Lockerer Austausch zwischen Studierenden verschiedener Muttersprachen zum Üben von Fremdsprachen.||website
+Mainz|Schwuguntia|queer|http://www.schwuguntia.de/|Queerer Verein, der seit 1993 queeres Leben in Mainz sichtbar macht und den CSD Mainz organisiert.|Jeden 1. Dienstag im Monat, 20 Uhr, Bar jeder Sicht|website
+Mainz|QiM Queere Jugendarbeit in Mainz|queer|https://qim-ev.jimdosite.com/|Jugendgruppen für queere junge Menschen zum Austausch und für gemeinsame Aktivitäten.|Montags 18 Uhr (13 bis 18 Jahre), 2. und 4. Dienstag 19 Uhr (18 bis 25 Jahre)|website
+Mainz|Rainbow Refugees Mainz|queer|https://rainbow-refugees-mainz.jimdosite.com/|Unterstützungsgruppe für queere Geflüchtete, offen auch für alle anderen.|Jeden 3. Donnerstag im Monat, 19 Uhr, Bar jeder Sicht|website
+Mainz|MainzTS Stammtisch|queer|https://www.facebook.com/MainzTS.Stammtisch|Offener Stammtisch für trans Personen und alle, die sich nicht mit dem bei Geburt zugewiesenen Geschlecht identifizieren, auch für Angehörige.|Jeden 4. Sonntag im Monat, 19 Uhr, Bar jeder Sicht|facebook
+Mainz|Kwiere FLINTAs Mainz|queer|https://www.instagram.com/kwiereflintasmainz/|Treffen und Veranstaltungen für queere FLINTA-Personen.|3. Dienstag in ungeraden Monaten, 19 Uhr, Bar jeder Sicht|instagram
+Mainz|Kinder des Olymp|queer|http://www.kinder-des-olymp.org/|Queere Freizeitsportgruppe mit Badminton, Fußball, Laufen, Nordic Walking, Volleyball und Wandern.||website
+Mainz|Die Uferlosen|queer|http://www.uferlose.de/|Schwul-lesbischer Chor aus Mainz und Wiesbaden, der neue Stimmen sucht.|Montags 20 Uhr, Reduit in Mainz-Kastel|website
+Mainz|Pfadfinder Stamm Tilia|familie|https://www.bdp-mainz.de/stamm|Pfadfinderstamm mit Meute für Kinder von 7 bis 12 Jahren und einer Runde für Ältere mit wöchentlichen Gruppenstunden, Fahrten und Lagern.|Wöchentliche Gruppenstunden|website
+Mainz|Pfadfinder VCP Gonsenheim|familie|https://www.ekg-gonsenheim.de/angebote/kinder-jugend/pfadfinder/|Evangelische Pfadfindergruppe in Gonsenheim für Kinder und Jugendliche.||website
+Mainz|Fotoclub Mainz e.V.|foto|https://www.fotoclub-mainz.de/index.php/termine-2|Fotoverein, der bei Clubabenden mitgebrachte Bilder zu Jahresthemen bespricht und Ausflüge und Ausstellungen organisiert.|Clubabende montags 19:30 Uhr|website
+Mainz|Schachfreunde Mainz 1928|spiele|https://www.schachfreunde-mainz.de/|Schachverein mit Mannschaften, Jugendtraining und monatlichen Spielabenden, Gäste und neue Mitglieder sind willkommen.|Monatlicher Spielabend, Jugendtraining samstags|website
+Mainz|Famous Toastmasters Mainz|business|https://famous-toastmasters.org/meetings/|Toastmasters-Club zum Üben von Redekunst und Führungskompetenz in lockerer Runde.|Jeden 2. und 4. Donnerstag im Monat|website
+Mainz|Rhetorik Club Mainz Toastmasters|business|https://www.facebook.com/RhetorikClubMZ/|Toastmasters-Club in Mainz, in dem man Reden hält und Feedback bekommt.||facebook
+Mainz|Foodsharing Mainz|engagement|https://www.foodsharing-mainz.de/|Netzwerk, das Lebensmittel bei Betrieben und Privatleuten rettet und kostenlos weitergibt.||website
+Mainz|Tauschring Mainz|leute|https://mainzimwandel.de/gruppe/tauschring-mainz/|Geldloser Austausch von Zeit und Fähigkeiten unter Nachbarn.||website
+Mainz|Mainz Kocht!|essen|https://mainzimwandel.de/gruppe/mainz-kocht/|Gemeinsames Kochen und Essen über Generationen hinweg.||website
+Mainz|Offene Werkstatt Mainz|leute|https://mainzimwandel.de/gruppe/offene-werkstatt-mainz/|Gemeinnützige Werkstatt zum Werken, Basteln und Reparieren.||website
+Mainz|Bike Kitchen Mainz|mobil|https://mainzimwandel.de/gruppe/bike-kitchen-mainz-fahrrad-selbsthilfe/|Fahrrad-Selbsthilfewerkstatt, in der man mit Hilfe das eigene Rad repariert.||website
+Mainz|Deep Space Mainz|tech|https://mainzimwandel.de/gruppe/deep-space-mainz/|Werkstatt für 3D-Druck, Mikrocontroller und Programmierung.|Mittwochs ab 17 Uhr|website
+Mainz|NaturFreunde Mainz|outdoor|https://www.naturfreunde.de/ortsgruppe/ortsgruppe-mainz|Ortsgruppe des Freizeitverbands für Natur, Umwelt, Sport und Kultur.||website
+Mainz|Seebrücke Mainz|engagement|https://mainzimwandel.de/gruppe/seebruecke-mainz/|Lokale Gruppe der Seebrücke-Bewegung für sichere Fluchtwege und aufnahmebereite Städte.||website
+Mainz|Greenpeace Mainz-Wiesbaden|engagement|https://mainzimwandel.de/gruppe/greenpeace-mainz-wiesbaden/|Regionale Greenpeace-Gruppe mit Aktionen zu Klima und Umwelt.||website
+Mainz|Geographie für Alle e.V.|lernen|https://mainzimwandel.de/gruppe/geografie-fuer-alle-e-v/|Verein mit Stadtrundgängen und Erkundungen des Umlands.||website
+Mainz|Astronomische Arbeitsgemeinschaft Mainz und Umgebung|lernen|https://wir-tun-was.rlp.de/mitmachen/vereins-datenbank/eintrag-58905b219a2600078bd646bf|Verein für Hobbyastronomie in Mainz und Umgebung.||website
+Mainz|Heimat- und Geschichtsverein Finthen 1991|lernen|https://wir-tun-was.rlp.de/mitmachen/vereins-datenbank/eintrag-5888c4379a26001c6151acb6|Verein, der die Geschichte und Heimatkunde des Stadtteils Finthen pflegt.||website

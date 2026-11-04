@@ -1,0 +1,43 @@
+Essen|Philharmonischer Chor Essen|musik|https://www.philharmonischerchor-essen.de/proben/|Konzertchor, der große Chorwerke einstudiert und neue Sängerinnen und Sänger zum Mitsingen einlädt. Geprobt wird im Aalto Musiktheater.||website
+Essen|Essener Madrigalchor|musik|https://www.essenermadrigalchor.de|Chor aus dem Essener Sängerkreis, der unter der Woche mittwochs probt.|Mittwochs 18:30 Uhr|website
+Essen|Chor en route|musik|https://chor-en-route.de|Chorgruppe im Essener Sängerkreis mit wöchentlicher Probe.|Donnerstags 19 Uhr|website
+Essen|Studiochor Essen|musik|http://www.studiochor-essen.de|Chor mit Probe am Samstagnachmittag, geeignet für alle, die lieber am Wochenende singen.|Samstags 16 Uhr|website
+Essen|Ruhrschrei|musik|https://www.ruhrschrei-chor.de|Chor im Essener Sängerkreis, der montagabends zusammenkommt.|Montags 19:30 Uhr|website
+Essen|Nyklang|musik|https://nyklang.de/|Chor, der mittwochabends probt und im Essener Sängerkreis organisiert ist.|Mittwochs 19:45 Uhr|website
+Essen|Chor Schräglage|musik|https://www.chor-schraeglage.de|Singgruppe mit Probe am Donnerstagabend.|Donnerstags 20 Uhr|website
+Essen|Urban Voices|musik|http://www.urban-voices.de/|Chor, der dienstags am frühen Abend probt.|Dienstags 18 Uhr|website
+Essen|Vielhomonie Rhein-Ruhr|musik|http://www.vielhomonie.de|Chor im Essener Sängerkreis mit Probe am Donnerstagabend.|Donnerstags 20 Uhr|website
+Essen|Seemannschor Blaue Jungs Essen|musik|https://www.blaue-jungs-essen.de|Shanty- und Seemannslieder gemeinsam singen, mit wöchentlicher Probe.|Dienstags 19 Uhr|website
+Essen|Montagschor Essen-Werden|musik|https://www.montagschor-essen-werden.de|Chor aus Werden, der montags am Abend probt.|Montags 19:30 Uhr|website
+Essen|NEFES Chor und Ensemble|musik|http://www.nefesmusik.de|Chor und Ensemble, das türkische Lieder und Musiktradition pflegt.|Donnerstags 18:30 Uhr|website
+Essen|BigBandits der Universität Duisburg-Essen|musik|http://www.bigbandits.org/|Big Band aus Studierenden der Universität Duisburg-Essen.||website
+Essen|Spieletreff Königssteele|spiele|https://spieletreff-steele.de/|Offener und kostenloser Brettspielabend für Jung und Alt im Gemeindezentrum Königssteele, spontanes Vorbeikommen reicht.|Jeden 1., 3. und 5. Sonntag im Monat, 18 bis 22 Uhr|website
+Essen|Essener Spielenacht|spiele|https://www.essener-spielenacht.de/|Monatlicher offener Brett- und Kartenspieltreff in Holsterhausen für Leute von 16 bis über 70, eigene Spiele sind willkommen.|Meist am 1. Sonntag im Monat, 17 Uhr|website
+Essen|Schachklub Holsterhausen|spiele|https://skholsterhausen.de/|Schachverein im Essener Stadtteil Holsterhausen.||website
+Essen|Kettwiger Schachgesellschaft KSG48|spiele|https://www.ksg48.de/|Schachverein in Kettwig mit Vereinsabenden und Ligaspielbetrieb.||website
+Essen|Schachfreunde Essen-Werden 1924/80|spiele|https://sf-werden.de/verein/|Schachverein in Werden, der Spielabende und Mannschaftskämpfe organisiert.||website
+Essen|together Essen|queer|https://www.queere-jugend-nrw.de/english/projekte/together-essen|Jugendcafé für lesbische, schwule, bi, pan, trans und inter Jugendliche von 14 bis 26 Jahren mit Kicker, Spielen und Konsolen. An verschiedenen Tagen gibt es Abende für Mädels, Jungs, trans* Personen und alle zusammen.|Dienstags, Mittwochs, Freitags 17:30 bis 23 Uhr, Sonntags 16 bis 23 Uhr|website
+Essen|Ruhr Speakers Toastmasters Essen|business|https://toastmasters-essen.de/|Deutschsprachiger Toastmasters-Club, in dem man Reden vor Publikum, Feedback und Moderieren übt.|Jeden 1. und 3. Dienstag im Monat, 19 bis 21 Uhr|website
+Essen|Rotaract Club Essen|engagement|https://essen.rotaract.de/|Club junger Erwachsener ab 18, der soziale Projekte in Essen unterstützt und gemeinsam Vorträge und Geselligkeit pflegt.|Etwa zweimal im Monat|website
+Essen|NABU Ruhr|engagement|https://www.nabu-ruhr.de/mitmachen/|Naturschutzverband mit Arbeitsgruppen zu Amphibien, Fledermäusen, Eulen und mehr sowie praktischen Einsätzen in Essen und Umgebung.|Stammtisch Naturschutz monatlich, 19 Uhr|website
+Essen|Ehrenamt Agentur Essen|engagement|https://www.ehrenamtessen.de/engagieren/ehrenamtliche/|Vermittelt Interessierte in Ehrenamtsprojekte in Essen und berät zu Engagementmöglichkeiten.||website
+Essen|Medinetz Essen|engagement|https://www.instagram.com/medinetz_essen/|Studentische Gruppe der Hochschulgruppe Medizin, die Menschen ohne Krankenversicherung medizinische Hilfe vermittelt.||instagram
+Essen|Initiative für Nachhaltigkeit Essen-Duisburg|engagement|https://www.uni-due.de/ifn/|Studentischer Verein, der Nachhaltigkeit an der Universität und in der Öffentlichkeit bekannter machen will.||website
+Essen|CampusFM Duisburg-Essen|studium|https://campusfm.info/|Campusradio der Universität Duisburg-Essen, das von Studierenden gemacht wird.||website
+Essen|ArbeiterKind.de Duisburg-Essen|studium|https://arbeiterkind.de/mitmachen/lokale-gruppen/duisburg-essen/|Ehrenamtliche Ortsgruppe, die Schülerinnen und Studierende aus Nichtakademikerfamilien beim Studium unterstützt.||website
+Essen|E-Team Duisburg-Essen|tech|http://eteam-due.de/content/|Studentisches Team, das Elektromobilität und Fahrzeugbau als Projekt voranbringt.||website
+Essen|JungesChemieForum Essen-Duisburg|studium|https://www.uni-due.de/jcf-duisburg-essen/|Netzwerk für junge Chemikerinnen und Chemiker mit Veranstaltungen rund ums Studium und den Berufseinstieg.||website
+Essen|Thesis e.V.|studium|https://www.thesis.de/|Interdisziplinäres Netzwerk für Promovierende und Promovierte mit Austausch und Workshops.||website
+Essen|Pakistan Students Association Duisburg-Essen|studium|http://www.psa-ude.com/|Studentische Vereinigung, die pakistanischen und anderen Studierenden Austausch und Kulturveranstaltungen bietet.||website
+Essen|DEISA Indien Student Association|studium|https://www.instagram.com/teamdeisa/|Gruppe indischer Studierender an der Universität Duisburg-Essen mit Treffen und Kulturangeboten.||instagram
+Essen|ACT e.V. studentische Unternehmensberatung|business|https://act-ev.de/|Studentische Beratungsinitiative, in der man praktische Projekterfahrung sammelt.||website
+Essen|Interkulturelles Bildungszentrum IBZ|leute|https://ibz-essen.de/|Verein, der Studierende aus aller Welt zusammenbringt und Begegnung und Austausch fördert.||website
+Essen|ETB Schwarz-Weiss Essen|sport|http://www.etb-schwarz-weiss.de|Großer Sportverein in Rüttenscheid mit mehreren Abteilungen.||website
+Essen|TUSEM Essen 1926|sport|http://www.tusem.de|Traditionsverein von der Margarethenhöhe, bekannt für Handball.||website
+Essen|TuS Essen-Rüttenscheid 1887|sport|http://www.tus-ruettenscheid.de|Turn- und Sportverein im Stadtteil Rüttenscheid.||website
+Essen|TV Essen-Ost 1888|sport|https://www.tv-essen-ost.de|Turnverein im Essener Südostviertel mit Breitensport.||website
+Essen|TVG Steele 1863|sport|https://www.tvg-steele.de|Turnverein in Steele mit Angeboten für verschiedene Altersgruppen.||website
+Essen|FUM-TV 1953 Essen-Werden|sport|http://www.fum-tv-essen.de|Sportverein in Werden mit Breitensportangeboten.||website
+Essen|Judo-Kampfgemeinschaft Essen|sport|https://www.jkgessen-nrw.de/|Judoverein und Stützpunktverein im Programm Integration durch Sport.||website
+Essen|Heidhauser Turnklub 1961|sport|https://www.turnklub-heidhausen.de|Kleiner Turnverein im Stadtteil Heidhausen.||website
+Essen|PSV Essen 1922|sport|https://www.psv-essen.de|Polizei-Sportverein, der auch Menschen außerhalb der Polizei offensteht.||website

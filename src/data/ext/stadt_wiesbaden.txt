@@ -1,0 +1,58 @@
+Wiesbaden|Chor der Stadt Wiesbaden|musik|https://chor-der-stadt-wiesbaden.de/proben/|Ambitionierter Konzertchor, der neue Stimmen mit Chorerfahrung sucht. Eine Probe kann man unverbindlich besuchen, danach folgt ein Vorsingen.|Dienstags 19:30 Uhr, Gemeindesaal St. Elisabeth|website
+Wiesbaden|PopJazzChor Wiesbaden|musik|https://www.pop-jazz-chor-wiesbaden.de/index.html|Chor für Pop und Jazz in Biebrich, der besonders Tenöre und Bässe sucht. Vorab per Mail melden, dann kann man reinschnuppern.|Donnerstags 20 Uhr, Waldorfschule Biebrich|website
+Wiesbaden|Vokalmusik Wiesbaden|musik|https://www.vokalmusik-wiesbaden.de/|Vokalensemble in Wiesbaden mit eigener Konzertreihe. Für Interessierte lohnt sich die Anfrage über die Webseite.||website
+Wiesbaden|Fotografische Gesellschaft Wiesbaden|foto|https://www.fg-wiesbaden.de/die-fgw|Traditionsreicher Fotoverein von 1904 mit Bilddiskussionen, Bildbearbeitungshilfe, Ausstellungen und monatlichen Fotothemen.|Alle zwei Wochen, Clubabend|website
+Wiesbaden|Wiesbaden Photography|foto|https://www.meetup.com/de-de/wiesbaden-photography/|Meetup Gruppe für Fotobegeisterte, die gemeinsam in und um Wiesbaden fotografieren gehen.||meetup
+Wiesbaden|Nachbarschaftshaus Wiesbaden Treffcafé|familie|https://nachbarschaftshaus-wiesbaden.de/mehrgenerationenhaus/mgh-angebote/|Mehrgenerationenhaus in Biebrich mit offenem Treffcafé, Bücherplausch, Bastelzirkus und Elternsprechstunde für alle Generationen.|Treffcafé Montag bis Freitag 9 bis 17 Uhr|website
+Wiesbaden|Kubis Westend Sprachcafé|sprachen|https://www.kubis-wiesbaden.de/angebote/|Stadtteilverein im Westend, bei dem man mit Ehrenamtlichen Deutsch übt. Dazu gibt es einen offenen Musiktreff zum gemeinsamen Musizieren.|Sprachcafé dienstags 18:15 Uhr, Musiktreff mittwochs 18:15 Uhr|website
+Wiesbaden|Biebrich spielt|spiele|https://spielundkultur.de/spiel-mit-in-wiesbaden/|Offener Brettspielabend im Stadtteilbüro BauHof in Biebrich, bei dem Neue willkommen sind.|Dienstags 19 bis 22 Uhr|website
+Wiesbaden|Mitte spielt|spiele|https://www.gesellschaftsspieler-gesucht.de/treffen/mitte-spielt-oeffentlicher-brettspieletreff/wiesbaden-an-der-ringkirche-3/65197/09faa2c2-3749-4b31-97e5-ce3cf2ca713c|Öffentlicher Brettspieltreff im Gemeindehaus der Ringkirche mitten in der Stadt.|Mittwochs ab 19 Uhr|website
+Wiesbaden|Brettspiel Treff Glücksritter|spiele|http://www.brettspieltreff-wiesbaden.de/|Brettspielrunde, die sich in wechselnden Lokalen in Wiesbaden trifft.|Donnerstags ab 19 Uhr|website
+Wiesbaden|Spieletreff Dotzheim|spiele|https://www.facebook.com/groups/1215702836460916/about?locale=de_DE|Spieletreff im evangelischen Gemeindezentrum Dotzheim, organisiert über eine Facebook Gruppe.|Donnerstags 19 Uhr|facebook
+Wiesbaden|Spieletreff im Stadtjugendpfarramt|spiele|https://www.stajupfa.de/|Monatlicher Spieleabend im Bonhefferhaus mit langem Zeitfenster zum Mitspielen.|Jeden 3. Donnerstag im Monat, 19 bis 23 Uhr|website
+Wiesbaden|Civitas Mattiacorum|spiele|http://facebook.com/CivitasMattiacorum/|Tabletop und Miniaturenspieler, die sich in der Kreativfabrik treffen.||facebook
+Wiesbaden|Sidnalta|spiele|https://www.sidnalta.de/|Liverollenspiel Gruppe in Biebrich, laut Webseite mit Treffen am Mittwoch.|Mittwochs|website
+Wiesbaden|Makerspace Wiesbaden e.V.|tech|https://makerspace-wi.de/|Offene Werkstatt mit Holz, Metall, Elektronik, 3D Druck und Lasercutter. Es gibt einen monatlichen Elektronik und IT Stammtisch sowie Brettspieltage.|Stammtisch monatlich montags ab 19 Uhr|website
+Wiesbaden|Wiesbadener Schachverein|spiele|https://wiesbadener-schachverein.de/wiesbadener-schachverein/86-aktuelles/115-sg-ist-deutscher-meister.html|Schachverein mit Spielbetrieb und Jugendtraining in Wiesbaden.||website
+Wiesbaden|DPSG Schierstein|familie|https://dpsg-schierstein.de/|Katholischer Pfadfinderstamm in Schierstein mit Gruppenstunden und Fahrten für Kinder und Jugendliche.||website
+Wiesbaden|Pfadfinder der Kreuzkirchengemeinde|familie|https://kreuzkirchengemeinde-wiesbaden.ekhn.de/kinder-jugend/pfadfinder|Pfadfindergruppe der evangelischen Kreuzkirchengemeinde für Kinder und Jugendliche.||website
+Wiesbaden|Pfadfinder St. Birgid|familie|https://www.st-birgid.de/jugend/pfadfinder/|Pfadfindergruppe der Pfarrei St. Birgid mit Angeboten für Kinder und Jugendliche.||website
+Wiesbaden|Verschönerungs und Verkehrsverein Biebrich|engagement|http://www.vvb-biebrich.de|Heimatverein in Biebrich, der ein Heimatmuseum betreibt und sich um den Stadtteil kümmert.|Museum Di 10 bis 12 Uhr, Mi und Do 16 bis 19 Uhr|website
+Wiesbaden|Heimatverein Delkenheim|engagement|http://www.heimatverein-delkenheim.de|Heimatverein mit Museum und Veranstaltungen rund um die Geschichte von Delkenheim.|Museum am 1. Sonntag im Monat|website
+Wiesbaden|Heimat und Verschönerungsverein Dotzheim|engagement|http://www.hv-dotzheim.de|Heimatverein in Dotzheim mit Museum und Pflege der Ortsgeschichte.|Museum sonntags 10 bis 12 Uhr|website
+Wiesbaden|Heimatmuseum Erbenheim e.V.|engagement|http://www.heimatmuseum-erbenheim.de|Verein, der das Heimatmuseum in Erbenheim trägt und die Stadtteilgeschichte lebendig hält.|Museum am letzten Sonntag im Monat, 14 bis 17 Uhr|website
+Wiesbaden|Burgverein Frauenstein|engagement|http://www.burgverein-frauenstein.de|Verein rund um die Burgruine Frauenstein mit Pflege und Veranstaltungen.||website
+Wiesbaden|Heimat und Geschichtsverein Igstadt|engagement|http://www.igstadt-hgv.de|Geschichtsverein, der die Ortsgeschichte von Igstadt erforscht und präsentiert.||website
+Wiesbaden|Gesellschaft für Heimatgeschichte Kastel|engagement|http://www.museum-castellum.de|Verein hinter dem Museum Castellum in Kastel mit Fokus auf die römische und lokale Geschichte.|Museum März bis November sonntags 10:30 bis 12:30 Uhr|website
+Wiesbaden|Heimatverein Kostheim|engagement|http://www.heimatmuseum-kostheim.de|Heimatverein mit Museum in Kostheim und Pflege der Ortsgeschichte.|Museum am 1. und 3. Sonntag im Monat|website
+Wiesbaden|Geschichts und Heimatverein Naurod|engagement|http://www.ghv-naurod.de|Verein für die Geschichte Nauroder Ortes mit Heimatmuseum.|Museum September bis Mai am 1. Sonntag im Monat, 15 bis 17 Uhr|website
+Wiesbaden|Historische Werkstatt Nordenstadt|engagement|http://www.museum-nordenstadt.de|Ehrenamtlich getragene Werkstatt und Museum zur Geschichte von Nordenstadt.|1. und 3. Sonntag im Monat, 15 bis 17 Uhr|website
+Wiesbaden|NABU Wiesbaden|outdoor|https://www.nabu-wiesbaden.de/mitmachen/|Naturschutzgruppe mit Streuobstpflege, Nistkästen und Stadtnatur Projekten. Neue können zum monatlichen Treffen kommen.|Jeden 1. Dienstag im Monat, 19 Uhr|website
+Wiesbaden|NAJU Wiesbaden|outdoor|https://www.nabu-wiesbaden.de/naju/|Naturschutzjugend des NABU Wiesbaden mit Aktionen in der Natur für junge Leute.||website
+Wiesbaden|ADFC Wiesbaden Rheingau Taunus|mobil|https://www.adfc-wiesbaden.de/ueber-uns/|Fahrradclub mit Tourenprogramm, Mittwochsradlern, Rennradgruppe, Lastenradverleih und Einsatz für sichere Radwege.|Touren im Sommerhalbjahr wöchentlich|website
+Wiesbaden|Rhein Taunus Klub|outdoor|https://wiesbaden-lebt.de/natur-erleben-mit-dem-rhein-taunus-klub|Wanderverein, der gemeinsame Wanderungen in Taunus und Rheingau anbietet.||website
+Wiesbaden|Stadtjugendring Wiesbaden|engagement|https://sjr-wiesbaden.de/ueber-uns/|Zusammenschluss der Jugendverbände in Wiesbaden mit Angeboten und Beteiligungsprojekten für junge Menschen.||website
+Wiesbaden|Freiwilligen Zentrum Wiesbaden|engagement|https://www.fwz-wiesbaden.de/fuer-freiwillige/|Vermittelt Interessierte an passende Ehrenamtsstellen in der Stadt, auch über einen Engagementfinder.||website
+Wiesbaden|foodsharing Wiesbaden|engagement|https://wiesbaden-lebt.de/initiative-foodsharing-zu-besuch-im-umweltladen|Initiative, die Lebensmittel vor dem Wegwerfen rettet und weitergibt.||website
+Wiesbaden|AStA Hochschule RheinMain|studium|https://www.facebook.com/AStA.HSRM.Wi/|Studierendenvertretung der Hochschule RheinMain am Standort Wiesbaden mit Beratung und Veranstaltungen.||facebook
+Wiesbaden|Tandem Sprachtreff Bergkirche|sprachen|http://bergkirche.de/gruppen/tandem-sprachkurs/|Sprachtandem Gruppe der Bergkirchengemeinde, in der man sich beim Deutsch Sprechen und Kennenlernen austauscht.||website
+Wiesbaden|Angekommen Wiesbaden|engagement|https://www.angekommen-wiesbaden.de/|Initiative zur Begleitung und Vernetzung von Neuankommenden in Wiesbaden.||website
+Wiesbaden|Round Table Wiesbaden 131|leute|http://www.round-table-wiesbaden.de/|Serviceclub für Männer bis 40 mit Treffen und sozialen Projekten.||website
+Wiesbaden|1. Volleyball Club Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233468|Volleyballverein in Wiesbaden.||website
+Wiesbaden|Wiesbadener Badminton Club|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233954|Badmintonverein in Wiesbaden.||website
+Wiesbaden|La Boule Joyeuse Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233938|Boule und Pétanque Verein in Wiesbaden.||website
+Wiesbaden|Cricket Club Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233934|Cricketverein in Wiesbaden.||website
+Wiesbaden|Wiesbaden Phantoms American Football Club|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233700|American Football Verein in Wiesbaden.||website
+Wiesbaden|Basketball Club 1952 Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233306|Basketballverein in Wiesbaden.||website
+Wiesbaden|1. Pool Billard Club Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233704|Billardverein in Wiesbaden.||website
+Wiesbaden|Bowlingclub Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233476|Bowlingverein in Wiesbaden.||website
+Wiesbaden|Deutscher Hockey Club Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233511|Hockeyverein in Wiesbaden.||website
+Wiesbaden|Rudergesellschaft 1888 Wiesbaden Biebrich|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=232944|Rudern auf dem Rhein in Biebrich.||website
+Wiesbaden|Kasteler Ruder und Kanu Gesellschaft 1880|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=235317|Ruder und Kanuverein in Kastel.||website
+Wiesbaden|Hafenclique Schierstein Drachenboot Team|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233865|Drachenboot Team in Schierstein.||website
+Wiesbaden|Roll und Schlittschuhclub 1955 Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233354|Verein für Rollsport und Eislauf in Wiesbaden.||website
+Wiesbaden|Schneesportverein Biebrich|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=242317|Schneesportverein in Biebrich.||website
+Wiesbaden|Mädchen und Frauen Fussball Club Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233958|Fußballverein für Mädchen und Frauen in Wiesbaden.||website
+Wiesbaden|Eishockey und Inline Hockey Club Wiesbaden Vikings|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233960|Eishockey und Inlinehockey Verein in Wiesbaden.||website
+Wiesbaden|Judo Club 1922 Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233399|Judoverein in Wiesbaden.||website
+Wiesbaden|Schwimm Club 1911 Wiesbaden|sport|https://www.sportkreis-wiesbaden.de/verzeichnis/visitenkarte.php?mandat=233407|Schwimmverein in Wiesbaden.||website

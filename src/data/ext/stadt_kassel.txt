@@ -1,0 +1,58 @@
+Kassel|allerleih e.V.|engagement|http://www.dein-allerleih.de/|Leihbibliothek der Dinge: Werkzeug und Ausrüstung lässt sich günstig ausleihen, statt sie zu kaufen.||website
+Kassel|Amnesty International Hochschulgruppe Kassel|engagement|https://www.facebook.com/amnestyinternationalunikasselversitaet/|Studierende setzen sich mit Aufklärung und lokalen Aktionen für Menschenrechte ein.||facebook
+Kassel|AMUZAbag e.V.|engagement|http://www.amuzabag.com/|Der Verein füllt Rucksäcke mit Spielzeug und Bastelmaterial und verteilt sie in Workshops an geflüchtete Kinder.||website
+Kassel|ArbeiterKind.de Kassel|studium|http://www.arbeiterkind.de/|Ehrenamtliche unterstützen Studierende der ersten Akademikergeneration mit Beratung, Schulbesuchen und Stammtischen.||website
+Kassel|Arbeitskreis Medien|kunst|http://www.akmedien.de/|Studentisches Medienprojekt, das unter anderem das Magazin Das Organ und ein Online-Magazin betreut.|Monatliches Treffen im StudiHaus|website
+Kassel|Arbeitskreis Plurale Ökonomik Kassel|lernen|https://www.facebook.com/pluraleoekonomikkassel|Vorträge, Filme und Diskussionen für eine vielfältigere Sicht auf die Wirtschaftswissenschaften.||facebook
+Kassel|Campus Kino Kassel|kunst|https://www.unifilm.de/studentenkinos/Kassel|Studentisch betriebenes Hörsaalkino mit Filmen während der Vorlesungszeit.|Dienstags und donnerstags, Einlass 20:10 Uhr, Film 20:30 Uhr|website
+Kassel|CampusGarten Universität Kassel|outdoor|https://www.facebook.com/CampusGartenKassel|Offener Gemeinschaftsgarten auf dem Campus vor dem Studierendenhaus, in dem alle mitgärtnern können.|Mittwochs 16 Uhr|facebook
+Kassel|Campusradio Kassel|kunst|https://campusradio-kassel.gitlab.io/site/|Studentische Radiosendung auf Freies Radio Kassel, die alle zwei Wochen ausgestrahlt wird.||website
+Kassel|DEGIS Kassel|studium|https://www.instagram.com/degis_kassel/|Verein für internationale Studierende mit Infoangeboten und Aktivitäten rund um Berufseinstieg und Fähigkeiten.||instagram
+Kassel|Eat & Talk Kassel|leute|https://www.facebook.com/EatandTalk1/?fref=ts|Studierende verschiedener Nationen kommen beim gemeinsamen Essen ins Gespräch und tauschen Kulturen aus.||facebook
+Kassel|Effektiver Altruismus Kassel|engagement|https://forum.effectivealtruism.org/groups/5XP4AHY9tD3SEdJjY|Lokalgruppe, die diskutiert, wie man mit begrenzten Mitteln möglichst viel Gutes bewirkt.||forum
+Kassel|einzigART|kunst|http://www.facebook.com/einzigart|Junge Freunde des Museumsvereins Kassel mit etwa einer Kulturveranstaltung pro Monat an wechselnden Orten.|Einmal im Monat|facebook
+Kassel|Evangelische Studierendengemeinde Kassel|studium|http://www.esg-kassel.de/|Evangelische Gemeinde für Studierende mit Gottesdiensten, Gesprächen und Gemeinschaft.||website
+Kassel|Falken-Hochschulgruppe Kassel|engagement|https://falken-hessen.de/kontakt/b-ro-hessen-nord/kreisverband-kassel|Lesekreise und Diskussionen zu Hochschule und Pädagogik im Umfeld der Sozialistischen Jugend.||website
+Kassel|Finance Group Universität Kassel|business|https://www.financegroup-kassel.de/|Gemeinnützige Studierendeninitiative mit Vorträgen, Workshops und Exkursionen rund um Aktien und Finanzen.||website
+Kassel|Foodsharing Kassel|engagement|https://www.facebook.com/foodsharing.kassel/|Gerettete Lebensmittel aus Läden und Bäckereien werden verteilt, unter anderem am FairTeiler im Studierendenhaus.||facebook
+Kassel|Hilfskräfteinitiative Kassel|engagement|https://hilfskraefteinitiativekassel.wordpress.com/|Studentische Beschäftigte setzen sich für bessere Arbeitsbedingungen an der Uni ein.||website
+Kassel|Herkules Hochschulgruppe für Außen- und Sicherheitspolitik|lernen|https://www.facebook.com/pg/HerkulesKS/ads/|Vorträge und Debatten zu Außen- und Sicherheitspolitik für Studierende.||facebook
+Kassel|Infinity Kassel e.V.|engagement|https://www.infinitykassel.com/|Verein für nachhaltiges Leben und regionale, neue Lösungen für ökologische und soziale Fragen.||website
+Kassel|Ingenieure ohne Grenzen Regionalgruppe Kassel|engagement|https://ingenieure-ohne-grenzen.org/de/kassel|Ehrenamtliche Ingenieure und Studierende bauen Wasser-, Strom- und Sanitärprojekte in Entwicklungsländern.||website
+Kassel|Initiative für wirtschaftliche Jugendbildung e.V.|lernen|https://www.iwjb.de/|Junge Leute erklären Schülerinnen und Schülern wirtschaftliche Themen, etwa beim Zukunftstag.||website
+Kassel|in progress Studentisches Orchester der Uni Kassel|musik|https://inprogresskassel.de/|Studentisches Orchester, das seit 2012 gemeinsam probt und Konzerte gibt.||website
+Kassel|Iranian Community of the University of Kassel|studium|https://www.instagram.com/iranian_unikassel/|Treffpunkt und Hilfe für iranische Studierende mit Veranstaltungen, Beratung und Wohnungstipps.||instagram
+Kassel|Jungen Europäischen Föderalisten Kassel|engagement|https://www.instagram.com/jefkassel/|Lokalgruppe eines überparteilichen proeuropäischen Jugendverbands.||instagram
+Kassel|Kassel kohlefrei|engagement|https://kassel-kohlefrei.de/|Bündnis, das sich per Bürgerbegehren für einen verbindlichen Kohleausstieg in Kassel einsetzt.||website
+Kassel|Klimagerechtigkeit Kassel (Kligk)|engagement|https://klimagerechtigkeit-kassel.org/author/kligk/|Klimagerechtigkeitsgruppe in Kassel mit Aktionen und Austausch.||website
+Kassel|LEO-Club Kassel|engagement|https://www.facebook.com/leoclubkassel/|Jugendorganisation von Lions International, die benachteiligte Menschen unterstützt.||facebook
+Kassel|Magic Club Uni Kassel|spiele|https://linktr.ee/unikasselmtg|Magic-The-Gathering-Gruppe mit wöchentlichen Commander-Abenden und Sealed-Turnieren, Absprachen laufen über Discord.|Wöchentlich|sonstige
+Kassel|Muslimische Hochschulgemeinde Kassel|studium|https://www.facebook.com/mhg.unikassel/|Anlaufstelle für muslimische Studierende mit Angeboten für interreligiösen und interkulturellen Dialog.||facebook
+Kassel|Raum für urbane Experimente e.V.|kunst|https://www.facebook.com/RAUM.FUER.URBANE.EXPERIMENTE/|Verein, der zwei Kasseler Unterführungen für Graffiti, Konzerte und Subkultur nutzt.||facebook
+Kassel|Red Brick Company|kunst|https://redbrickcompany.weebly.com/|Englischsprachige Theatergruppe der Uni, die zum Ende jeder Vorlesungszeit ein Stück aufführt.||website
+Kassel|Rotaract Club Kassel|engagement|https://kassel.rotaract.de/|Junger Serviceclub im Umfeld von Rotary, der jedes Jahr kleine soziale Projekte umsetzt.||website
+Kassel|Sáng Vietnamesische Studierendeninitiative|leute|https://www.instagram.com/sang.initiative/|Treffen, Filmabende, Kochabende und Tết-Feiern rund um vietnamesische Kultur.||instagram
+Kassel|SELF Kassel e.V.|engagement|http://www.self-kassel.de/|Begleitet Schülerinnen und Schüler mit Migrationshintergrund ab Klasse 9 auf dem Weg zum Studium.||website
+Kassel|smd Studierendenmission Kassel|studium|https://smd-kassel.de/|Überkonfessionelle christliche Gruppe von rund 50 Studierenden.||website
+Kassel|sneep Kassel|engagement|https://www.sneep.info/lokalgruppen/kassel/|Lokalgruppe eines Netzwerks für Wirtschafts- und Unternehmensethik mit Vorträgen und Filmabenden.||website
+Kassel|Studenten bilden Schüler Kassel|engagement|https://studenten-bilden-schueler.de/standorte/kassel|Studierende geben Kindern und Jugendlichen aus benachteiligten Familien Nachhilfe.||website
+Kassel|Students for Future Kassel|engagement|https://www.instagram.com/sffkassel/|Studierende arbeiten auf ein klimaneutrales Kassel und eine klimaneutrale Uni hin.||instagram
+Kassel|UNICEF Hochschulgruppe Kassel|engagement|https://www.unicef.de/mitmachen/ehrenamtlich-aktiv/-/hochschulgruppe-kassel/53440|Öffentlichkeitsarbeit und Spendenaktionen für UNICEF.||website
+Kassel|UniKasselGaming|gaming|https://discord.gg/yP4ENHDCjs|E-Sport- und Gaming-Club mit Online- und Präsenzevents und Teilnahme an der Hochschulliga.||discord
+Kassel|VDI Young Engineers Kassel|business|https://www.vdi.de/ueber-uns/vor-ort/bezirksvereine/nordhessischer-bezirksverein-ev/netzwerke-aktivitaeten/studenten-und-jungingenieure|Netzwerk für Ingenieurstudierende mit Karrieretipps und gemeinsamen Projekten.||website
+Kassel|Viva con Agua Kassel|engagement|http://facebook.com/vivaconaguakassel/|Lokale Unterstützer sammeln für Wasser- und Sanitärprojekte im In- und Ausland.||facebook
+Kassel|Wir fahren zusammen Kassel|engagement|https://www.instagram.com/wirfahrenzusammen_kassel/|Kampagne für fairen, verlässlichen Nahverkehr mit einer Gruppe an der Uni.||instagram
+Kassel|Kassel spielt e.V.|spiele|https://kassel-spielt.de/press/|Spieleverein mit offenen Spieletreffs, Brettspielen und Doppelkopf-Runden.|Dienstags, donnerstags bis sonntags, Zeiten je nach Tag|website
+Kassel|Kasseler Schachklub 1876 e.V.|spiele|http://www.kasseler-schachklub.de/|Traditionsreicher Schachverein mit regelmäßigen Spielabenden.||website
+Kassel|SVG Caissa Kassel|spiele|https://schach.in/svg-caissa-kassel/|Schachverein in Kassel mit Mannschafts- und Vereinsspiel.||website
+Kassel|Fotogruppe Kassel|foto|https://www.fotogruppe-kassel.de/|Fotografinnen und Fotografen jeder Erfahrung tauschen sich aus, zeigen Bilder, machen Fotowalks und Ausstellungen.|Jeden zweiten Montag, 19 Uhr|website
+Kassel|Compagnia vocale Kassel|musik|https://www.cvks.de/proben/|Projektchor, in dem chorerfahrene Neue gern gesehen sind, auch für nur eine Saison.|Freitags 18:30 Uhr und samstags 10 Uhr|website
+Kassel|Kasseler Bachchor|musik|https://kasselerbachchor.de/|Konzertchor in Kassel mit Schwerpunkt auf großen Chorwerken.||website
+Kassel|Salto Chorale Kassel|musik|https://saltochorale.de/|Chor in Kassel mit Programmen aus verschiedenen Stilen.||website
+Kassel|Arbeiter*innenliederchor Kassel|musik|https://www.die-dezentrale.net/arbeiterinnenliederchor/?lang=en|Chor, der politische und Arbeiterlieder singt und offene Proben anbietet.||website
+Kassel|Cantiamo Kassel|musik|https://www.facebook.com/CantiamoKassel/|Chor der Universität Kassel.||facebook
+Kassel|Chor der Friedenskirche Kassel|musik|https://www.chor-friedenskirche.de/|Kirchenchor der Friedenskirche in Kassel.||website
+Kassel|Badminton-Club Kassel 1960 e.V.|sport|https://sportkreisregionkassel.de/vereine.html?view=club&id=85|Badmintonverein in Kassel.||website
+Kassel|1. Volleyball Club 1959 Wilhelmshöhe Kassel|sport|https://sportkreisregionkassel.de/vereine.html?view=club&id=147|Volleyballverein im Kasseler Stadtteil Wilhelmshöhe.||website
+Kassel|1. Skateboardverein Kassel|sport|https://sportkreisregionkassel.de/vereine.html?view=club&id=228|Skateboardverein in Kassel.||website
+Kassel|Billard Union Kassel 2000 e.V.|sport|https://sportkreisregionkassel.de/vereine.html?view=club&id=187|Billardverein in Kassel.||website

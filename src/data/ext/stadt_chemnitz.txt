@@ -1,0 +1,54 @@
+Chemnitz|Universitätssportgemeinschaft Chemnitz Rugby|sport|https://usg-chemnitz.org/de/rugby.html|Rugbyabteilung der USG, die zum Schnuppertag des Stadtsportbunds neue Spielerinnen und Spieler einlädt.||website
+Chemnitz|Floor Fighters Chemnitz|sport|https://www.floorfighters.de/|Floorballverein, der beim Schnuppertag des Stadtsportbunds Interessierte zum Mitspielen einlädt.||website
+Chemnitz|Postsportverein Chemnitz Hockey|sport|https://post-sv-chemnitz.de/hockey/|Hockeyabteilung des Postsportvereins mit offenem Einstieg für Neue beim Schnuppertag.||website
+Chemnitz|1. Chemnitzer Tauchverein|sport|https://www.1-chemnitzer-tauchverein.de/|Tauchverein mit Flossenschwimmen und Tauchsport für Einsteiger und Erfahrene.||website
+Chemnitz|Chemnitz Crusaders Flag Football|sport|https://www.chemnitz-crusaders.de/index.php?c=training|Flag-Football-Team im Chemnitzer Freizeit- und Wohngebietssportverein, das Training für Neue anbietet.||website
+Chemnitz|Chemnitz Cyndicates Baseball|sport|https://www.baseball-chemnitz.de/|Baseballteam der Stadt, bei dem man auch ohne Vorerfahrung einsteigen kann.||website
+Chemnitz|Bogensportclub Chemnitz-Rabenstein|sport|https://chembows.de/|Bogenschießverein im Stadtteil Rabenstein mit Angebot zum Ausprobieren.||website
+Chemnitz|ESV Lokomotive Chemnitz Rodeln|sport|https://esv-lokomotive-chemnitz.de/rodeln/|Rodelabteilung des Eisenbahner-Sportvereins, offen für Kinder und Interessierte beim Schnuppern.||website
+Chemnitz|Kunstturnverein Chemnitz|sport|https://www.ktv-chemnitz.de/|Turnverein mit Angeboten für Kinder und Jugendliche, die Turnen ausprobieren möchten.||website
+Chemnitz|Chemnitzer Wiesel|familie|https://www.chemnitzer-wiesel.de/|Familien- und Freizeitsportverein mit Bewegungsangeboten für Kinder.||website
+Chemnitz|Wanderclub 1951 Chemnitz|outdoor|https://www.wanderclub-1951-chemnitz.de/|Wanderverein mit einem laufend veröffentlichten Wanderplan für Touren in der Region.||website
+Chemnitz|Chemnitzer Wandersportverein|outdoor|https://chemnitzer-wandersportverein-ev.de/|Verein, der regelmäßig Wanderungen und Wanderveranstaltungen in und um Chemnitz organisiert.||website
+Chemnitz|Collegium Musicum der TU Chemnitz|musik|https://www.tu-chemnitz.de/tu/cm|Studentisch geprägtes Orchester der Universität, das regelmäßig probt und Konzerte spielt.||website
+Chemnitz|Unichor der TU Chemnitz|musik|https://www.tu-chemnitz.de/tu/unichor|Chor der Uni für Studierende und Interessierte, die gemeinsam singen möchten.||website
+Chemnitz|Unibigband der TU Chemnitz|musik|https://www.tu-chemnitz.de/tu/unibigband|Bigband der Universität, in der Studierende und Gäste Jazz und Swing spielen.||website
+Chemnitz|Evangelische Studierendengemeinde Chemnitz|studium|https://esg-chemnitz.de|Studierendengemeinde mit Treffen, Gesprächen und gemeinsamen Aktionen für Studierende.||website
+Chemnitz|SMD Chemnitz|studium|https://www.smd-chemnitz.de|Christliche Hochschulgruppe mit Bibelgesprächen und Austausch unter Studierenden.||website
+Chemnitz|Radio UNICC|studium|https://www.radio-unicc.de|Studentisches Campusradio, bei dem man Sendungen mitgestalten und Radio lernen kann.||website
+Chemnitz|T.U.C. Racing Team|tech|https://www.tuc-racing.de|Studentisches Team, das einen Rennwagen für die Formula Student entwickelt und baut.||website
+Chemnitz|Windkanal e.V.|tech|https://www.windkanal-ev.de|Studentischer Verein an der TU, der Technikprojekte und Veranstaltungen rund um Strömung umsetzt.||website
+Chemnitz|TUC tanzt Bailamos|tanz|https://www.bailamos-chemnitz.de|Tanzinitiative an der Uni mit Salsa und anderen Gesellschaftstänzen für Studierende.||website
+Chemnitz|TVStud Chemnitz|studium|https://www.tvstud.de|Studentische Hochschulgruppe, die Fernsehbeiträge und Videos produziert.||website
+Chemnitz|THEORIE Lesekreis Chemnitz|lernen|https://www.theorielesekreis.wordpress.com/|Lesekreis, in dem gesellschaftstheoretische Texte gemeinsam gelesen und diskutiert werden.||website
+Chemnitz|Viva con Agua Hochschulgruppe Chemnitz|engagement|https://www.vivaconagua.org|Hochschulgruppe, die Spenden und Aktionen für sauberes Trinkwasser organisiert.||website
+Chemnitz|Netzwerk für Demokratie und Courage Südwestsachsen|engagement|https://www.netzwerk-courage.de/sachsen|Bildungsnetzwerk, das Projekttage zu Demokratie und Zivilcourage anbietet und Ehrenamtliche einbindet.||website
+Chemnitz|Indian Cultural Center Chemnitz|leute|https://www.iccchemnitz.com/|Studentische Gruppe, die indische Kultur und Feste in Chemnitz feiert und Neuankömmlinge vernetzt.||website
+Chemnitz|Pakistan Student Association Chemnitz|leute|https://www.facebook.com/groups/psa.chemnitz|Facebook-Gruppe pakistanischer Studierender mit Austausch und Treffen in Chemnitz.||facebook
+Chemnitz|different people e.V.|queer|https://www.different-people.de|Verein für Vielfalt und Selbsthilfe mit Räumen für queere und andere Gruppen.||website
+Chemnitz|Cross und Queer Chemnitz|queer|https://www.crossundqueer.de/|Gruppe für Crossdresser und Menschen, die ihre weibliche Seite leben möchten, mit Stylingabenden und Spielrunden.|Meist am 1. Freitag im Monat, 17 Uhr Styling, 19 Uhr Infoteil|website
+Chemnitz|CSD Chemnitz e.V.|queer|https://csd-chemnitz.de/|Verein hinter dem Christopher Street Day in Chemnitz, neue Mitglieder sind willkommen.||website
+Chemnitz|Internationaler Chor UNITY Chemnitz|musik|https://unity-chor-chemnitz.de/|Interkultureller Chor mit Liedern aus vielen Sprachen, Schnupperproben sind möglich.|Donnerstags 18:30 Uhr|website
+Chemnitz|Tuesday Singers Chemnitz|musik|https://tuesday-singers.de/|Frauenchor mit rund 50 Sängerinnen und Repertoire von Pop bis Jazz, Probebesuch nach Absprache.|Dienstags 19:30 Uhr|website
+Chemnitz|Kammerchor Chemnitz|musik|http://www.kammerchor-chemnitz.de|Gemischter Kammerchor, der anspruchsvolle Chormusik erarbeitet und aufführt.||website
+Chemnitz|Hutholz-Chor Chemnitz|musik|http://www.hutholz-chor.de|Gemischter Chor aus dem Stadtteil Hutholz, der gemeinsam singt und Konzerte gibt.||website
+Chemnitz|Ensemble Musica Chemnitz|musik|http://www.musica-chemnitz.de|Musikensemble im Sächsischen Chorverband, das regelmäßig probt und auftritt.||website
+Chemnitz|Chemnitzer Chorallen|musik|https://mb-chemnitz.org/ensemble/chemnitzer-chorallen.html|Chor im Musikbund Chemnitz mit Freude am gemeinsamen Singen.||website
+Chemnitz|Kepler Singers|musik|https://mb-chemnitz.org/ensemble/kepler-singers.html|Singgruppe im Musikbund Chemnitz, die gemeinsam Chorliteratur einstudiert.||website
+Chemnitz|Chemnitzer Würfeltürmer|spiele|https://wuerfeltuermer.de/|Ehrenamtlicher Spieleverein mit offenen Brettspielabenden.|Jeden 1. Freitag im Monat, 18 Uhr|website
+Chemnitz|Rotaract Club Chemnitz|business|https://chemnitz.rotaract.de/wer-sind-wir/|Club junger Erwachsener, der Freundschaften pflegt, Vorträge organisiert und soziale Projekte umsetzt.||website
+Chemnitz|Stamm Fennek Chemnitz|outdoor|https://pfadfinden-chemnitz.de/|Pfadfinderstamm mit Gruppen für Kinder bis Erwachsene, Fahrten, Lager und Aktionen.||website
+Chemnitz|Royal Rangers Stamm 543 Chemnitz|outdoor|https://www.pfadfinder-chemnitz.de/|Christliche Pfadfinderarbeit für Kinder und Jugendliche mit Gruppenstunden und Zeltlagern.||website
+Chemnitz|Fotoclub Kontrast 70 Chemnitz|foto|https://kontraste.lima-city.de/ueber-uns.html|Ältester bestehender Fotoclub der Stadt mit Ausstellungen und Wettbewerben.||website
+Chemnitz|Foodsharing Chemnitz|engagement|https://foodsharing.de/region/chemnitz|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen sie an Fairteilern.||website
+Chemnitz|NABU Regionalverband Chemnitz-Erzgebirge|engagement|https://www.nabu-rvce.de/|Naturschutzverband mit Gruppen und Aktionen zu Vogel-, Biotop- und Artenschutz.||website
+Chemnitz|Chemnitzer Naturfreunde|outdoor|https://www.chemnitzer-naturfreunde.de/|Naturfreunde-Ortsgruppe mit Ausflügen und Aktivitäten in der Natur.||website
+Chemnitz|ADFC Chemnitz|mobil|https://www.facebook.com/ADFC.Chemnitz/|Ortsgruppe des Fahrradclubs, die sich für bessere Radwege einsetzt und Touren anbietet.||facebook
+Chemnitz|Freiwilligenzentrum Chemnitz|engagement|https://aktiv-in-chemnitz.de/|Anlaufstelle, die Interessierte an passende Ehrenamtsstellen in der Stadt vermittelt.||website
+Chemnitz|Volkssolidarität Chemnitz Mitmachen|engagement|https://vs-chemnitz.de/mitmachen|Sozialverband mit Ehrenamt, Treffs und Wanderungen für Menschen jeden Alters.||website
+Chemnitz|Mehrgenerationenhaus Chemnitz|familie|https://www.solaris-fzu.de/einrichtungen/mehrgenerationenhaus-chemnitz.html|Offener Treffpunkt für Jung und Alt mit Gruppen, Beratung und Veranstaltungen.||website
+Chemnitz|Bürgerhaus City|leute|https://www.buergerhaus-city.de/|Begegnungsort in der Innenstadt mit Kursen, Veranstaltungen und Mitmachprojekten.||website
+Chemnitz|Bürgerzentrum Mitte West|leute|https://buelei39.de/|Stadtteilzentrum für Kaßberg, Schloßchemnitz und Altendorf, das Nachbarschaftsprojekte unterstützt.||website
+Chemnitz|Bürgerzentrum Leipziger Straße|leute|https://www.neue-arbeit-chemnitz.de/begegnungsorte/buergerzentrum-leipziger-strasse/|Begegnungsort der Neuen Arbeit für Nachbarn mit offenen Angeboten im Stadtteil.||website
+Chemnitz|Stadtteiltreff Kappel|leute|https://www.solaris-fzu.de/einrichtungen/stadtteiltreff-kappel.html|Nachbarschaftstreff im Stadtteil Kappel mit Angeboten für Bewohner.||website
+Chemnitz|Sprachencafé Chemnitz Open Space|sprachen|https://chemnitz-open.space/event/sprachencafe-2/|Offene Runde zum Üben verschiedener Sprachen und Kennenlernen.||website

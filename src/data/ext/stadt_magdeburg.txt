@@ -1,0 +1,52 @@
+Magdeburg|Multivokal Magdeburg|musik|https://multivokal-magdeburg.org/kontakt/|Vokalensemble, das einmal pro Woche in Stadtfeld Ost zusammen probt.|Donnerstags 19:15 bis 21:15 Uhr, Matthäuskirche|website
+Magdeburg|Gospel Connection Magdeburg|musik|https://goco-md.de/|Gospelchor mit etwa 30 bis 40 Mitgliedern, der traditionelle und moderne Gospels sowie afrikanische Lieder singt. Interessierte können zur Probe vorbeikommen.|Montags, Uhrzeit auf der Terminseite|website
+Magdeburg|Volkschor Magdeburg|musik|https://www.volkschor-magdeburg.de/|Einer der ältesten Chöre der Stadt, der traditionelles Liedgut pflegt.|Dienstags nachmittags, Volksbad Buckau|website
+Magdeburg|Kammerchor Singkreis Magdeburg|musik|https://singkreis-magdeburg.de/|Kammerchor mit rund 20 Stimmen, der klassische deutsche Chormusik und Werke Magdeburger Komponisten singt.|Montags 19:30 Uhr, Gemeindehaus der Altstadtgemeinde|website
+Magdeburg|Sinfonieorchester Magdeburger Musikfreunde|musik|https://www.sommf.de/|Traditionsreiches Laienorchester, in dem Musizierende aus allen Berufen und Altersgruppen von Barock bis Gegenwart spielen.||website
+Magdeburg|Akademisches Orchester der OVGU|musik|https://www.facebook.com/ovgu.orchester/|Orchester der Universität, in dem Studierende und Beschäftigte gemeinsam musizieren.||facebook
+Magdeburg|Magdeburger Domchor|musik|http://domchor-magdeburg.de/chorgruppen/|Chorgruppen rund um den Magdeburger Dom für verschiedene Altersstufen.||website
+Magdeburg|Polizeichor Magdeburg|musik|https://polizeichor-magdeburg.jimdoweb.com/|Chor im Sängerbund der Deutschen Polizei, der in Magdeburg regelmäßig probt und auftritt.||website
+Magdeburg|Acafin|musik|https://acafin.com/|A-cappella-Chor für Studierende und Mitarbeitende aller Fakultäten der Uni.||website
+Magdeburg|Tabletop Magdeburg e.V.|spiele|https://www.instagram.com/tabletopmagdeburgev/|Verein für Tabletop, Rollenspiele und Brettspiele mit eigenem Raum in Stadtfeld, lockeren Spieleabenden und Turnieren.||instagram
+Magdeburg|Widukinds Wächter e.V.|spiele|https://widukinds-waechter.de/|Verein für Liverollenspiel, lebendiges Mittelalter und historisches Fechten und Freikampf.|Dienstags 19 bis 21 Uhr, Oscar-Linke-Schule|website
+Magdeburg|Acagamics e.V.|gaming|https://acagamics.de/|Studentische Gruppe, die digitale Spiele entwickelt und GameJams und Workshops veranstaltet.||website
+Magdeburg|DPSG Stamm Unser Lieben Frauen|leute|https://dpsg-md.de/stufen/|Pfadfinderstamm mit Wölflingen, Jungpfadfindern, Pfadis und Rovern, wöchentlichen Gruppenstunden und Zeltlagern.|Wöchentliche Gruppenstunden, Gemeindehaus St. Petri|website
+Magdeburg|Karnevalsverein Ottojaner e.V.|leute|https://magdeburg.city-map.de/de/karnevalsverein-ottojaner-ev|Karnevalsverein mit rund 45 Aktiven, überwiegend ehemaligen Studierenden der Uni.||sonstige
+Magdeburg|LSVD+ Sachsen-Anhalt Gruppen und Treffs|queer|https://lsvd-lsa.de/en/angebote/gruppen/|Queere Gruppen und Treffs wie offener Treff, Jugendgruppe, Queerer Buchclub, FLINTA Connect und Rainbow Connection.|Offener Treff mittwochs 19 bis 22 Uhr|website
+Magdeburg|CSD Magdeburg|queer|https://csdmagdeburg.de/events/|Organisationsteam des Christopher Street Day in Magdeburg mit Vernetzungs und Community-Veranstaltungen.||website
+Magdeburg|Queer Campus Magdeburg|queer|https://queercampus.stura-md.de/how-to-qc-2/|Queeres Referat des Studierendenrats, offen für alle, mit Treffen und Veranstaltungen.||website
+Magdeburg|Fotoclub Magdeburg|foto|https://www.fotoclub-magdeburg.de|Fotoclub, der sich seit 2007 trifft, um Bilder zu zeigen und gemeinsam zu fotografieren.||website
+Magdeburg|Sprachcafé Magdeburg|sprachen|https://www.agsa.de/sprachcafe-magdeburg.html|Treffen der Auslandsgesellschaft zum Sprechen und Üben verschiedener Sprachen.||website
+Magdeburg|ADFC Magdeburg|mobil|http://adfc-magdeburg.de/|Ortsverband des Fahrradclubs mit Radtouren, Fahrradstammtisch und Fahrradcodierung.|Fahrradcodierung jeden 1. Mittwoch im Monat 14:30 Uhr|website
+Magdeburg|Magdeburger Radkultur|mobil|https://radkultur-md.de/|Netzwerk von Initiativen für mehr und besseren Radverkehr mit offenem Koordinationsteam und Terminkalender.||website
+Magdeburg|VCD Ortsgruppe Magdeburg|mobil|https://elbe-saale.vcd.org/der-vcd-in-elbe-saale/sachsen-anhalt/ortsgruppe-magdeburg|Ortsgruppe des ökologischen Verkehrsclubs, die sich für Bus, Bahn, Rad und Fußverkehr einsetzt.||website
+Magdeburg|NABU Magdeburg|engagement|https://www.nabu-magdeburg.de/mitmachen|Naturschutzgruppe mit monatlichem Gruppentreffen, Jugendgruppe NAJU und AG Nachhaltigkeit.|Jeden 1. Mittwoch im Monat 16:30 Uhr, Naturkundemuseum|website
+Magdeburg|Freiwilligenagentur Magdeburg|engagement|https://www.freiwilligenagentur-magdeburg.de/freiwillige/in-projekten-mitmachen/|Vermittelt Interessierte in ehrenamtliche Projekte der Stadt und organisiert den Freiwilligentag.||website
+Magdeburg|Foodsharing Magdeburg|engagement|https://klimabuendnis-magdeburg.de/steckbrief/foodsharing-magdeburg/|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen sie über Fairteiler.||website
+Magdeburg|Mehrgenerationenhaus Magdeburg Ottersleben|familie|https://www.bildungsnetzwerk-magdeburg.de/mehrgenerationenhaus/|Offener Treff für alle Generationen mit Kursen, Begegnung und Freizeitangeboten im Stadtteil.||website
+Magdeburg|Mehrgenerationenhaus Familienhaus im Park|familie|https://familienhaus-magdeburg.de/standorte/familienhaus-im-park/mehrgenerationenhaus-familienhaus-im-park/|Mehrgenerationenhaus mit Angeboten für Familien, Kinder und Ältere und offenen Cafés.||website
+Magdeburg|Ingenieure ohne Grenzen Regionalgruppe Magdeburg|engagement|https://www.ingenieure-ohne-grenzen.org/de/mitmachen/regionalgruppe-magdeburg|Studierende und Berufstätige setzen technisches Wissen in sozialen Entwicklungsprojekten ein.||website
+Magdeburg|Students for Future Magdeburg|engagement|https://studentsforfuture.info/magdeburg/|Studierende, die sich mit Kundgebungen und Bildungsangeboten für Klimagerechtigkeit einsetzen.||website
+Magdeburg|Studenten bilden Schüler Magdeburg|engagement|https://studenten-bilden-schueler.de/standorte/magdeburg|Studierende geben Nachhilfe und machen Freizeitangebote für Kinder aus einkommensschwachen oder geflüchteten Familien.||website
+Magdeburg|Enactus Magdeburg|engagement|http://www.unimagdeburg.enactus.de/|Studierendeninitiative, die nachhaltige soziale Projekte und gemeinnützige Gründungen entwickelt.||website
+Magdeburg|Debattierclub Magdeburg|lernen|https://debattierclubmagdeburg.de|Club für Übungsdebatten, Redeseminare und Turnierteilnahmen, offen für Neue.||website
+Magdeburg|IKUS Interkulturelle Studenten Magdeburg|studium|https://www.ikus.ovgu.de/|Studentische Gruppe, die internationale und deutsche Studierende mit Länderabenden und Ausflügen zusammenbringt.||website
+Magdeburg|AIESEC Magdeburg|studium|https://www.ovgu.de/Studium/Campus+_+Stadt/Studentische+Initiativen/AIESEC.html|Studentische Organisation für internationale Praktika und Austausch.||website
+Magdeburg|VWI Hochschulgruppe Magdeburg|studium|https://vwi.org/verband/standorte/vwi-hochschulgruppe-magdeburg-e-v|Hochschulgruppe für Wirtschaftsingenieure mit Projekten, Workshops und Netzwerkveranstaltungen.||website
+Magdeburg|SIDUM Studentische Unternehmensberatung|studium|http://www.sidum.de/|Studierende beraten Unternehmen in echten Projekten und bilden sich in Workshops weiter.||website
+Magdeburg|Studentischer Börsenverein Magdeburg|studium|https://boersenverein-magdeburg.de|Studierende organisieren Workshops, Vorträge und Exkursionen rund um Börse und Finanzen.||website
+Magdeburg|UMD Racing|tech|http://www.umdracing.de/|Studentisches Team, das für die Formula Student einen Rennwagen entwickelt und baut.||website
+Magdeburg|Physikshow Magdeburg|studium|https://www.physikshow.ovgu.de/|Studentische Gruppe, die Experimentiershows zur Vermittlung von Naturwissenschaften vorführt.||website
+Magdeburg|Evangelische Studierendengemeinde Magdeburg|studium|https://esgm.ekmd-online.de/|Studierendengemeinde mit gemeinsamem Kochen, Gottesdiensten und Austausch.||website
+Magdeburg|SMD Hochschulgruppe Magdeburg|studium|https://hochschul-smd.org/magdeburg/|Christliche Hochschulgruppe mit Gemeinschaftsangeboten für Studierende.||website
+Magdeburg|Muslimische Hochschulgemeinde Magdeburg|studium|https://mhg-magdeburg.de/|Gemeinschaft für Glaubenspraxis, Infoabende und interreligiösen Dialog.||website
+Magdeburg|Studentenreiter Magdeburg|tiere|https://studentenreiter-magdeburg.jimdosite.com/|Pferdebegeisterte Studierende, die zusammen reiten und an Studentenreitturnieren teilnehmen.||website
+Magdeburg|Aquarienverein Vallisneria Magdeburg|tiere|http://www.vallisneria-magdeburg.de/mitglied.html|Verein von Aquarienfreunden mit Austausch und Vorträgen rund um Fische und Pflanzen.||website
+Magdeburg|Imkerverein der Stadt Magdeburg und Umgebung|tiere|https://www.magdeburg.de/index.php?ModID=9&FID=37.2562.1&object=tx,37.6876.1|Verein für Imkerinnen und Imker aus Magdeburg und Umland mit Erfahrungsaustausch.||website
+Magdeburg|FlaR Rennradgemeinschaft|sport|https://www.ridewithflar.de/|Rennrad-Gemeinschaft der Uni mit Racing Team, Gruppenausfahrten und Kursen.||website
+Magdeburg|Schleudertrauma Ultimate Frisbee|sport|https://schleudertrauma-magdeburg.de/|Ultimate-Frisbee-Team aus Magdeburg, das regelmäßig trainiert und Turniere spielt.||website
+Magdeburg|Magdeburg Poor Pigs|sport|https://magdeburg.city-map.de/de/magdeburg-poor-pigs|Baseball- und Softballverein in Magdeburg.||sonstige
+Magdeburg|Wasserball Union Magdeburg|sport|http://www.wasserball-union.de/|Wasserballverein aus Magdeburg.||website
+Magdeburg|Wassersportverein Lok Magdeburg|sport|https://lok-magdeburg.de/|Wassersportverein mit Angeboten rund um Paddeln und Boot.||website
+Magdeburg|Badminton Sportverein Magdeburg|sport|https://magdeburg.city-map.de/de/badminton-sportverein-magdeburg-ev|Badminton im Wettkampf und Freizeitbereich.||sonstige
+Magdeburg|Quidditch Universitätssportclub Magdeburg|sport|https://usc-magdeburg.de/sportarten/freizeit-erholungssport/quidditch/|Quidditch-Gruppe des Universitätssportclubs im Stadion der Bauarbeiter.||website

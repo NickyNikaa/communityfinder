@@ -1,0 +1,64 @@
+Regensburg|Arbeiterkind Ortsgruppe Regensburg|studium|http://www.arbeiterkind.de/|Studierende aus Familien ohne Hochschulerfahrung unterstützen sich gegenseitig und helfen Schülerinnen und Schülern auf dem Weg ins Studium.||website
+Regensburg|Campus Regensburg e.V.|leute|https://campus-regensburg.org/|Studentischer Verein, der das kostenlose Campusfest in Regensburg organisiert und Kultur auf dem Campus fördert.||website
+Regensburg|CampusAsyl e.V.|engagement|https://www.campus-asyl.de/|Studierende und Ehrenamtliche begleiten geflüchtete Menschen mit Nachhilfe, Sprachcafés, Sport und Begegnungsangeboten.||website
+Regensburg|Sprachcafés von CampusAsyl|sprachen|https://campus-asyl.de/neue-sprachcafes-und-begegnungscafe-eroeffnet/|Offene Sprachcafés und ein Begegnungscafé, in denen Deutsch gesprochen und neue Leute kennengelernt werden.||website
+Regensburg|International Campus Friends|studium|https://www.instagram.com/international.campus.friends/|Initiative der Studierendenvertretung, die einheimische und internationale Studierende zu gemeinsamen Aktivitäten zusammenbringt.||instagram
+Regensburg|Debattierclub Regensburg|lernen|https://www.instagram.com/debattierclub.regensburg/|Hier üben Studierende Rhetorik und streiten in regelmäßigen Debatten über wechselnde Themen.|Wöchentlich|instagram
+Regensburg|Dynamics e.V.|tech|https://dynamics-regensburg.de/|Studentisches Team, das für den Wettbewerb Formula Student ein elektrisches und fahrerloses Rennfahrzeug entwickelt und baut.||website
+Regensburg|Erasmus Student Network Regensburg|studium|https://regensburg.esn-germany.de/|Studierende betreuen Austauschstudierende und organisieren Partys, Ausflüge und Stammtische für internationale Gäste.||website
+Regensburg|Enactus Regensburg e.V.|business|https://www.facebook.com/regensburg.enactus/|Studierende entwickeln soziale Projekte mit unternehmerischem Ansatz und setzen sie in der Region um.||facebook
+Regensburg|Ingenieure ohne Grenzen Regionalgruppe Regensburg|engagement|https://www.ingenieure-ohne-grenzen.org/de/mitmachen/regionalgruppe-regensburg|Ehrenamtliche Regionalgruppe, die technische Projekte zu Wasser, Energie und Sanitärversorgung in Entwicklungsländern unterstützt.||website
+Regensburg|Investment Club Regensburg e.V.|business|https://investmentclubregensburg.com/|Studierende beschäftigen sich mit Kapitalmärkten, nehmen an Handelswettbewerben teil und hören Gastvorträge.||website
+Regensburg|Nightline Regensburg e.V.|engagement|https://regensburg.nightlines.eu|Studierende betreiben ein anonymes Zuhörtelefon und einen Chat für Kommilitonen, die jemanden zum Reden brauchen.||website
+Regensburg|OTH Regensbogen|queer|https://www.instagram.com/oth_regensbogen/|Queere Hochschulgruppe der OTH mit Raum für Austausch und gemeinsame Treffen.||instagram
+Regensburg|Pfadfinder Hochschulgruppe Regensburg|outdoor|https://dpsg-hsg-regensburg.de/|Pfadfinderarbeit für Studierende, offen über Verbandsgrenzen hinweg, mit Treffen und Fahrten.||website
+Regensburg|UNICEF Hochschulgruppe Regensburg|engagement|https://www.hochschulgruppe-regensburg.unicef.de|Studierende setzen sich mit Aktionen und Infoständen für Kinderrechte ein.||website
+Regensburg|URAI Regensburg|tech|https://www.urai-group.com|Studentische Initiative rund um künstliche Intelligenz, Data Science und gemeinsame Forschungsprojekte.||website
+Regensburg|Viva con Agua Regensburg|engagement|https://www.instagram.com/vivaconagua.regensburg/|Ortsgruppe, die mit Spendenaktionen und Festivals für sauberes Trinkwasser weltweit eintritt.||instagram
+Regensburg|SMD Regensburg|leute|https://hochschul-smd.org/regensburg/|Christliche Hochschulgruppe mit Spieleabenden, Hauskreisen und Freizeiten für Studierende.||website
+Regensburg|Muslimische Hochschulgruppe Regensburg|leute|https://mhg-regensburg.de/|Gruppe muslimischer Studierender mit gemeinsamen Treffen und Veranstaltungen.||website
+Regensburg|Campusgemeinde Regensburg|leute|https://campusgemeinde.de/|Gemeinsame Hochschulgemeinde der katholischen und evangelischen Kirche mit Gottesdiensten, Treffen und Angeboten für Studierende.||website
+Regensburg|Netzwerk Nachhaltigkeit|engagement|https://netzwerknachhaltigkeit.org/|Nachhaltigkeitsinitiative, die Studierende mit Veranstaltungen und Projekten am Campus vernetzt.||website
+Regensburg|AK Garten Universität Regensburg|outdoor|https://www.instagram.com/akgarten/|Studierende pflegen gemeinsam den Unigarten mit Beeten, Gewächshaus und Parzellen.||instagram
+Regensburg|Amnesty International Hochschulgruppe Regensburg|engagement|https://www.instagram.com/amnesty.hsg.regensburg/|Hochschulgruppe für Menschenrechte mit Aktionen und Öffentlichkeitsarbeit.||instagram
+Regensburg|Griechische Hochschulgruppe Regensburg|sprachen|https://www.instagram.com/griechische_hochschulgruppe_ur/|Austausch und Stammtische rund um griechische Sprache und Kultur.||instagram
+Regensburg|Mindful Students|wellbeing|https://www.instagram.com/mindful.students/|Studierende treffen sich zu gemeinsamer Achtsamkeit und Meditation.||instagram
+Regensburg|Lautschrift Campusmagazin|kunst|https://www.lautschrift.org/|Studentische Redaktion, die ein Magazin für den Campus schreibt und gestaltet.||website
+Regensburg|AK Queer Regensburg|queer|https://www.instagram.com/queer_rgb/|Queerfeministische Veranstaltungen, ein Stammtisch und Mitarbeit am CSD in Regensburg.||instagram
+Regensburg|Jung und Gleich e.V.|queer|https://www.queeresregensburg.de/gruppe/jung-und-gleich-e-v/|Verein für queere Kinder und Jugendliche mit Freizeitangeboten und Beratung, auch Erwachsene sind beim Stammtisch willkommen.|Jeden 1. Donnerstag im Monat|website
+Regensburg|Queere Kunst Regensburg|queer|https://www.queeresregensburg.de/gruppe/queere-kunst-regensburg/|Kreativer Safespace für queere Menschen jeden Alters mit gemeinsamen Projekten und Linoldruck.|Freitags 16 bis 18 Uhr, W1|website
+Regensburg|Dyke Club e.V.|queer|https://www.dyke-club.de/|Verein lesbischer Frauen, der seit 2011 Veranstaltungen organisiert und sich für Sichtbarkeit einsetzt.||website
+Regensburg|Regenbogeneltern Regensburg|queer|https://www.queeresregensburg.de/gruppe/regenbogeneltern/|Queere Eltern mit Kindern tauschen sich über Alltag, Kinderplanung und rechtliche Fragen aus.|Etwa monatlich sonntags, Familienzentrum Königswiesen|website
+Regensburg|Brunch für Beziehungsvielfalt|queer|https://www.queeresregensburg.de/gruppe/brunch-fuer-beziehungsvielfalt/|Gemeinsamer Brunch zum Austausch über Polyamorie, Beziehungsanarchie und ethische Nicht-Monogamie.|Jeden 1. Sonntag im Monat, 10:30 Uhr|website
+Regensburg|LGBTea Stammtisch|queer|https://www.queeresregensburg.de/gruppe/lgbtea/|Queerer Stammtisch zum Kennenlernen und Quatschen in der Bar 13.|Jeden 2. Mittwoch im Monat, 20 Uhr|website
+Regensburg|Trans-Ident Regensburg|queer|https://trans-ident.de/gruppen/shg-regensburg/|Selbsthilfegruppe für trans und nicht-binäre Menschen in Regensburg.||website
+Regensburg|QUEER-Streifen Regensburg e.V.|queer|https://www.queeresregensburg.de/gruppe/queer-streifen-regensburg-e-v/|Verein, der queere Filme und Kultur nach Regensburg bringt.||website
+Regensburg|Ali Baba Spieleclub Regensburg|spiele|https://www.ali-baba-spieleclub.de/regensburg/|Wöchentlicher offener Spieletreff im Jugendzentrum mit Gesellschaftsspielen, Turnieren und Spielewochenenden.|Montags 18 Uhr, Taunusstraße 5|website
+Regensburg|Fotografische Gesellschaft Regensburg e.V.|foto|https://www.fgr-online.de/|Fotoclub mit Bildbesprechungen, Wettbewerben, Workshops und Vorträgen, Gäste können einen Abend zum Schnuppern kommen.|Montags 20 Uhr, Spitalkeller|website
+Regensburg|Regensburger Photogilde|foto|https://www.regensburger-photogilde.de/|Gemeinschaft von Fotobegeisterten mit gemeinsamem Fotografieren, Bildbesprechung und Austausch mit anderen Clubs.||website
+Regensburg|Schachclub Bavaria Regensburg von 1881|spiele|https://www.sc-bavaria.de/|Traditionsreicher Schachverein mit wöchentlichem Vereinsabend und Jugendtraining.|Freitags ab 19:30 Uhr|website
+Regensburg|Schachtreff im Mehrgenerationenhaus|spiele|https://www.regensburg.de/mehrgenerationenhaus/alle-generationen/schachtreff|Offener Schachtreff im Mehrgenerationenhaus für alle, die gern gegeneinander spielen.||website
+Regensburg|Vokalensemble Regensburg|musik|https://www.vokalensemble-regensburg.de/mitsingen|Ambitionierter Chor mit Projektproben, der Sängerinnen und Sänger mit Chorerfahrung sucht, besonders Bässe und Altstimmen.|Meist monatlich sonntags vormittags|website
+Regensburg|Heart Chor Regensburg|musik|https://heartchor.de/chor/mitsingen/|Chor mit wöchentlichen Proben im Herz-Jesu-Saal, derzeit mit Aufnahmestopp für neue Stimmen außer Bässen.|Sonntags 19 Uhr|website
+Regensburg|The S(w)inging Students Gospelchor OTH|musik|https://gospelchor-regensburg.jimdofree.com/|Gospelchor der OTH Regensburg, in dem Studierende gemeinsam singen.||website
+Regensburg|Symphonieorchester der Universität Regensburg|musik|https://www.uni-regensburg.de/musik/symphonieorchester/startseite/index.html|Das Universitätsorchester, in dem Studierende und Musikbegeisterte klassisches Repertoire erarbeiten.||website
+Regensburg|Bläserphilharmonie Regensburg|musik|https://sbor.de/orchester/|Großes Blasorchester der Region, das Konzertliteratur für Bläser einstudiert.||website
+Regensburg|DPSG Stamm St. Wolfgang Regensburg|outdoor|https://dpsg-stwolfgang.de/|Pfadfinderstamm mit wöchentlichen Gruppenstunden im Pfadfinderheim, aktuell mit Warteliste.|Wöchentlich|website
+Regensburg|BUND Naturschutz Kreisgruppe Regensburg|outdoor|https://regensburg.bund-naturschutz.de/|Kreisgruppe des Naturschutzverbands mit Aktionen, Exkursionen und Umweltprojekten in Stadt und Umland.||website
+Regensburg|Foodsharing Regensburg|essen|https://www.facebook.com/FoodsharingRegensburg/|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen sie weiter.||facebook
+Regensburg|ADFC Regensburg|mobil|https://regensburg.adfc.de/radtouren|Fahrradclub mit geführten Radtouren und Einsatz für bessere Bedingungen für Radfahrende.||website
+Regensburg|FreiwilligenAgentur Regensburg|engagement|https://www.freiwilligenagentur-regensburg.de/ueber-uns/25-jahre-freiwilligenagentur-regensburg|Vermittelt Interessierte an passende Ehrenamtsprojekte in der Stadt, auch mit eigenem Programm für junge Menschen.||website
+Regensburg|Stadtjugendring Regensburg|engagement|https://jugend-regensburg.de/wer-sind-wir/mitgliedsverbaende|Dachverband der Jugendverbände in Regensburg, von Pfadfindern bis Sport und Kultur.||website
+Regensburg|Mehrgenerationenhaus Regensburg|familie|https://www.regensburg.de/mehrgenerationenhaus|Offener Treffpunkt für alle Generationen mit Gruppen, Spielen und Austauschangeboten.||website
+Regensburg|Café Klara im Mehrgenerationenhaus|leute|https://www.regensburg.de/mehrgenerationenhaus/cafe-klara|Offener Café-Treff, bei dem man ohne Anmeldung ins Gespräch kommt.||website
+Regensburg|Ratisbona Eagles Ultimate Frisbee|sport|https://frisbee-regensburg.de/|Ultimate-Frisbee-Verein, bei dem Anfänger und Erfahrene mittrainieren können.|Montags und mittwochs 19:30 Uhr|website
+Regensburg|Roundnet Rabbits|sport|https://rudelapp.de/rudel/roundnet-rabbits|Offene Gruppe, die Roundnet auf der Wiese spielt.||website
+Regensburg|Rugby Club Regensburg 2000|sport|https://rudelapp.de/rudel/rugby-club-rgbg-2000-damen-und-herren|Rugbyverein mit Damen- und Herrenmannschaft.||website
+Regensburg|Regensburg Cricket|sport|https://rudelapp.de/rudel/regensburg-cricket|Cricketgruppe, die in Regensburg gemeinsam spielt.||website
+Regensburg|Flag Football Regensburg Phoenix|sport|https://rudelapp.de/rudel/flag-football-regensburg-phoenix|Flag-Football-Team der Regensburg Phoenix.||website
+Regensburg|Floorball SG Post/Süd Panthers|sport|https://rudelapp.de/rudel/floorball-sg-postsued-panthers|Floorball-Mannschaft der SG Post/Süd.||website
+Regensburg|Team Bananenflanke Handicapfußball|sport|https://rudelapp.de/rudel/team-bananenflanke-handicapfuball|Fußballgruppe für Menschen mit Handicap.||website
+Regensburg|Billard-Club 1926 Regensburg e.V.|spiele|https://rudelapp.de/rudel/billard-club-1926|Billardverein mit Spielbetrieb und Training.||website
+Regensburg|Jongliertreff Mischkultur e.V.|kunst|https://rudelapp.de/rudel/jongliertreff-mischkultur-ev|Offener Treff zum gemeinsamen Jonglieren und Üben.||website
+Regensburg|Bootscooters Line Dance|tanz|https://rudelapp.de/rudel/linedance-bootscooters-ev|Linedance-Gruppe des Vereins Bootscooters.||website
+Regensburg|RAdoNERD Rides|mobil|https://rudelapp.de/rudel/radonerd-rides|Gemeinsame Radtouren für Radbegeisterte.||website

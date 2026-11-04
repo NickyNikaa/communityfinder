@@ -1,0 +1,36 @@
+Heidelberg|AEGEE-Heidelberg|studium|https://www.aegee-heidelberg.de/|Lokale Gruppe des europäischen Studierendennetzwerks mit Workshops, Kulturaustausch und Angeboten für Erasmus-Studierende. Interessierte können einfach zum Treffen kommen.|Dienstags 20 Uhr, Sandgasse 7|website
+Heidelberg|Anime-Club Heidelberg (ANI)|leute|https://ani-heidelberg.de/|Wöchentliches gemeinsames Anschauen von Anime mit anschließender Diskussion, dazu Cosplay, Manga und gelegentliche Ausflüge. Auch Nichtstudierende sind willkommen.|Wöchentlich, Termin auf der Website|website
+Heidelberg|Debating Club Heidelberg|lernen|https://www.facebook.com/DCHeidelberg/|Studentischer Debattierclub, in dem nach festen Regeln diskutiert und Rhetorik geübt wird.||facebook
+Heidelberg|URRmEL Fahrradwerkstatt|mobil|https://reparadius.de/fahrradwerkstatt/urrmel|Studentisch getragene Selbsthilfe-Fahrradwerkstatt im Neuenheimer Feld, in der man sein Rad mit Anleitung selbst repariert.||website
+Heidelberg|QueerCampus Heidelberg|queer|https://lists.stura.uni-heidelberg.de/cgi-bin/mailman/listinfo/queercampus|Queere Hochschulgruppe der Uni mit regelmäßigen Treffen, Infos kommen über eine Mailingliste.|Alle zwei Wochen|sonstige
+Heidelberg|Queer Space Heidelberg e.V.|queer|https://hd-queer.space/events/|Vereinsgetragenes queeres Zentrum am Karlstor mit offenem Café und Stammtisch für die Community.|Sonntags 15 bis 18 Uhr Café, montags 19 Uhr Stammtisch|website
+Heidelberg|Queerfeministisches Kollektiv Heidelberg|queer|https://queerfeministisches-kollektiv-hd.de/veranstaltungen/|Kollektiv mit Vorträgen, Workshops, Stammtischen, Partys und einem Buchclub rund um queer-feministische Themen.||website
+Heidelberg|Collegium Musicum Universitätschor|musik|http://www.collegium-musicum.uni-hd.de|Chor und Orchester der Universität Heidelberg mit Konzertprogrammen über das Semester.||website
+Heidelberg|Anglistenchor Heidelberg|musik|https://anglistenchor.de|Chor mit Schwerpunkt auf englischsprachiger Musik, getragen vom Anglistischen Seminar.||website
+Heidelberg|ESG-Chor Heidelberg|musik|https://esgchorheidelberg.de/|Chor der Evangelischen Studierendengemeinde, offen für Sängerinnen und Sänger aus allen Fächern.||website
+Heidelberg|Bachchor Heidelberg|musik|http://www.bachchor-heidelberg.de|Großer Konzertchor, der geistliche Chorwerke einstudiert und aufführt.||website
+Heidelberg|Gospelprojekt Heidelberg|musik|https://gospelprojekt-hd.de|Gospelchor, der projektweise Programme erarbeitet und auftritt.||website
+Heidelberg|Afrikachor Mokosheela|musik|https://www.afrikachor-heidelberg.de/deutsch/chorleiter/|Chor, der afrikanische Lieder singt und dabei mit Rhythmus und Bewegung arbeitet.||website
+Heidelberg|Stadtteilverein Bahnstadt|leute|https://bahnstadtverein.de|Nachbarschaftsverein im jungen Stadtteil Bahnstadt mit Treffen und Aktionen für die Bewohner.||website
+Heidelberg|Stadtteilverein Neuenheim|leute|http://stadtteilverein-neuenheim.de|Bürgerverein für Neuenheim, der Stadtteilthemen und Nachbarschaftsaktionen vorantreibt.||website
+Heidelberg|Stadtteilverein Südstadt|leute|http://www.stadtteilverein-heidelberg-suedstadt.de/|Verein für Nachbarschaft und Stadtteilleben in der Südstadt.||website
+Heidelberg|NABU Heidelberg|outdoor|https://www.nabu-heidelberg.de/|Naturschutzgruppe mit Arbeitskreisen, Exkursionen und Aktionen vor Ort. Zum Monatstreffen kann man ohne Anmeldung kommen, auch per Zoom.|Jeden 2. Montag im Monat, Naturschutzzentrum Karl-Ludwig-Str. 1|website
+Heidelberg|BUND Heidelberg-Wieblingen|engagement|https://www.bund-rhein-neckar-odenwald.de/ueber-uns/bund-vor-ort/bund-heidelberg-wieblingen/|Ortsgruppe des BUND in Wieblingen für Natur- und Umweltschutz im Stadtteil.||website
+Heidelberg|Französischer Stammtisch im Montpellier-Haus|sprachen|https://montpellier-haus.de/veranstaltungen/weekly-on-mondays/|Lockeres Treffen für alle, die Französisch sprechen oder üben wollen, bei einem gemeinsamen Essen.|Jeden 2. Dienstag im Monat, 19 Uhr, Restaurant Tati|website
+Heidelberg|Über den Tellerrand Heidelberg|engagement|https://ueberdentellerrand.org/standort/heidelberg/|Gruppe, die Menschen mit und ohne Fluchterfahrung über gemeinsames Kochen und Projekte wie Stadtteil Buddies zusammenbringt.||website
+Heidelberg|Heidelberger Spieletreff|spiele|https://www.meetup.com/heidelberger-spieletreff/|Meetup-Gruppe für Brett- und Kartenspiele, bei der man neue Leute zum Spielen trifft.|Alle zwei Wochen, meist im Mathematikon|meetup
+Heidelberg|Spieleverein Heidelberg 2006|spiele|https://larpwiki.de/Spieleverein%20Heidelberg%202006%20E.V.|Verein rund um Rollenspiele und Live-Rollenspiel in Heidelberg.||website
+Heidelberg|Improtheater Haltlos Heidelberg|kunst|https://www.facebook.com/HaltlosHeidelberg/|Improvisationstheater-Gruppe aus Heidelberg, die spontane Szenen auf die Bühne bringt.||facebook
+Heidelberg|Pfadfinder Stamm Sr. Felicitas Ziegelhausen|familie|https://www.pfadfinder-ziegelhausen.de/|DPSG-Pfadfinderstamm in Ziegelhausen mit Gruppenstunden für verschiedene Altersstufen.||website
+Heidelberg|DPSG St. Peter Heidelberg-Kirchheim|familie|https://dpsg-heidelberg-kirchheim.de/|Pfadfinderstamm in Kirchheim mit Gruppen, Zeltlagern und Aktionen für Kinder und Jugendliche.||website
+Heidelberg|Pfadfinderstamm Alfons Beil (VCP)|familie|https://stamm-alfonsbeil.vcp-baden.de/|Christlicher Pfadfinderstamm mit Gruppenstunden und Fahrten.||website
+Heidelberg|Mehrgenerationenhaus Heidelberg|familie|https://www.mgh-heidelberg.de/ueber-uns|Begegnungsort für Menschen jeden Alters mit offenen Angeboten und Veranstaltungen.||website
+Heidelberg|Lions Ultimate Frisbee Club Heidelberg|sport|https://www.lionsultimatefrisbeeclub.de|Ultimate-Frisbee-Verein, der Training und Turniere für Einsteiger und Fortgeschrittene anbietet.||website
+Heidelberg|Quidditch Heidelberg Hellhounds|sport|https://hd-hellhounds.de|Quidditch-Team der Stadt, das den Sport nach realen Regeln trainiert und spielt.||website
+Heidelberg|Schachfreunde Heidelberg|spiele|https://www.schachfreunde-heidelberg.de|Schachverein mit Spielabenden und Ligamannschaften.||website
+Heidelberg|Schachclub Caissa Heidelberg|spiele|http://www.caissa-heidelberg.de|Schachclub für Spielabende und Mannschaftskämpfe in Heidelberg.||website
+Heidelberg|Heidelberger Boulespieler|spiele|https://www.heidelberger-boule-spieler-ev.de|Boule-Verein, in dem man gemeinsam Pétanque spielt.||website
+Heidelberg|Floorball Club Heidelberg|sport|https://www.fbc-heidelberg.de/|Verein für Floorball, die schnelle Hallenvariante des Hockeys.||website
+Heidelberg|Heidelberger Ruderklub 1872|sport|https://hrk1872.de/|Traditionsreicher Ruderverein am Neckar, auch mit Rugby-Abteilung.||website
+Heidelberg|Kendo Ken Zen Kan Heidelberg|sport|https://kendo-heidelberg.de|Kendo-Dojo mit Training im japanischen Schwertkampf.||website
+Heidelberg|DLRG Stadtgruppe Heidelberg|engagement|https://www.heidelberg.dlrg.de|Ehrenamtliche Wasserrettung mit Schwimm- und Rettungsschwimmtraining.||website

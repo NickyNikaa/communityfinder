@@ -1,0 +1,32 @@
+Leipzig|Brettspielgemeinschaft Grün-Weiß Leipzig|spiele|http://www.bsg-gruenweiss-leipzig.de|Verein für Brett- und Denkspiele, in dem regelmäßig gespielt wird.||website
+Leipzig|Allgemeiner Leipziger Wanderverein|outdoor|http://www.leipzigwandert.de|Wanderverein mit gemeinsamen Touren in und um Leipzig.||website
+Leipzig|Leipziger Petanque-Club Pastis 1996|spiele|http://www.leipzigboule.de|Boule-Club, in dem Anfänger und Erfahrene zusammen Pétanque spielen.||website
+Leipzig|Artistenkombinat Leipzig|kunst|http://www.artistenkombinat.de|Verein rund um Artistik und Zirkuskünste zum Mitmachen und Üben.||website
+Leipzig|Forró do Chamego Leipzig|tanz|http://www.forroleipzig.de|Verein für brasilianischen Forró-Tanz mit Tanzabenden und Treffen.||website
+Leipzig|CVJM Leipzig|engagement|http://www.cvjm-leipzig.de|Christlicher Verein junger Menschen mit Gruppen, Freizeiten und Jugendarbeit.||website
+Leipzig|alle mitmischen|engagement|http://www.alle-mitmischen.de|Verein, der Kinder und Jugendliche bei Beteiligung und eigenen Projekten unterstützt.||website
+Leipzig|Akademischer Ruderverein zu Leipzig|sport|http://www.arvleipzig.de|Traditionsreicher Ruderverein auf den Leipziger Gewässern.||website
+Leipzig|Bergsportverein Leipzig Mitte|outdoor|http://www.bergsportverein.de|Verein für Klettern und Bergsport mit gemeinsamen Terminen und Touren.||website
+Leipzig|Kletterverein Waltersdorf|outdoor|http://www.kvwaltersdorf.wordpress.com|Kletterverein, der sich um Klettern und Zusammenhalt der Kletternden kümmert.||website
+Leipzig|Lauf- und Wanderfreunde Leipzig|sport|http://www.lfw-leipzig.de|Verein für gemeinsames Laufen und Wandern in der Region.||website
+Leipzig|Leipziger Oratorienchor|musik|https://leipziger-oratorienchor.de/probeninformationen/|Laienchor für große Chorwerke, Notenkenntnisse sind nötig, Gäste können eine Probe besuchen.|Montags 19 bis 21:30 Uhr|website
+Leipzig|Leipzig International Choir|musik|https://www.leipziginternationalchoir.com/|Internationaler Chor, in dem Menschen aus vielen Ländern gemeinsam singen.|Dienstags 19 bis 21 Uhr|website
+Leipzig|CHORios Leipzig|musik|https://www.chorios-leipzig.de/|Gemischter Chor, der sich wöchentlich zur Probe trifft.|Montags|website
+Leipzig|Jazzchor Chornfeld|musik|https://www.chornfeld.de/|Jazzchor mit anspruchsvollem Repertoire und wöchentlicher Probe.|Montags 19:30 bis 22 Uhr|website
+Leipzig|Konzertchor Leipzig|musik|https://www.konzertchor-leipzig.de/|Chor für klassische Konzertprogramme mit regelmäßigen Proben.||website
+Leipzig|Leipziger Lehrerorchester|musik|https://l-lo.de/|Laiensinfonieorchester mit rund 70 Mitgliedern, Vorspiel ist nicht nötig, Orchestererfahrung wird erwartet.|Montags 18:30 bis 21 Uhr|website
+Leipzig|Leipziger Universitätsorchester|musik|https://www.unimusik.uni-leipzig.de/universitaetsorchester|Sinfonieorchester überwiegend von Studierenden, neue Mitglieder kommen über ein Probespiel zum Semesterstart.|Montags 19 bis 22 Uhr|website
+Leipzig|Fotoclub 58 Leipzig|foto|https://www.fc58.de/termine/|Fotoclub mit monatlichen Themenaufgaben, Wettbewerben und gemeinsamen Clubabenden.|Donnerstags, im Wechsel an zwei Orten|website
+Leipzig|Fotografie-Freunde Leipzig|foto|https://www.meetup.com/de-DE/fotofreundele/|Meetup-Gruppe für Fotobegeisterte, die gemeinsam losziehen und sich austauschen.||meetup
+Leipzig|Pfadfinder Stamm LEO|familie|https://leipzig-pfadfinden.de/stamm-leo/|Pfadfinderstamm für Kinder und Jugendliche mit wöchentlichen Gruppenstunden, Spielen und Lagerfeuern.|Wöchentliche Gruppenstunden|website
+Leipzig|Pfadfinder Eisvogel Leipzig|familie|https://eisvogel.vcp-sachsen.de/|VCP-Pfadfindergruppe in der Thomasgemeinde mit Altersgruppen von Wölflingen bis Rovern.|Mittwochs und freitags Gruppenstunden|website
+Leipzig|Schachgemeinschaft Leipzig|spiele|https://www.schachgemeinschaft-leipzig.de/verein/|Schachverein mit Training, Turnieren und eigenem Spiellokal im Denksportzentrum.||website
+Leipzig|Spielraum LE|spiele|https://www.facebook.com/SpielraumLE/|Verein für Gesellschaftsspiele in Leipzig mit offenen Spielterminen.||facebook
+Leipzig|Leipzig International Queers|queer|https://www.meetup.com/de-de/leipzig-gblt-lesbian-queer-butch-femme-meetup-group/|Internationale Meetup-Gruppe für LGBTQIA+ Menschen mit Socials und Ausflügen.||meetup
+Leipzig|Queerer Stammtisch HTWK|queer|https://stura.htwk-leipzig.de/en/ueber-uns/hochschulgruppen/queerer-stammtisch-1|Lockerer Treff für queere Studierende der HTWK, auch für alle, die sich noch orientieren.|Jeden letzten Mittwoch im Monat|sonstige
+Leipzig|Querbeet Leipzig|engagement|https://freiwilligen-agentur-leipzig.de/vereinsportraet-querbeet-leipzig/|Verein, der Brachflächen im Leipziger Osten zu offenen Gemeinschaftsgärten macht, Mithelfen ohne Vorkenntnisse möglich.||website
+Leipzig|Deutsch-Spanische Freundschaft Leipzig|engagement|http://www.dsf-leipzig.de|Verein für Integration und interkulturellen Austausch mit Sprachmittlung und Festen.||website
+Leipzig|NABU Leipzig|engagement|https://www.nabu-leipzig.de/mitmachen/|Naturschutzverband mit Arbeitskreisen zu Vögeln, Amphibien, Fledermäusen und Umwelt, Mitmachen nach Wunsch.||website
+Leipzig|Enactus Leipzig|business|https://stura.htwk-leipzig.de/en/ueber-uns/hochschulgruppen/enactus-leipzig|Studentische Hochschulgruppe, die soziale Unternehmensprojekte umsetzt.||website
+Leipzig|Eltern-Kind-Treff im Mehrgenerationenhaus riesa efau|familie|https://riesa-efau.de/gesellschaft-gestalten/mehrgenerationenhaus/familie/|Offener Treff für Eltern zum Austausch, dazu Familienfrühstück und kreative Familiensamstage.|Freitags 9:30 Uhr|website
+Leipzig|foodsharing Leipzig|engagement|https://foodsharing.de/region/leipzig|Regionale Gruppe, die gerettete Lebensmittel verteilt und weitere Freiwillige aufnimmt.||website

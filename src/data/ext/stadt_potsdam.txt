@@ -1,0 +1,46 @@
+Potsdam|Amnesty International Hochschulgruppe Potsdam|engagement|https://amnesty-potsdam.de/|Menschenrechtsgruppe, die Aktionen, Briefaktionen und Infoveranstaltungen organisiert und für Studierende wie Nichtstudierende offen ist.||website
+Potsdam|ArbeiterKind.de Potsdam|studium|https://www.Arbeiterkind.de|Ehrenamtliche Gruppe, die Erstakademikerinnen und Erstakademiker rund um Studium und Einstieg ins Berufsleben unterstützt.||website
+Potsdam|English Drama Group Potsdam|kunst|https://edgpotsdam.wixsite.com/edg-potsdam|Studentische Theatergruppe, die englischsprachige Stücke einstudiert und aufführt.||website
+Potsdam|ESN Potsdam|studium|https://potsdam.esn-germany.de|Erasmus Student Network, das internationale Studierende mit Ausflügen, Partys und Treffen beim Ankommen unterstützt.||website
+Potsdam|Evangelische Studierendengemeinde Potsdam|leute|https://esg-potsdam.com|Gemeinschaft für Gespräche, gemeinsame Abende und Gottesdienste, offen für alle Studierenden.||website
+Potsdam|IAESTE Potsdam|studium|https://www.iaeste-potsdam.de|Ehrenamtliches Team, das Auslandspraktika für Studierende der MINT-Fächer vermittelt und internationale Praktikanten betreut.||website
+Potsdam|jDPG Regionalgruppe Potsdam|lernen|https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akjdpg/regional/rg-potsdam|Junge Physikbegeisterte vernetzen sich, besuchen Institute und planen gemeinsame Exkursionen.||website
+Potsdam|Katholische Studierendengemeinde Potsdam|leute|http://www.ksg-potsdam.de|Studentische Gemeinde mit gemeinsamen Treffen, sozialem Engagement und Raum für Glaubensfragen.||website
+Potsdam|Lesecafé Golm|leute|https://www.instagram.com/lesecafegolm/|Selbstorganisiertes Café auf dem Campus Golm mit Lesungen, Kulturabenden und Freiraum zum Quatschen.||instagram
+Potsdam|NAJU Hochschulgruppe Potsdam|outdoor|https://www.instagram.com/naju_unipotsdam|Naturschutz und Umweltaktionen von Studierenden, etwa Pflegeeinsätze und Exkursionen.||instagram
+Potsdam|Nightline Potsdam|engagement|http://www.nightline-potsdam.de|Anonymes Zuhörtelefon und Chat, von Studierenden für Studierende betrieben.||website
+Potsdam|Nil StudentInnenkeller|musik|https://nilklub.net/|Studentisch betriebener Kulturclub auf dem Campus mit Konzerten, Partys und Veranstaltungen.||website
+Potsdam|Pangea Projekt Potsdam|engagement|http://pangea-projekt.de/|Austausch und gemeinsame Aktivitäten zwischen Menschen mit und ohne Fluchterfahrung.||website
+Potsdam|Sinc UP|engagement|https://www.uni-potsdam.de/sinc|Netzwerk nachhaltiger Initiativen an der Universität, in dem man bei Projekten mitmachen kann.||website
+Potsdam|SMD Hochschulgruppe Potsdam|leute|https://hochschul-smd.org/potsdam/|Christliche Gemeinschaft für Studierende mit Bibelgesprächen und gemeinsamen Aktivitäten.||website
+Potsdam|SpeakUP Studierendenzeitung|kunst|https://speakupzeitung.de/|Unabhängige Studierendenzeitung, bei der man schreiben, fotografieren und redigieren kann.||website
+Potsdam|StuGa Studigarten Golm|outdoor|https://studigarten.wordpress.com/|Gemeinschaftsgarten für Studierende auf dem Campus Golm zum gemeinsamen Gärtnern.||website
+Potsdam|UniClever Potsdam|business|https://uniclever.de/|Studentische Unternehmensberatung, in der Studierende echte Projekte für Kunden bearbeiten.||website
+Potsdam|upLUG Linux User Group Uni Potsdam|tech|https://www.uplug.de|Studentische Gruppe, die freie Software und Linux verbreitet und bei Installationen hilft.||website
+Potsdam|UNISONO Potsdam|musik|https://unisono-potsdam.com|Blasorchester für Studierende und Interessierte mit regelmäßigen Proben und Konzerten.||website
+Potsdam|UPride|queer|https://stud.astaup.de/~upride/|Queere Hochschulgruppe der Potsdamer Hochschulen mit Treffen, Austausch und Veranstaltungen.||website
+Potsdam|Wanderhochschulgruppe Potsdam|outdoor|https://wandern-unipotsdam.de|Studierende wandern gemeinsam rund um Potsdam und gelegentlich weiter weg.||website
+Potsdam|Wortgefechte Debattierclub Potsdam|lernen|https://www.wortgefechte-potsdam.de|Hochschul-Debattierclub mit wöchentlichen Debatten und Rhetoriktraining.|Wöchentlich|website
+Potsdam|ChorWerk Potsdam|musik|https://www.chorwerk-potsdam.de/|Gemeinnütziger Chorverein mit Gruppen vom Kinderchor bis zum Kammerchor, Vorsingen ist nicht nötig.||website
+Potsdam|Babelonier|musik|https://www.potsdam.de/de/pop-jazz-soul-gospelchor-babelonier|Erwachsenenchor an der städtischen Musikschule mit Pop, Jazz, Soul und Gospel, neue Sängerinnen und Sänger sind willkommen.|Dienstags 19:30 Uhr|website
+Potsdam|Campus Cantabile|musik|https://www.uni-potsdam.de/de/chor-orchester/campus-cantabile-chor-der-universitaet-potsdam|Chor der Universität Potsdam mit wechselnden Konzertprogrammen.||website
+Potsdam|Cantamus Potsdam|musik|https://www.cantamus-potsdam.de/aktuelles|Chor in Potsdam mit regelmäßigen Proben und Auftritten.||website
+Potsdam|Potsdamer Männerchor 1848|musik|https://potsdamer-maennerchor.de/|Traditionsreicher Männerchor, der gemeinsam singt und Konzerte gibt.||website
+Potsdam|Oratorienchor Potsdam|musik|https://oratorienchorpotsdam.de/ueber-uns/|Chor für große Chorwerke und Oratorien, der für Mitsängerinnen und Mitsänger offen ist.||website
+Potsdam|Goldfingers Ultimate Club|sport|https://www.goldfingers-potsdam.de/|Ultimate-Frisbee-Verein mit Trainings für Einsteiger und Fortgeschrittene.||website
+Potsdam|Potsdamer Drachenbootverein 2009|sport|http://pdv2009ev.de/Team/|Verein, in dem man gemeinsam im Drachenboot paddelt und an Regatten teilnimmt.||website
+Potsdam|DPSG Stamm Sanssouci|outdoor|https://www.pfadis-potsdam.de/|Pfadfinderstamm der DPSG mit Gruppenstunden und Fahrten für Kinder und Jugendliche.||website
+Potsdam|Potsdamer Schachverein Mitte|spiele|https://psv-mitte.de/potsdamer-schachverein-mitte-e-v/|Schachverein mit offenem wöchentlichem Spielabend, zu dem Interessierte vorbeikommen können.|Freitags ab 18 Uhr|website
+Potsdam|Schachclub Potsdam GG|spiele|https://www.schachclub-potsdam-gg.de/|Schachverein mit Ligabetrieb und Nachwuchsarbeit.||website
+Potsdam|Fotoclub Potsdam|foto|https://fotoclub-potsdam.de/|Fotografiebegeisterte treffen sich zu Bildbesprechungen, Ausflügen und Ausstellungen.||website
+Potsdam|NABU Kreisverband Potsdam|outdoor|https://www.nabu-potsdam.de/|Naturschutzverband mit Ortsgruppen, Pflegeeinsätzen und Exkursionen zum Mitmachen.||website
+Potsdam|ADFC Potsdam|mobil|https://potsdam.adfc.de/adfc-potsdam|Radfahrverband mit Touren, Aktionen und Einsatz für bessere Radwege in Potsdam.||website
+Potsdam|VCD Ortsgruppe Potsdam|mobil|https://brandenburg.vcd.org/startseite/detail/treffen-ortsgruppe-potsdam-2|Ortsgruppe des Verkehrsclubs, die sich für nachhaltige Mobilität einsetzt und regelmäßig trifft.||website
+Potsdam|Rotaract Club Potsdam|engagement|https://www.facebook.com/Rotaract.Potsdam/|Club junger Erwachsener, der Spendenaktionen und soziale Projekte organisiert und sich regelmäßig trifft.||facebook
+Potsdam|Toastmasters Innovate Potsdam|lernen|https://tmclub.eu/portal.php?c=1331|Rhetorikclub, in dem man Reden hält, Feedback bekommt und Selbstsicherheit beim Sprechen übt.||website
+Potsdam|Begegnungszentrum oskar. Drewitz|leute|https://www.oskar-drewitz.de/|Offener Treffpunkt in Drewitz mit Kulturveranstaltungen, Workshops und regelmäßigen Kursen.||website
+Potsdam|Bürgerhaus am Schlaatz|leute|https://www.buergerhaus-schlaatz.de|Nachbarschaftshaus mit Kultur, Bildung und Freizeitangeboten für alle Altersgruppen.||website
+Potsdam|Bürgerhaus Bornim|leute|https://bürgerhaus-bornim.de/|Interkultureller und generationenübergreifender Treffpunkt in Bornim.||website
+Potsdam|Bürgerhaus Sternzeichen|leute|https://buergerhaus-stern.de/|Bürgerhaus im Stadtteil Stern mit Freizeit, Bildung, Beratung und Veranstaltungen.||website
+Potsdam|AWO Kulturhaus Babelsberg|kunst|https://kulturhausbabelsberg.de/de/|Kulturhaus im ehemaligen Rathaus Babelsberg mit Veranstaltungen, Projekten und Workshops.||website
+Potsdam|Haus der Begegnung Potsdam Waldstadt|leute|https://pad-berlin.de/demokratie/haus-der-begegnung-potsdam.html|Nachbarschaftstreff in der Waldstadt mit offenen Angeboten für Anwohner.||website

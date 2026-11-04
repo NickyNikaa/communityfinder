@@ -1,0 +1,48 @@
+Bonn|Amnesty International Hochschulgruppe Bonn|engagement|http://amnesty-bonn-uni.de/|Studierende setzen sich mit Aktionen, Petitionen und Filmabenden für Menschenrechte ein.||website
+Bonn|Students for Future Bonn|engagement|https://www.instagram.com/studentsforfuture_bonn/|Studentische Klimagruppe, die sich für eine klimaneutrale Universität und Klimagerechtigkeit stark macht.||instagram
+Bonn|Refugee Law Clinic Bonn|engagement|http://rlcbonn.de|Ehrenamtliche Studierende beraten Geflüchtete zu Asyl- und Aufenthaltsrecht.||website
+Bonn|Kurfürstliches Hoftheater Bonn|kunst|http://www.theater.uni-bonn.de|Studentische Theatergruppe, die meist in der vorlesungsfreien Zeit ihre Stücke aufführt.||website
+Bonn|Radius Radsportclub Uni Bonn|mobil|http://radius.uni-bonn.de|Hochschulgruppe rund ums Radfahren mit gemeinsamen Ausfahrten und Veranstaltungen zu Nachhaltigkeit.||website
+Bonn|Machine Learning Club Uni Bonn|tech|http://machine-learning.club/|Studentischer Club für alle, die sich mit maschinellem Lernen beschäftigen und austauschen wollen.||website
+Bonn|Effektiver Altruismus Bonn|engagement|http://www.eabonn.org|Lokale Gruppe, die diskutiert, wie man mit Zeit und Geld möglichst viel Gutes bewirkt.||website
+Bonn|Indian Students Association of Bonn-Cologne|studium|http://www.isa-bonncologne.org/|Hilft neuen indischen Studierenden beim Ankommen und organisiert Kultur- und Netzwerkabende.||website
+Bonn|EGEA Bonn|studium|https://www.instagram.com/egea.bonn/|Bonner Ableger eines europäischen Netzwerks für Geographie-Studierende mit Austausch und Treffen.||instagram
+Bonn|Skandinavische Filmtage Bonn|kunst|http://skandinavische-filmtage.de|Studentisch organisierte Filmtage mit Produktionen aus Skandinavien.||website
+Bonn|Chor Gemeinsang|musik|https://www.gemeinsang.de/|Gemischter Chor in Bonn, der montags gemeinsam probt.|Montags 19:30 bis 21:30 Uhr|website
+Bonn|Bonner Kammerchor Collegium Cantorum|musik|https://bonner-kammerchor.de/|Kammerchor für anspruchsvolle Chorliteratur, Interessierte melden sich vorab für einen Probenbesuch.|Mittwochs 19:45 Uhr|website
+Bonn|Plan b Chor Bonn|musik|https://plan-b-chor.de/|Chor mit zwei längeren Probenpausen im Jahr, offen für neue Stimmen.|Montags 19 bis 21 Uhr|website
+Bonn|CosiFunTutti|musik|https://www.cosi-fun-tutti.de/|Chorverein, bei dem man an Schnuppertagen unverbindlich mitsingen kann.|Dienstags 20 Uhr|website
+Bonn|Bonner Jazzchor|musik|https://www.bonnerjazzchor.de/|Jazzchor, der Interessierte zu einer Probestunde einlädt.|Mittwochs|website
+Bonn|Collegium Musicum Bonn|musik|https://collegiummusicumbonn.de/mach-mit|Chor, Orchester und Vokalensemble der Universität, zum Semesterstart gibt es Schnupperproben.|Chor dienstags, Orchester mittwochs, Vokalensemble donnerstags, abends|website
+Bonn|Hofgartenorchester Bonn|musik|https://hgo-bonn.de/|Laienorchester in Bonn für Menschen, die gemeinsam sinfonische Musik spielen wollen.||website
+Bonn|Brett- und Rollenspiel-Nachmittag BURN|spiele|https://papierdrachen.org/burn|Offener Nachmittag der Papierdrachen für Brett- und Rollenspiele, auch für Einsteiger.||website
+Bonn|Godesberger Schachklub|spiele|https://www.godesbergersk.de/|Schachverein in Bad Godesberg mit Spielabenden und Mannschaftsbetrieb.||website
+Bonn|Schachclub Bonn/Beuel|spiele|https://scbb.de/verein/mitglied-werden/|Schachverein im rechtsrheinischen Bonn, neue Mitglieder sind willkommen.||website
+Bonn|Georgs Spieleclub|spiele|https://www.boardgameland.de/de/event/872a0e50-4d0c-4337-8509-bada5ed977de|Offener Spieleabend in den Rathausstuben in der Maarstraße für Brett- und Kartenspiele.|Dienstags 18:30 Uhr|sonstige
+Bonn|Bonn University Shakespeare Company|kunst|https://busc.de/|Englischsprachige Laientheatergruppe, die zweimal jährlich meist Shakespeare auf die Bühne bringt.||website
+Bonn|The Bonn Players|kunst|https://www.bonnplayers.de/|Internationales englischsprachiges Amateurtheater seit 1981 mit zwei Produktionen pro Jahr.||website
+Bonn|Mission Improssible|kunst|https://webergps.wixsite.com/missionimprossible|Improtheater-Ensemble, das mit dem Publikum zusammen jeden Abend ein neues Stück entwickelt.||website
+Bonn|r(h)einqueer Bonn e.V.|queer|https://www.rheinqueer-bonn.de/stammtisch/|Verein für queeres Leben am Rhein mit einem offenen Stammtisch ohne Anmeldung.|Einmal im Monat|website
+Bonn|Queer-Referat Uni Bonn|queer|https://www.queer-bonn.de/event/stammtisch-bar-night|Autonomes Referat im AStA mit Stammtisch, Themenabenden und Peer-Beratung.|Jeden letzten Donnerstag im Monat, 19 Uhr|website
+Bonn|Bonn International Toastmasters|business|https://bonn-international-toastmasters.de/|Englischsprachiger Club zum Üben von Rhetorik und freier Rede.|Donnerstags 18:45 Uhr|website
+Bonn|FotoTreff Bonn|foto|https://fototreff-bonn.de/ueber-uns/|Kleine Gruppe, die gemeinsam fotografiert und die Bilder in lockerer Runde bespricht, unabhängig vom Können.||website
+Bonn|Fotoclub Bad Godesberg|foto|https://www.fotoclub-bad-godesberg.de/|Gemeinschaft für digitale Fotografie mit Austausch und gemeinsamen Projekten.||website
+Bonn|Fotogruppe Hardtberg|foto|https://www.fotogruppe-hardtberg.de/ueber-uns/|Fotogruppe im Stadtbezirk Hardtberg für Hobbyfotografen.||website
+Bonn|Bal Folk Bonn|tanz|https://balfolk-bonn.de/|Verein rund um Balfolk mit Tanzabenden, Workshops und Livemusik, Anfänger sind willkommen.|Workshops alle zwei Wochen donnerstags|website
+Bonn|Bonn Square Dance Group|tanz|https://www.bonn-square-dance.de/|Gruppe für Square Dance in Bonn.||website
+Bonn|Eifelverein Ortsgruppe Bonn|outdoor|https://www.eifelvereinbonn.de/|Wanderverein mit ganzjährigem Programm aus Tages- und Halbtagestouren.||website
+Bonn|BUND Kreisgruppe Bonn|engagement|https://bonn.bund.net/|Umwelt- und Naturschutzgruppe mit Aktiven in mehreren Ortsgruppen.||website
+Bonn|NABU Kreisgruppe Bonn|engagement|https://nabu-bonn.de/|Naturschutzgruppe mit Exkursionen und Mitmachaktionen rund um Bonn.||website
+Bonn|Bonn im Wandel e.V.|engagement|https://bonnimwandel.de/|Transition-Initiative mit Projekten zu Klimaschutz, Mobilität und solidarischer Landwirtschaft.||website
+Bonn|Leihbar Bonn|engagement|https://leihbarbonn.de/|Bibliothek der Dinge im Mackeviertel, in der man Werkzeug und anderes kostenlos ausleihen kann.||website
+Bonn|Slow Food Bonn|essen|https://www.slowfood.de/slow_food_vor_ort/bonn|Ortsgruppe der Slow-Food-Bewegung mit gemeinsamem Kochen, Essen und Besuchen bei Erzeugern.||website
+Bonn|Foodsharing Bonn|engagement|https://rundum-nachhaltig.bonn.de/initiativen/inhaltsseiten/foodsharing-bonn.php?loc=en|Netzwerk, das überschüssige Lebensmittel rettet und weitergibt.||website
+Bonn|Bonner Tauschring|engagement|https://www.tauschringbonn.de|Tauschring, in dem Mitglieder Dienste und Waren untereinander tauschen.||website
+Bonn|Stadtteiltreff Bonn-Castell|leute|https://castelltreff.de/|Gemeinnütziger Bürgertreff im Stadtteil Castell mit offenen Angeboten für die Nachbarschaft.||website
+Bonn|Haus der Familie Bonn|familie|https://www.hdf-bonn.de/|Mehrgenerationenhaus mit Programm für Familien, Kinder und Ältere.||website
+Bonn|Pfadfinder Stamm Jupiter Bonn|leute|http://pfadfinder-bonn.de/|Pfadfinderstamm in Bonn mit Gruppenstunden und Fahrten für Kinder und Jugendliche.||website
+Bonn|DPSG Stamm Phönix Bonn|leute|https://www.sankt-petrus-bonn.de/g/dpsg-stamm-phoenix|Pfadfinderstamm der Pfarrei St. Petrus mit Gruppen für verschiedene Altersstufen.||website
+Bonn|Sprachcafé International Club Uni Bonn|sprachen|https://sprachcafes.com/sprachcafe/bonn/international-club-universitaet-bonn-bonn-sprachcafe/|Offenes Sprachcafé des International Club zum Üben und Kennenlernen.|Montags 18 Uhr|sonstige
+Bonn|Offener Treff Haus Mondial Caritas Bonn|sprachen|https://sprachcafes.com/sprachcafe/bonn/offener-treff-haus-mondial-caritas-bonn-bonn-sprachcafe/|Offener Treff im Haus Mondial zum Deutschsprechen und Kontakteknüpfen.|Dienstags und donnerstags 14 bis 16 Uhr|sonstige
+Bonn|Bonnsai Frisbeesport Bonn|sport|https://www.bonnsai.org/|Ultimate-Frisbee-Verein mit offenem Training für alle Spielstärken.|Dienstags 18:30 Uhr|website
+Bonn|Der Fechtverein Bonn|sport|https://der-fechtverein.de/|Fechtverein in Bonn.||website

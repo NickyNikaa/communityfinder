@@ -1,0 +1,46 @@
+Darmstadt|eSport Verein Darmstadt e.V.|gaming|https://esport-darmstadt.de/|Hochschulnaher Verein für wettbewerbsorientiertes E-Sport mit Teams und gemeinsamen Spielabenden.||website
+Darmstadt|Akademische Fliegergruppe Darmstadt|tech|http://www.akaflieg.tu-darmstadt.de/|Studentische Gruppe, die Segelflugzeuge entwickelt, baut und fliegt. Mitmachen können Studierende der Darmstädter Hochschulen.||website
+Darmstadt|ArbeiterKind.de Darmstadt|engagement|http://www.darmstadt.arbeiterkind.de|Ehrenamtliche Gruppe, die Schülerinnen und Studierende aus Familien ohne Hochschulerfahrung beim Weg ins Studium unterstützt.||website
+Darmstadt|Darmstadt Indian Association e.V.|leute|https://www.dia-darmstadt.de|Verein für indische Kultur und Austausch unter Studierenden und Interessierten in Darmstadt.||website
+Darmstadt|Effektiver Altruismus Darmstadt|engagement|https://ea-darmstadt.de/|Lokale Gruppe, die sich mit der Frage beschäftigt, wie man mit Zeit und Geld möglichst viel Gutes bewirkt.||website
+Darmstadt|Exchange Network Darmstadt (ESN)|studium|https://esn-darmstadt.de|Studentisches Netzwerk, das internationale Studierende betreut und Ausflüge, Partys und Treffen organisiert.||website
+Darmstadt|Hochschulgruppe Nachhaltigkeit Darmstadt|engagement|http://www.hg-nachhaltigkeit.de/|Studierende bringen Nachhaltigkeitsthemen an die Hochschule und organisieren Aktionen und Vorträge.||website
+Darmstadt|Amnesty International Hochschulgruppe Darmstadt|engagement|https://amnesty-darmstadt.de/amnesty-hochschulgruppe-darmstadt/|Studentische Menschenrechtsgruppe mit Aktionen, Briefaktionen und Infoständen auf dem Campus.||website
+Darmstadt|Ingenieure ohne Grenzen Regionalgruppe Darmstadt|engagement|https://www.ingenieure-ohne-grenzen.org/de/mitmachen/regionalgruppe-darmstadt|Ehrenamtliche planen technische Projekte für Wasser, Energie und Bildung in Entwicklungsländern.||website
+Darmstadt|Leo Club Darmstadt Ludovicus|engagement|https://darmstadt-ludovicus.leo-clubs.de/|Jugend- und Studierendenclub, der soziale Projekte in der Stadt organisiert und Spenden sammelt.||website
+Darmstadt|Studentischer Filmkreis an der TU Darmstadt|kunst|http://www.filmkreis.tu-darmstadt.de/|Studierende zeigen regelmäßig Filme auf dem Campus und organisieren Filmreihen.||website
+Darmstadt|TEDxTUDarmstadt|lernen|https://tedxtudarmstadt.com/de|Studentisches Team, das Vortragsveranstaltungen im TED-Format plant.||website
+Darmstadt|TU Darmstadt Schauspielstudio|kunst|https://www.tud-schauspielstudio.de/|Theatergruppe von Studierenden, die Stücke erarbeitet und aufführt.||website
+Darmstadt|UniFotoClub Darmstadt|foto|https://unifotoclub-darmstadt.de/|Fotogruppe für Studierende mit Treffen, Fotowalks und gemeinsamen Ausstellungen.||website
+Darmstadt|AIESEC Darmstadt|studium|https://aiesec.de/darmstadt/|Studentische Organisation für internationale Praktika und Freiwilligenprojekte.||website
+Darmstadt|AudioMax Campusradio|kunst|http://audiomax-campusradio.de/|Campusradio, bei dem Studierende eigene Sendungen gestalten.||website
+Darmstadt|Die Nachhelfer Darmstadt|engagement|http://nachhelfer-darmstadt.org/|Studierende geben Schülerinnen und Schülern kostenfreie Nachhilfe und Betreuung.||website
+Darmstadt|Sailing Team Darmstadt|outdoor|http://www.st-darmstadt.de/startseite/|Studentische Segelgruppe, die Regatten segelt und Boote gemeinsam betreut.||website
+Darmstadt|Chor der TU Darmstadt|musik|http://www.chor.tu-darmstadt.de/|Großer Chor der Universität, offen für Studierende und weitere Sängerinnen und Sänger.||website
+Darmstadt|Orchester der TU Darmstadt|musik|http://www.orchester.tu-darmstadt.de/|Sinfonisches Orchester der Universität mit regelmäßigen Konzerten.||website
+Darmstadt|Kammerorchester an der TU Darmstadt|musik|https://kammerorchester-tud.de/|Kleineres Orchester für Streich- und Kammermusik unter Studierenden.||website
+Darmstadt|TU Bigband|musik|https://www.tu-bigband.de/|Bigband aus Studierenden mit Jazz, Swing und Pop.||website
+Darmstadt|Chor der Hochschule Darmstadt|musik|https://h-da.de/chor|Chor der Hochschule für Studierende und Beschäftigte, die gemeinsam singen möchten.||website
+Darmstadt|DA!CHOR|musik|https://dachor-darmstadt.de/|Darmstädter Chor mit Proben und Auftritten in der Stadt.||website
+Darmstadt|Voices Reloaded Chor Darmstadt|musik|https://www.voices-reloaded.de/|Chor mit moderner Literatur aus Pop, Gospel und Jazz.||website
+Darmstadt|Musikverein Darmstadt|musik|https://musikverein-darmstadt.de/|Traditionsreicher Verein für Chor- und Orchestermusik mit Konzerten.||website
+Darmstadt|Bach-Chor Darmstadt|musik|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=71|Chor, der große geistliche Werke einstudiert und aufführt.||website
+Darmstadt|Spielekreis Darmstadt e.V.|spiele|https://www.spielekreis-darmstadt.de/|Verein für Gesellschaftsspiele mit mehreren offenen Spieletreffs in verschiedenen Stadtteilen.|Dienstags und donnerstags 19 Uhr im Spielezentrum|website
+Darmstadt|Carrom-Club Darmstadt|spiele|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=111|Verein rund um das indische Brettspiel Carrom, das mit Fingerschnippen gespielt wird.||website
+Darmstadt|Bridge-Club Darmstadt 1965|spiele|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=94|Club für Kartenspieler, die Turnierbridge spielen und das Spiel lernen möchten.||website
+Darmstadt|foodsharing Darmstadt e.V.|engagement|https://foodsharing-darmstadt.de/|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen sie weiter.||website
+Darmstadt|Pioniere Darmstadt Pfadfinder|familie|https://www.pfadfinden-darmstadt.de/gruppenstunden/|Pfadfindergruppen für Kinder nach Altersstufen mit wöchentlichen Gruppenstunden.|Gruppenstunden montags bis donnerstags am Nachmittag|website
+Darmstadt|DPSG Stamm Darmstadt-Liebfrauen|familie|https://www.dpsg-darmstadt-liebfrauen.de/ueber-uns/|Katholischer Pfadfinderstamm mit Gruppen für Kinder und Jugendliche.||website
+Darmstadt|Frisbeesport-Verein Ars Ludendi Darmstadt|sport|https://www.arsludendi.org/vereinsgeschichte/|Ultimate-Frisbee-Verein, bei dem Anfänger und Fortgeschrittene willkommen sind.||website
+Darmstadt|Baseball Club Darmstadt Whippets|sport|https://darmstadt-whippets.de/clubhouse/|Baseball- und Softballverein mit eigenem Clubhaus.||website
+Darmstadt|Foto-Club Darmstadt|foto|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=324|Fotoverein für Hobbyfotografen mit Treffen und gemeinsamen Projekten.||website
+Darmstadt|Darmstadt Greeters|leute|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=144|Ehrenamtliche zeigen Gästen die Stadt aus der Sicht von Einheimischen.||website
+Darmstadt|Esperantogruppe Darmstadt|sprachen|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=820|Gruppe für alle, die Esperanto lernen oder sprechen wollen.||website
+Darmstadt|ADFC Darmstadt-Dieburg|mobil|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=35|Fahrradclub mit Touren und Einsatz für bessere Radwege in der Region.||website
+Darmstadt|Darmstädter Tafel e.V.|engagement|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=169|Verein, der Lebensmittel an bedürftige Menschen verteilt und Ehrenamtliche sucht.||website
+Darmstadt|Darmstompers Square Dance Club|tanz|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=175|Tanzclub für Square Dance, auch ohne Vorkenntnisse zum Ausprobieren.||website
+Darmstadt|Bundesverband für Country und Westerntanz Darmstadt|tanz|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=102|Gruppe rund um Country- und Westerntanz mit gemeinsamem Üben.||website
+Darmstadt|Fledermausschutz Südhessen|tiere|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=259|Naturschützer, die Fledermäuse beobachten, Quartiere betreuen und informieren.||website
+Darmstadt|Frauen in der Technik Darmstadt|frauen|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=327|Netzwerk für Frauen in technischen Berufen und Studiengängen.||website
+Darmstadt|Freundeskreis Eberstädter Streuobstwiesen|engagement|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=348|Freiwillige pflegen Streuobstwiesen in Eberstadt und ernten gemeinsam.||website
+Darmstadt|Bienenzüchterverein Darmstadt und Umgebung|tiere|https://www.darmstadtimherzen.de/vereinsportal/vereinsportrait/?id=85|Verein für Imkerinnen und Imker, auch zum Einstieg in die Bienenhaltung.||website

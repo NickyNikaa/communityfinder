@@ -1,0 +1,54 @@
+Erfurt|Roller Derby Erfurt e.V.|sport|https://rdef.info/|Rollschuh-Vollkontaktsport mit Anfängerinnenkurs und Probetraining, ab 18 Jahren (16 mit Einverständnis der Eltern).|Montags, mittwochs und donnerstags|website
+Erfurt|Parkour Erfurt e.V.|sport|https://parkour-erfurt.de/|Verein für Parkour mit eigenen Trainingsgruppen für Erwachsene, Jugendliche und Kinder.||website
+Erfurt|Erfurter Lachse (Kin-Ball)|sport|https://erfurterlachse.de/|Kin-Ball-Klub, der die Mannschaftssportart mit dem riesigen Ball in Erfurt betreibt und Neue zum Mitspielen einlädt.||website
+Erfurt|Erfurter Schachklub|spiele|https://erfurter-sk.de/|Schachverein mit Spielabenden, Mannschaftsbetrieb und einer eigenen Jugendabteilung.||website
+Erfurt|BrettspielClub Erfurt|spiele|https://www.brettspielclub-erfurt.de/|Regelmäßige Spiele- und Themenabende für Brettspielfans, laut Seite sind rund achtzig Interessierte vernetzt.|Mehrere Abende im Monat ab 19:30 Uhr in der L50, Lassallestraße 50|website
+Erfurt|Tabletop Club Erfurt e.V.|spiele|http://tabletopcluberfurt.blogspot.com/|Verein für Tabletop und Miniaturenspiele mit Spielterminen und Turnieren.||website
+Erfurt|Rollenspiel Erfurt|spiele|https://www.facebook.com/RPGErfurt|Öffentliche Gruppe, in der Rollenspielende aus Erfurt Mitspieler und Spielrunden finden.||facebook
+Erfurt|Erfurter Fotoclub Blickwinkel e.V.|foto|https://www.fotoclub-blickwinkel.de/|Fotoclub für Hobbyfotografen mit gemeinsamen Treffen, Bildbesprechungen und Ausstellungen.||website
+Erfurt|DPSG Pfadfinder Stamm St. Elisabeth|outdoor|https://pfadfinder-erfurt.de/|Katholischer Pfadfinderstamm mit Gruppenstunden für alle Altersstufen von Wölflingen bis Rovern.|Montags 17 bis 19:30 Uhr, mittwochs Rover, nicht in den Ferien|website
+Erfurt|BDP Pfadfinder Erfurt|outdoor|https://stadtjugendring-erfurt.de/bdp|Ortsgruppe des Bundes der Pfadfinder und Pfadfinderinnen, Mitglied im Stadtjugendring.||website
+Erfurt|NABU Erfurt|engagement|https://www.nabu-erfurt.de/|Naturschutzgruppe mit Müllsammelaktionen, Naturgarten und dem Young Birders Club.|Müllsammeln jeden 1. Donnerstag im Monat, 17:30 Uhr|website
+Erfurt|NAJU Erfurt|outdoor|https://stadtjugendring-erfurt.de/naju-erfurt|Naturschutzjugend mit Aktionen und Exkursionen für junge Naturinteressierte.||website
+Erfurt|Queeres Zentrum Erfurt|queer|https://www.queeres-zentrum-erfurt.de/|Begegnungs- und Beratungszentrum mit Gruppen wie Young and Queer, queerer Bouldergruppe und Stammtisch für Beziehungsvielfalt.|Offen montags, dienstags, mittwochs und samstags|website
+Erfurt|CSD Erfurt|queer|https://csderfurt.de/verein/|Verein, der den Christopher Street Day in Erfurt organisiert und Helfende sucht.||website
+Erfurt|Chorakademie Erfurt|musik|https://chorakademie-erfurt.de/|Kinder- und Jugendchor mit rund 130 Sängerinnen und Sängern in vier Altersgruppen, der auch bei Opern am Theater mitwirkt.||website
+Erfurt|Erfurter Männerchor 1890 e.V.|musik|https://www.emc1890.de/|Traditionsreicher Männerchor in Erfurt mit regelmäßigen Proben und Konzerten.||website
+Erfurt|Kammerchor Collegium cantat Erfurt|musik|https://collegiumcantat-erfurt.com/|Kammerchor für anspruchsvolle Chormusik in Erfurt.||website
+Erfurt|Akademisches Orchester Erfurt e.V.|musik|http://www.orchester-erfurt.de/|Offenes Amateurorchester für Studierende und Berufstätige.||website
+Erfurt|Kammerchor der Universität Erfurt|musik|https://www.instagram.com/kammerchorunierfurt/|Studentischer Chor für anspruchsvolle Chormusik an der Uni.||instagram
+Erfurt|Thüringer Folklore Ensemble|tanz|https://stadtjugendring-erfurt.de/thueringerfolkloreensemble|Tanz- und Musikensemble für Volkskultur, Mitglied im Stadtjugendring.||website
+Erfurt|Round Table 211 Erfurt|leute|https://www.round-table-erfurt.de/round-table-erfurt/|Serviceclub für Männer bis 40 Jahre mit Freundschaft und Spendenaktionen.||website
+Erfurt|Rotaract Club Erfurt|leute|https://erfurt.rotaract.de/ueber-uns/|Club für junge Erwachsene mit Treffen, sozialen Projekten und Vernetzung.||website
+Erfurt|Gartenbahn Stammtisch Erfurt e.V.|leute|https://gartenbahn-stammtisch-erfurt.de/wir-ueber-uns/|Verein für Hobbyisten der Gartenbahn mit Stammtisch und Veranstaltungen.||website
+Erfurt|Internationaler Stammtisch Erfurt|sprachen|https://www.erfurt.de/ef/de/leben/fuer/migranten/projekte/108727.html|Offener Stammtisch, bei dem Zugezogene, Gäste und Einheimische ins Gespräch kommen.||website
+Erfurt|Sprachcafé der Offenen Arbeit Erfurt|sprachen|https://offenearbeiterfurt.de/sprachcafealt/|Offenes Sprachcafé zum Deutschüben und Kennenlernen.||website
+Erfurt|Offene Krabbelgruppe Offene Arbeit Erfurt|familie|https://offenearbeiterfurt.de/krabbelgruppe-familiengarten/|Offene Krabbelgruppe für Eltern mit Kleinkindern zum Austausch und Spielen.||website
+Erfurt|Familienzentrum am Anger|familie|https://ffz-erfurt.de/|Familienzentrum mit offenen Angeboten wie Krabbelgruppen und Treffs für Eltern.||website
+Erfurt|Familienzentrum Family-Club|familie|https://www.dfv-thueringen.de/familienzentrum-family-club/|Familientreff des Deutschen Familienverbands Thüringen mit Angeboten für Eltern und Kinder.||website
+Erfurt|Mehrgenerationenhaus Erfurt Mitmenschen|familie|https://mitmenschen-ev.de/freizeit-begegnung/mehrgenerationenhaus|Begegnungshaus für Jung und Alt mit offenen Treffs, Kursen und Freizeitangeboten.||website
+Erfurt|Stadtteilbürgerhaus Unter den Kastanien|leute|https://kaufmannsgemeinde-erfurt.de/gemeindezentren/stadtteilbuergerhaus-unter-den-kastanien/|Stadtteilbürgerhaus der Kaufmannsgemeinde als Treffpunkt für Nachbarschaft und Gruppen.||website
+Erfurt|Drosselbergzentrum Quartiersmanagement|leute|https://www.mein-suedost.de/drosselbergzentrum/|Stadtteiltreffpunkt im Erfurter Südosten mit Angeboten für Nachbarn.||website
+Erfurt|autonomes jugendzentrum erfurt|leute|https://stadtjugendring-erfurt.de/ajz|Selbstverwaltetes Jugendzentrum für Konzerte, Treffen und Kultur.||website
+Erfurt|Foodsharing FH Erfurt Fairteiler|engagement|https://stura.fh-erfurt.de/mitmachen/hochschulgruppen/fairteiler|Hochschulgruppe, die gerettete Lebensmittel über einen Fairteiler weitergibt.||website
+Erfurt|BaseMent e.V.|engagement|http://basement-ev.de|Mentoring-Programm, in dem Studierende Kinder und Jugendliche begleiten.||website
+Erfurt|Amnesty International Hochschulgruppe Erfurt|engagement|https://amnesty-erfurt.de/|Gruppe, die auf Menschenrechtsverletzungen aufmerksam macht und Aktionen organisiert.||website
+Erfurt|UNICEF Hochschulgruppe Erfurt|engagement|https://www.unicef.de/mitmachen/ehrenamtlich-aktiv/-/hochschulgruppe-erfurt|Studentische Gruppe, die sich für Kinderrechte einsetzt.||website
+Erfurt|AG Nachhaltigkeit Uni Erfurt|engagement|https://www.instagram.com/ag_nachhaltigkeit/|Studentische Gruppe mit Aktionen und Stadtrundgängen zu nachhaltigem Leben.||instagram
+Erfurt|Studierendengärten Erfurt|outdoor|https://stura.fh-erfurt.de/mitmachen/hochschulgruppen/studierendengaerten|Hochschulgruppe, die gemeinsam Gartenflächen für Studierende bewirtschaftet.||website
+Erfurt|Selbsthilfefahrradwerkstatt und Werkzeug-Verleih|mobil|https://stura.fh-erfurt.de/mitmachen/hochschulgruppen/selbsthilfefahrradwerkstatt-und-werkzeug-verleih|Selbsthilfewerkstatt, in der man Fahrräder reparieren und Werkzeug leihen kann.||website
+Erfurt|AEGEE Erfurt e.V.|studium|https://www.facebook.com/aegee.erfurt/|Ortsgruppe eines europaweiten Studierendennetzwerks für internationalen Austausch.||facebook
+Erfurt|Erfurter International Students|studium|https://www.instagram.com/eis_erfurt/|Gruppe, die Ausflüge und Treffen für internationale und deutsche Studierende organisiert.||instagram
+Erfurt|Evangelische Studierendengemeinde Erfurt|studium|http://www.esg-erfurt.de/|Studierendengemeinde mit wöchentlichen Abenden aus Andacht und Vortrag.|Wöchentlich|website
+Erfurt|Katholische Studierendengemeinde Erfurt|studium|http://www.ksg-erfurt.de/|Treffen für Glaube, Gemeinschaft und Austausch unter Studierenden.||website
+Erfurt|Feministisches Forum Erfurt|frauen|https://www.instagram.com/feministischesforumerfurt|Selbstorganisierte queerfeministische Gruppe an der Uni mit Diskussionen und Aktionen.||instagram
+Erfurt|Sprechende Hände Erfurt|sprachen|https://www.instagram.com/sprechende.haende/|Offener Treffpunkt zum Kennenlernen der Deutschen Gebärdensprache und Gehörlosenkultur.||instagram
+Erfurt|HSG Gaming Erfurt|gaming|https://www.instagram.com/hsg_gaming_erfurt/|Hochschulgruppe für Brett-, Rollen- und Videospiele.||instagram
+Erfurt|Spawnpoint Institut für Spiel- und Medienkultur|gaming|https://institut-spawnpoint.de/|Verein zu Spiel- und Medienkultur mit Angeboten rund um digitale Spiele.||website
+Erfurt|Unikino Erfurt|kunst|https://www.instagram.com/unikino.erfurt/|Studentisches Kino, das während der Vorlesungszeit wöchentlich Filme zeigt.|Wöchentlich in der Vorlesungszeit|instagram
+Erfurt|Textmanufaktur Erfurt|kunst|https://www.instagram.com/hsg_textmanufaktur/|Treffen für Schreibende aller Genres zum Austausch über eigene Texte.||instagram
+Erfurt|brotlos Literaturmagazin|kunst|https://www.instagram.com/brotlos.magazin/|Studentisches Literaturmagazin, das Texte über einen offenen Aufruf sammelt.||instagram
+Erfurt|UNIversal Radiomagazin|kunst|https://www.facebook.com/UNIversal.erfurt|Studentische Redaktion, die ein Radiomagazin bei Radio F.R.E.I. gestaltet.||facebook
+Erfurt|Radio F.R.E.I.|kunst|https://stadtjugendring-erfurt.de/radiofrei|Offenes Bürgerradio in Erfurt, bei dem man selbst Sendungen machen kann.||website
+Erfurt|Theater AG der FH Erfurt|kunst|https://stura.fh-erfurt.de/mitmachen/hochschulgruppen/theater-ag|Theatergruppe von Studierenden der Fachhochschule.||website
+Erfurt|SJD Die Falken Erfurt|engagement|https://stadtjugendring-erfurt.de/falkenef|Kinder- und Jugendverband mit Gruppen, Zeltlagern und politischer Bildung.||website

@@ -1,0 +1,52 @@
+Aachen|Aachen Greyhounds|sport|https://www.aachengreyhounds.de/|Baseball und Softball Verein, der Spielerinnen und Spieler verschiedener Stufen in der Stadt zusammenbringt.||website
+Aachen|Aachen Vampires|sport|https://www.aachen-vampires.de/|American Football Club mit Mannschaften für Einsteiger und Erfahrene.||website
+Aachen|Rugby Club Aachen|sport|https://www.rugby-club-aachen.com/|Rugbyverein in Aachen mit Training und Spielbetrieb, auch für Neulinge offen.||website
+Aachen|Boule d'Aix-la-Chapelle|sport|https://www.boule-aachen.de/|Boule Verein für gemütliche Spielrunden unter freiem Himmel.||website
+Aachen|Schach im Schacht Aachen|spiele|https://schachimschacht.de/|Schachverein mit Spielabenden und Turnieren in Aachen.||website
+Aachen|Aachener Schachverein 1856|spiele|https://asv-1856.de/|Traditionsreicher Schachverein mit Vereinsabenden und Ligamannschaften.||website
+Aachen|Kaiser Dart Aachen|spiele|http://www.kaiserdart.de/|Dartverein, in dem man gemeinsam trainiert und Ligaspiele bestreitet.||website
+Aachen|Pool Sharks Aachen|spiele|https://www.poolsharks.de/|Poolbillard Verein für Training und Turniere in Aachen.||website
+Aachen|Rainbow Sports Aachen|queer|http://www.rainbow-sports.de/|Sportverein für Lesben, Schwule und alle Interessierten mit mehreren Sportgruppen.||website
+Aachen|Aachener Volleyball Enthusiasten 1979|sport|https://www.ave-aachen.de/|Volleyballverein mit Hobby- und Wettkampfgruppen.||website
+Aachen|Badminton Verein Aachen 2009|sport|http://www.bv-aachen.de/|Badmintonverein für Freizeit und Ligabetrieb.||website
+Aachen|Bogensportverein Batavieren Aachen|sport|https://bogensport-aachen.de/|Bogenschießen im Verein, vom Einstieg bis zum Turnier.||website
+Aachen|Aachener Boots-Club|outdoor|https://abc-segeln.de/|Segelverein mit Vereinsleben rund ums Wasser.||website
+Aachen|Wassersportfreunde Aachen|outdoor|https://www.wsa-ev.de/|Verein für Wassersport und gemeinsame Ausfahrten.||website
+Aachen|Aachener Tauchclub|outdoor|http://www.atc-ev.de/|Tauchclub mit Ausbildung, Training und gemeinsamen Tauchgängen.||website
+Aachen|Capoeira Verein Aachen|tanz|https://capoeira-aachen.de/|Capoeira Gruppe mit Training, Musik und Roda.||website
+Aachen|Gafieira Aachen|tanz|http://www.samba-aachen.de/index.html|Sambaverein, der Tanz und Trommeln für Karneval und Auftritte pflegt.||website
+Aachen|Saltatio Historisches Tanzen Aachen|tanz|https://saltatioaachen.wordpress.com/|Gruppe für historische Tänze aus vergangenen Jahrhunderten.||website
+Aachen|Aachener Fecht Club 1930|sport|https://www.aachener-fechtclub.de/|Fechtverein mit Training für Kinder und Erwachsene.||website
+Aachen|Natur und Sportfreunde Aachen|outdoor|https://nus-aachen.de/|Verein für gemeinsame Bewegung und Aktivitäten in der Natur.||website
+Aachen|Geländefahrrad Aachen|outdoor|https://gelaendefahrrad-aachen.de/|Mountainbike Verein für Touren und Training im Gelände.||website
+Aachen|Aachener Eishockey Club 2013|sport|https://eishockey-ac.de/|Eishockeyverein mit Hobby- und Ligamannschaften.||website
+Aachen|Fotoclub 2000 Aachen|foto|https://www.fotoclub2000-aachen.eu/club-abend/|Fotofreunde zeigen und besprechen ihre Bilder und tauschen Technik und Bildbearbeitung aus.|Jeden 1. und 3. Mittwoch, 19:30 Uhr, Schloss Schönau|website
+Aachen|Aachener Rollenspiel Stammtisch|spiele|https://www.rpg-aachen.de/|Offener Stammtisch für Pen and Paper, Tabletop, Kartenspiele und LARP ohne Mitgliedschaft.|Alle zwei Wochen dienstags, 19 Uhr, Meisenfrei|website
+Aachen|RPG Librarium Aachen|spiele|https://rpg-librarium.de/|Verein für Pen and Paper Rollenspiel mit Büchersammlung, Monatstreffen und eigener Convention.|Monatstreffen meist am 16., 19 Uhr, Café Papillon|website
+Aachen|Engagement Förderung Aachen|engagement|https://www.engagement-aachen.de/|Verein, der Ehrenamt stärkt und mit der Freiwilligenagentur Interessierte in Aufgaben vermittelt.||website
+Aachen|Aachener Studentenorchester|musik|https://www.aso.rwth-aachen.de/mitspielen/|Sinfonisches Orchester von Studierenden, Vorspiel meist zu Semesterbeginn.|Mittwochs 19:30 Uhr in der Vorlesungszeit|website
+Aachen|Bläserphilharmonie Aachen|musik|https://blaeserphilharmonie-aachen.de/mitspielen/|Großes Blasorchester mit zwei Projektphasen pro Jahr, erfordert Orchestererfahrung.|Dienstags 19:30 Uhr|website
+Aachen|Chor aCcanto Aachen|musik|https://www.chor-accanto.de/|Gemischter Chor mit moderner Chormusik aus Nordeuropa und dem Baltikum, Neue können reinschnuppern.|Mittwochs 20 Uhr|website
+Aachen|chor cantiamo aachen|musik|https://www.cantiamo-aachen.de/mitsingen/|A cappella Kammerchor mit Schnupperproben und Vorsingen für Neue.|Donnerstags 19:20 Uhr|website
+Aachen|der junge chor aachen|musik|https://www.der-junge-chor-aachen.de/ueber-uns/chor|Kleines Vokalensemble für chorerfahrene Stimmen mit Schwerpunkt moderne Chormusik.|Montags 19:30 Uhr|website
+Aachen|Madrigalchor Aachen|musik|https://www.madrigalchor-aachen.de/|Chor in Aachen, der sich mit Madrigalen und anspruchsvoller Chormusik befasst.||website
+Aachen|Knutschfleck Aachen|queer|https://knutschfleck-online.de/|Offener Treff und Beratung für queere Jugendliche und junge Erwachsene von 14 bis 27 Jahren.|Offener Treff zweimal pro Woche|website
+Aachen|trans*unity Aachen|queer|https://www.transunity-aachen.de/|Selbsthilfegruppe für trans, inter und nichtbinäre Menschen mit Gruppentreffen und lockerem Hangout.|Gruppentreffen 1. und 3. Dienstag, 19 Uhr; Hangout 4. Freitag, 19:15 Uhr|website
+Aachen|Pfadfinderstamm Monte Verità Aachen|leute|https://www.stamm-monte-verita.com/|Pfadfinderstamm mit Gruppen für Kinder, Jugendliche und junge Erwachsene.|Heimabende wöchentlich, je nach Altersgruppe|website
+Aachen|DPB Aachen|leute|https://www.dpb-aachen.de/|Pfadfindergruppe in Aachen mit Gruppenstunden, Fahrten und Lagern.||website
+Aachen|foodsharing Aachen|engagement|https://bewegungsmelder-aachen.de/gruppen/foodsharing-aachen/|Gruppe, die überschüssige Lebensmittel rettet und über Fair-Teiler verteilt.|Treffen am 15. jedes Monats, wechselnder Ort|website
+Aachen|Eifelverein Aachen|outdoor|https://www.eifelverein-aachen.de/index.php/bildergalerie/wir-ueber-uns/4-herzlich-wilkommen|Ortsgruppe des Eifelvereins mit gemeinsamen Wanderungen in der Region.||website
+Aachen|Naturfreunde Ortsgruppe Aachen|outdoor|https://www.naturfreunde.de/ortsgruppe/ortsgruppe-aachen|Ortsgruppe der Naturfreunde für gemeinsame Naturerlebnisse und Engagement.||website
+Aachen|Bienenfreunde Euregio Aachen|tiere|https://we-at-aachen.de/bienenfreunde-euregio-aachen-e-v/|Hobbyimker, die Wissen rund um Bienen teilen und Naturbewusstsein fördern.||website
+Aachen|Öcher Talente Tauschring|leute|https://we-at-aachen.de/oecher-talente-e-v-tauschring/|Tauschring, in dem Mitglieder Fähigkeiten und Hilfen ohne Geld untereinander tauschen.||website
+Aachen|Essbare Innenstadt Aachen|engagement|https://we-at-aachen.de/essbare-innenstadt-aachen/|Initiative mit Workshops zu Stadtgärtnern und Permakultur.||website
+Aachen|Freie Maker Aachen|tech|https://we-at-aachen.de/freie-maker-e-v/|Verein für Maker Kultur und technische Bildung mit Werkstattangeboten.||website
+Aachen|Digitales Aachen DigitAC|tech|https://we-at-aachen.de/digitales-aachen-digitac/|Verein, der sich für digitale Kultur und Teilhabe in der Stadt einsetzt.||website
+Aachen|Aachen Blockchain Club|tech|https://www.aachen-blockchain.de/|Studentischer Verein rund um Blockchain Themen mit Vorträgen und Projekten.||website
+Aachen|Aachen Data Science Club|tech|https://data-science-club.de/|Club für Data Science mit Workshops und Austausch unter Interessierten.||website
+Aachen|Amateurfunkgruppe an der RWTH Aachen|tech|https://www.afu.rwth-aachen.de|Funkamateure, die gemeinsam Technik ausprobieren und funken.||website
+Aachen|ADFC Kreisverband Aachen|mobil|https://we-at-aachen.de/allgemeiner-deutscher-fahrrad-club-kreisverband-aachen-e-v/|Radlerverband, der sich für besseren Radverkehr einsetzt und Aktive vernetzt.||website
+Aachen|Amnesty International Bezirk Aachen|engagement|https://we-at-aachen.de/amnesty-international-bezirk-aachen/|Ehrenamtliche Menschenrechtsarbeit mit Aktionen vor Ort.||website
+Aachen|Extinction Rebellion Aachen|engagement|https://we-at-aachen.de/extinction-rebellion/|Lokale Gruppe der Klimabewegung mit gewaltfreien Aktionen.||website
+Aachen|BUND Aachen|engagement|https://we-at-aachen.de/bund-aachen/|Umwelt- und Naturschutzgruppe mit Projekten in der Region.||website
+Aachen|Ingenieure ohne Grenzen Regionalgruppe Aachen|engagement|https://we-at-aachen.de/ingenieure-ohne-grenzen-e-v-regionalgruppe-aachen/|Ehrenamtliche, die mit technischem Wissen Entwicklungsprojekte unterstützen.||website

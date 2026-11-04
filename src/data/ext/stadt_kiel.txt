@@ -1,0 +1,44 @@
+Kiel|Kieler Floorball Klub|sport|https://www.kieler-floorballklub.de|Verein für Floorball in Kiel, einer schnellen Hallensportart mit Schläger und Plastikball.||website
+Kiel|Lacrosse Club Kiel e.V.|sport|https://www.lacrosse-kiel.de|Lacrosse-Verein in Kiel für alle, die diese Mannschaftssportart ausprobieren oder spielen möchten.||website
+Kiel|Baltic Hurricanes American Sports Club Kiel|sport|https://www.baltic-huricanes.de|American-Football-Verein in Kiel mit Mannschaften für verschiedene Altersgruppen.||website
+Kiel|Kieler Ruder-Club von 1862|sport|https://www.ekrc.de|Traditionsreicher Ruderverein an der Förde mit Breiten- und Wettkampfsport.||website
+Kiel|Surf Club Kiel e.V.|sport|https://www.surf-club-kiel.de|Verein für Windsurfen und Wassersport auf der Kieler Förde.||website
+Kiel|Kieler Kanu Klub von 1921|sport|https://www.kieler-kanu-klub.de|Kanuverein in Kiel für Paddeln auf Förde, Kanal und Seen.||website
+Kiel|Kieler Jugendkutterprojekt e.V.|outdoor|https://www.kutterprojekt.de|Verein, in dem Jugendliche und junge Erwachsene gemeinsam Kutter segeln und rudern.||website
+Kiel|Miniaturgolfclub Olympia Kiel|sport|https://www.olympia-kiel.de|Vereinsgemeinschaft für Minigolf, vom Freizeitspiel bis zum Turnier.||website
+Kiel|Midori-Dojo Aikido Kiel|sport|https://www.aikidojo-kiel.de|Aikido-Verein in Kiel mit regelmäßigem Training für Einsteiger und Fortgeschrittene.||website
+Kiel|Kieler Männer-Turnverein (KMTV)|sport|https://www.kmtv.de|Großer Kieler Breitensportverein mit vielen Sparten für Kinder und Erwachsene.||website
+Kiel|Latin Team Kiel e.V.|tanz|https://www.1ltk.de|Tanzsportverein mit Fokus auf lateinamerikanische Tänze.||website
+Kiel|Kieler Roll- und Eissportverein|sport|https://www.1krev.de|Verein für Rollsport und Eissport in Kiel.||website
+Kiel|HAKINO Queerer Filmclub|queer|https://haki-sh.de/arbeitsgruppen/hakino-ag/|Gruppe im HAKI-Zentrum, die Filme mit queeren Themen gemeinsam schaut und bespricht.||website
+Kiel|Queerer Buchclub Kiel|queer|https://haki-sh.de/gruppenangebote/queerer-buchclub/|Offene Freizeitgruppe für queere Menschen, die gemeinsam Bücher lesen und darüber reden.||website
+Kiel|Queerer Spieleabend Kiel|spiele|https://haki-sh.de/arbeitsgruppen/queerer-spieleabend/|Offener Brettspielabend im HAKI-Zentrum für queere Menschen und Freunde.||website
+Kiel|Queers4Brunch Kiel|queer|https://haki-sh.de/arbeitsgruppen/queers4brunch/|Gemeinsames Brunchen für LSBTIQ* und Verbündete in entspannter Runde.||website
+Kiel|Lindy Hop AG Kiel|tanz|https://haki-sh.de/arbeitsgruppen/lindy-hop-ag/|Angeleitetes Swing-Tanzen im Lindy Hop für alle, die mitmachen wollen.||website
+Kiel|Regenbogenfamilien Schleswig-Holstein|familie|https://haki-sh.de/arbeitsgruppen/regenbogenfamilien/|Treffpunkt für Regenbogenfamilien mit Kindern zum Austausch und für gemeinsame Aktionen.||website
+Kiel|Queer Students Group Kiel|studium|https://haki-sh.de/arbeitsgruppen/queer-students-group-kiel-qsg/|LGBTQIA+ Gruppe vor allem für Studierende der Uni und der Fachhochschule Kiel.||website
+Kiel|Kreativtreff HAKI|kunst|https://haki-sh.de/arbeitsgruppen/kreativtreff/|Offener Raum zum gemeinsamen kreativen Arbeiten mit unterschiedlichen Materialien.||website
+Kiel|Jugendtreff dein_raum|queer|https://haki-sh.de/projekte-angebote/jugendtreff-dein_raum/|Treffpunkt für queere junge Menschen in Kiel zum Kennenlernen und Quatschen.||website
+Kiel|CSD Kiel e.V.|queer|https://csd-kiel.de|Verein, der den Christopher Street Day in Kiel organisiert und Mitstreitende sucht.||website
+Kiel|Chorgemeinschaft Kiel|musik|https://www.chorgemeinschaft-kiel.de|Gemischter Chor, der neue Sängerinnen und Sänger zum Probesingen einlädt.|Mittwochs 19 Uhr|website
+Kiel|Ernst Busch Chor Kiel|musik|https://ernst-busch-chor-kiel.de/|Kieler Chor mit politischem und Arbeiterlied-Repertoire.||website
+Kiel|Philharmonischer Chor Kiel|musik|http://www.staedtischer-chor-kiel.de/phil_chor.html|Großer Konzertchor in Kiel für klassische Chorwerke.||website
+Kiel|Sankt Nikolai Chor|musik|https://st-nikolai-kiel.de/sanktnikolaichor|Kirchenchor an der Offenen Kirche Sankt Nikolai mit Konzerten und Gottesdiensten.||website
+Kiel|Akademischer Chor der CAU Kiel|musik|https://www.chor.uni-kiel.de/de?set_language=de|Universitätschor der Christian-Albrechts-Universität für Studierende und Interessierte.||website
+Kiel|Sinfonieorchester am Ernst-Barlach-Gymnasium Kiel|musik|https://www.barlach-orchester.de/das-orchester|Sinfonieorchester mit eigenem Verein, das regelmäßig Konzerte in Kiel gibt.||website
+Kiel|Kieler Fotosprotten|foto|https://www.fotosprotten.de/|Kleiner Fotoclub aus Kiel und Umgebung, der sich über Bilder austauscht und Anregungen gibt.|Wöchentlich online, einmal im Monat vor Ort|website
+Kiel|Fotoclub Kieler Pixelschubser|foto|https://www.kieler-pixelschubser.com|Fotoclub in Kiel für gemeinsames Fotografieren und Bildbesprechung.||website
+Kiel|Fotoclub Kiel|foto|https://www.fotoclubkiel.com/%C3%BCber-uns/|Seit über 100 Jahren bestehender Kieler Fotoclub für Fotobegeisterte.||website
+Kiel|Reading Party Kiel|leute|https://www.readingpartykiel.de|Lesetreffen, bei denen man ein eigenes Buch mitbringt, still liest und danach Leute kennenlernt.||website
+Kiel|Brettspieltreff Kiel Hassee|spiele|https://rkspiele.de/brettspieltreff-kiel-hassee/|Offener Brettspieltreff im Stadtteil Hassee für Gelegenheits- und Vielspieler.||website
+Kiel|NABU Kiel|engagement|https://www.nabu-kiel.de/|Naturschutzgruppe mit Arbeitsgruppen für Fledermäuse, Vögel, Amphibien und Meeresschutz sowie offenem Abend.|Jeden 2. Mittwoch im Monat, 19 Uhr|website
+Kiel|VCD Ortsgruppe Kiel|mobil|https://nord.vcd.org/kiel|Ortsgruppe des Verkehrsclubs für Verkehrswende, Radverkehr und Bus und Bahn in Kiel.|Alle vier Wochen|website
+Kiel|ADFC Kiel|mobil|https://kiel.adfc.de/|Fahrradclub mit Touren, Radverkehrsarbeit und Treffen für Radfahrende in Kiel.||website
+Kiel|foodsharing Kiel e.V.|engagement|https://foodsharing-kiel.org/|Ehrenamtliche retten Lebensmittel von Betrieben und verteilen sie weiter, mit Fairteilern in der Stadt.||website
+Kiel|DPSG Kiel Pfadfinder|familie|https://dpsg-kiel.de/gruppenstunden/|Pfadfindergruppen für Kinder mit wöchentlichen Gruppenstunden in Kiel Süd.|Wölflinge donnerstags, Jungpfadfinder mittwochs|website
+Kiel|Stadtteilnetzwerk nördliche Innenstadt Kiel|leute|https://www.stadtteilnetzwerk-niki.de/kultur-begegnung/|Nachbarschaftsnetzwerk mit offenem Treff, Literaturkreis, Boule, Schach, Frühstück und Sprachrunden.|Offener Nachbarschaftstreff mittwochs 15 bis 18 Uhr|website
+Kiel|Sprachcafé Rozmova|sprachen|https://sprachcafes.com/sprachcafe/kiel/sprachcafe-kiel-rozmova-thinkfarm/|Offenes Sprachcafé in der Thinkfarm Alte Mu zum Sprechen und Kennenlernen.|Dienstags und donnerstags 17:30 Uhr|website
+Kiel|Internationales Sprachcafé kulturgrenzenlos|sprachen|https://sprachcafes.com/sprachcafe/kiel/sprachcafe-kiel-kulturgrenzenlos-semikolon/|Sprachcafé im Semikolon an der Uni mit Deutsch, Englisch, Türkisch und Arabisch.|Montags 16 Uhr|website
+Kiel|Wandern und Deutschsprechen Kieler Wanderatlas|sprachen|https://sprachcafes.com/sprachcafe/kiel/wandern-deutsch-kiel-wanderatlas/|Gemeinsam wandern und dabei Deutsch üben.|Mittwochs|website
+Kiel|Theatergesellschaft Kiel|kunst|https://theatergesellschaft-kiel.de/|Verein der Theaterfreunde in Kiel für Theaterbegeisterte und gemeinsame Besuche.||website
+Kiel|nettekieler Ehrenamt|engagement|https://www.nette-kieler.de/|Plattform, die Freiwillige in Kiel mit Ehrenamtsprojekten und Einsatzstellen zusammenbringt.||website

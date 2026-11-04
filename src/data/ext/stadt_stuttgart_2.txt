@@ -1,0 +1,28 @@
+Stuttgart|Weissenburg Sonntagstreff|queer|https://www.zentrum-weissenburg.de/sonntagstreff/|Offener Treff für LSBTIQA+ Personen ab 21 im Café des Zentrums Weissenburg, zum Quatschen und Kennenlernen.|Jeden 4. Sonntag im Monat, 15 Uhr|website
+Stuttgart|LUNA Jugendgruppe Weissenburg|queer|https://www.zentrum-weissenburg.de/luna/|Offene Jugendgruppe für Frauen, Mädchen und nicht-binäre Personen von 14 bis 27 mit Stammtisch, Spielen und Basteln.|Donnerstags 19 Uhr|website
+Stuttgart|Arbeitskreis Photographie Uni Stuttgart|foto|https://www.hochschulgruppe.uni-stuttgart.de/photo-ak/|Hochschulgruppe, in der Bilder besprochen und gemeinsame Fotoprojekte geplant werden, mit Studio und Schwarzweiß-Labor.|Montags 20 Uhr|website
+Stuttgart|Fotogruppe DAV Sektion Schwaben|foto|https://www.alpenverein-schwaben.de/fotogruppe|Fotobegeisterte tauschen Wissen aus und machen gemeinsame Fototouren in den Bergen und Kletterhallen.|Jeden 3. Donnerstag im Monat, 19 Uhr|website
+Stuttgart|Pfadfinder Stuttgart|familie|https://pfadfinder-stuttgart.de/|Christliche Pfadfindergruppen für Kinder und Jugendliche, aufgeteilt nach Altersstufen als Meute, Sippe und Stamm.|Wöchentlich bis zweiwöchentlich, Termine je Gruppe|website
+Stuttgart|BDP Stamm Feuerreiter Stuttgart|familie|https://bdp-stuttgart.de/|Pfadfinderstamm im Bund der Pfadfinderinnen und Pfadfinder mit mehreren Gruppen für Kinder und Jugendliche.||website
+Stuttgart|Stamm Steinadler Stuttgart|familie|https://www.instagram.com/bpsstuttgart/|Pfadfinderstamm in Stuttgart, der auf Instagram über Gruppenstunden und Aktionen berichtet.||instagram
+Stuttgart|Junger Chor Stuttgart|musik|https://www.juco.de/|Gemischter Chor für junge Erwachsene, bei dem man in einer Schnupperprobe unverbindlich mitsingen kann.|Mittwochs 19 Uhr, nicht in den Schulferien|website
+Stuttgart|Gospel im Osten|musik|https://www.gospelimosten.de/|Offener Gospelchor in Stuttgart Ost mit Live-Band, bei dem man ohne Vorkenntnisse mitmachen kann.|Dienstags abends, Projektzeiten|website
+Stuttgart|Jazzchor Stuttgart|musik|https://www.jazzchor-stuttgart.de/|Chor mit 20 bis 30 Leuten aller Altersgruppen und Weltmusik von afrikanischen Gesängen bis schwäbischem Rap.|Mittwochs, Bürgerzentrum West|website
+Stuttgart|Philharmonia Chor Stuttgart|musik|https://www.philharmonia-chor-stuttgart.de/|Gemischter klassischer Chor, bei dem neue Sängerinnen und Sänger sich melden können.||website
+Stuttgart|Sängervereinigung Stuttgart-Vaihingen|musik|https://saengervereinigung-vaihingen.de/|Gesangverein mit internationalem Chor und Frauenchor, offen für alle Altersgruppen.||website
+Stuttgart|HORADS 88,6 Campusradio|studium|https://www.horads.de/|Campusradio für Stuttgart und Ludwigsburg, bei dem Studierende Sendungen gestalten und moderieren.||website
+Stuttgart|Green Office Uni Stuttgart|engagement|https://www.project.uni-stuttgart.de/greenoffice/|Studentisch geprägte Anlaufstelle für Nachhaltigkeitsprojekte auf dem Campus.||website
+Stuttgart|Kammerphilharmonie Uni Stuttgart|musik|https://www.hochschulgruppe.uni-stuttgart.de/kammerphilharmonie/|Hochschulgruppe der Universität Stuttgart, in der Studierende gemeinsam im Orchester musizieren.||website
+Stuttgart|Brettspieletreff Stuttgart|spiele|http://www.spielekreise.de/spielekreis/brettspieletreff-stuttgart/|Offener Stammtisch für Brettspielfans, bei dem man neue Mitspielende trifft.||website
+Stuttgart|Schach-Club Sillenbuch|spiele|https://schachclub-sillenbuch.de/|Schachverein im Stadtbezirk Sillenbuch für Spielerinnen und Spieler verschiedener Stärke.||website
+Stuttgart|Bürgerstiftung Stuttgart Mitmachen|engagement|https://www.buergerstiftung-stuttgart.de/mitmachen|Bürgerstiftung, die Freiwillige für Projekte in der Stadt sucht und Engagement vermittelt.||website
+Stuttgart|Freiwilligenbörse Stuttgart|engagement|https://service.stuttgart.de/lhs-services/fwb/|Städtische Börse, in der Vereine und Initiativen ehrenamtliche Aufgaben anbieten.||website
+Stuttgart|Generationenhaus Heslach MüZe Süd|familie|https://mueze-stuttgart.de/index.php/Mehrgenerationenhaus.html|Familienzentrum und Mehrgenerationenhaus im Stuttgarter Süden mit offenen Treffs für Jung und Alt.||website
+Stuttgart|FORUM 376 Generationenhaus Hallschlag|leute|https://www.zukunft-hallschlag.de/forum-376-generationenhaus-hallschlag|Stadtteiltreff im Hallschlag mit Angeboten für Nachbarn aller Generationen.||website
+Stuttgart|Familien- und Stadtteilzentrum Stuttgart Nord|familie|https://www.faz-stuttgart.de/|Mehrgenerationenhaus im Stuttgarter Norden mit offenen Angeboten für Familien und Nachbarschaft.||website
+Stuttgart|Stuttgarter Rugby Club|sport|http://www.rugby-stuttgart.de|Rugbyverein in Stuttgart, bei dem auch Neueinsteiger mittrainieren können.||website
+Stuttgart|Rope Skipping Club Stuttgart|sport|http://www.rsc-stuttgart.de|Verein für Seilspringen als Sport in Stuttgart.||website
+Stuttgart|Stuttgarter Rudergesellschaft 1899|sport|http://www.strg1899.de|Ruderverein am Neckar in Stuttgart.||website
+Stuttgart|Kanu-Gesellschaft Stuttgart|sport|http://www.kg-stuttgart.de|Kanuverein in Stuttgart für Paddelsport.||website
+Stuttgart|Tauchclub Uni Stuttgart Manatees|sport|http://www.tauchclub-manatees.de|Tauchclub rund um die Universität Stuttgart.||website
+Stuttgart|Akademische Seglervereinigung Stuttgart|sport|https://asvs.de/|Segelverein mit akademischem Hintergrund in Stuttgart.||website

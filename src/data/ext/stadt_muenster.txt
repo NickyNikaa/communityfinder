@@ -1,0 +1,47 @@
+Münster|AIESEC Lokalkomitee Münster|business|http://aiesec.de/lcs/muenster|Lokale Gruppe einer internationalen Studierendenorganisation, die Auslandspraktika und Freiwilligenprojekte vermittelt und selbst organisiert.||website
+Münster|Amnesty International Hochschulgruppe Münster|engagement|https://amnesty-muenster-osnabrueck.de/gruppe/hochschulgruppe/|Studierende setzen sich mit Aktionen und Infoständen für Menschenrechte ein.||website
+Münster|ELSA Münster|studium|http://www.elsa-muenster.de/|Ortsgruppe der European Law Students Association mit Veranstaltungen, Austauschangeboten und Vernetzung für Jurastudierende.||website
+Münster|Münster MUN e.V.|studium|https://muenster-mun.de|Verein für Planspiele nach dem Vorbild der Vereinten Nationen, in dem Studierende Diplomatie und Debatte üben.||website
+Münster|UNICEF Hochschulgruppe Münster|engagement|https://www.unicef.de/mitmachen/ehrenamtlich-aktiv/-/hochschulgruppe-muenster|Studierende machen mit Aktionen und Spendenevents auf die Rechte von Kindern aufmerksam.||website
+Münster|Enactus Münster e.V.|business|http://unimuenster.enactus.de/|Studierende entwickeln unternehmerische Projekte mit sozialem oder ökologischem Nutzen.||website
+Münster|Venture Club Münster e.V.|business|https://ventureclub-muenster.de/|Studentische Gründungsinitiative mit Treffen, Workshops und Austausch rund um Startups.||website
+Münster|Münsteraner Börsenparkett e.V.|business|http://www.boersenparkett.org/|Studierende beschäftigen sich gemeinsam mit Börse, Geldanlage und Finanzmärkten.||website
+Münster|University of Münster Case Club e.V.|business|https://umcaseclub.com/|Club zum Üben von Fallstudien und Beratungsfällen für Studierende, die sich auf Case Competitions vorbereiten.||website
+Münster|Young Founders Network Münster|business|https://youngfounders.network/chapter/muenster|Lokales Netzwerk junger Gründerinnen und Gründer mit Treffen zum Austausch.||website
+Münster|Evangelische Studentengemeinde Münster|leute|https://esg-muenster.de/|Offene Gemeinschaft für Studierende mit Gesprächskreisen, Gottesdiensten, gemeinsamem Essen und Chören.||website
+Münster|Katholische Studierenden- und Hochschulgemeinde Münster|leute|https://www.kshg.de/|Studierendengemeinde mit Treffpunkt, Gruppen, Gesprächen und gemeinsamen Aktionen.||website
+Münster|Campus Theater Münster|kunst|https://www.uni-muenster.de/Studiobuehne/gruppen_ensembles/campustheater.html|Studentische Theatergruppe an der Uni, die eigene Stücke erarbeitet und aufführt.||website
+Münster|Junges Sinfonieorchester Münster|musik|http://www.jusi-muenster.de/|Orchester aus jungen Laienmusikerinnen und Musikern, das Sinfoniekonzerte erarbeitet.||website
+Münster|Oratorienchor Münster|musik|https://www.oratorienchor-muenster.de/|Chor, der große Chorwerke einstudiert und aufführt, angesiedelt im Umfeld der Uni.||website
+Münster|Universitätschor Münster|musik|http://www.uni-muenster.de/Universitaetschor/|Großer Chor der Universität, der Werke vom Barock bis zur Gegenwart singt.||website
+Münster|Debattierclub Münster|lernen|http://www.uni-muenster.de/Debattierclub/|Regelmäßige Debattierabende, an denen man Argumentieren und freies Sprechen übt.||website
+Münster|Deutsch-Japanischer Stammtisch Münster|sprachen|https://www.uni-muenster.de/DeutschJapanischerStammtisch/|Stammtisch für alle, die sich über Japan, Sprache und Kultur austauschen möchten.||website
+Münster|Arbeiterkind.de Ortsgruppe Münster|studium|http://www.arbeiterkind.de/|Ehrenamtliche begleiten Schülerinnen, Schüler und Studierende aus Nichtakademikerfamilien beim Weg an die Hochschule.||website
+Münster|Nightline Münster|engagement|http://www.nightline-muenster.de/|Studentisches Zuhörtelefon, bei dem Ehrenamtliche abends anonym Gespräche anbieten.||website
+Münster|Münster University Esports|gaming|https://muensteresports.de/|Esports-Gruppe der Uni mit Teams, Trainings und Turnieren in verschiedenen Spielen.||website
+Münster|Münster.AI|tech|https://muensterai.com/|Studentische Initiative rund um künstliche Intelligenz mit Vorträgen und Projekten.||website
+Münster|Sea-Eye Münster|engagement|https://sea-eye.org/gruppe-muenster/?muenster-rettet|Lokale Unterstützergruppe der Seenotrettungsorganisation Sea-Eye mit Aktionen und Infoarbeit.||website
+Münster|Studenten bilden Schüler Münster|engagement|https://studenten-bilden-schueler.de/standorte/muenster|Studierende geben Schülerinnen und Schülern ehrenamtlich Nachhilfe und Förderung.||website
+Münster|Studentischer Besuchsdienst Münster|engagement|http://ms.studentischer-besuchsdienst.de|Studierende besuchen regelmäßig ältere Menschen und verbringen Zeit mit ihnen.||website
+Münster|Unikino Münster|kunst|https://www.unifilm.de/studentenkinos/Muenster|Studentisch organisiertes Kino mit regelmäßigem Filmprogramm für alle.||website
+Münster|Performance Team Münster|tanz|https://www.uni-muenster.de/PerformanceTeam/|Hochschulgruppe für Ballett und lyrischen Tanz mit gemeinsamen Proben.||website
+Münster|Schachclub Indische Dame Münster|spiele|https://www.indische-dame.de/|Offener Schachabend mit Spiel, Blitz und Partieanalyse, Anfänger und Gäste sind willkommen.|Dienstags ab 20 Uhr|website
+Münster|Schachklub Münster 32|spiele|https://www.sk32.de/node|Traditionsreicher Schachverein der Stadt mit Spielbetrieb und Training.||website
+Münster|Schach Nienberge|spiele|https://www.schach-nienberge.de/|Schachgruppe im Stadtteil Nienberge für Freizeit und Ligaspiel.||website
+Münster|Schachclub Hiltrup 86|spiele|https://schiltrup86.de/|Schachverein im Stadtteil Hiltrup mit Vereinsabenden und Turnieren.||website
+Münster|Dicing-Krakens e.V.|spiele|https://www.dicing-krakens.de/|Spieleverein für Tabletop, Brett- und Kartenspiele mit offenen Spieletreffs an mehreren Orten und Bastelworkshops.||website
+Münster|Tabletop Gaming Münster e.V.|spiele|https://tabletop-muenster.de/|Tabletop-Club mit Spieltischen für Warhammer, Blood Bowl und mehr, Probespiele sind möglich.|Donnerstags 18 bis 23 Uhr und sonntags 13 bis 18 Uhr|website
+Münster|Vokalkreis Münster|musik|https://vokalkreis-ms.de/|Gemischter Chor, der anspruchsvolle Chormusik einstudiert und neue Mitglieder aufnimmt.|Mittwochs 20 bis 21:30 Uhr|website
+Münster|Chorgemeinschaft Münster e.V.|musik|https://chorgemeinschaft-muenster.de/|Chorverein, bei dem man jederzeit zum Schnuppern in eine Probe kommen kann.||website
+Münster|Fotofreunde Münsterland e.V.|foto|https://fotofreunde-muensterland.de/|Fotoverein mit Fotowalks, Workshops, Bildbesprechungen und Ausstellungen.|Monatlicher Stammtisch, meist dritter Dienstag oder Donnerstag, 19 Uhr|website
+Münster|Track Münster|queer|https://www.queere-jugend-nrw.de/english/projekte/track-munster|Queerer Jugendtreff für junge Menschen bis 27 zum Treffen, Reden und Spielen, mit Beratung nach Termin.|Dienstags, donnerstags und freitags 16 bis 20 Uhr|website
+Münster|Offener Stadtteiltreff Kap.8|leute|https://www.stadt-muenster.de/kap8/offener-stadtteiltreff|Offener Treff im Bürgerhaus Kinderhaus mit Café, Büchertausch und Spielen, jeder darf vorbeikommen.|Montag bis Freitag, teils 10 bis 14 und 15 bis 22 Uhr|website
+Münster|Mehrgenerationenhaus Apostelkirche|leute|https://apostelkirchengemeinde-muenster.de/angebote|Offener Treffpunkt für alle Altersgruppen mit Café, Mittagstisch, Jugendtreff und Eine-Welt-Laden.|Montag bis Freitag, meist ab 12 Uhr|website
+Münster|DPSG St. Michael Münster|outdoor|https://www.pfadfinder-muenster.de/|Pfadfinderstamm mit wöchentlichen Gruppenstunden für Kinder und Jugendliche von 4 Jahren bis zu den Roverrunden.||website
+Münster|VCP Münster-Hiltrup Stamm David|outdoor|https://vcp-ms.de/|Christlicher Pfadfinderstamm mit Gruppen für Kinder, Jugendliche und Erwachsene.||website
+Münster|Foodsharing Münster|essen|https://muenster-nachhaltig.de/foodsharing-muenster/|Ehrenamtliche retten Lebensmittel vor der Tonne und verteilen oder verarbeiten sie, mit offenem Foodsharing-Café.|Montags 15 bis 20 Uhr|website
+Münster|Impro Open Stage Münster|kunst|https://impro-open-stage.de/|Offene Bühne für Improtheater, bei der jede und jeder zuschauen oder mitspielen kann, der Eintritt ist frei.|Regelmäßig samstags 19 Uhr|website
+Münster|Parlana Münster|sprachen|https://parlanamuenster.wordpress.com/|Internationaler Sprach- und Kulturaustausch mit rund 150 Leuten, kostenlos und ohne Anmeldung.|Jeden 1. und 3. Montag im Monat, 20 Uhr|website
+Münster|NABU Münster|outdoor|https://www.nabu-muenster.de/|Größter Naturschutzverein der Stadt mit rund zwölf Arbeitsgruppen, etwa zu Vögeln, Fledermäusen und Streuobstwiesen.||website
+Münster|Kreisimkerverein Münster e.V.|outdoor|https://www.kiv-muenster.de/|Imkerverein mit Anfängerschulungen, Monatsversammlungen und Unterstützung für Hobbyimker.||website
+Münster|SC Münster 08 Ultimate Frisbee|sport|https://www.scmuenster08.de/frisbee/ultimate/|Ultimate-Frisbee-Abteilung eines Münsteraner Sportvereins mit Training für Erwachsene und Jugend.||website

@@ -1,0 +1,34 @@
+Karlsruhe|Rollen- und Brettspielverein Thoule 1987 e.V.|spiele|https://thoule.de|Spieleverein mit großer Spielesammlung für Brett- und Rollenspiele, richtet auch die Karlsruher Spieletage aus.||website
+Karlsruhe|Schachclub uBu Karlsruhe|spiele|https://sc-ubu.de/|Freundlicher, eher alternativer Schachverein, in dem Anfänger und Erfahrene locker gegeneinander spielen und sich unterhalten.|Dienstags abends offener Spielabend, samstags ab 12 Uhr Training|website
+Karlsruhe|Karlsruher Schachfreunde 1853 e.V.|spiele|https://www.ksf1853.de/|Traditionsreicher Schachverein mit Mannschaftsspiel und eigenen Trainingsabenden für erwachsene Einsteiger.||website
+Karlsruhe|Schachklub Durlach|spiele|https://www.schachklub-durlach.de/|Schachverein im Stadtteil Durlach mit Spielbetrieb und Vereinsabenden.||website
+Karlsruhe|Jazzika e.V.|musik|https://jazzika.de/|A-cappella-Jazzchor mit rund 30 Mitgliedern, der vier- bis achtstimmige Pop- und Jazzarrangements singt und aktuell Stimmen sucht.|Dienstags 20 Uhr|website
+Karlsruhe|Chor inCanto Karlsruhe|musik|https://www.incanto-karlsruhe.de/|Chor für moderne Jazz- und Popsongs sowie geistliche Motetten, neue Sängerinnen und Sänger sind willkommen, Männerstimmen besonders.||website
+Karlsruhe|Spiritualchor Karlsruhe|musik|https://www.spiritualchor-karlsruhe.de/|Chor für Spirituals und Gospel, bei dem man jederzeit einsteigen kann.||website
+Karlsruhe|Les Chanteurs Karlsruhe e.V.|musik|https://les-chanteurs-durlach.blankmusic.org/|Chor für klassische Musik mit Sitz in Karlsruhe.||website
+Karlsruhe|Waldstadt Kammerorchester Karlsruhe|musik|https://www.waldstadtorchester.de/|Laienkammerorchester aus der Waldstadt, das gemeinsam klassische Werke einstudiert und aufführt.||website
+Karlsruhe|Akademisches Kammerorchester AKO|musik|https://www.ako-karlsruhe.de/|Orchester, in dem Musizierende aus dem Umfeld der Hochschulen gemeinsam proben und Konzerte geben.||website
+Karlsruhe|Neues Orchester Karlsruhe|musik|http://www.neues-orchester-karlsruhe.de/|Sinfonisches Amateurorchester in Karlsruhe, das neue Mitspielende sucht.||website
+Karlsruhe|Lichtwert e.V.|foto|http://lichtwert-fotografie.de/|Verein für künstlerische Fotografie, der Austausch und gemeinsame Projekte unter Fotobegeisterten bietet.||website
+Karlsruhe|Photobox KIT|foto|http://photoboxkit.myportfolio.com|Fotogruppe am KIT, in der Studierende gemeinsam fotografieren und ihre Bilder zeigen.||website
+Karlsruhe|Abgedreht, die Filmgruppe am KIT|kunst|https://abgedreht-karlsruhe.de/|Studentische Gruppe für Film und Fotografie von der Idee bis zum Schnitt, auch Anfänger sind willkommen.|Monatliche Treffen|website
+Karlsruhe|UniTheater Karlsruhe e.V.|kunst|https://www.unitheater.de/chor/|Große Studierendenbühne mit über 100 Mitgliedern aus allen Fächern, mit Theater, Improvisation und einem eigenen Chor.||website
+Karlsruhe|GeistSoz-Theater|kunst|https://geistsoz-theater.de/|Studentische Theatergruppe, die jedes Semester ein größeres Stück und selbst geschriebene Sketche auf die Bühne bringt.||website
+Karlsruhe|Physikertheater|kunst|https://physikertheater.de/|Theatergruppe, die Physikstudierenden und Externen offensteht und seit 2003 im Gaede-Hörsaal spielt.||website
+Karlsruhe|JazzChor am KIT|musik|https://jck-online.de|Studentischer Chor mit Jazz, Groove und vollem Stimmumfang.||website
+Karlsruhe|Physikerchor|musik|https://physikerchor.de/|Von Physikstudierenden gegründeter Chor, offen für alle Fächer, mit Repertoire von Pop bis Klassik.||website
+Karlsruhe|Kampuskapelle|musik|https://www.kampuskapelle.de/|Studentische Blaskapelle für böhmisch-mährische Blasmusik wie Polka, Marsch und Walzer.|Mittwochs 19.15 Uhr, Hörsaal am Fasanengarten|website
+Karlsruhe|Akademischer Filmkreis Karlsruhe|kunst|https://afk-filmkreis.de|Studentisch betriebenes Kino mit 250 Plätzen im Hertz-Hörsaal und abwechslungsreichem Filmprogramm.||website
+Karlsruhe|Studentenzentrum Z10|leute|https://z10.info/|Selbstverwaltetes Studentenzentrum mit Café-Abenden, Themenabenden und Konzerten.||website
+Karlsruhe|Arbeitskreis Kultur und Kommunikation AKK|leute|https://www.akk.org/|Seit 1977 ehrenamtlich getragene Gruppe mit Kulturcafé, Themenabenden, Workshops und Open Airs.||website
+Karlsruhe|ESN Karlsruhe|studium|http://www.esn-karlsruhe.de|Erasmus Student Network, das internationale Studierende betreut und Ausflüge und Partys organisiert.||website
+Karlsruhe|Engineers Without Borders KIT|engagement|http://ewb-karlsruhe.de|Studentische Initiative, die technische Projekte der Entwicklungszusammenarbeit umsetzt.||website
+Karlsruhe|Nightline Karlsruhe|engagement|http://www.nightline-karlsruhe.de|Studentisches Zuhörtelefon, bei dem Studierende anonym mit Gleichaltrigen sprechen können.||website
+Karlsruhe|Queerbeet|queer|http://www.queerbeet.org|Queere Hochschulgruppe mit Treffen und Austausch für Studierende.||website
+Karlsruhe|Model United Nations Initiative Karlsruhe|lernen|http://www.munika.org|Gruppe, die UN-Debatten simuliert und Konferenzen besucht und organisiert.||website
+Karlsruhe|Akaflieg Karlsruhe|tech|http://akaflieg-karlsruhe.de|Akademische Fliegergruppe, die Segelflugzeuge selbst entwickelt, baut und fliegt.||website
+Karlsruhe|Karlsruher Wandervogel|outdoor|https://www.rjb-bw.de|Jugendbund mit Fahrten, Lagerfeuer, Musik und Kreativangeboten, auch mit Mädchengruppe.||website
+Karlsruhe|NaturFreundeJugend Karlsruhe|outdoor|https://www.naturfreundejugend-baden.de|Jugendverband mit Freizeiten, Kanugruppe und Kindergruppen in Karlsruhe, Durlach und Grötzingen.||website
+Karlsruhe|NAJU Karlsruhe|engagement|https://www.nabu-ka.de/kinder-und-jugend-naju/|Kinder- und Jugendgruppen für Naturerlebnisse und Umweltschutz, mit Naturgarten in Durlach.||website
+Karlsruhe|ROCK YOUR LIFE! Karlsruhe|engagement|https://karlsruhe.rockyourlife.de|Studierende begleiten als Mentoren benachteiligte Schüler auf dem Weg in Schule und Beruf.||website
+Karlsruhe|Schwule Jungs (schwung)|queer|https://www.schwung-karlsruhe.de/gruppen/schwule-jungs/|Lockere Gruppe für schwule und bisexuelle Jungen von 14 bis 27 Jahren.||website

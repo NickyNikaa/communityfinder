@@ -1,0 +1,50 @@
+Paderborn|Marktplatz Ehrenamt Paderborn|engagement|https://www.ehrenamt-pb.de/|Ehrenamtlich getragene Plattform, die Interessierte mit Freiwilligenprojekten in Paderborn zusammenbringt, von Tafel bis Lesepatenschaft.||website
+Paderborn|Zeitspende Paderborn|engagement|https://www.zeitspende-paderborn.de|Projekt der Bürgerstiftung, bei dem Freiwillige Zeit für Gespräche, Begleitung und Entlastung pflegender Angehöriger verschenken.|Sprechzeit montags 15 bis 17 Uhr|website
+Paderborn|Obolus Paderborner Taschengeldbörse|engagement|https://www.obolus-paderborn.de|Vermittelt Jugendliche von 14 bis 18 Jahren für kleine Jobs in Privathaushalten wie Einkaufen, Gartenarbeit oder Babysitten.||website
+Paderborn|Paderborner Senioreninitiative und Tralala-Wohnzimmer|leute|https://psi-ev.de|Verein mit offenem Wohnzimmer als Treffpunkt für Menschen aller Altersgruppen, dazu Unterstützung für Senioren mit wenig Geld.||website
+Paderborn|Programmkino Lichtblick|kunst|https://www.lichtblick-kino.de|Studentisch getragenes Programmkino, das Arthouse-Filmreihen zeigt und von Medienstudierenden organisiert wird.||website
+Paderborn|oikos Paderborn|studium|https://oikos-international.org/chapters/paderborn/|Studierendeninitiative für mehr Nachhaltigkeit in Wirtschaft und Lehre, Teil eines internationalen Netzwerks.|Wöchentliche Treffen an der Uni|website
+Paderborn|HG-Wing e.V.|studium|https://www.hg-wing.de|Hochschulgruppe der Wirtschaftsingenieure, die Studierende untereinander und mit Unternehmen vernetzt.||website
+Paderborn|Eurobiz e.V.|studium|https://www.eurobiz-paderborn.de|Ehrenamtlicher Verein, der Austauschstudierende betreut und Veranstaltungen für sie organisiert.||website
+Paderborn|Paderborn E-Sports University|gaming|https://www.paderbornesports.de|Hochschulgruppe mit Teams in vielen Spielen, gemeinsamem Training und Turnieren.||website
+Paderborn|Hochschulgruppe Spieleabend Paderborn|spiele|https://stupa.uni-paderborn.de/assets/Initiativensatzungen/Hochschulgruppe%20Spieleabend%20Paderborn.pdf|Studentische Gruppe, die Spieleabende rund um Brett- und Kartenspiele an der Universität veranstaltet.||sonstige
+Paderborn|Feministisches Kollektiv UPB|frauen|https://stupa.uni-paderborn.de/assets/Initiativensatzungen/Feministisches%20Kollektiv%20UPB%20Satzung.pdf|Studentische Initiative an der Universität Paderborn mit feministischem Schwerpunkt.||sonstige
+Paderborn|Students for Future Paderborn|engagement|https://stupa.uni-paderborn.de/assets/Initiativensatzungen/Students%20for%20Future%20Paderborn%20Satzung%20-%2021.07.22.pdf|Studentische Klimaschutzgruppe an der Universität, vom Studierendenparlament als Initiative anerkannt.||sonstige
+Paderborn|UPBracingTeam|tech|https://stupa.uni-paderborn.de/assets/Initiativensatzungen/UPBracingTeam_Satzung.pdf|Studentisches Rennteam der Universität Paderborn, in dem Studierende gemeinsam ein Fahrzeug entwickeln und bauen.||sonstige
+Paderborn|Afrikanische Studierenden Gemeinschaft ASG|studium|https://stupa.uni-paderborn.de/assets/Initiativensatzungen/ASG%20Satzung.pdf|Gemeinschaft afrikanischer Studierender mit Integrationshilfe sowie Kultur- und Freizeitangeboten.||sonstige
+Paderborn|SK Blauer Springer Paderborn 1926|spiele|https://www.blauerspringer.de/spielort/|Schachverein mit offenem Spieleabend im Schachzentrum an der Klingenderstraße.|Freitags ab 19:45 Uhr|website
+Paderborn|Paderborner Spielefreunde e.V.|spiele|http://www.paderborner-spielefreunde.de|Verein für Gesellschaftsspiele, der regelmäßig zu Spieleabenden einlädt.||website
+Paderborn|Die Rollenspielgilde Paderborn|spiele|https://rollenspiel-paderborn.de/index.php|Verein für Pen-and-Paper-Rollenspiel mit eigener Webseite für Spielrunden in Paderborn.||website
+Paderborn|Paderborner Fotokreis|foto|https://fotokreis-paderborn.de/|Nicht kommerzielle Gemeinschaft von Hobbyfotografen mit Bildbesprechungen und Ausstellungen.||website
+Paderborn|Blende 78 Paderborner Fotofreunde|foto|https://www.blende78.de|Fotoverein, in dem sich Hobbyfotografen austauschen und gemeinsam Projekte umsetzen.||website
+Paderborn|Chor KlangKult|musik|https://www.chor-klangkult.de/|Paderborner Chor mit eigenem Förderverein, offen für Interessierte, die gemeinsam singen möchten.||website
+Paderborn|Johannes Gospel-Chor Paderborn|musik|https://www.johannes-gospel-chor.de/|Gospelchor, der in Paderborn regelmäßig probiert und auftritt.||website
+Paderborn|Paderborner Frauenchor|musik|http://paderborner-frauenchor.de/mitmachen/|Chor für Frauen, der auf der Mitmachseite zum Mitsingen einlädt.||website
+Paderborn|Städtischer Musikverein Paderborn|musik|https://www.smvpb.de/|Traditionsreicher Musikverein der Stadt mit Proben und Konzerten.||website
+Paderborn|Sinfonieorchester Paderborn e.V.|musik|https://sinfonieorchester-paderborn.de/|Laienorchester, in dem Hobbymusiker gemeinsam sinfonische Werke einstudieren.||website
+Paderborn|Magellan Shanty Chor Paderborn|musik|https://www.shantychor-paderborn.de|Shantychor, der maritime Lieder singt und bei Veranstaltungen auftritt.||website
+Paderborn|Jazzclub Paderborn e.V.|musik|https://www.jazzclub-paderborn.de/|Verein für Jazzfans, der Konzerte organisiert und Liebhaber der Musik zusammenbringt.||website
+Paderborn|Queere Jugendgruppe Ohana|queer|https://paderborn.aidshilfe.de/ohana/|Offener Treff für queere Jugendliche mit Raum zum Austausch, getragen von der Aidshilfe Paderborn.|Mittwochs 16 bis 21 Uhr, donnerstags und freitags 14 bis 21 Uhr|website
+Paderborn|Round Table 114 Paderborn|leute|https://rt114.round-table.de/|Lokaler Club des Round Table für junge Männer mit regelmäßigen Treffen und sozialen Projekten.||website
+Paderborn|Rotaract Club Paderborn|engagement|https://paderborn.rotaract.de/|Club junger Erwachsener, der Geselligkeit mit sozialem Engagement verbindet.||website
+Paderborn|Toastmasters Paderborn|lernen|https://toastmasters-paderborn.org/|Club zum Üben von Rhetorik und freier Rede mit Gästen willkommen.||website
+Paderborn|DPSG Stamm St. Hedwig Paderborn|outdoor|https://dpsg-sthedwig.de/|Pfadfinderstamm mit Gruppenstunden für verschiedene Altersstufen.||website
+Paderborn|DPSG Stamm St. Meinolf|outdoor|https://dpsg-st-meinolf.de/|Katholischer Pfadfinderstamm mit Gruppenstunden und Lagern für Kinder und Jugendliche.||website
+Paderborn|BUND Kreisgruppe Paderborn|engagement|https://paderborn.bund.net/der-bund/ueber-uns/|Ortsgruppe des Umweltverbands, aktiv unter anderem für einen Nationalpark Egge.||website
+Paderborn|Eggegebirgsverein Abteilung Paderborn|outdoor|https://www.ortsdienst.de/nordrhein-westfalen/paderborn/paderborn/wandern/eggegebirgsverein-abteilung-paderborn-e-v-wandern-inst31263/|Wanderverein, der gemeinsame Touren in der Region organisiert.||sonstige
+Paderborn|Nachbarschaft Paderborn Ost e.V.|leute|https://www.pb-ost.de/unser-treffpunkt/|Stadtteiltreff mit offenem Treff, Strick-Café, Spielenachmittagen, Stadtteilfrühstück und Spaziergängen.|Donnerstags 16 bis 18 Uhr|website
+Paderborn|Nachbarschaftstreff Paderborn Süd und Ost|leute|https://www.nachbarschaftstreff-pb.de/|Café mit Gesellschaftsspielen, Vorträgen und Sprechstunde zu PC und Smartphone.|Donnerstags 14:30 bis 17 Uhr|website
+Paderborn|Mehrgenerationenhaus Paderborn|familie|https://www.mehrgenerationenhaeuser.de/programm/ein-tag-im-mgh/ein-tag-im-mehrgenerationenhaus-paderborn|Offener Begegnungsort für Jung und Alt mit wechselnden Angeboten im Alltag.||website
+Paderborn|Ultimate Frisbee bei GW Paderborn|sport|https://www.gw-pb.de/verein/abteilungen/ultimate-frisbee|Abteilung für Ultimate Frisbee im Inselbadstadion, Anmeldung vorab per E-Mail.|Montags 19 bis 21 Uhr und freitags ab 18:30 Uhr|website
+Paderborn|Club 85 Paderborn|sport|https://club85.de/der-club/|Badmintonverein für Wettkampf und Freizeitspieler, der auch ein eigenes Turnier ausrichtet.||website
+Paderborn|Turnverein 1875 Paderborn Volleyball|sport|https://www.turnverein-paderborn.de/index.php?id=32|Volleyballabteilung des Turnvereins mit Trainingsangeboten.||website
+Paderborn|Salsa Pasión e.V.|tanz|https://salsapasionev.de/|Verein für Salsa und Bachata mit Tanzmöglichkeiten in Paderborn.||website
+Paderborn|Tango Argentino OWL e.V.|tanz|https://tangoargentinoowl.de|Verein für Tango Argentino in Paderborn und Ostwestfalen.||website
+Paderborn|TSC Blau Weiß Paderborn|tanz|https://www.tanzsport-paderborn.de/trainingsplan|Tanzsportclub im Turnverein 1875 mit festem Trainingsplan.||website
+Paderborn|ADFC Paderborn|mobil|http://www.adfc-pb.de|Ortsgruppe des Fahrradclubs mit Einsatz für bessere Radwege und gemeinsamen Touren.||website
+Paderborn|Amnesty International Paderborn|engagement|http://www.amnesty-paderborn.de|Lokale Gruppe, die sich für Menschenrechte einsetzt.||website
+Paderborn|Allgemeiner Modellbau Club Paderborn|tech|http://www.amc-paderborn.de|Verein für Modellbau-Fans zum gemeinsamen Bauen und Fachsimpeln.||website
+Paderborn|Junges Amateur Theater Paderborn|kunst|http://www.jath-pb.de|Laientheatergruppe für junge Leute, die eigene Stücke auf die Bühne bringt.||website
+Paderborn|Deutsch-Ausländisches Freundschaftskomitee Paderborn|leute|http://www.daf-paderborn.de|Verein, der Begegnung zwischen Deutschen und Menschen anderer Herkunft fördert.||website
+Paderborn|Hellas e.V. Paderborn|leute|http://www.hellas-paderborn.de|Verein rund um griechische Kultur und Begegnung in Paderborn.||website
+Paderborn|Lusitanos Paderborn e.V.|leute|https://www.lusitanos-paderborn.com|Verein für portugiesische Kultur und Gemeinschaft in Paderborn.||website

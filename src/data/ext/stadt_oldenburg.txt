@@ -1,0 +1,55 @@
+Oldenburg|Students For Future Oldenburg|engagement|https://studentsforfuture.info/ortsgruppe/oldenburg/|Studentische Klimagruppe, die sich an der Uni und in der Region für Klimagerechtigkeit einsetzt und Aktionen sowie Demos organisiert.||website
+Oldenburg|ReparierBar der Uni Oldenburg|engagement|https://www.instagram.com/reparierbar_uol?igsh=NzFhaWh6MWViODJ4|Studentische Reparaturinitiative auf dem Campus, die über Instagram ihre Termine bekannt gibt.||instagram
+Oldenburg|NachDenkstatt|engagement|https://nachdenkstatt.de/|Studentische Initiative, die Workshops und eine jährliche Veranstaltung zu Nachhaltigkeit, Umwelt und gesellschaftlichen Themen organisiert.||website
+Oldenburg|Unikino GEGENLICHT|kunst|https://gegenlicht.net|Studentisches Unikino auf dem Campus mit Filmvorführungen für alle Interessierten.||website
+Oldenburg|NABU Hochschulgruppe Oldenburg|outdoor|https://www.nabu-oldenburg.org/wir-%C3%BCber-uns/hochschulgruppe-oldenburg/|Studierende treffen sich regelmäßig und machen praktischen Naturschutz draußen.||website
+Oldenburg|Hochschul-SMD Oldenburg|studium|https://hochschul-smd.org/oldenburg/|Christliche Studierendengruppe, die über Glauben, Weltbilder und gesellschaftliche Fragen ins Gespräch kommt.||website
+Oldenburg|Evangelische Studierendengemeinde Oldenburg|studium|https://www.esg-ol.de/|Studierendengemeinde der Uni mit offenen Treffen und gemeinsamen Aktivitäten.||website
+Oldenburg|Katholische Hochschulgemeinde Oldenburg|studium|https://www.khg-oldenburg.de/|Katholische Gemeinde für Studierende mit Treffen und Angeboten rund ums Studium.||website
+Oldenburg|HGAS Hochschulgruppe ausländischer Studierender|studium|https://uol.de/hgas|Gruppe, die internationale Studierende an der Uni Oldenburg vernetzt und unterstützt.||website
+Oldenburg|Foodsharing im AStA Oldenburg|engagement|https://asta-uol.de/foodsharing/|Studentische Foodsharing-Gruppe, die Lebensmittel vor dem Wegwerfen rettet und verteilt.||website
+Oldenburg|Sprachcafé der Uni Oldenburg|sprachen|https://uol.de/en/language-cafe|Offenes Treffen auf dem Campus Haarentor, bei dem man ungezwungen Sprachen übt und Leute kennenlernt.|Alle zwei Wochen montags, 12 bis 14 Uhr|website
+Oldenburg|Uni-Orchester Oldenburg|musik|https://uol.de/musik/ensembles/uni-orchester|Sinfonisches Orchester der Universität für Studierende und Interessierte.||website
+Oldenburg|UniChor Oldenburg|musik|https://uol.de/musik/ensembles/unichor|Chor der Universität, in dem gemeinsam Chorliteratur erarbeitet wird.||website
+Oldenburg|Jugendorchester Oldenburg|musik|https://www.oldenburg.de/startseite/kultur/musikschule/ensembles/jugendorchester-oldenburg.html|Orchester der städtischen Musikschule für jugendliche Instrumentalistinnen und Instrumentalisten.||website
+Oldenburg|Oldenburger Jugendchor|musik|https://www.oldenburger-jugendchor.de/|Chor für junge Sängerinnen und Sänger mit regelmäßigen Proben und Auftritten.||website
+Oldenburg|Chor für geistliche Musik Oldenburg|musik|http://chorfuergeistlichemusikoldenburg.de/|Chor, der geistliche Chorwerke einstudiert und aufführt.||website
+Oldenburg|BdP Stamm Parzival|familie|https://www.stamm-parzival.de/|Pfadfinderstamm mit Gruppen für Kinder und Jugendliche in und um Oldenburg.||website
+Oldenburg|DPSG Oldenburg|familie|https://dpsg-oldenburg.de/|Katholische Pfadfinder mit Gruppenstunden und Fahrten für Kinder und Jugendliche.||website
+Oldenburg|Royal Rangers 192 Oldenburg|familie|https://www.rr192.de/|Christliche Pfadfinderarbeit für Kinder und Jugendliche in Oldenburg.||website
+Oldenburg|Stadtteiltreff Dietrichsfeld|leute|https://www.oldenburg.de/startseite/kultur/gemeinwesenarbeit/stadtteiltreff-dietrichsfeld/angebote.html|Stadtteiltreff mit offenem Café, Nähtreff, Stricken, Büchertausch und Gesprächskreisen für verschiedene Gruppen.|Offenes Café mittwochs und donnerstags vormittags|website
+Oldenburg|Freizeitstätte Bürgerfelde|leute|https://www.oldenburg.de/startseite/leben-in-oldenburg/familie/angebote-fuer-kinder-jugendliche/freizeitstaetten/freizeitstaette-buergerfelde.html|Städtische Freizeitstätte im Stadtteil mit Theaterpädagogik und Angeboten für junge Leute.||website
+Oldenburg|Freizeitstätte Kreyenbrück|leute|https://www.oldenburg.de/startseite/kultur/freizeitstaetten/freizeitstaette-kreyenbrueck.html|Städtische Freizeitstätte mit offenen Angeboten und Theatergruppen im Stadtteil.||website
+Oldenburg|Freizeitstätte Ofenerdiek|leute|https://www.oldenburg.de/startseite/leben-in-oldenburg/familie/angebote-fuer-kinder-jugendliche/freizeitstaetten/freizeitstaette-ofenerdiek.html|Städtische Freizeitstätte im Stadtteil Ofenerdiek mit wechselnden Gruppen und Angeboten.||website
+Oldenburg|Kulturzentrum Rennplatz|kunst|https://www.oldenburg.de/startseite/leben-in-oldenburg/familie/angebote-fuer-kinder-jugendliche/freizeitstaetten/kulturzentrum-rennplatz.html|Stadtteilkulturzentrum mit Kursen, Gruppen und kulturellen Angeboten.||website
+Oldenburg|Mehrgenerationenhaus Oldenburg|familie|https://www.mehrgenerationenhaeuser.de/mehrgenerationenhaeuser/haeuser-in-ihrer-naehe/steckbrief-mehrgenerationenhaus/mgh-oldenburg|Offener Treffpunkt für Jung und Alt mit Angeboten für Begegnung und gegenseitige Hilfe.||website
+Oldenburg|BeDifferent Jugendgruppe|queer|https://www.oldenburg-tourismus.de/veranstaltungen/kalender/e-bedifferent-jugendgruppe|Jugendgruppe für queere junge Menschen zum Kennenlernen und Austauschen.||website
+Oldenburg|Queerer Mädchen*Treff|queer|https://www.oldenburg-tourismus.de/veranstaltungen/kalender/e-queerer-maedchentreff|Offener Treff für queere Mädchen und junge Frauen.||website
+Oldenburg|IBIS e.V. Ehrenamt|engagement|https://ibis-ev.de/mitmachen/|Verein mit Möglichkeiten zum ehrenamtlichen Mitmachen in Oldenburg.||website
+Oldenburg|Fairteiler foodsharing Oldenburg|engagement|https://www.facebook.com/FairteilerOldenburg/|Foodsharing-Initiative mit Fairteilern, an denen gerettete Lebensmittel kostenlos weitergegeben werden.||facebook
+Oldenburg|Schachklub Union 1949 Oldenburg|spiele|https://www.skunion.de|Schachverein mit Spielabenden für Anfänger und Fortgeschrittene.||website
+Oldenburg|TFC Devils Oldenburg|spiele|https://www.kickern-oldenburg.de|Tischfußballverein, in dem man das Kickern ligamäßig oder zum Spaß betreibt.||website
+Oldenburg|Die Oldenbouler Petanque-Club|sport|https://www.oldenbouler.de|Petanque-Verein, der sich zum gemeinsamen Boulespielen trifft.||website
+Oldenburg|Homosexueller Sportverein Oldenburg|queer|https://www.hsvo.de|Sportverein für schwule, lesbische und alle weiteren Menschen mit mehreren Sportgruppen.||website
+Oldenburg|Hunte Valley Dancers|tanz|https://www.huntevalley.de|Tanzverein in Oldenburg mit Gruppen für verschiedene Tanzstile.||website
+Oldenburg|Capoeira Oldenburg|sport|https://www.capoeira-oldenburg.de|Verein für Capoeira mit Training aus Kampf, Musik und Tanz.||website
+Oldenburg|Zirkusschule Seifenblase|kunst|https://www.zirkusschule-seifenblase.de|Verein, in dem Kinder und Jugendliche Zirkuskünste wie Jonglage und Akrobatik lernen.||website
+Oldenburg|Backyard Skatehalle Oldenburg|sport|https://www.skatehalle-oldenburg.de|Verein hinter der Skatehalle für Skaten und Rollen in Oldenburg.||website
+Oldenburg|Refugees Welcome in Sports|engagement|https://www.rewis-oldenburg.de|Sportverein, der Geflüchteten gemeinsamen Sport und Anschluss ermöglicht.||website
+Oldenburg|Spielefant|familie|https://www.spielefant.de|Verein zur Förderung des Freizeitsports mit Spiel- und Bewegungsangeboten.||website
+Oldenburg|DLRG Ortsgruppe Oldenburg|engagement|https://www.oldenburg.dlrg.de|Wasserrettungsverein mit Schwimmausbildung und ehrenamtlichem Wachdienst.||website
+Oldenburg|Universitäts-Segel-Club Oldenburg|outdoor|https://www.usco-online.de|Segelclub rund um die Uni mit Törns und Segeln für Studierende und Interessierte.||website
+Oldenburg|Oldenburger Ruderverein|sport|https://www.orvo.de|Ruderverein mit Training und Wanderfahrten auf Hunte und Küstenkanal.||website
+Oldenburg|Team Laufrausch|sport|https://www.team-laufrausch.de|Lauf-Team, das gemeinsam trainiert und an Wettkämpfen teilnimmt.||website
+Oldenburg|1. Triathlon-Club Oldenburg Die Bären|sport|https://www.die-baeren.org|Triathlon-Club mit gemeinsamem Training in Schwimmen, Rad und Laufen.||website
+Oldenburg|Oldenburger Marathonverein|sport|https://www.oldenburg-marathon.de|Verein, der den Oldenburger Marathon organisiert und Laufbegeisterte vernetzt.||website
+Oldenburg|Tischtennis-Club Oldenburg|sport|https://www.ttc-oldenburg.de|Tischtennisverein mit Mannschaften und offenem Training.||website
+Oldenburg|Pool Billard Club Oldenburg|sport|https://www.pbcoldenburg.de|Billardverein mit Training und Ligabetrieb.||website
+Oldenburg|Oldenburger Bowlingspieler|sport|https://www.oldenburger-bowlingspieler.de|Bowlingverein für Hobby- und Ligaspieler.||website
+Oldenburg|Fechtclub zu Oldenburg|sport|https://www.fechtclub-zu-oldenburg.com|Fechtverein mit Training für Anfänger und Fortgeschrittene.||website
+Oldenburg|Rollstuhl-Sport-Club Oldenburg|sport|https://www.rsc-oldenburg-online.de|Sportverein für Rollstuhlfahrende mit verschiedenen Sportarten.||website
+Oldenburg|Gehörlosen-Sportverein Oldenburg|sport|https://www.gsv-ol.de|Sportverein für Gehörlose und Hörgeschädigte.||website
+Oldenburg|Tanz-Club Harmonia Oldenburg|tanz|https://www.tcholdenburg.de|Tanzclub für Gesellschaftstanz im Verein.||website
+Oldenburg|Oldenburger Schwimmverein von 1902|sport|https://www.oldenburger-schwimmverein.de|Traditionsreicher Schwimmverein mit Trainingsgruppen.||website
+Oldenburg|Bund für Familiensport und Naturismus Oldenburg|sport|https://www.bff-oldenburg.de|Verein für Familiensport mit Bewegungsangeboten in Gemeinschaft.||website
+Oldenburg|Oldenburger Turnerbund|sport|https://www.oldenburger-turnerbund.de|Großer Turnverein mit Gruppen für Kinder und Erwachsene.||website
